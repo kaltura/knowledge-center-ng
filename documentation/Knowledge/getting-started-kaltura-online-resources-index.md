@@ -48,10 +48,10 @@ date: 2015-01-05 23:25:19
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="Kaltura Management Console Overview "] </span>
+<span style="font-family: verdana, geneva;"> </span>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_9m43xudy/version/100006/type/1/width/410/height/364" border="0" alt="0_9m43xudy" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_9m43xudy/version/100006/type/1/width/410/height/364" border="0" alt="0_9m43xudy" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -59,27 +59,27 @@ date: 2015-01-05 23:25:19
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;">[collapsed title="The Content Tab"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_havsn2p6/version/100006/type/1/width/410/height/364" border="0" alt="1_havsn2p6" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_havsn2p6/version/100006/type/1/width/410/height/364" border="0" alt="1_havsn2p6" width="410" height="364" /> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="The Dashboard"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_9crkbtz0/version/100006/type/1/width/410/height/364" border="0" alt="1_9crkbtz0" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_9crkbtz0/version/100006/type/1/width/410/height/364" border="0" alt="1_9crkbtz0" width="410" height="364" /> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Media Upload"]  </span>
+  <span style="font-family: verdana, geneva;">  </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_ws4bc2r3/version/100006/type/1/width/410/height/364" border="0" alt="0_ws4bc2r3" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_ws4bc2r3/version/100006/type/1/width/410/height/364" border="0" alt="0_ws4bc2r3" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -96,11 +96,11 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Bulk Upload"]  </span>
+  <span style="font-family: verdana, geneva;">  </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_kxiv585x/version/100006/type/1/width/410/height/364" border="0" alt="1_kxiv585x" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_kxiv585x/version/100006/type/1/width/410/height/364" border="0" alt="1_kxiv585x" width="410" height="364" /> </span>
 </p>
 
 <p style="text-align: left;">
@@ -117,11 +117,11 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;">[collapsed title="Using Drop Folders"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_jpi6pnvz/version/100006/type/1/width/410/height/364" border="0" alt="0_jpi6pnvz" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_jpi6pnvz/version/100006/type/1/width/410/height/364" border="0" alt="0_jpi6pnvz" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;" align="center">
@@ -129,27 +129,27 @@ date: 2015-01-05 23:25:19
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;">[collapsed title ="Publishing Workflows- Creating Thumbnails"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_2ggiw2m0/version/100006/type/1/width/410/height/364" border="0" alt="1_2ggiw2m0" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_2ggiw2m0/version/100006/type/1/width/410/height/364" border="0" alt="1_2ggiw2m0" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;">[collapsed title="Publishing Workflows - Clipping & Timming"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_e3wt7wbx/version/100006/type/1/width/410/height/364" border="0" alt="1_e3wt7wbx" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_e3wt7wbx/version/100006/type/1/width/410/height/364" border="0" alt="1_e3wt7wbx" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;">[collapsed title="Publishing & Sharing"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_obte4ebk/version/100006/type/1/width/410/height/364" border="0" alt="1_obte4ebk" width="410" height="364" /></a>[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_obte4ebk/version/100006/type/1/width/410/height/364" border="0" alt="1_obte4ebk" width="410" height="364" /></a> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;" align="center">
@@ -197,19 +197,19 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Creating a Manual Playlist"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_8yxf62na/version/100006/type/1/width/410/height/364" border="0" alt="0_8yxf62na" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_8yxf62na/version/100006/type/1/width/410/height/364" border="0" alt="0_8yxf62na" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Creating Rule-Based Playlist"]  </span>
+  <span style="font-family: verdana, geneva;">  </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_fm021rr9/version/100006/type/1/width/410/height/364" border="0" alt="0_fm021rr9" width="410" height="364" /></a>[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_fm021rr9/version/100006/type/1/width/410/height/364" border="0" alt="0_fm021rr9" width="410" height="364" /></a> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -236,11 +236,11 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Managing Categories"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_i4kzeljf/version/100006/type/1/width/410/height/364" border="0" alt="1_i4kzeljf" width="410" height="364" /></a>[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-create-add-single-rule-playlist"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_i4kzeljf/version/100006/type/1/width/410/height/364" border="0" alt="1_i4kzeljf" width="410" height="364" /></a> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;" align="center">
@@ -342,27 +342,27 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Watermarks"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_2zop3qqt/version/100006/type/1/width/410/height/364" border="0" alt="1_2zop3qqt" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_2zop3qqt/version/100006/type/1/width/410/height/364" border="0" alt="1_2zop3qqt" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="White labelling The Kaltura player"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_zf82gsn0/version/100006/type/1/width/410/height/364" border="0" alt="1_zf82gsn0" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_zf82gsn0/version/100006/type/1/width/410/height/364" border="0" alt="1_zf82gsn0" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Preview and Embed Videos in KMC"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"> <a href="http://knowledge.kaltura.com/faq/what-are-player-ugc-and-user-interaction-options"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_985gs927/version/100006/type/1/width/410/height/364" border="0" alt="0_985gs927" width="410" height="364" /></a>[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"> <a href="http://knowledge.kaltura.com/faq/what-are-player-ugc-and-user-interaction-options"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_985gs927/version/100006/type/1/width/410/height/364" border="0" alt="0_985gs927" width="410" height="364" /></a> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -397,19 +397,19 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Preview & Embedding Video in KMC"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_u5kbheo8/version/100006/type/1/width/410/height/364" border="0" alt="0_u5kbheo8" width="410" height="364" />[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_u5kbheo8/version/100006/type/1/width/410/height/364" border="0" alt="0_u5kbheo8" width="410" height="364" /></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Creating Video Posts in Wordpress"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_3pm71e6x/version/100006/type/1/width/410/height/364" border="0" alt="1_3pm71e6x" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_3pm71e6x/version/100006/type/1/width/410/height/364" border="0" alt="1_3pm71e6x" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -441,11 +441,11 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Video Analytics"]</span>
+  <span style="font-family: verdana, geneva;"></span>
 </p>
 
 <p style="text-align: left;" align="center">
-  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_9ljt1min/version/100006/type/1/width/410/height/364" border="0" alt="1_9ljt1min" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"> <img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_9ljt1min/version/100006/type/1/width/410/height/364" border="0" alt="1_9ljt1min" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">
@@ -529,19 +529,19 @@ date: 2015-01-05 23:25:19
 </ul>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Creating Bumper Ads"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/creating-and-tracking-analytics-kmc-0"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_cimkseo4/version/100006/type/1/width/410/height/364" border="0" alt="1_cimkseo4" width="410" height="364" /></a>[/collapsed]</span>
+  <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/creating-and-tracking-analytics-kmc-0"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/1_cimkseo4/version/100006/type/1/width/410/height/364" border="0" alt="1_cimkseo4" width="410" height="364" /></a></span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;">[collapsed title="Mid-Roll & Cue Points"] </span>
+  <span style="font-family: verdana, geneva;"> </span>
 </p>
 
 <p style="text-align: left;">
-  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_nx01ybm0/version/100006/type/1/width/410/height/364" border="0" alt="0_nx01ybm0" width="410" height="364" />[/collapsed] </span>
+  <span style="font-family: verdana, geneva;"><img id="kaltura" src="http://cdnbakmi.kaltura.com/p/811441/sp/81144100/thumbnail/entry_id/0_nx01ybm0/version/100006/type/1/width/410/height/364" border="0" alt="0_nx01ybm0" width="410" height="364" /> </span>
 </p>
 
 <p class="mce-heading-2" style="text-align: left;">

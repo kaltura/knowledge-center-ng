@@ -30,7 +30,7 @@ date: 2015-10-29 10:05:44
   </ul>
   
   <p>
-    [collapsed title="For First Time Users"]
+    
   </p>
   
   <h3>
@@ -81,11 +81,11 @@ date: 2015-10-29 10:05:44
   </ol>
   
   <p>
-    <span>[/collapsed]</span>
+    <span></span>
   </p>
   
   <p>
-    [collapsed title="For Subsequent Use"]
+    
   </p>
   
   <h3>
@@ -111,5 +111,5 @@ date: 2015-10-29 10:05:44
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>

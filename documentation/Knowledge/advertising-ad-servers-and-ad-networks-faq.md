@@ -32,7 +32,7 @@ date: 2015-01-14 23:19:08
 
 <span> </span>
 
-<span>[collapsed title="How do I add the VAST Ad server?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -42,21 +42,21 @@ date: 2015-01-14 23:19:08
 
  [1]: http://www.iab.net/iab_products_and_industry_services/508676/compliance/679253
 
-<span>In general, ads, tracking, scheduling, and other parameters, are configured on the ad server side. With VAST, other parameters need to be configured through the KMC or Kaltura Player. Ad parameters are configured through the Studio tab in the KMC. [/collapsed]</span>
+<span>In general, ads, tracking, scheduling, and other parameters, are configured on the ad server side. With VAST, other parameters need to be configured through the KMC or Kaltura Player. Ad parameters are configured through the Studio tab in the KMC. </span>
 
 <span> </span>
 
-<span>[collapsed title="How do I configure Ads?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
-Kaltura partners have the ability to create a custom .swf file to stream ads from their own ad server to the Kaltura Player. The.swf file acts as an ad plugin. The configured key-value pairs must be defined to play the relevant ads. You have to subscribe to an ad server and configure the ads on the ad server side. For more information refer to the link [More information][2]. [/collapsed]
+Kaltura partners have the ability to create a custom .swf file to stream ads from their own ad server to the Kaltura Player. The.swf file acts as an ad plugin. The configured key-value pairs must be defined to play the relevant ads. You have to subscribe to an ad server and configure the ads on the ad server side. For more information refer to the link [More information][2]. 
 
  [2]: http://knowledge.kaltura.com/node/1148#monetization
 
 <span> </span>
 
-<span>[collapsed title="What do I need to know about the ad terminology?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -70,39 +70,39 @@ Kaltura partners have the ability to create a custom .swf file to stream ads fro
 
 <span>The following is an example of a VAST ad tag URL: http://ad3.liverail.com/?LR_PUBLISHER_ID=1331&LR_CAMPAIGN_ID=229&LR_SCHEMA=vast2</span>
 
-<span>To see the example, insert this URL into your browser. Ad Cue Points – time based points on an entry that can be used to view mid- roll advertisements.[/collapsed]</span>
+<span>To see the example, insert this URL into your browser. Ad Cue Points – time based points on an entry that can be used to view mid- roll advertisements.</span>
 
 <span> </span>
 
-<span>[collapsed title="What is Tremor Media?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
-<span>Tremor Media is an ad network that acts as a connector between ad companies/servers and their customers. Tremor Media connects with numerous ad sources and partners from a single control center and works with their customers to provide the appropriate ads from the appropriate ad servers. [/collapsed]</span>
+<span>Tremor Media is an ad network that acts as a connector between ad companies/servers and their customers. Tremor Media connects with numerous ad sources and partners from a single control center and works with their customers to provide the appropriate ads from the appropriate ad servers. </span>
 
 <span> </span>
 
-<span>[collapsed title="How do I configure the Tremor media 3rd Party plugin?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
-<span>Tremor Video is a digital video technology company that serves the complementary needs of the media community. Tremor VideoHub Server offers advertisers massive reach and proven engagement with their marketing messages in 100% brand-safe environments, while the Acudeo income engine provides publishers easy access to multiple sources of revenue and the ability to manage and monetize every video impression. See <a href="http://knowledge.kaltura.com/node/291">here </a>for more about configuring the Tremor media 3rd Party Plugin.[/collapsed]</span>
+<span>Tremor Video is a digital video technology company that serves the complementary needs of the media community. Tremor VideoHub Server offers advertisers massive reach and proven engagement with their marketing messages in 100% brand-safe environments, while the Acudeo income engine provides publishers easy access to multiple sources of revenue and the ability to manage and monetize every video impression. See <a href="http://knowledge.kaltura.com/node/291">here </a>for more about configuring the Tremor media 3rd Party Plugin.</span>
 
 <span> </span>
 
-<span>[collapsed title="What is Tremor Media's added functionality?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
  
 
 <p class="p1">
-  <span class="s1">The list of functionality that has been added to the Tremor plugin is </span><a href="http://knowledge.kaltura.com/node/290" target="_blank">here</a>.[/collapsed]
+  <span class="s1">The list of functionality that has been added to the Tremor plugin is </span><a href="http://knowledge.kaltura.com/node/290" target="_blank">here</a>.
 </p>
 
 <span> </span>
 
-<span>[collapsed title="How to configure an overlay on the player level?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -113,11 +113,11 @@ Kaltura partners have the ability to create a custom .swf file to stream ads fro
 2.  <span>Click on Ads.</span>
 3.  <span>Toggle on Request Overlay Ads Enabled.</span>
 4.  <span>Paste the Ad Tag URL received from the ad server. See <a href="http://knowledge.kaltura.com/faq/how-configure-overlay-player-level#_How_to_Locate">How to Locate the Ad Tag URL</a>.</span>
-5.  <span>Select the Display options.[/collapsed]</span>
+5.  <span>Select the Display options.</span>
 
 <span> </span>
 
-<span>[collapsed title="How to configure VAST ads?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -126,11 +126,11 @@ Kaltura partners have the ability to create a custom .swf file to stream ads fro
 1.  Select the Studio tab and select an existing player or create a new one. See <a href="http://knowledge.kaltura.com/node/184" target="_blank">How to configure the player style</a>. The player is configured to display VAST ads only.
 2.  <span>Select the Advertising tab.</span>
 3.  <span>Enable Request ads for this player.</span>
-4.  <span>Configure the Ad Source as VAST Ad server.[/collapsed]</span>
+4.  <span>Configure the Ad Source as VAST Ad server.</span>
 
 <span> </span>
 
-<span>[collapsed title="How to add an overlay at the entry level?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -144,19 +144,19 @@ Kaltura partners have the ability to create a custom .swf file to stream ads fro
 8.  <span>For Overlay – enter the amount of time to display in the Duration field.</span>
 9.  <span>Enter the provider name: VAST or Other and optional values.</span>
 10. <span>For VAST enter the Tag URL and a descriptive name for the Midroll or Overlay, For other providers enter values that you want to pass to the player.</span>
-11. Click Save. Learn more <a href="http://knowledge.kaltura.com/node/281" target="_blank">here</a>.[/collapsed]
+11. Click Save. Learn more <a href="http://knowledge.kaltura.com/node/281" target="_blank">here</a>.
 
 <span> </span>
 
-<span>[collapsed title="How to add VAST ad server?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
-To add an ad server that supports the VAST standard. Obtain an Ad tag URL from your ad server.  See How to <a href="http://knowledge.kaltura.com/faq/how-locate-ad-tag-url" target="_blank">Locate the Ad Tag URL</a>. Learn more <a href="http://knowledge.kaltura.com/node/277" target="_blank">here</a>.[/collapsed]
+To add an ad server that supports the VAST standard. Obtain an Ad tag URL from your ad server.  See How to <a href="http://knowledge.kaltura.com/faq/how-locate-ad-tag-url" target="_blank">Locate the Ad Tag URL</a>. Learn more <a href="http://knowledge.kaltura.com/node/277" target="_blank">here</a>.
 
 <span> </span>
 
-<span>[collapsed title="How to configure Bumper post-rolls?"]</span>
+<span></span>
 
 <span>_______________________________________________________________________________________</span>
 
@@ -171,7 +171,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
 
 <div>
   <div id="highlighter_990116">
-    <span>Whenever both pre-rolls and bumper videos are enabled, pre-rolls will always play before the bumper video. This is because the pre-roll is configured as, preSequence=1, and the bumper video is, preSequence=2. You can change the play order via the uiconf.  Post-roll ads will always play AFTER the bumper post-rolls.[/collapsed]</span>
+    <span>Whenever both pre-rolls and bumper videos are enabled, pre-rolls will always play before the bumper video. This is because the pre-roll is configured as, preSequence=1, and the bumper video is, preSequence=2. You can change the play order via the uiconf.  Post-roll ads will always play AFTER the bumper post-rolls.</span>
   </div>
   
   <div>
@@ -183,7 +183,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
   </div>
   
   <div>
-    <span>[collapsed title="What ad servers are supported in the Kaltura Management Console?"]</span>
+    <span></span>
   </div>
   
   <div>
@@ -208,7 +208,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </ul>
     
     <p>
-      <span>For more information see Configuring Third Party Ad Plugins in the <a href="http://knowledge.kaltura.com/sites/default/files/Kaltura_Management_Console_%28KMC%29_User_Manual_Iris_0.pdf">Kaltura Management Console User Guide</a>.[/collapsed]</span>
+      <span>For more information see Configuring Third Party Ad Plugins in the <a href="http://knowledge.kaltura.com/sites/default/files/Kaltura_Management_Console_%28KMC%29_User_Manual_Iris_0.pdf">Kaltura Management Console User Guide</a>.</span>
     </p>
     
     <p>
@@ -216,7 +216,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>[collapsed title="How to configure VAST pre-roll ads?"]</span>
+      <span></span>
     </p>
     
     <p>
@@ -224,7 +224,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>Learn all about <a href="http://knowledge.kaltura.com/faq/how-configure-player-advertising-settings" target="_blank" title="How to configure the player advertising settings">Configure the Player Advertising Settings</a>. To see the step by step process on how to configure VAST pre-roll ads click <a href="http://knowledge.kaltura.com/node/278" target="_blank">here.</a>[/collapsed]<a href="http://knowledge.kaltura.com/node/278" target="_blank"></a></span>
+      <span>Learn all about <a href="http://knowledge.kaltura.com/faq/how-configure-player-advertising-settings" target="_blank" title="How to configure the player advertising settings">Configure the Player Advertising Settings</a>. To see the step by step process on how to configure VAST pre-roll ads click <a href="http://knowledge.kaltura.com/node/278" target="_blank">here.</a><a href="http://knowledge.kaltura.com/node/278" target="_blank"></a></span>
     </p>
     
     <p>
@@ -232,7 +232,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>[collapsed title="How to configure mid-roll ads?"]</span>
+      <span></span>
     </p>
     
     <p>
@@ -240,7 +240,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>Midrolls and overlays are cuepoints that are defined on an entry level in the player configuration section of the Studio Advertising tab. <a href="http://knowledge.kaltura.com/node/280" target="_blank">Click here</a> to see the step by step process.[/collapsed]</span>
+      <span>Midrolls and overlays are cuepoints that are defined on an entry level in the player configuration section of the Studio Advertising tab. <a href="http://knowledge.kaltura.com/node/280" target="_blank">Click here</a> to see the step by step process.</span>
     </p>
     
     <p>
@@ -248,7 +248,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>[collapsed title="How to target information to an ad server?"]</span>
+      <span></span>
     </p>
     
     <p>
@@ -272,7 +272,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </ul>
     
     <p>
-      <span>For example for targeting a specific content category. To see the step by step method <a href="http://knowledge.kaltura.com/integrating-kaltura-vast-adtag-url#vast+ad+tag+urls" target="_blank">click here</a>.[/collapsed]</span>
+      <span>For example for targeting a specific content category. To see the step by step method <a href="http://knowledge.kaltura.com/integrating-kaltura-vast-adtag-url#vast+ad+tag+urls" target="_blank">click here</a>.</span>
     </p>
     
     <p>
@@ -280,7 +280,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>[collapsed title="How to configure companion ads?"]</span>
+      <span></span>
     </p>
     
     <p>
@@ -288,7 +288,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>Companion Ads are text, display ads, rich media, or skins that wrap around the video experience, and can run alongside either or both the video or ad content. The primary purpose of the Companion Ad product is to offer sustained visibility of the sponsor throughout the video content experience.” See http://www.iab.net/wiki/index.php/Companion_Ad. <a href="http://knowledge.kaltura.com/node/297" target="_blank">Click here</a> to learn more.[/collapsed]</span>
+      <span>Companion Ads are text, display ads, rich media, or skins that wrap around the video experience, and can run alongside either or both the video or ad content. The primary purpose of the Companion Ad product is to offer sustained visibility of the sponsor throughout the video content experience.” See http://www.iab.net/wiki/index.php/Companion_Ad. <a href="http://knowledge.kaltura.com/node/297" target="_blank">Click here</a> to learn more.</span>
     </p>
     
     <p>
@@ -296,7 +296,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>[collapsed title="What kind of third party player plugins does Kaltura offer"]</span>
+      <span></span>
     </p>
     
     <p>
@@ -304,7 +304,7 @@ To add an ad server that supports the VAST standard. Obtain an Ad tag URL from y
     </p>
     
     <p>
-      <span>Kaltura supports industry standard VAST 3.0 and VPAID 2.0 which is commonly supported among networks such as: Tremor Media, Adap.tv, YuMe, FreeWheel, DFP, EyeWonder, and AdoTube. You can find more information about Kaltura's generic Ads player <a href="http://knowledge.kaltura.com/node/374" target="_blank">here</a>.[/collapsed]</span>
+      <span>Kaltura supports industry standard VAST 3.0 and VPAID 2.0 which is commonly supported among networks such as: Tremor Media, Adap.tv, YuMe, FreeWheel, DFP, EyeWonder, and AdoTube. You can find more information about Kaltura's generic Ads player <a href="http://knowledge.kaltura.com/node/374" target="_blank">here</a>.</span>
     </p>
     
     <p>

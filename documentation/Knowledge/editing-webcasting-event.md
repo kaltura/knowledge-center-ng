@@ -36,7 +36,7 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p>
-    [collapsed title="Details"]
+    
   </p>
   
   <p style="padding-left: 30px;">
@@ -71,11 +71,11 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p class="mce-note-graphic">
-    [/collapsed]
+    
   </p>
   
   <p>
-    <span>[collapsed title="Options"]</span>
+    <span></span>
   </p>
   
   <p style="padding-left: 30px;">
@@ -87,11 +87,11 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/kaltura-webcasting-options-tab-set-comments-configuration"></a>[/collapsed]
+    <a href="http://knowledge.kaltura.com/kaltura-webcasting-options-tab-set-comments-configuration"></a>
   </p>
   
   <p>
-    <span>[collapsed title="Presenters"]</span>
+    <span></span>
   </p>
   
   <p style="padding-left: 30px;">
@@ -107,11 +107,11 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p>
-    <span>[/collapsed]</span>
+    <span></span>
   </p>
   
   <p>
-    <span>[collapsed title="Thumbnails"]</span>
+    <span></span>
   </p>
   
   <p style="padding-left: 30px;">
@@ -161,11 +161,11 @@ date: 2015-10-27 16:52:59
   </ol>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    <span>[collapsed title="Live Stream Details"]</span>
+    <span></span>
   </p>
   
   <p style="padding-left: 30px;">
@@ -189,7 +189,7 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>

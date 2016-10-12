@@ -26,7 +26,7 @@ date: 2015-01-16 22:12:26
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="What is Transcoding?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -36,11 +36,11 @@ date: 2015-01-16 22:12:26
 
 *   <span style="font-family: verdana, geneva;">Default - the flavors included in the default transcoding profile of the account These flavors appear in the main Transcoding Settings page.    </span>
 *   <span style="font-family: verdana, geneva;">Source Only - uploads the source file, but does not transcode it; the source is the original file uploaded as is. Other flavors will not be created.    </span>
-*   <span style="font-family: verdana, geneva;">All Flavors - transcodes uploaded files into all of the flavors defined in the main Transcoding Settings page.[/collapsed]</span>
+*   <span style="font-family: verdana, geneva;">All Flavors - transcodes uploaded files into all of the flavors defined in the main Transcoding Settings page.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="How to display the default flavors for transcoding your content?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -49,27 +49,27 @@ date: 2015-01-16 22:12:26
 1.  <span style="font-family: verdana, geneva;">Select the<strong> </strong>Settings tab and then select Transcoding Settings.</span>  
     <span style="font-family: verdana, geneva;"><img src="../../assets/2021">
 2.  <span style="font-family: verdana, geneva;">The Default Transcoding Flavors window is displayed which contains the flavor selection of the Default Transcoding profile.<br /><img src="../../assets/2022">
-3.  <span style="font-family: verdana, geneva;">Each file uploaded to the system is transcoded into the flavors that are checked.[/collapsed]</span>
+3.  <span style="font-family: verdana, geneva;">Each file uploaded to the system is transcoded into the flavors that are checked.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="How to edit transcoding profile?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">Follow the steps <a href="http://knowledge.kaltura.com/node/58" target="_blank">here</a> to edit transcoding profile.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">Follow the steps <a href="http://knowledge.kaltura.com/node/58" target="_blank">here</a> to edit transcoding profile.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="How to create a transcoding profile?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">This guide describes how to create transcoding profiles. <a href="http://knowledge.kaltura.com/node/59" target="_blank">Click here</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">This guide describes how to create transcoding profiles. <a href="http://knowledge.kaltura.com/node/59" target="_blank">Click here</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="What are the editing profiles for flavors in a transcoding profile?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -81,11 +81,11 @@ date: 2015-01-16 22:12:26
 *   <span style="font-family: verdana, geneva;">Optional</span>
 *   <span style="font-family: verdana, geneva;">No impact</span>
 
-<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/61" target="_blank">Click here</a> to learn more.[/collapsed]</span>
+<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/61" target="_blank">Click here</a> to learn more.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="How to assign a transcoding profile to a bulk upload?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -97,11 +97,11 @@ date: 2015-01-16 22:12:26
 1.  <span style="font-family: verdana, geneva;">Set the ID from the Transcoding Profiles to the conversionProfileId in your CSV.</span>
 2.  <span style="font-family: verdana, geneva;">Set the ID from the Transcoding Profiles List to the conversionProfileId in your XML file.</span>
 
-<span style="font-family: verdana, geneva;">[/collapsed]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="What are the best practices for Multi-Device Transcoding?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -116,19 +116,19 @@ date: 2015-01-16 22:12:26
 *   <span style="font-family: verdana, geneva;">Available plugins such as Flash and Silverlight</span>
 *   <span style="font-family: verdana, geneva;">Other programs running in the background.</span>
 
-<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/217" target="_blank">Learn more</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/217" target="_blank">Learn more</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;">[collapsed title="How to use Flavors Tab?"]</span>
+<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">The Flavors tab in the Edit Entry window allows you to manage the <em>flavors</em> that are available as well as replace media files and their transcoding flavors. <a href="http://knowledge.kaltura.com/node/65" target="_blank">Learn more</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">The Flavors tab in the Edit Entry window allows you to manage the <em>flavors</em> that are available as well as replace media files and their transcoding flavors. <a href="http://knowledge.kaltura.com/node/65" target="_blank">Learn more</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;">[collapsed title="How do I ingest content recorded from webcam?"]</span>
+<span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
@@ -142,31 +142,31 @@ date: 2015-01-16 22:12:26
 6.  <span style="font-family: verdana, geneva;">When done, click Next.</span>
 7.  <span style="font-family: verdana, geneva;">Enter a Name and all other relevant information for the webcam recording and click Next.</span>
 
-<span style="font-family: verdana, geneva;">The recording is processed and added to the Entries table.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">The recording is processed and added to the Entries table.</span>
 
 <span style="font-family: verdana, geneva;"> </span> 
 
-[collapsed title="What are the supported transcoding formats for SaaS edition?"]
+
 
 \_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\___|
 
-To learn more about the supported transcoding formats <a href="http://knowledge.kaltura.com/node/79" target="_blank">Click here</a>.[/collapsed]
+To learn more about the supported transcoding formats <a href="http://knowledge.kaltura.com/node/79" target="_blank">Click here</a>.
 
 <span style="font-family: verdana, geneva;"> </span>
 
-<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;">[collapsed title="How is Trancoding Usage Measured?"]</span>
+<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;"></span>
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
 <p class="p1">
-  <span class="s1"><em>Transcoding </em></span><span class="s2">usage is defined as the volume in MB of transcoded assets, that are the output of transcoding. </span><span class="s1"><em>Transcoding </em></span><span class="s2">usage is measured and billed one time per transcode,  unlike Storage for example, which is measured and billed repeatedly per the consumed storage even if a new entry was not added.[/collapsed] </span>
+  <span class="s1"><em>Transcoding </em></span><span class="s2">usage is defined as the volume in MB of transcoded assets, that are the output of transcoding. </span><span class="s1"><em>Transcoding </em></span><span class="s2">usage is measured and billed one time per transcode,  unlike Storage for example, which is measured and billed repeatedly per the consumed storage even if a new entry was not added. </span>
 </p>
 
 <p class="p1">
   <br /><span class="s2"></span>
 </p>
 
-<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;">[collapsed title="What are failed Transcoding jobs?"]</span>
+<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;"></span>
 
 <p class="p2">
   <span class="s1">_______________________________________________________________________________________</span>
@@ -217,4 +217,4 @@ To learn more about the supported transcoding formats <a href="http://knowledge
   </li>
 </ul>
 
-<span style="color: #888888;">[/collapsed]</span>
+<span style="color: #888888;"></span>

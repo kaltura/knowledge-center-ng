@@ -21,7 +21,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-        [collapsed title="Adding Interactivity to Media"]
+        
   </p>
   
   <h3>
@@ -33,11 +33,11 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    [collapsed title="Features and Options"]
+    
   </p>
   
   <h3>
@@ -53,11 +53,11 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    [collapsed title="How Do IVQ Work"]
+    
   </p>
   
   <h3>
@@ -96,7 +96,7 @@ date: 2016-01-07 00:58:14
   </ul>
   
   <p>
-    [/collapsed] 
+     
   </p>
   
   <h3>
@@ -104,7 +104,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-    <span>[collapsed title="How to create a Quiz with IVQ"]</span>
+    <span></span>
   </p>
   
   <p>
@@ -149,7 +149,7 @@ date: 2016-01-07 00:58:14
   </ul>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
@@ -161,7 +161,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-    [collapsed title="Using the IVQ Editor"]
+    
   </p>
   
   <p>
@@ -189,7 +189,7 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p>
-    [collapsed title="General"]
+    
   </p>
   
   <p>
@@ -231,11 +231,11 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    [collapsed title="Experience"]
+    
   </p>
   
   <p>
@@ -270,7 +270,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [collapsed title="Score"]
+    
   </p>
   
   <p>
@@ -409,7 +409,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <h3>
@@ -417,7 +417,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-    [collapsed title="How to edit an existing question?"]
+    
   </p>
   
   <p>
@@ -447,7 +447,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]<br /><br />[collapsed title="How to move a question’s location in the video?"]
+    <br /><br />
   </p>
   
   <p>
@@ -471,7 +471,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]<br /><br />[collapsed title="How to shuffle your answers?"]
+    <br /><br />
   </p>
   
   <p>
@@ -502,7 +502,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]<br /><br />[collapsed title="How to add a rationale?"]
+    <br /><br />
   </p>
   
   <p>
@@ -531,12 +531,12 @@ date: 2016-01-07 00:58:14
       Click <strong>Apply</strong> to save your changes and return to the question screen.
     </li>
     <li>
-      Click <strong>Save</strong> in the question screen to save the rationale together with the question.<br />[/collapsed]
+      Click <strong>Save</strong> in the question screen to save the rationale together with the question.<br />
     </li>
   </ol>
   
   <p>
-    [collapsed title="How to solve error messages?"]
+    
   </p>
   
   <p>
@@ -561,11 +561,11 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    [collapsed title="How to preview and modify your quiz?"]
+    
   </p>
   
   <p>
@@ -593,11 +593,11 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <h3>
@@ -605,7 +605,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-    [collapsed title="Best Practices"]
+    
   </p>
   
   <p>
@@ -644,7 +644,7 @@ date: 2016-01-07 00:58:14
   </ol>
   
   <p>
-    [/collapsed]
+    
   </p>
   
   <h3>
@@ -664,7 +664,7 @@ date: 2016-01-07 00:58:14
   </h3>
   
   <p>
-    [collapsed title="How to View Quiz Reports and Analytics"]
+    
   </p>
   
   <p>
@@ -729,7 +729,7 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p class="SuperHeading">
-     [/collapsed]
+     
   </p>
   
   <p class="SuperHeading">
