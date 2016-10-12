@@ -261,7 +261,7 @@ If the version of your self-hosted edition is:
   To generate a client library on your local Kaltura server:
 </p>
 
-(For Dragonfly and earlier versions of Kaltura self-hosted editions only:) Run the following script with root permissions: {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }cd /[INSTALLATION_PATH]/app/generator/ ./generate.sh{/syntaxhighlighter} 
+(For Dragonfly and earlier versions of Kaltura self-hosted editions only:) Run the following script with root permissions: {% highlight bash %}cd /[INSTALLATION_PATH]/app/generator/ ./generate.sh{% endhighlight %} 
 
 <p class="mce-note-graphic">
   The generator may not have permission to create the Kaltura client library files if you run the script without root permissions.
@@ -561,7 +561,7 @@ The client library generator refers to the plugin configuration. The generator i
 1.  Open **/[INSTALLATION_PATH]/app/generator/config.ini**.
 2.  For the language you are generating:
 *   Add an *include* command with the services and actions to include. For example:  
-    {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }include = batch.*, batchcontrol.*, jobs.*, media.addfrombulk{/syntaxhighlighter} An asterisk includes all of a service's actions. For example, *batch.** includes all *batch* service actions.  
+    {% highlight bash %}include = batch.*, batchcontrol.*, jobs.*, media.addfrombulk{% endhighlight %} An asterisk includes all of a service's actions. For example, *batch.** includes all *batch* service actions.  
     Specifying a service and action includes only the specific action of the service. For example, *media.addfrombulk* includes only the *addfrombulk* action of the *media* service.
 *   If an *include* command exists, add to the command the services and actions you want to include.
 
@@ -574,7 +574,7 @@ The client library generator refers to the plugin configuration. The generator i
 1.  Open **/[INSTALLATION_PATH]/app/generator/config.ini**.
 2.  For the language you are generating:
 *   Add an *exclude* command with the services and actions to exclude. For example:  
-    {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }exclude = batch.*, batchcontrol.*, jobs.*, media.addfrombulk{/syntaxhighlighter} An asterisk excludes all of a service's actions. For example, *batch.** excludes all *batch* service actions.  
+    {% highlight bash %}exclude = batch.*, batchcontrol.*, jobs.*, media.addfrombulk{% endhighlight %} An asterisk excludes all of a service's actions. For example, *batch.** excludes all *batch* service actions.  
     Specifying a service and action excludes only the specific action of the service. For example, *media.addfrombulk* excludes only the *addfrombulk* action of the *media* service.
 *   If an *exclude* command exists, add to the command the services and actions you want to exclude.
 
@@ -597,7 +597,7 @@ The client library generator refers to the plugin configuration. The generator i
 
 3.  Save the file.
 
-Example of the section to add: {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }[yourClientLibraryName] generator = [classNameOfYourGenerator]{/syntaxhighlighter} 
+Example of the section to add: {% highlight bash %}[yourClientLibraryName] generator = [classNameOfYourGenerator]{% endhighlight %} 
 
 <h3 class="mce-heading-3">
   <a name="RunningaGenerator"></a>Running a Generator
@@ -607,7 +607,7 @@ Example of the section to add: {syntaxhighlighter brush: plain;fontsize: 100; fi
   To generate a client library on your local Kaltura server:
 </p>
 
-Run the following script with root permissions: {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }cd /[INSTALLATION_PATH]/app/generator/ ./generate.sh {/syntaxhighlighter} 
+Run the following script with root permissions: {% highlight bash %}cd /[INSTALLATION_PATH]/app/generator/ ./generate.sh {% endhighlight %} 
 
 <p class="mce-note-graphic">
   The generator may not have permission to create the Kaltura client library files if you run the script without root permissions.
@@ -670,7 +670,7 @@ The *KalturaClient* file is the main class that includes:
   To explicitly include a client library in your application:
 </p>
 
-Implement the following code in your application: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require_once ‘KalturaClient.php’;{/syntaxhighlighter} 
+Implement the following code in your application: {% highlight php %}require_once ‘KalturaClient.php’;{% endhighlight %}
 
 <h3 class="mce-heading-3">
   <a name="ExcludingaServerPluginfromanApplication"></a>Excluding a Server Plugin from an Application
@@ -714,7 +714,7 @@ Instantiating a client object requires:
   To create a configuration object for a client library:
 </p>
 
-Implement the following code: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig);{/syntaxhighlighter} 
+Implement the following code: ```$kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig);```
 
 <span class="mce-heading-3"><a name="StartingaKalturaSession"></a>Starting a Kaltura Session</span>
 
@@ -738,7 +738,7 @@ Implement the following code:
   To set the KS for the configuration object:
 </p>
 
-Implement the following code: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$kalturaClient->setKs($ks);{/syntaxhighlighter} 
+Implement the following code: {% highlight php %}$kalturaClient->setKs($ks);{% endhighlight %} 
 
 <h2 class="mce-heading-2">
   <a name="UsingaClientObjecttoPerformanAPICall"></a>Using a Client Object to Perform an API Call
@@ -762,11 +762,11 @@ For example:
   <a name="Toperformamediagetcall"></a>To perform a media.get call:
 </p>
 
-Implement the following code: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have $mediaEntry = $client->media->get($entryId);{/syntaxhighlighter} 
+Implement the following code: {% highlight php %}$entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have $mediaEntry = $client->media->get($entryId);{% endhighlight %} 
 
 <a name="Toprintthenameofthemediaentry"></a><span class="mce-procedure">To print the name of the media entry:</span>
 
-Implement the following code: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }echo $mediaEntry->name;{/syntaxhighlighter} 
+Implement the following code: {% highlight php %}echo $mediaEntry->name;{% endhighlight %} 
 
 <p class="mce-heading-3">
   Example Workflow
@@ -799,7 +799,7 @@ An example workflow for printing a known media item’s name from a client libra
 
 <p class="mce-heading-3">
   Sample Code for Printing a Known Media Item’s Name:
-</p> {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have $mediaEntry = $client->media->get($entryId); echo $mediaEntry->name;{/syntaxhighlighter} 
+</p> {% highlight php %}require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have $mediaEntry = $client->media->get($entryId); echo $mediaEntry->name;{% endhighlight %} 
 
 <h3 class="mce-heading-3">
   Performing an API Call with a Server-Side Plugin Service
@@ -815,7 +815,7 @@ Since plugin APIs are not included in an application as a generic part of the cl
   To perform a call using a plugin's metadata API:
 </p>
 
-Implement the following code: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require\_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have // instantiating a filter object required for the API call. $metadataFilter = new KalturaMetadataFilter(); // 1111 is a known ID of metadata profile $metadataFilter->metadataProfileIdEqual = '1111'; $metadataFilter->metadataObjectTypeEqual = KalturaMetadataObjectType::ENTRY; // filtering metadata objects for specific entry: $metadataFilter->objectIdEqual = $entryId; // instantiating a plugin object which holds its own services. // note that we pass the client to the plugin object $metadataPlugin = KalturaMetadataClientPlugin::get($kalturaClient); // calling the specific service ‘metadata’ and a specific action ‘list’ $metadataForEntry = $metadataPlugin->metadata->listAction($metadataFilter); var\_dump($metadataForEntry);{/syntaxhighlighter} 
+Implement the following code: {% highlight php %}require\_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have // instantiating a filter object required for the API call. $metadataFilter = new KalturaMetadataFilter(); // 1111 is a known ID of metadata profile $metadataFilter->metadataProfileIdEqual = '1111'; $metadataFilter->metadataObjectTypeEqual = KalturaMetadataObjectType::ENTRY; // filtering metadata objects for specific entry: $metadataFilter->objectIdEqual = $entryId; // instantiating a plugin object which holds its own services. // note that we pass the client to the plugin object $metadataPlugin = KalturaMetadataClientPlugin::get($kalturaClient); // calling the specific service ‘metadata’ and a specific action ‘list’ $metadataForEntry = $metadataPlugin->metadata->listAction($metadataFilter); var\_dump($metadataForEntry);{% endhighlight %} 
 
 <a name="PerformingaMultiRequest"></a><span class="mce-heading-2">Performing Multi-Requests</span>
 
@@ -835,7 +835,7 @@ The multi-request feature supports the ability to have one request depend on the
   To perform a multi-request:
 </p>
 
-Implement code based on the following example: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have try { // tell the client to start stacking actions for multi-request $kalturaClient->startMultiRequest(); // add first call to multi-request stack $kalturaClient->media->get($entryId); // create empty object for updating $emptyEntryForUpdate = new KalturaMediaEntry(); // set dependency between second call and first call – // the description to be set on the entry is the tags from the previous ‘media.get’ call $emptyEntryForUpdate->description = '{1:result:tags}'; // add second call to multi-request stack $kalturaClient->media->update($entryId, $emptyEntryForUpdate); // tell the client to perform the actual HTTP request for the stacked actions $results = $kalturaClient->doMultiRequest(); // extract result objects from array of results $mediaEntry = $results[0]; $updatedMediaEntry = $results[1]; echo "entry tags: " . $mediaEntry->tags; echo "new entry desription: " . $updatedMediaEntry->description; } catch(Exception $ex) { echo “could not get entry from Kaltura. Reason: “ . $ex->getMessage(); }{/syntaxhighlighter} 
+Implement code based on the following example: {% highlight php %}require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have try { // tell the client to start stacking actions for multi-request $kalturaClient->startMultiRequest(); // add first call to multi-request stack $kalturaClient->media->get($entryId); // create empty object for updating $emptyEntryForUpdate = new KalturaMediaEntry(); // set dependency between second call and first call – // the description to be set on the entry is the tags from the previous ‘media.get’ call $emptyEntryForUpdate->description = '{1:result:tags}'; // add second call to multi-request stack $kalturaClient->media->update($entryId, $emptyEntryForUpdate); // tell the client to perform the actual HTTP request for the stacked actions $results = $kalturaClient->doMultiRequest(); // extract result objects from array of results $mediaEntry = $results[0]; $updatedMediaEntry = $results[1]; echo "entry tags: " . $mediaEntry->tags; echo "new entry desription: " . $updatedMediaEntry->description; } catch(Exception $ex) { echo “could not get entry from Kaltura. Reason: “ . $ex->getMessage(); }{% endhighlight %} 
 
 <h2 class="mce-heading-2">
   <a name="ErrorHandling"></a>Error Handling
@@ -857,7 +857,22 @@ Kaltura recommends that you wrap API calls in your code in a *try-catch* block t
   API Error Handling – Sample Code
 </p>
 
-The following is an example of error handling for printing a known media item’s name: {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have try { $mediaEntry = $client->media->get($entryId); echo $mediaEntry->name; } catch(Exception $ex) { echo “could not get entry from Kaltura. Reason: “ . $ex->getMessage(); }{/syntaxhighlighter} 
+The following is an example of error handling for printing a known media item’s name: 
+{% highlight perl %}
+require_once 'KalturaClient.php'; 
+$kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID 
+$kalturaConfig->serviceUrl = 'http://KalturaServerDomain'; // if you want to communicate with a Kaltura server which is other than the default http://www.kaltura.com 
+$kalturaClient = new KalturaClient($kalturaConfig); 
+$ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); 
+$kalturaClient->setKs($ks); 
+$entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have 
+try { 
+    $mediaEntry = $client->media->get($entryId); 
+    echo $mediaEntry->name; 
+} catch(Exception $ex) { 
+    echo "could not get entry from Kaltura. Reason: " . $ex->getMessage(); 
+}
+{% endhighlight %} 
 
 <h2 class="mce-heading-2">
   <a name="TipsandTricks"></a>Tips and Tricks
@@ -929,23 +944,116 @@ Sample code appears for:
  [32]: #JavaScript
  [33]: #ObjectiveC
 
-<span class="mce-heading-4"><a name="PHP5"></a>PHP5</span> {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }require_once ‘KalturaClient.php’; $kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID $kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com $kalturaClient = new KalturaClient($kalturaConfig); $ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); $kalturaClient->setKs($ks); $entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have try { $mediaEntry = $client->media->get($entryId); echo $mediaEntry->name; } catch(Exception $ex) { echo “could not get entry from Kaltura. Reason: “ . $ex->getMessage(); }{/syntaxhighlighter} 
+<span class="mce-heading-4"><a name="PHP5"></a>PHP5</span> {% highlight perl %}
+require_once 'KalturaClient.php'; 
+$kalturaConfig = new KalturaConfiguration(123); // where 123 is your partner ID 
+$kalturaConfig->serviceUrl = ‘http://KalturaServerDomain’; // if you want to communicate with a Kaltura server which is other than the default http://www.kaltura.com 
+$kalturaClient = new KalturaClient($kalturaConfig); 
+$ks = $kalturaClient->generateSession($adminSecret, $userId, KalturaSessionType::ADMIN, $partnerId, $expiry,$privileges); 
+$kalturaClient->setKs($ks); 
+$entryId = ‘XXXYYYZZZA’; // a known ID of media entry that you have 
+try { 
+    $mediaEntry = $client->media->get($entryId); 
+    echo $mediaEntry->name; 
+} catch(Exception $ex) { 
+    echo “could not get entry from Kaltura. Reason: “ . $ex->getMessage(); 
+}
+{% endhighlight %} 
 
 <p class="mce-heading-4">
   <a name="Java"></a>Java
-</p> {syntaxhighlighter brush: java;fontsize: 100; first-line: 1; }package com.kaltura.code.example; import com.kaltura.client.enums.*; import com.kaltura.client.types.*; import com.kaltura.client.services.*; import com.kaltura.client.KalturaApiException; import com.kaltura.client.KalturaClient; import com.kaltura.client.KalturaConfiguration; class CodeExample{ public static void main(String[] args){ KalturaConfiguration config = new KalturaConfiguration(); config.setPartnerId(123); // where 123 is your partner ID config.setEndpoint("http://www.kaltura.com/"); // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com KalturaClient client = new KalturaClient(config); String entryId = null; int version = 0; String ks = client.generateSession( adminSecret, userId, type, partnerId, expiry, privileges ); client.setSessionId(ks); entryId = "XXXYYYZZZA"; // a known ID of media entry that you have try{ KalturaMediaEntry mediaEntry = client.getMediaService().get(entryId); System.out.print(mediaEntry.getName()); }catch(KalturaApiException e){ System.out.print(“could not get entry from Kaltura. Reason: “); e.printStackTrace(); } } }{/syntaxhighlighter} 
+</p> {% highlight java %}
+package com.kaltura.code.example; 
+import com.kaltura.client.enums.*; 
+import com.kaltura.client.types.*; 
+import com.kaltura.client.services.*; 
+import com.kaltura.client.KalturaApiException; 
+import com.kaltura.client.KalturaClient; 
+import com.kaltura.client.KalturaConfiguration; 
+class CodeExample
+{ 
+    public static void main(String[] args)
+    { 
+	KalturaConfiguration config = new KalturaConfiguration(); 
+	config.setPartnerId(123); // where 123 is your partner ID config.setEndpoint("http://www.kaltura.com/"); if you want to communicate with a Kaltura server which isother than the default http://www.kaltura.com 
+	KalturaClient client = new KalturaClient(config); 
+	String entryId = null; 
+	int version = 0; 
+	String ks = client.generateSession( adminSecret, userId, type, partnerId, expiry, privileges ); 
+	client.setSessionId(ks); entryId = "XXXYYYZZZA"; // a known ID of media entry that you have 
+	try{ 
+	    KalturaMediaEntry mediaEntry = client.getMediaService().get(entryId); 
+	    System.out.print(mediaEntry.getName()); 
+	}catch(KalturaApiException e){ 
+	    System.out.print(“could not get entry from Kaltura. Reason: “); e.printStackTrace(); 
+	} 
+    } 
+}
+{% endhighlight %} 
 
 <p class="mce-heading-2 mce-heading-4">
   <a name="CSharp"></a>C#
-</p> {syntaxhighlighter brush: csharp;fontsize: 100; first-line: 1; }using System.Collections.Generic; using System.Text; using System.IO; namespace Kaltura{ class CodeExample{ static void Main(string[] args){ KalturaConfiguration config = new KalturaConfiguration(123); // where 123 is your partner ID config.ServiceUrl = "http://www.kaltura.com/"; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com KalturaClient client = new KalturaClient(config); String ks = client.GenerateSession( adminSecret, userId, type, partnerId, expiry, privileges ); // GenerateSession method is already implemented in the C# library String entryId = null; int version = 0; client.KS = ks; entryId = "XXXYYYZZZA"; // a known ID of media entry that you have try { KalturaMediaEntry mediaEntry = client.MediaService.Get(entryId); System.Console.WriteLine(mediaEntry.name); } catch(KalturaException ex) { System.Console.WriteLine(“could not get entry from Kaltura. “); System.Console.WriteLine(“Reason: “); System.Console.WriteLine(ex.toString()); } } } }{/syntaxhighlighter} 
+</p> {% highlight csharp %}
+using System.Collections.Generic; 
+using System.Text; 
+using System.IO; 
+namespace Kaltura
+{ 
+    class CodeExample
+    { 
+	static void Main(string[] args)
+	    { 
+		KalturaConfiguration config = new KalturaConfiguration(123); // where 123 is your partner ID 
+		config.ServiceUrl = "http://www.kaltura.com/"; // if you want to communicate with a Kaltura server which is other than the default http://www.kaltura.com 
+		KalturaClient client = new KalturaClient(config); 
+		String ks = client.GenerateSession( adminSecret, userId, type, partnerId, expiry, privileges ); // GenerateSession method is already implemented in the C# library 
+		String entryId = null; 
+		int version = 0; 
+		client.KS = ks; 
+		entryId = "XXXYYYZZZA"; // a known ID of media entry that you have 
+		try { 
+		    KalturaMediaEntry mediaEntry = client.MediaService.Get(entryId); 
+		    System.Console.WriteLine(mediaEntry.name); 
+		} catch(KalturaException ex) { 
+		    System.Console.WriteLine(“could not get entry from Kaltura. “); 
+		    System.Console.WriteLine(“Reason: “); System.Console.WriteLine(ex.toString()); 
+		} 
+	    } 
+    } 
+}
+{% endhighlight %} 
 
 <p class="mce-heading-2 mce-heading-4">
   <a name="Python"></a>Python
-</p> {syntaxhighlighter brush: python;fontsize: 100; first-line: 1; }from KalturaClient import * config = KalturaConfiguration(123) # where 123 is your partner ID config.serviceUrl = "http://devtests.kaltura.co.cc/" # if you want to communicate with a Kaltura server which is # other than the default http://www.kaltura.com client = KalturaClient(config) ks = client.generateSession(adminSecret, userId, type, partnerId, expiry, privileges) client.setKs(ks) entryId = "XXXYYYZZZA"; # a known ID of media entry that you have try: mediaEntry = client.media.get(entryId) print mediaEntry.getName() except KalturaException, e: print "could not get entry from Kaltura. Reason: %s" % repr(e){/syntaxhighlighter} 
+</p> {% highlight python %}
+from KalturaClient import * 
+config = KalturaConfiguration(123) # where 123 is your partner ID 
+config.serviceUrl = "http://devtests.kaltura.co.cc/" # if you want to communicate with a Kaltura server which is other than the default http://www.kaltura.com 
+client = KalturaClient(config) 
+ks = client.generateSession(adminSecret, userId, type, partnerId, expiry, privileges) 
+client.setKs(ks) 
+entryId = "XXXYYYZZZA"; # a known ID of media entry that you have 
+try: 
+    mediaEntry = client.media.get(entryId) 
+    print mediaEntry.getName() 
+except KalturaException, e: 
+    print "could not get entry from Kaltura. Reason: %s" % repr(e)
+{% endhighlight %} 
 
 <p class="mce-heading-2 mce-heading-4">
   <a name="Ruby"></a>Ruby
-</p> {syntaxhighlighter brush: ruby;fontsize: 100; first-line: 1; }require "ruby\_client.rb" include Kaltura config = KalturaConfiguration.new(123) # where 123 is your partner ID config.service\_url = 'http://www.kaltura.com/' # if you want to communicate with a Kaltura server which is # other than the default http://www.kaltura.com client = KalturaClient.new(config) ks = client.session\_service.start (secret, userId, type, partnerId, expiry, privileges) client.ks = ks entry\_id = 'XXXYYYZZZA' media\_entry = client.media\_service.get(entry\_id) puts media\_entry.name{/syntaxhighlighter} 
+</p> {% highlight ruby %}
+require "ruby_client.rb" 
+include Kaltura 
+config = KalturaConfiguration.new(123) # where 123 is your partner ID 
+config.service_url = 'http://www.kaltura.com/' # if you want to communicate with a Kaltura server which is 
+# other than the default http://www.kaltura.com 
+client = KalturaClient.new(config) 
+ks = client.session_service.start (secret, userId, type, partnerId, expiry, privileges) 
+client.ks = ks entry_id = 'XXXYYYZZZA' 
+media_entry = client.media_service.get(entry_id) 
+puts media_entry.name
+{% endhighlight %} 
 
 <p class="mce-note-graphic">
   The Ruby client library does not include a local generateSession function to generate a Kaltura session. Instead, use the session service to start a session.
@@ -953,11 +1061,45 @@ Sample code appears for:
 
 <p class="mce-heading-2 mce-heading-4">
   <a name="AS3"></a>AS3
-</p> {syntaxhighlighter brush: as3;fontsize: 100; first-line: 1; }package com.kaltura.code.example { import com.kaltura.KalturaClient; import com.kaltura.commands.baseEntry.BaseEntryGet; import com.kaltura.config.KalturaConfig; import com.kaltura.events.KalturaEvent; public class CodeExample { private var \_client:KalturaClient; public function CodeExample() { // create KalturaClient: var configuration:KalturaConfig = new KalturaConfig(); configuration.partnerId = "123"; // where 123 is your partner ID configuration.ignoreNull = 1; configuration.ks = loaderInfo.parameters.ks; // ks passed in as flashvar \_client = new KalturaClient(configuration); var entryId:String = "XXXYYYZZZA"; // a known ID of media entry that you have var beg:BaseEntryGet = new BaseEntryGet(entryId); beg.addEventListener(KalturaEvent.COMPLETE, handleEntryGet); beg.addEventListener(KalturaEvent.FAILED, handleEntryGet); _client.post(beg); } private function handleEntryGet(e:KalturaEvent):void { e.target.removeEventListener(KalturaEvent.COMPLETE, handleEntryGet); e.target.removeEventListener(KalturaEvent.FAILED, handleEntryGet); if (e.type == KalturaEvent.COMPLETE) { trace(e.data.name); } else { trace("could not get entry from Kaltura. Reason: ", e.error.errorMsg); } } } }{/syntaxhighlighter} 
+</p> {% highlight c %}
+{ import com.kaltura.KalturaClient; import com.kaltura.commands.baseEntry.BaseEntryGet; import com.kaltura.config.KalturaConfig; import com.kaltura.events.KalturaEvent; public class CodeExample { private var \_client:KalturaClient; public function CodeExample() { // create KalturaClient: var configuration:KalturaConfig = new KalturaConfig(); configuration.partnerId = "123"; // where 123 is your partner ID configuration.ignoreNull = 1; configuration.ks = loaderInfo.parameters.ks; // ks passed in as flashvar \_client = new KalturaClient(configuration); var entryId:String = "XXXYYYZZZA"; // a known ID of media entry that you have var beg:BaseEntryGet = new BaseEntryGet(entryId); beg.addEventListener(KalturaEvent.COMPLETE, handleEntryGet); beg.addEventListener(KalturaEvent.FAILED, handleEntryGet); _client.post(beg); } private function handleEntryGet(e:KalturaEvent):void { e.target.removeEventListener(KalturaEvent.COMPLETE, handleEntryGet); e.target.removeEventListener(KalturaEvent.FAILED, handleEntryGet); if (e.type == KalturaEvent.COMPLETE) { trace(e.data.name); } else { trace("could not get entry from Kaltura. Reason: ", e.error.errorMsg); } } } }
+{% endhighlight %} 
 
 <p class="mce-heading-2 mce-heading-4">
   <a name="JavaScript"></a>JavaScript
-</p> {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script type="text/javascript"> var kConfig; var kClient; var partnerId = 123; // where 123 is your partner ID var userId = "someone"; var expiry = 86400; var privileges = ""; // call server side to generate a KS for you so secrets will not be compromised var ks = ajaxGetKs(partnerId, userId, expiry, privileges); var entryId = "XXXYYYZZZA"; // a known ID of media entry that you have function pageLoad() { kConfig = new KalturaConfiguration(partnerId); kConfig.serviceUrl = "http://www.kaltura.com"; // if you want to communicate with a Kaltura server which is // other than the default http://www.kaltura.com kClient = new KalturaClient(kConfig); kClient.ks = ks; getEntrySample(); return false; } function getEntrySample() { kClient.media.get(getEntryResult, entryId); } function getEntryResult(success, data) { if (data.code) { alert("Error: "+data.message); } else { alert("Your entry name: "+data.name); } } </script>{/syntaxhighlighter} 
+</p> {% highlight javascript %}
+<script type="text/javascript"> 
+var kConfig; 
+var kClient; 
+var partnerId = 123; // where 123 is your partner ID 
+var userId = "someone"; 
+var expiry = 86400; var privileges = ""; // call server side to generate a KS for you so secrets will not be compromised 
+var ks = ajaxGetKs(partnerId, userId, expiry, privileges); 
+var entryId = "XXXYYYZZZA"; // a known ID of media entry that you have 
+function pageLoad() 
+{ 
+    kConfig = new KalturaConfiguration(partnerId); 
+    kConfig.serviceUrl = "http://www.kaltura.com"; // if you want to communicate with a Kaltura server which is 
+    // other than the default http://www.kaltura.com 
+    kClient = new KalturaClient(kConfig); 
+    kClient.ks = ks; 
+    getEntrySample(); 
+    return false; 
+} 
+function getEntrySample() 
+{ 
+    kClient.media.get(getEntryResult, entryId); 
+} 
+function getEntryResult(success, data) 
+{ 
+    if (data.code) { 
+	alert("Error: "+data.message); 
+    } else { 
+	alert("Your entry name: "+data.name); 
+    } 
+} 
+</script>
+{% endhighlight %} 
 
 <p class="mce-sub-heading">
   Handling Secrets
@@ -965,10 +1107,33 @@ Sample code appears for:
 
 Since JavaScript is a client-side programming language, secrets included in the code are compromised. Exposing secrets causes a security issue.
 
-To avoid exposing the KS secret, Kaltura recommends calling an AJAX (or similar methodology) server‑side action that returns a KS. The sample code implements the recommendation: {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }var ks = ajaxGetKs(partnerId, userId, expiry, privileges);{/syntaxhighlighter} 
+To avoid exposing the KS secret, Kaltura recommends calling an AJAX (or similar methodology) server‑side action that returns a KS. The sample code implements the recommendation: {% highlight javascript %}var ks = ajaxGetKs(partnerId, userId, expiry, privileges);{% endhighlight %} 
 
 For more information about security issues related to accessing the Kaltura API using client-side technology, refer to [Kaltura API Usage Guidelines][11].
 
 <p class="mce-heading-4">
   <a name="ObjectiveC"></a>Objective-C/Cocoa
-</p> {syntaxhighlighter brush: objc;fontsize: 100; first-line: 1; }#import "KalturaClient.h" #define SERVICE\_URL (@"http://www.kaltura.com") #define ADMIN\_SECRET (@"1234abcd") #define PARTNER\_ID (1234) #define USER\_ID (@"user") #define ENTRY\_ID (@"0\_12345678") @interface GetEntrySample : NSObject - (void)sample; @end @implementation GetEntrySample - (void)sample { KalturaClientConfiguration* config = [[KalturaClientConfiguration alloc] init]; config.serviceUrl = SERVICE\_URL; KalturaNSLogger* logger = [[KalturaNSLogger alloc] init]; config.logger = logger; [logger release]; // retained on config config.partnerId = PARTNER\_ID; KalturaClient* client = [[KalturaClient alloc] initWithConfig:config]; [config release]; // retained on the client client.ks = [KalturaClient generateSessionWithSecret:ADMIN\_SECRET withUserId:USER\_ID withType:[KalturaSessionType ADMIN] withPartnerId:PARTNER\_ID withExpiry:86400 withPrivileges:@""]; KalturaMediaEntry* mediaEntry = [client.media getWithEntryId:ENTRY\_ID]; if (client.error != nil) NSLog(@"Failed to get entry, domain=%@ code=%d", error.domain, error.code); else NSLog(@"Entry name %@", mediaEntry.name); [client release]; } @end{/syntaxhighlighter}
+</p> {% highlight objc %}
+#import "KalturaClient.h" 
+#define SERVICE_URL (@"http://www.kaltura.com") 
+#define ADMIN_SECRET (@"1234abcd") 
+#define PARTNER_ID (1234) 
+#define USER_ID (@"user") 
+#define ENTRY_ID (@"0_12345678") 
+@interface GetEntrySample : NSObject - (void)sample; @end @implementation GetEntrySample - (void)sample 
+{ 
+    KalturaClientConfiguration* config = [[KalturaClientConfiguration alloc] init]; 
+    config.serviceUrl = SERVICE_URL; 
+    KalturaNSLogger* logger = [[KalturaNSLogger alloc] init]; 
+    config.logger = logger; 
+    [logger release]; // retained on config 
+    config.partnerId = PARTNER_ID; 
+    KalturaClient* client = [[KalturaClient alloc] initWithConfig:config]; 
+    [config release]; // retained on the client 
+    client.ks = [KalturaClient generateSessionWithSecret:ADMIN_SECRET withUserId:USER_ID withType:[KalturaSessionType ADMIN] withPartnerId:PARTNER_ID withExpiry:86400 withPrivileges:@""]; 
+    KalturaMediaEntry* mediaEntry = [client.media getWithEntryId:ENTRY_ID]; 
+    if (client.error != nil) NSLog(@"Failed to get entry, domain=%@ code=%d", error.domain, error.code); 
+    else NSLog(@"Entry name %@", mediaEntry.name); [client release]; 
+} 
+@end
+{% endhighlight %}
