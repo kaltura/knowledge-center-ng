@@ -12,4 +12,4 @@ date: 2011-12-27 21:40:06
 2.  Click on an entry.
 3.  Select the Scheduling tab and select and set your specific time range.
 4.  Click Save and Close to complete the process.  
-    <img src="{{site.url}}/assets/757">
+    <img src="../../assets/757">

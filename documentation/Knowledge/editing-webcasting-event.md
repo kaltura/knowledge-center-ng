@@ -103,7 +103,7 @@ date: 2015-10-27 16:52:59
   </p>
   
   <p style="padding-left: 30px;">
-     <span><img src="{{site.url}}/assets/2648">
+     <span><img src="../../assets/2648">
   </p>
   
   <p>

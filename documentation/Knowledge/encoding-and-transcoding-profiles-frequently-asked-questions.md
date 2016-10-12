@@ -47,8 +47,8 @@ date: 2015-01-16 22:12:26
 <span style="font-family: verdana, geneva;">To display the default flavors for transcoding your content:</span>
 
 1.  <span style="font-family: verdana, geneva;">Select the<strong> </strong>Settings tab and then select Transcoding Settings.</span>  
-    <span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2021">
-2.  <span style="font-family: verdana, geneva;">The Default Transcoding Flavors window is displayed which contains the flavor selection of the Default Transcoding profile.<br /><img src="{{site.url}}/assets/2022">
+    <span style="font-family: verdana, geneva;"><img src="../../assets/2021">
+2.  <span style="font-family: verdana, geneva;">The Default Transcoding Flavors window is displayed which contains the flavor selection of the Default Transcoding profile.<br /><img src="../../assets/2022">
 3.  <span style="font-family: verdana, geneva;">Each file uploaded to the system is transcoded into the flavors that are checked.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>

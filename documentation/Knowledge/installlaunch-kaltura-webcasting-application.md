@@ -43,20 +43,20 @@ date: 2015-10-29 10:05:44
   
   <ol>
     <li>
-      On the Edit Even page, click <strong>Don't have the application?</strong> <strong>Download here.</strong> You will be redirected to a download page.<br /><img src="{{site.url}}/assets/3297">
+      On the Edit Even page, click <strong>Don't have the application?</strong> <strong>Download here.</strong> You will be redirected to a download page.<br /><img src="../../assets/3297">
     </li>
     <li>
       <span>If you are installing the Kaltura Webcasting software for <strong>Windows</strong>:</span>
     </li>
     <ol style="list-style-type: lower-alpha;">
       <li>
-        Click <strong>Download for Windows</strong> to start the installation.<br /><img src="{{site.url}}/assets/2520">
+        Click <strong>Download for Windows</strong> to start the installation.<br /><img src="../../assets/2520">
       </li>
       <li>
-        The Kaltura Webcast Application installation wizard will launch. Click <strong>Next</strong>.<br /><img src="{{site.url}}/assets/2521">
+        The Kaltura Webcast Application installation wizard will launch. Click <strong>Next</strong>.<br /><img src="../../assets/2521">
       </li>
       <li>
-        Complete the installation wizard and verify that the installation was successful.<br /><img src="{{site.url}}/assets/2522">
+        Complete the installation wizard and verify that the installation was successful.<br /><img src="../../assets/2522">
       </li>
     </ol>
     
@@ -71,7 +71,7 @@ date: 2015-10-29 10:05:44
         Double click the file to open it.<br />The window will appear.
       </li>
       <li>
-        Drag the <strong>Kaltura Webcast </strong>application icon to the applications folder.<br /><img src="{{site.url}}/assets/2954">
+        Drag the <strong>Kaltura Webcast </strong>application icon to the applications folder.<br /><img src="../../assets/2954">
       </li>
     </ol>
     
@@ -103,7 +103,7 @@ date: 2015-10-29 10:05:44
   </ol>
   
   <p style="padding-left: 30px;">
-    The application launches and displays on your screen.<br /><br /><img src="{{site.url}}/assets/3485">
+    The application launches and displays on your screen.<br /><br /><img src="../../assets/3485">
   </p>
   
   <p>

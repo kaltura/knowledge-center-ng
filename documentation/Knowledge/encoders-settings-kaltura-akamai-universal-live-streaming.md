@@ -38,10 +38,10 @@ Depending on your content type and production values different encoding settings
 
 **Sample working Flash Media Encoder ScreenShot:**
 
-** <img src="{{site.url}}/assets/1061">
+** <img src="../../assets/1061">
 
 **Sample working WireCast encoder ScreenShot: **
 
- <img src="{{site.url}}/assets/1062">
+ <img src="../../assets/1062">
 
 ** **

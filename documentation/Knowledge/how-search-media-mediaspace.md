@@ -29,7 +29,7 @@ In the MediaSpace header's search field, enter your search text.
 </p>
 
 <li value="1">
-  In a media gallery, click <strong>Search this gallery</strong>.<span style="font-size: small;"><strong><br /> <img src="{{site.url}}/assets/414">
+  In a media gallery, click <strong>Search this gallery</strong>.<span style="font-size: small;"><strong><br /> <img src="../../assets/414">
 </li>
 
 <ol start="2">

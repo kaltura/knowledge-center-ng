@@ -21,7 +21,7 @@ To simplify the management of many of the player features, Kaltura has implement
 UIVars are set using the Studio view in the <a href="http://www.kaltura.com/index.php/kmc/kmc4#studio|playersList" target="_blank" title="Kaltura Management Console - The Player Studio Tab">Kaltura Management Console</a> (KMC).  When editing a player instance in the <a href="http://www.kaltura.com/index.php/kmc/kmc4#studio|playersList" target="_blank" title="Kaltura Management Console - The Player Studio Tab">Player Studio</a>, select the Features tab on the left and expand the “Additional parameters and plugins” panel in the features list accordion:
 
 <div id="attachment_3006" class="wp-caption aligncenter">
-  <img src="{{site.url}}/assets/237">
+  <img src="../../assets/237">
 </div>
 
 In the ***“Additional parameters and plugins”*** panel, there are two options to add parameters:

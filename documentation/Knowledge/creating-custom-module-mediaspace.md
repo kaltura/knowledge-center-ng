@@ -78,7 +78,7 @@ date: 2013-02-10 15:41:07
 
 <div class="tabItem">
   <div class="tabItem">
-    To learn and review up to date interfaces, select the Knowledge Base tab in the MediaSpace Admin and then select Interfaces.<img src="{{site.url}}/assets/986">
+    To learn and review up to date interfaces, select the Knowledge Base tab in the MediaSpace Admin and then select Interfaces.<img src="../../assets/986">
   </div>
   
   <h3>

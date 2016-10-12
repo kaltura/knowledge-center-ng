@@ -16,7 +16,7 @@ You can create playlists and associate media with the playlists.
 
 1.  Browse to the media that you would like to add to a playlist.
 2.  Select the “Add to Playlist" option under the Actions dropdown.  
-    <img src="{{site.url}}/assets/1144">
+    <img src="../../assets/1144">
 3.  Click "Add” and enter a Name and Description,   
     The media is added to the playlist.
 4.  After you create a playlist, it appears on the My Playlists page where you can preview it, edit the sequence of media, select design of playlist, and grab the embed code.
@@ -27,7 +27,7 @@ You can create playlists and associate media with the playlists.
 
 1.  Click a media thumbnail or title.
 2.  Select Add to Playlists from the Actions dropdown.  
-    <img src="{{site.url}}/assets/1143">
+    <img src="../../assets/1143">
 3.  Check the playlists you want to add the media to or create a new playlist.  
     The media is added to the new playlist.
 4.  Click Manage Playlists to preview the content, edit the sequence of media, select design of playlist, and grab the embed code.

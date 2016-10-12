@@ -8,7 +8,7 @@ date: 2012-01-23 13:18:16
 
 <span class="mce-heading-1" style="font-size: small;"></span><span style="font-size: small;">In DFP there is a “Tag Generator” utility in the dashboard to generate the ad tag url. </span>  
 <span style="font-size: small;"> The ad tag url (<a href="http://ad.doubleclick.net/pfadx/mysite.com/">http://ad.doubleclick.net/pfadx/mysite.com/</a>... ) is at the bottom of the widget.</span>  
-<img src="{{site.url}}/assets/269">
+<img src="../../assets/269">
 
 <span class="mce-heading-1" style="font-size: small;">OpenX</span>
 
@@ -24,4 +24,4 @@ date: 2012-01-23 13:18:16
 
 <span style="font-size: small;">Copy the “Specific Ad Tag” from the Ad screen</span>
 
-<span style="font-size: small;"><img src="{{site.url}}/assets/270">
+<span style="font-size: small;"><img src="../../assets/270">

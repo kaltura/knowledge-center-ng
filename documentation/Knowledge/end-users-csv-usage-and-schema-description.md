@@ -808,10 +808,10 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
 
 ### Bulk Provisioning/updating of Media Space’s User Accounts with a Role*
 
-<img src="{{site.url}}/assets/3450">
+<img src="../../assets/3450">
 
 * Users are authenticated through SSO integration. Authorization to access to MediaSpace with a specific role is managed by Kaltura. The role’s metadata field name and possible values are specific per MediaSpace configuration.
 
 ### Bulk Deletion of Specific MediaSpace User Accounts
 
-<img src="{{site.url}}/assets/530">
+<img src="../../assets/530">

@@ -18,7 +18,7 @@ AdapTV has two different models – the standard model and the marketplace. The
 6.  Enter the Custom SWF URL.  
     The Kaltura partner administrator should contact their ad server company to obtain the SWF URL and the proper Key-Value Pairs to insert.
 7.  In the key-value section insert key=[your AdapTV key]. In AdapTV, many users utilize the zone to differentiate between different ads. In this case, the customer needs to insert zone=[zone name] in the key-value section as well.
-8.  To utilize the latest AdapTV plugin (the current out-of-the-box plugin is utilizing AdapTV’s legacy integration of AS2, the new plugin utilizes AS3 integration): in the Additional Parameters and Plugins section of the player, insert key=customAd.path value= [http://cdnbakmi.kaltura.com/flash/kdp3/v3.5.7.6/plugins/adaptvas3Plugin.swf<img src="{{site.url}}/assets/1093">
+8.  To utilize the latest AdapTV plugin (the current out-of-the-box plugin is utilizing AdapTV’s legacy integration of AS2, the new plugin utilizes AS3 integration): in the Additional Parameters and Plugins section of the player, insert key=customAd.path value= [http://cdnbakmi.kaltura.com/flash/kdp3/v3.5.7.6/plugins/adaptvas3Plugin.swf<img src="../../assets/1093">
 
  [1]: http://cdnbakmi.kaltura.com/flash/kdp3/v3.5.7.6/plugins/adaptvas3Plugin.swf
 

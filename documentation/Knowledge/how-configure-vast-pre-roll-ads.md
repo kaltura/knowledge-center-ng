@@ -16,4 +16,4 @@ date: 2012-01-11 13:00:58
 > 4.  <span style="font-size: small;"><strong></strong>Paste the Ad Tag URL received from the ad server. See <span style="background-color: #ffff00;">How to Locate the Ad Tag URL</span>.</span>
 > 5.  <span style="font-size: small;"><strong></strong>Select the Display options.</span>
 > 6.  <span style="font-size: small;">Display X ads assumes that there is more than one ad configured in the ad tag URL.</span>
-> 7.  <span style="font-size: small;"><strong></strong>Before every X video starting with the X video assumes that there is either a playlist on the page or a gallery. This functionality works with galleries as well as playlists.</span><img src="{{site.url}}/assets/240">
+> 7.  <span style="font-size: small;"><strong></strong>Before every X video starting with the X video assumes that there is either a playlist on the page or a gallery. This functionality works with galleries as well as playlists.</span><img src="../../assets/240">

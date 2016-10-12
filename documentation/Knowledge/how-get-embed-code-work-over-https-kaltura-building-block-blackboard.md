@@ -22,7 +22,7 @@ However, media that was uploaded via embed codes (copying the embed code from th
 </ul>
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1251">
+  <img src="../../assets/1251">
 </p>
 
 <p style="padding-left: 30px;">

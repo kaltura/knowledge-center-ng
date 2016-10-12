@@ -10,7 +10,7 @@ date: 2011-12-27 21:02:20
 
 > 1.  [Create an Access Profile][1].
 > 2.  Click + Add Remove Countries.  
->     <img src="{{site.url}}/assets/166">
+>     <img src="../../assets/166">
 > 3.  Use the scroll (Ctrl button for multiple selections) and select the countries from the Countries List to display content.
 > 4.  Use the arrow buttons to transfer the list to the Allowed Countries.
 > 5.  Click Save.

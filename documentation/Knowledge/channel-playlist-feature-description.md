@@ -33,7 +33,7 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2445">
+    <img src="../../assets/2445">
   </p>
   
   <p>
@@ -41,7 +41,7 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2446">
+    <img src="../../assets/2446">
   </p>
   
   <p>
@@ -61,7 +61,7 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3386">
+    <img src="../../assets/3386">
   </p>
   
   <p>
@@ -89,7 +89,7 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-     <img src="{{site.url}}/assets/3387">
+     <img src="../../assets/3387">
   </p>
   
   <p class="mce-heading-1">
@@ -105,7 +105,7 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2447">
+    <img src="../../assets/2447">
   </p>
   
   <p>

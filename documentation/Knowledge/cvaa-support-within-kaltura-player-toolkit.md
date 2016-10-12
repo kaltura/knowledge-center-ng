@@ -9,7 +9,7 @@ date: 2016-08-31 13:21:39
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3400">
+    <img src="../../assets/3400">
   </p>
   
   <p>

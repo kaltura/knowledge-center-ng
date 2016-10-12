@@ -13,8 +13,8 @@ date: 2012-03-25 00:33:48
 1.  <span style="font-size: small;">In the Add Video Presentation window, click <strong>Upload Document</strong>. </span>
 2.  <span style="font-size: small;">In the Upload Document window, click <strong>Browse your desktop</strong>.</span>
 3.  <span style="font-size: small;">In the Select file to upload window, select a document or presentation file to upload and click <strong>Open</strong>.</span>
-4.  <span style="font-size: small;"><span style="font-size: small;">In the Upload Document window, enter information about the document and click <strong>Close</strong>.</span></span><span style="font-size: small;"><img src="{{site.url}}/assets/389">
-5.  <span style="font-size: small;">In the Upload Document window, click <strong>Back to the video presentation creation flow (step 1)</strong> to continue creating a video presentation.<img src="{{site.url}}/assets/366">
+4.  <span style="font-size: small;"><span style="font-size: small;">In the Upload Document window, enter information about the document and click <strong>Close</strong>.</span></span><span style="font-size: small;"><img src="../../assets/389">
+5.  <span style="font-size: small;">In the Upload Document window, click <strong>Back to the video presentation creation flow (step 1)</strong> to continue creating a video presentation.<img src="../../assets/366">
 
 <p class="note mce-note-graphic">
   <span style="font-size: small;"><strong>NOTE:</strong> After a document is uploaded, it is optimized for display in the presentation. You cannot use a document in a video presentation until optimization is complete.</span>

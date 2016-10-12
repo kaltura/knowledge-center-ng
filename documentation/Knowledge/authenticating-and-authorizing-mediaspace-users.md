@@ -69,7 +69,7 @@ Yes, you can manually set different user details in Kaltura. After the user logs
     Under <em>refreshDetailsOnLogin</em>, select <strong>No</strong>.<br />This option is displayed only when using an external authentication provider.
   </li>
   <li>
-    Under <em>refreshRoleOnLogin</em>, select <strong>No</strong>.<br />This option is displayed only when using an external role authorization provider.<br /><img src="{{site.url}}/assets/650">
+    Under <em>refreshRoleOnLogin</em>, select <strong>No</strong>.<br />This option is displayed only when using an external role authorization provider.<br /><img src="../../assets/650">
   </li>
 </ol>
 
@@ -153,9 +153,9 @@ Only users who are authenticated by your systems and have MediaSpace user accoun
 
 On the Configuration Management panel Auth tab of the Kaltura MediaSpace Administration Area, the following MediaSpace login options are available for all authentication and authorization methods. 
 
-<img src="{{site.url}}/assets/651">
+<img src="../../assets/651">
 
-<img src="{{site.url}}/assets/652">
+<img src="../../assets/652">
 
 <p class="mce-heading-3">
   Enabling Authentication Methods
@@ -163,7 +163,7 @@ On the Configuration Management panel Auth tab of the Kaltura MediaSpace Adminis
 
 On the Configuration Management panel Auth tab of the Kaltura MediaSpace Administration Area, the following authentication methods are supported as part of the MediaSpace standard installation. When you select an authentication adapter, a set of relevant configuration fields is displayed to fill in. 
 
-<img src="{{site.url}}/assets/653">
+<img src="../../assets/653">
 
 *   **[LDAP Authentication][6]** – User authentication and credentials validation through direct access to the organizational LDAP or Active Directory server.
 *   **[SSO Gateway Authentication][7] **– A Kaltura generic gateway for integrating with a customer‑ specific login and authentication implementation, while providing the user with a Single Sign-On experience.
@@ -182,7 +182,7 @@ On the Configuration Management panel Auth tab of the Kaltura MediaSpace Adminis
 
 On the Configuration Management panel Auth tab of the Kaltura MediaSpace Administration Area, the following authorization methods are supported as part of the MediaSpace standard installation. When you select an authorization method, a set of relevant configuration fields is displayed to fill in.
 
-<img src="{{site.url}}/assets/654">
+<img src="../../assets/654">
 
 *   **[LDAP Authorization][6] **– The user’s application role in MediaSpace is determined based on organizational groups in which the user is a member, which are managed in the organization’s LDAP server. This authorization method usually is used together with the LDAP authentication method. The method also can be selected when using other authentication methods (SSO Gateway authentication, Kaltura authentication, and Header authentication).
 *   **[SSO Gateway Authorization][7] –** The user’s application role in MediaSpace is set and passed to MediaSpace as part of the customer-specific login and authentication implementation, which is set through the Kaltura SSO gateway interface. Always use this option with SSO Gateway authentication. This option cannot be used with any authentication method besides SSO Gateway authentication.
@@ -209,18 +209,18 @@ To learn more about integrating your LDAP server for authenticating users and au
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**.
 2.  Under *authNAdapter*, select **LDAP AuthN**.  
-    <img src="{{site.url}}/assets/655">
+    <img src="../../assets/655">
 3.  Select your preferences for the [common login options][12].
 4.  Under *refreshDetailsOnLogin*, select your preference.  
     This option affects the updating of the user’s first name, last name, and email address (when provided) from your LDAP system upon every login.  
-    <img src="{{site.url}}/assets/656">
+    <img src="../../assets/656">
 5.  Under *ldapServer*:
 <ol style="list-style-type: lower-alpha;">
   <li>
-    Select the LDAP Server access and bind settings.<br />Your <strong>bindMethod</strong> selection will affect the information you need to provide for authenticating the user.<br /><img src="{{site.url}}/assets/659">
+    Select the LDAP Server access and bind settings.<br />Your <strong>bindMethod</strong> selection will affect the information you need to provide for authenticating the user.<br /><img src="../../assets/659">
   </li>
   <li>
-    Select the LDAP attributes for first name, last name and email address.<br />Populating the user’s first and last name is used for several MediaSpace options that require the user name.<br />The email address is optional. This field is useful for user management and for future features (such as email notifications).<br /><img src="{{site.url}}/assets/660">
+    Select the LDAP attributes for first name, last name and email address.<br />Populating the user’s first and last name is used for several MediaSpace options that require the user name.<br />The email address is optional. This field is useful for user management and for future features (such as email notifications).<br /><img src="../../assets/660">
   </li>
 </ol>
 
@@ -235,21 +235,21 @@ To learn more about integrating your LDAP server for authenticating users and au
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**.
 2.  Under *authZAdapter*, select **LDAP AuthZ**.  
-    <img src="{{site.url}}/assets/661">
+    <img src="../../assets/661">
 3.  Under *refreshRoleOnLogin*, select your preference.  
     This option affects the updating of the user’s role from your LDAP system upon every login.   
-    <img src="{{site.url}}/assets/662">
+    <img src="../../assets/662">
 4.  Under *ldapOptions*, select your preferences for getting the list of groups in which the user is a member.  
     This option is used to determine the user's MediaSpace Application Role.  
     Under *groupsMatchingOrder*, enter the order for matching MediaSpace roles to LDAP groups. The order determines whether the strongest or weakest role is mapped first.  
     Your **groupSearch** selection will affect the information you need to provide.  
-    <img src="{{site.url}}/assets/663">
+    <img src="../../assets/663">
     LDAP Authorization Options - Get Groups from User  
       
-    <img src="{{site.url}}/assets/664">
+    <img src="../../assets/664">
     LDAP Authorization Options - Get User from Groups
 5.  Under *ldapGroups*, select your preferences to define the mappings between the groups defined in your LDAP server and the MediaSpace Application Roles.  
-    <img src="{{site.url}}/assets/665">
+    <img src="../../assets/665">
 
 <p class="mce-heading-3">
   <a name="SSOGatewayAuth"></a>Configuring SSO Gateway Authentication and Authorization
@@ -266,16 +266,16 @@ To learn more about integrating MediaSpace with your authentication systems usin
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**.
 2.  Under *authNAdapter*, select **SSO Gateway AuthN**.  
-    <img src="{{site.url}}/assets/666">
+    <img src="../../assets/666">
 3.  Select your preferences for the [common login options][12].
 4.  Under *refreshDetailsOnLogin*, select your preference.  
     This option affects the updating of the user’s first name, last name and email address (when provided) from your authentication system upon every login.  
-    <img src="{{site.url}}/assets/667">
+    <img src="../../assets/667">
 5.  Under *sso*, select your preferences for integrating the MediaSpace SSO Gateway with your login implementation:
 *   **loginUrl** – Enter the absolute URL where you host the login page.
 *   **logoutUrl** – Enter the URL to which MediaSpace redirects a user after invalidating the local MediaSpace session (for example, when a user clicks **logout**).
 *   On your site you may use this page to invalidate other authenticated sessions, if needed (for example, CAS login).
-*   A *sessionKey* URL parameter is automatically appended to the logout URL. This parameter securely encapsulates the user information, enabling you to know which user logged out. The *sessionKey* parameter is constructed using the [secret][14] shared with the login page.<img src="{{site.url}}/assets/668">
+*   A *sessionKey* URL parameter is automatically appended to the logout URL. This parameter securely encapsulates the user information, enabling you to know which user logged out. The *sessionKey* parameter is constructed using the [secret][14] shared with the login page.<img src="../../assets/668">
 
 6.  If you are using the MediaSpace SSO Gateway to authorize user access to MediaSpace with a specific application role, continue with the next procedure.
 
@@ -288,10 +288,10 @@ To learn more about integrating MediaSpace with your authentication systems usin
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**.
 2.  Under *authZAdapter*, select **SSO Gateway AuthZ**.  
-     <img src="{{site.url}}/assets/669">
+     <img src="../../assets/669">
 3.  Under *refreshRoleOnLogin*, select your preference.  
     This option affects the updating of the user’s role upon every login.  
-    <img src="{{site.url}}/assets/662">
+    <img src="../../assets/662">
 
 <p class="mce-heading-3">
   <a name="HeaderAuth"></a>Configuring Header Authentication
@@ -304,15 +304,15 @@ To learn more about integrating MediaSpace with your authentication systems usin
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**. 
 2.  Under *authNAdapter*, select **Header AuthN**.  
-    <img src="{{site.url}}/assets/670">
+    <img src="../../assets/670">
 3.  Select your preferences for the [common login options][12].
 4.  Under *refreshDetailsOnLogin*, select your preference.  
     This option affects the updating of the user’s first name, last name, and email address (when provided) from your authentication system upon every login.  
-    <img src="{{site.url}}/assets/667">
+    <img src="../../assets/667">
 5.  Under *headerAuth*, enter values for:
 *   **headerName** – the ID of the authenticated user
 *   **logoutUrl  
-    <img src="{{site.url}}/assets/671">
+    <img src="../../assets/671">
 
 <p class="mce-heading-3">
   <a name="KalturaAuth"></a>Configuring Kaltura Authentication and Authorization
@@ -331,7 +331,7 @@ Authenticating MediaSpace users in Kaltura also requires setting a password for 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.  
     After you complete and verify the following steps, click **Save**.
 2.  Under *authNAdapter*, select **Kms_Auth AuthN**.  
-    <img src="{{site.url}}/assets/672">
+    <img src="../../assets/672">
 3.  Select your preferences for the [common login options][12].
 
 <p class="mce-procedure">
@@ -341,7 +341,7 @@ Authenticating MediaSpace users in Kaltura also requires setting a password for 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.
 
 2.  Under *authZAdapter*, select **Kms_Auth AuthZ** and click **Save**.  
-    <img src="{{site.url}}/assets/673">
+    <img src="../../assets/673">
 
 <p class="mce-procedure">
   <a name="TocreateMediaSpaceuseraccounts"></a>To create MediaSpace user accounts that include a MediaSpace Application Role
@@ -351,13 +351,13 @@ Do one of the following:
 
 *   On the User Management panel of the Kaltura MediaSpace Administration Area, you can create and manage MediaSpace user accounts.  
     Use the list to manually manage all users in the partner account that have a MediaSpace role for the specific MediaSpace instance.  
-    <img src="{{site.url}}/assets/674">
+    <img src="../../assets/674">
 *   <a name="SubmitaKalturaendusersCSV"></a>Submit a Kaltura end-users CSV to create MediaSpace user accounts in bulk.    
       
     ***Note: There is a 5000 user limitation on channel and category members.** If more members are expected, please use Kaltura Groups . See* <a href="https://knowledge.kaltura.com/node/1672%20" target="_blank">Group Support in Kaltura Applications and Kaltura Groups FAQ</a> for additional information.  
       
     Use the following format:
-*   <img src="{{site.url}}/assets/675">
+*   <img src="../../assets/675">
 *   To learn more about the end-user CSV schema, refer to [End-Users CSV – Usage and Schema Description][16].
 *   The userId field must include a minimum of three characters.
 *   The MediaSpace Application Role is managed within the MediaSpace user metadata schema. Adjust the schema name in the example to include your MediaSpace **instanceId**. (You can copy the MediaSpace **instanceId **from the Configuration Management panel Application tab of the Kaltura MediaSpace Administration Area.)
@@ -367,7 +367,7 @@ Do one of the following:
 *   You can submit the end-users CSV in the following ways:
 *   On the User Management panel of the Kaltura MediaSpace Administration Area, click **Submit CSV**.
 *   In the KMC, select the Upload tab and then under Submit Bulk, select **End-Users CSV**.  
-    <img src="{{site.url}}/assets/676">
+    <img src="../../assets/676">
 
  [16]: http://knowledge.kaltura.com/node/464
  [17]: http://knowledge.kaltura.com/node/615#ModifyingApplicationRoleNames

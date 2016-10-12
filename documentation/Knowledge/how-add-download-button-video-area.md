@@ -23,4 +23,4 @@ For information on how to add the download button through the Universal studio p
 
  
 
- <img src="{{site.url}}/assets/154">
+ <img src="../../assets/154">

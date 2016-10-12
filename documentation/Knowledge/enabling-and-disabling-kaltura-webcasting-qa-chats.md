@@ -14,10 +14,10 @@ date: 2015-11-22 13:22:57
   
   <ol>
     <li>
-      Click on the Q&A Navigation menu and select <strong>Settings</strong>.<br /><img src="{{site.url}}/assets/2910">
+      Click on the Q&A Navigation menu and select <strong>Settings</strong>.<br /><img src="../../assets/2910">
     </li>
     <li>
-      Select the option <strong>Enable Q&A for this event</strong>.<br /><img src="{{site.url}}/assets/2911">
+      Select the option <strong>Enable Q&A for this event</strong>.<br /><img src="../../assets/2911">
     </li>
   </ol>
   
@@ -41,6 +41,6 @@ date: 2015-11-22 13:22:57
       Select the option <strong>Enable Q&A for this event</strong>.
     </li>
     <li>
-      Check <strong>Announcements only</strong>.<br /><img src="{{site.url}}/assets/2912">
+      Check <strong>Announcements only</strong>.<br /><img src="../../assets/2912">
     </li>
   </ol>

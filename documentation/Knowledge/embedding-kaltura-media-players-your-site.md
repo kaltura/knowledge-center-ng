@@ -55,10 +55,10 @@ To learn more about Kaltura media player features, refer to <a href="/introducti
 
 1.  Open the KMC and go to <a href="http://www.kaltura.com/index.php/kmc/kmc4#content%7Cmanage" target="_blank">Content>Manage</a>.
 2.  In the Entries Table, click **Preview & Embed** in the Publish column of the video that you want to embed.  
-    <img src="{{site.url}}/assets/206">
+    <img src="../../assets/206">
 3.  (Optional) In the Embedding window, select a specific player from the **Select Player** menu.  
       
-    <img src="{{site.url}}/assets/1573">
+    <img src="../../assets/1573">
       
     
 4.  In the Embedding window, click **Copy** to copy the embed code from the Embed Code field. 
@@ -464,7 +464,7 @@ Replace variables in braces {} – including the braces themselves – with the 
           <li>
             Under Account Info, copy the Partner ID value
           </li>
-        </ul><img src="{{site.url}}/assets/210">
+        </ul><img src="../../assets/210">
         
         <p class="mce-procedure">
           To find your player ID:
@@ -477,7 +477,7 @@ Replace variables in braces {} – including the braces themselves – with the 
           <li>
             Find the player and copy the ID value.
           </li>
-        </ul><img src="{{site.url}}/assets/211">
+        </ul><img src="../../assets/211">
         
         <p class="mce-procedure">
           To find your entry ID:

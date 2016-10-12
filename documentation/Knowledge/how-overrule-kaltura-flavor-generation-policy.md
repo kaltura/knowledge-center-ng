@@ -29,7 +29,7 @@ Transcoding flavors are automatically created from the ingested source file. The
 2.  Click on the Conversion Flavor for which you would like to create a higher bitrate flavor.  
     The default is set to "Use Kaltura's Optimization" which uses Kaltura's standard conversion logic, where file assets are not created for source files that have a bitrate that is lower than that of the flavor. 
 3.  Select "Flavor Generation Policy" to bypass the standard logic.  
-    <img src="{{site.url}}/assets/1440">
+    <img src="../../assets/1440">
 4.  Click Save. 
 
 The above steps ensure that the selected flavor assets are generated.

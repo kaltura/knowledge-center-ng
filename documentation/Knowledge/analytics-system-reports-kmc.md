@@ -18,7 +18,7 @@ The following system reports are available:
 
 ## <a name="PlatformReports"></a>Platform Reports
 
-The Platforms Report compares the different media delivery systems by the volume of video playing on each one.<img src="{{site.url}}/assets/997">
+The Platforms Report compares the different media delivery systems by the volume of video playing on each one.<img src="../../assets/997">
 
 <p class="Procedure mce-procedure">
   To display the System Reports
@@ -59,7 +59,7 @@ Each platform available displays a link to a drill down screen that opens the Op
 
 ## <a name="Platform_Drill"></a>Platform’s Drill Down Reports
 
-The Platform’s Drill Down Report compares the different Operating Systems by the volume of video playing on each one, for the specific platform it was directed from.<img src="{{site.url}}/assets/999">
+The Platform’s Drill Down Report compares the different Operating Systems by the volume of video playing on each one, for the specific platform it was directed from.<img src="../../assets/999">
 
 <p class="Procedure mce-procedure">
   To display the Platform Drill Down Report
@@ -99,7 +99,7 @@ The Operating Systems report compares the different Operating Systems by the vol
 
 ## <a name="BrowsersReport"></a>Browsers’ Report
 
-The Browsers’ Report compares the different browsers by the volume of video playing on each one.<img src="{{site.url}}/assets/1000">
+The Browsers’ Report compares the different browsers by the volume of video playing on each one.<img src="../../assets/1000">
 
 <p class="mce-procedure">
   To display the Browsers’ Report

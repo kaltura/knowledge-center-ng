@@ -17,7 +17,7 @@ date: 2011-12-27 10:48:05
 9.  Click **Save Changes**.
 
 <div>
-  <img src="{{site.url}}/assets/415">
+  <img src="../../assets/415">
 </div>
 
  

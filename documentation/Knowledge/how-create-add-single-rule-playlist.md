@@ -22,6 +22,6 @@ date: 2011-12-26 09:50:23
 >     *   Entry Name
 > 8.  Select the total number of entries you would like to include in the playlist via the Limit Playlist result box.
 > 9.  Click Save Changes to complete the process.  
->     <span style="font-family: David CLM Medium; font-size: small;"><img src="{{site.url}}/assets/128">
+>     <span style="font-family: David CLM Medium; font-size: small;"><img src="../../assets/128">
 
 <span style="font-family: David CLM Medium; font-size: small;"> </span>

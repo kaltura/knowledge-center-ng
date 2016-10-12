@@ -15,7 +15,7 @@ date: 2012-03-25 01:00:22
 1.  <span style="font-size: small;">In the Add Video Presentation window, select an item from a list of available video and audio items, and click <strong>Next</strong>.</span>
 2.  <span style="font-size: small;">In the Add Video Presentation window, select an item from a list of available documents and presentations, and click <strong>Next</strong> to create the video presentation.</span>
 3.  <span style="font-size: small;"><span style="font-size: small;">In the Edit Media window, synchronize the media and slides.</span></span>  
-    <span style="font-family: Times New Roman,serif;"><span style="font-size: medium;"><img src="{{site.url}}/assets/387">
+    <span style="font-family: Times New Roman,serif;"><span style="font-size: medium;"><img src="../../assets/387">
 <ol style="list-style-type: lower-alpha;">
   <li>
     <span style="font-size: small;">To start synchronizing the media with the slides, click <strong>Play</strong> in the media player. </span>

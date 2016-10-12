@@ -36,7 +36,7 @@ date: 2012-03-26 19:43:15
     <span style="font-size: small;">Select a player size</span>
   </li>
   <li>
-    <span style="font-size: small;">Copy the embed code.<br /><img src="{{site.url}}/assets/385">
+    <span style="font-size: small;">Copy the embed code.<br /><img src="../../assets/385">
   </li>
 </ol>
 

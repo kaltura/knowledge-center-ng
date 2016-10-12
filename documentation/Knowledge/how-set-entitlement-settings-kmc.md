@@ -33,7 +33,7 @@ The possible entitlement combination settings for different channel/category/gal
   </li>
 </ol>
 
-6.  Click Save & Close. <img src="{{site.url}}/assets/697">
+6.  Click Save & Close. <img src="../../assets/697">
 
 <p class="mce-heading-3">
   <a name="combo"></a>KMS Galleries / Channels Entitlements

@@ -12,4 +12,4 @@ date: 2012-02-26 14:23:59
 2.  Click on entry in the Entries table.  
     The custom data is displayed in the Metadata tab.
 3.  Add or modify the Custom Data values and click Save & Close.<span style="font-size: small;"><br /></span>The following screen demonstrates the values insertion page within a specific schema.  Use the scroll to view the entire schema information.  
-    <img src="{{site.url}}/assets/686">
+    <img src="../../assets/686">

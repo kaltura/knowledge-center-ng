@@ -66,7 +66,7 @@ A Kaltura Batch Scheduler can run as a single scheduler within the platform depl
 
 The following diagram illustrates the internal processing flow of a single batch task (import)
 
-<img src="{{site.url}}/assets/229">
+<img src="../../assets/229">
 
 1.  A new import task is added via Kaltura API as the first step of a content ingestion flow for a new rich-media file, following an end-user import action.
 2.  The Batch Scheduler executes a new batch process for executing the import job service.
@@ -80,7 +80,7 @@ The following diagram illustrates the internal processing flow of a single batch
 
 The following diagram describes the internal batch processing flow for full ingestion of rich-media files by the Kaltura online video platform - from import (detailed above) to full transcoding into various 'transcoding flavors' for playback.  This is a simplified flow of a successful ingestion process. 
 
-<img src="{{site.url}}/assets/230">
+<img src="../../assets/230">
 
 1.  The **Import batch process** transfers the new video file from its original location to the Kaltura platform
 2.  A** convert profile batch task** is created as a parent task to all the batch tasks related to the transcoding of the video file.  An** extract media batch task** is created as well. 

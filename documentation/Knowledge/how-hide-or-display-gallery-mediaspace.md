@@ -12,4 +12,4 @@ In a media gallery, click **hide** to hide the gallery.
 
 To re-display a gallery, click **show**.
 
-<span style="font-size: small;"><img src="{{site.url}}/assets/412">
+<span style="font-size: small;"><img src="../../assets/412">

@@ -40,7 +40,7 @@ date: 2012-03-26 19:36:30
     <span style="font-size: small;">Copy the playlist's embed code to paste it on a web site.</span>
   </li>
   <li>
-    <span style="font-size: small;">Select the layout and color of the playlist.<br /><img src="{{site.url}}/assets/379">
+    <span style="font-size: small;">Select the layout and color of the playlist.<br /><img src="../../assets/379">
   </li>
 </ol>
 

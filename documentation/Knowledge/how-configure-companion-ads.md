@@ -14,7 +14,7 @@ Kaltura’s platform makes it easy to add Companion Ads in either HTML or Flash.
 
 Choose whether to configure HTML or Flash-based Companion Ads.
 
- <img src="{{site.url}}/assets/262">
+ <img src="../../assets/262">
 
 <p class="Subheading mce-heading-1">
   <span style="font-size: small;"><br /></span>

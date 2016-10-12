@@ -99,7 +99,7 @@ Several mobile platforms do not support Flash plugins and subsequently the video
 
 The Kaltura Module is fully integrated with Drupal Views. You can create a dynamic display of filtered Kaltura content using Drupal Views. Default Views are provided with the Kaltura Module.
 
-The following shows an example of editing a View that is using Kaltura content. This specific example is one of the predefined views where <span>The Filter is set to image, and the sort a criterion is set to created date.<br /><img src="{{site.url}}/assets/495">
+The following shows an example of editing a View that is using Kaltura content. This specific example is one of the predefined views where <span>The Filter is set to image, and the sort a criterion is set to created date.<br /><img src="../../assets/495">
 
 A View that contains Kaltura content may also be configured and displayed as a block to allow greater design flexibility for your site.
 

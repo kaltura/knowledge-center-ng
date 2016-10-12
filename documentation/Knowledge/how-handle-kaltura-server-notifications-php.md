@@ -67,7 +67,7 @@ The KalturaNotificationClient constructor takes in the <a href="http://php.net
         Access the KMC, under settings/custom data add a new schema called apinotifications_sync_data
       </li>
       <li>
-        Add the following field to the profile:<br /><img src="{{site.url}}/assets/878">
+        Add the following field to the profile:<br /><img src="../../assets/878">
       </li>
     </ol>
     
@@ -112,7 +112,7 @@ The KalturaNotificationClient constructor takes in the <a href="http://php.net
       Open the following file: lib/Kaltura/Notification/Handler/SyncEntry.php
     </li>
     <li>
-      Find line 190 and add your code inline.<br /><img src="{{site.url}}/assets/879">
+      Find line 190 and add your code inline.<br /><img src="../../assets/879">
     </li>
   </ol>
 </div>

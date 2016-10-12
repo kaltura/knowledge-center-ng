@@ -77,10 +77,10 @@ date: 2015-10-12 00:19:26
       Click on a course and navigate to the Media Gallery.
     </li>
     <li>
-      In the Media Gallery page select Edit from the Actions drop down menu.<br /><img src="{{site.url}}/assets/2453">
+      In the Media Gallery page select Edit from the Actions drop down menu.<br /><img src="../../assets/2453">
     </li>
     <li>
-      Click on the Playlists Tab to display all the course's playlists.<br /><img src="{{site.url}}/assets/2454">
+      Click on the Playlists Tab to display all the course's playlists.<br /><img src="../../assets/2454">
     </li>
   </ol>
   
@@ -124,7 +124,7 @@ date: 2015-10-12 00:19:26
   
   <ol>
     <li>
-      Click on a course and navigate to the Media Gallery.<br /><img src="{{site.url}}/assets/2455">
+      Click on a course and navigate to the Media Gallery.<br /><img src="../../assets/2455">
     </li>
     <li>
       In the Media Gallery page select Edit from the Actions drop down menu.<br />The Edit Media Gallery page is displayed.
@@ -133,7 +133,7 @@ date: 2015-10-12 00:19:26
       Click on the <strong>Playlists</strong> Tab to display all the Media Gallery’s existing playlists.
     </li>
     <li>
-      Click <strong>Create New</strong> and from the menu and click <strong>Manual Playlist</strong>.<br /><img src="{{site.url}}/assets/2456">
+      Click <strong>Create New</strong> and from the menu and click <strong>Manual Playlist</strong>.<br /><img src="../../assets/2456">
     </li>
     <li>
       Enter the following details:
@@ -151,7 +151,7 @@ date: 2015-10-12 00:19:26
     </ol>
     
     <li>
-      Click Add Media.<br /><img src="{{site.url}}/assets/2457">
+      Click Add Media.<br /><img src="../../assets/2457">
     </li>
     <li>
       In the Add Media section you can:
@@ -200,7 +200,7 @@ date: 2015-10-12 00:19:26
       Click on the <strong>Playlists</strong> Tab to display all the course's existing playlists.
     </li>
     <li>
-      Click <strong>Edit.<img src="{{site.url}}/assets/2460">
+      Click <strong>Edit.<img src="../../assets/2460">
     </li>
     <li>
       In the Set Details section, edit the text in the fields and click <strong>Save</strong>
@@ -219,10 +219,10 @@ date: 2015-10-12 00:19:26
       Select Edit from the Actions drop down menu.<br />The Edit Page is displayed.
     </li>
     <li>
-      Click on the <strong>Playlists</strong> Tab to display all the course's existing playlists.<br /><img src="{{site.url}}/assets/2461">
+      Click on the <strong>Playlists</strong> Tab to display all the course's existing playlists.<br /><img src="../../assets/2461">
     </li>
     <li>
-      Click <strong>Edit</strong>.<strong><img src="{{site.url}}/assets/2463">
+      Click <strong>Edit</strong>.<strong><img src="../../assets/2463">
     </li>
     <li>
       <strong>Click Add Media.</strong>
@@ -252,7 +252,7 @@ date: 2015-10-12 00:19:26
   </p>
   
   <p class="Figure">
-    <img src="{{site.url}}/assets/2465">
+    <img src="../../assets/2465">
   </p>
   
   <p class="Figure mce-note-graphic">
@@ -277,7 +277,7 @@ date: 2015-10-12 00:19:26
       Click on the Playlists Tab to display all the course’s existing playlists.<br />The embed feature supports the following media formats: <strong>Video</strong>, <strong>Audio, </strong><strong>Image, Live and YouTube</strong>.
     </li>
     <li>
-      Choose the playlist that you want to Embed and click <strong>Embed</strong>.<br /><br /><img src="{{site.url}}/assets/2467">
+      Choose the playlist that you want to Embed and click <strong>Embed</strong>.<br /><br /><img src="../../assets/2467">
     </li>
     <li>
       Choose the Embed Type code to be generated.
@@ -318,7 +318,7 @@ date: 2015-10-12 00:19:26
       Drag and drop to reorder the playlists.
     </li>
     <li>
-      Click <strong>Save</strong> to apply your changes.<br /><img src="{{site.url}}/assets/2469">
+      Click <strong>Save</strong> to apply your changes.<br /><img src="../../assets/2469">
     </li>
   </ol>
   
@@ -331,7 +331,7 @@ date: 2015-10-12 00:19:26
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2470">
+    <img src="../../assets/2470">
   </p>
   
   <p>
@@ -356,16 +356,16 @@ date: 2015-10-12 00:19:26
   
   <ol>
     <li>
-      Click on a course and navigate to the Media Gallery.<br /><img src="{{site.url}}/assets/2471">
+      Click on a course and navigate to the Media Gallery.<br /><img src="../../assets/2471">
     </li>
     <li>
-      Click on a playlist title to open the Course Playlists Page.<br /><img src="{{site.url}}/assets/2472">
+      Click on a playlist title to open the Course Playlists Page.<br /><img src="../../assets/2472">
     </li>
   </ol>
   
   <ul>
     <li>
-      The left pane lists the videos included in the course playlist. The currently playing item is displayed at the top of the playlist .Use the navigation buttons to skip back and forwards between the videos:<br /><img src="{{site.url}}/assets/2474">
+      The left pane lists the videos included in the course playlist. The currently playing item is displayed at the top of the playlist .Use the navigation buttons to skip back and forwards between the videos:<br /><img src="../../assets/2474">
     </li>
   </ul>
   
@@ -388,7 +388,7 @@ date: 2015-10-12 00:19:26
       <strong>Player</strong> - uses standard video player features.
     </li>
     <li>
-      <strong>Details</strong> - clicking on Details shows the description, the tags associated with the item and where the item appears.<br /><img src="{{site.url}}/assets/2475">
+      <strong>Details</strong> - clicking on Details shows the description, the tags associated with the item and where the item appears.<br /><img src="../../assets/2475">
     </li>
     <li>
       <strong>Share</strong> - click <strong>Share</strong> to display the different options for sharing and embedding the current media item. For more information see <a href="file:///C:/Users/debbie.zioni/Documents/KAF/Course%20Playlists.docx#_Embedding_a_Playlist">Embedding a Playlist</a>.

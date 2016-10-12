@@ -26,7 +26,7 @@ Draft entries are entries created without actual content, and are used as a cont
 
 The ingestion status for a Draft entry is No Media. The following is an example of a Draft entry in the KMC.
 
-<img src="{{site.url}}/assets/1142">
+<img src="../../assets/1142">
 
  
 

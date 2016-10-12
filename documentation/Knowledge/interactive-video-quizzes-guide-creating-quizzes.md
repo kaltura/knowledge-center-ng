@@ -128,13 +128,13 @@ date: 2016-01-07 00:58:14
       Log into MediaSpace or into your KAF based application.
     </li>
     <li>
-      Click the Add New drop-down menu and choose Video Quiz from the list.<br /><img src="{{site.url}}/assets/2812"><br />The Media Selection window opens.
+      Click the Add New drop-down menu and choose Video Quiz from the list.<br /><img src="../../assets/2812"><br />The Media Selection window opens.
     </li>
     <li>
       In the Media Selection window, choose the video that you want to create a quiz for.
     </li>
     <li>
-      Click<strong> Select </strong>next to the desired video. After you select your video, MediaSpace or your KAF instance, automatically loads the video and opens the Quiz Editor’s <em>General</em> window.<br /><img src="{{site.url}}/assets/2814">
+      Click<strong> Select </strong>next to the desired video. After you select your video, MediaSpace or your KAF instance, automatically loads the video and opens the Quiz Editor’s <em>General</em> window.<br /><img src="../../assets/2814">
     </li>
   </ol>
   
@@ -144,7 +144,7 @@ date: 2016-01-07 00:58:14
   
   <ul>
     <li>
-      You can also create a quiz from within an entry page. Select ‘Add quiz’ from the Actions drop down menu to open the quiz editor.<br /><img src="{{site.url}}/assets/2815">
+      You can also create a quiz from within an entry page. Select ‘Add quiz’ from the Actions drop down menu to open the quiz editor.<br /><img src="../../assets/2815">
     </li>
   </ul>
   
@@ -180,7 +180,7 @@ date: 2016-01-07 00:58:14
       The video player on the left side - for playing back the video and adding a question at a specific point in time
     </li>
     <li>
-      The timeline at the bottom - shows the questions on the timeline as they form<br /><img src="{{site.url}}/assets/2814">
+      The timeline at the bottom - shows the questions on the timeline as they form<br /><img src="../../assets/2814">
     </li>
   </ul>
   
@@ -204,25 +204,25 @@ date: 2016-01-07 00:58:14
     <li>
       In the Quiz Editor’s <em>General</em> window, define the following information:<br /><ol style="list-style-type: lower-alpha;">
         <li>
-          Quiz Name – give your quiz a name that will be easily remembered and that is based on the video subject name. The quiz name default is the entry name it was based on followed by the word "- quiz".<br /><img src="{{site.url}}/assets/2816">
+          Quiz Name – give your quiz a name that will be easily remembered and that is based on the video subject name. The quiz name default is the entry name it was based on followed by the word "- quiz".<br /><img src="../../assets/2816">
         </li>
         <li>
-          Welcome Message – Use this box to add a message to the quiz window welcoming your users. You can keep the default message that appears in the Quiz Editor, or write your own message. Leave the text box blank if you do not want a message to appear.<br /><img src="{{site.url}}/assets/2817">
+          Welcome Message – Use this box to add a message to the quiz window welcoming your users. You can keep the default message that appears in the Quiz Editor, or write your own message. Leave the text box blank if you do not want a message to appear.<br /><img src="../../assets/2817">
         </li>
         <li>
-          In-Video tip – check this box if you want the default tip text to appear, as illustrated. Important to note that indeed all questions must be answered before the quiz can be submitted. Partially answered quizzes are not accepted by the system, so it is advisable to let your audience know that.<br /><img src="{{site.url}}/assets/2818">
+          In-Video tip – check this box if you want the default tip text to appear, as illustrated. Important to note that indeed all questions must be answered before the quiz can be submitted. Partially answered quizzes are not accepted by the system, so it is advisable to let your audience know that.<br /><img src="../../assets/2818">
         </li>
         <li>
-          Question List – check this box if you want to provide your users a downloadable list of the quiz questions that they can review before viewing the video. Uncheck the box if you do not wish to provide a list of the questions.<br /><img src="{{site.url}}/assets/2819">
+          Question List – check this box if you want to provide your users a downloadable list of the quiz questions that they can review before viewing the video. Uncheck the box if you do not wish to provide a list of the questions.<br /><img src="../../assets/2819">
         </li>
       </ol>
     </li>
     
     <li>
-      If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults</strong> to reinstate the default values.<br /><img src="{{site.url}}/assets/2966">
+      If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults</strong> to reinstate the default values.<br /><img src="../../assets/2966">
     </li>
     <li>
-      Click Apply to save your changes.<br /><img src="{{site.url}}/assets/2967">
+      Click Apply to save your changes.<br /><img src="../../assets/2967">
     </li>
   </ol>
   
@@ -248,24 +248,24 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      After you apply your changes in the <em>General</em> window, the Quiz Editor’s <em>Experience</em> window opens.<br /><img src="{{site.url}}/assets/2822">
+      After you apply your changes in the <em>General</em> window, the Quiz Editor’s <em>Experience</em> window opens.<br /><img src="../../assets/2822">
     </li>
     <li>
       Configure the Experience window to define the user experience during the quiz, including the following:<br /><ol style="list-style-type: lower-alpha;">
         <li>
-          Edit Answer – check this box if you want your audience to be able to edit (change) their answers before submitting them.<br /><img src="{{site.url}}/assets/2823">
+          Edit Answer – check this box if you want your audience to be able to edit (change) their answers before submitting them.<br /><img src="../../assets/2823">
         </li>
         <li>
-          Skip for Now – check this box if you want to allow your audience to skip a question and answer the question later.If you want to return to the previous window, click <strong>Back</strong> to return to the General window.<br /><img src="{{site.url}}/assets/2824">
+          Skip for Now – check this box if you want to allow your audience to skip a question and answer the question later.If you want to return to the previous window, click <strong>Back</strong> to return to the General window.<br /><img src="../../assets/2824">
         </li>
       </ol>
     </li>
     
     <li>
-      If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults </strong>to reinstate the default values.<br /><img src="{{site.url}}/assets/2825">
+      If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults </strong>to reinstate the default values.<br /><img src="../../assets/2825">
     </li>
     <li>
-      <strong> </strong>Click <strong>Apply</strong> to save your changes.<br /><img src="{{site.url}}/assets/2826">
+      <strong> </strong>Click <strong>Apply</strong> to save your changes.<br /><img src="../../assets/2826">
     </li>
   </ol>
   
@@ -283,27 +283,27 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      After you apply your changes in the <em>Experience</em> window, the Quiz Editor’s <em>Score</em> window opens.<br /><img src="{{site.url}}/assets/2833">
+      After you apply your changes in the <em>Experience</em> window, the Quiz Editor’s <em>Score</em> window opens.<br /><img src="../../assets/2833">
     </li>
     <li>
       Define the score parameters when the user submits the quiz, including the following:<br /><ol style="list-style-type: lower-alpha;">
         <li>
-          Do Not Show Scores – enable this radio button if you do not want to show scores.<br /><img src="{{site.url}}/assets/2834">
+          Do Not Show Scores – enable this radio button if you do not want to show scores.<br /><img src="../../assets/2834">
         </li>
         <li>
-          Show Scores – enable this radio button if you want your users to be able to view their scores.<br /><img src="{{site.url}}/assets/2835">
+          Show Scores – enable this radio button if you want your users to be able to view their scores.<br /><img src="../../assets/2835">
         </li>
         <li>
-          Include Feedback – check this box if you want your users to be able to see correct and incorrect answers. This feedback is presented with the score after the quiz is submitted and NOT after each question that was answered.<br /><img src="{{site.url}}/assets/2836">
+          Include Feedback – check this box if you want your users to be able to see correct and incorrect answers. This feedback is presented with the score after the quiz is submitted and NOT after each question that was answered.<br /><img src="../../assets/2836">
         </li>
       </ol>
     </li>
     
     <li>
-      If you want to return to the previous window, Click <strong>Back</strong> to return to the Experience window.If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults </strong>to reinstate the default values.<br /><img src="{{site.url}}/assets/2837">
+      If you want to return to the previous window, Click <strong>Back</strong> to return to the Experience window.If you make changes and then decide you prefer the default settings, click <strong>Revert to defaults </strong>to reinstate the default values.<br /><img src="../../assets/2837">
     </li>
     <li>
-      Click <strong>Apply</strong> to save your changes.<br /><img src="{{site.url}}/assets/2838">
+      Click <strong>Apply</strong> to save your changes.<br /><img src="../../assets/2838">
     </li>
   </ol>
   
@@ -312,7 +312,7 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p style="padding-left: 30px;">
-    After you apply your changes in the Scores window, the Quiz Editor’s Add Questions window opens.<br /><img src="{{site.url}}/assets/2839">
+    After you apply your changes in the Scores window, the Quiz Editor’s Add Questions window opens.<br /><img src="../../assets/2839">
   </p>
   
   <ul>
@@ -335,13 +335,13 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To add a question, watch the video and press Pause where you wish to insert a question. The player screen appears as follows.<br /><img src="{{site.url}}/assets/2840">
+      To add a question, watch the video and press Pause where you wish to insert a question. The player screen appears as follows.<br /><img src="../../assets/2840">
     </li>
     <li>
-      Press the + button in the center of the screen to add a question.<br /><img src="{{site.url}}/assets/2843">
+      Press the + button in the center of the screen to add a question.<br /><img src="../../assets/2843">
     </li>
     <li>
-      Enter your question where indicated on the player’s question screen.<br /><img src="{{site.url}}/assets/2844">
+      Enter your question where indicated on the player’s question screen.<br /><img src="../../assets/2844">
     </li>
   </ol>
   
@@ -357,19 +357,19 @@ date: 2016-01-07 00:58:14
     <li>
       After you enter the question in the player’s question screen, define possible answers:<br /><ol style="list-style-type: lower-alpha;">
         <li>
-          Enter the correct answer where indicated on the player’s question screen. It indicates it with text and also with <strong>green</strong> color.<br /><img src="{{site.url}}/assets/2848">
+          Enter the correct answer where indicated on the player’s question screen. It indicates it with text and also with <strong>green</strong> color.<br /><img src="../../assets/2848">
         </li>
         <li>
-          Add the additional answer (the wrong answer) where indicated on the player’s question screen.<br /><img src="{{site.url}}/assets/2852">
+          Add the additional answer (the wrong answer) where indicated on the player’s question screen.<br /><img src="../../assets/2852">
         </li>
         <li>
-          For each additional answer, click the + button to open another answer box.<br /><img src="{{site.url}}/assets/2849">
+          For each additional answer, click the + button to open another answer box.<br /><img src="../../assets/2849">
         </li>
       </ol>
     </li>
     
     <li>
-      Click Save at the bottom side of the question screen to save your question and answers.<br /><img src="{{site.url}}/assets/2853">
+      Click Save at the bottom side of the question screen to save your question and answers.<br /><img src="../../assets/2853">
     </li>
     <li>
       Click Delete to delete your question and return to the player’s initial question screen.
@@ -386,22 +386,22 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To add a hint, press the light bulb button at the top right of the player’s question screen.<br /><img src="{{site.url}}/assets/2858">
+      To add a hint, press the light bulb button at the top right of the player’s question screen.<br /><img src="../../assets/2858">
     </li>
     <li>
-      Press the Hint button to open the Hint text screen.<br /><img src="{{site.url}}/assets/2857">
+      Press the Hint button to open the Hint text screen.<br /><img src="../../assets/2857">
     </li>
     <li>
-      Enter your hint in the text box.<br /><img src="{{site.url}}/assets/2859">
+      Enter your hint in the text box.<br /><img src="../../assets/2859">
     </li>
     <li>
-      Click <strong>Apply </strong>at the bottom right of the screen to save the hint and return to the question screen.<br /><img src="{{site.url}}/assets/2860">
+      Click <strong>Apply </strong>at the bottom right of the screen to save the hint and return to the question screen.<br /><img src="../../assets/2860">
     </li>
     <li>
-      Click <strong>Remove</strong> to delete the hint text and return to the question screen.<br /><img src="{{site.url}}/assets/2861">
+      Click <strong>Remove</strong> to delete the hint text and return to the question screen.<br /><img src="../../assets/2861">
     </li>
     <li>
-      After you add<strong> a </strong> Hint  a small ‘V’ icon is added on the hint button.<br /><img src="{{site.url}}/assets/2862">
+      After you add<strong> a </strong> Hint  a small ‘V’ icon is added on the hint button.<br /><img src="../../assets/2862">
     </li>
     <li>
       When you return to the question screen, click <strong>Save</strong> to save the hint with the question and exist the question.
@@ -433,7 +433,7 @@ date: 2016-01-07 00:58:14
       To edit an existing question, access the video screen.
     </li>
     <li>
-      Hover your cursor over the question points on the video time bar that appears underneath the player to see the question text and find the question you want to edit.<br /><img src="{{site.url}}/assets/2863">
+      Hover your cursor over the question points on the video time bar that appears underneath the player to see the question text and find the question you want to edit.<br /><img src="../../assets/2863">
     </li>
     <li>
       Click on the question point to open the question screen for the question you wish to edit.
@@ -460,7 +460,7 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To move a question’s location in the video, click on the question point in the video time bar that appears underneath the player.<br /><img src="{{site.url}}/assets/2864">
+      To move a question’s location in the video, click on the question point in the video time bar that appears underneath the player.<br /><img src="../../assets/2864">
     </li>
     <li>
       Drag it to the location where you want it to be.
@@ -488,7 +488,7 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      In the question screen, click on the Shuffle button.<br /><img src="{{site.url}}/assets/2865">
+      In the question screen, click on the Shuffle button.<br /><img src="../../assets/2865">
     </li>
     <li>
       With each click, the correct answer moves through the list of answers.
@@ -519,13 +519,13 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To write the rationale for a question, click the light bulb button at the right top of the question screen.<br /><img src="{{site.url}}/assets/2866">
+      To write the rationale for a question, click the light bulb button at the right top of the question screen.<br /><img src="../../assets/2866">
     </li>
     <li>
-      Press <strong>Why</strong> to open the rationale text window.<br /><img src="{{site.url}}/assets/2867">
+      Press <strong>Why</strong> to open the rationale text window.<br /><img src="../../assets/2867">
     </li>
     <li>
-      Enter the rationale for the question’s correct answer.<br />After a Rationale was added a small ‘V’ icon is added on the ‘Why’ button.<br /><img src="{{site.url}}/assets/2868">
+      Enter the rationale for the question’s correct answer.<br />After a Rationale was added a small ‘V’ icon is added on the ‘Why’ button.<br /><img src="../../assets/2868">
     </li>
     <li>
       Click <strong>Apply</strong> to save your changes and return to the question screen.
@@ -548,12 +548,12 @@ date: 2016-01-07 00:58:14
   </p>
   
   <p style="padding-left: 30px;">
-    If you try to save an empty question and answer screen, the Quiz Editor posts this error:<br /><img src="{{site.url}}/assets/2869">
+    If you try to save an empty question and answer screen, the Quiz Editor posts this error:<br /><img src="../../assets/2869">
   </p>
   
   <ol>
     <li>
-      Click OK to close the message, return to the empty question screen, and enter the question and answers.<br />If you try perform a different activity before saving your current activity, the Quiz Editor posts this error:<br /><img src="{{site.url}}/assets/2870">
+      Click OK to close the message, return to the empty question screen, and enter the question and answers.<br />If you try perform a different activity before saving your current activity, the Quiz Editor posts this error:<br /><img src="../../assets/2870">
     </li>
     <li>
       Click Cancel to return to your previous activity and save your work. Click OK if you want to continue without saving.
@@ -582,13 +582,13 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      During its creation process or after you are satisfied with your quiz, the questions and answers, and their placement, click the ‘Preview Quiz’ button under the Quiz Editor to preview the quiz.<br /><img src="{{site.url}}/assets/2872">
+      During its creation process or after you are satisfied with your quiz, the questions and answers, and their placement, click the ‘Preview Quiz’ button under the Quiz Editor to preview the quiz.<br /><img src="../../assets/2872">
     </li>
     <li>
-      To edit your quiz, click Actions on the right side below the player.<br /><img src="{{site.url}}/assets/2873">
+      To edit your quiz, click Actions on the right side below the player.<br /><img src="../../assets/2873">
     </li>
     <li>
-      From the drop-down list, choose Edit Quiz.<br /><img src="{{site.url}}/assets/2874">
+      From the drop-down list, choose Edit Quiz.<br /><img src="../../assets/2874">
     </li>
   </ol>
   
@@ -685,10 +685,10 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      Go to <em>Analytics</em> under <em>Actions.<br /><img src="{{site.url}}/assets/2896">
+      Go to <em>Analytics</em> under <em>Actions.<br /><img src="../../assets/2896">
     </li>
     <li>
-      In the Average Score box, you can view the quiz's average score of all the users that have taken the quiz until now.<br /><img src="{{site.url}}/assets/2988">
+      In the Average Score box, you can view the quiz's average score of all the users that have taken the quiz until now.<br /><img src="../../assets/2988">
     </li>
   </ol>
   
@@ -698,13 +698,13 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To view how specific users scored on the quiz, click the Q<em>uiz Users</em> tab.<br /><img src="{{site.url}}/assets/2990">
+      To view how specific users scored on the quiz, click the Q<em>uiz Users</em> tab.<br /><img src="../../assets/2990">
     </li>
     <li>
       Click Export to CSV file or Printable Version to export or print  the data in this report.
     </li>
     <li>
-      Alternatively, click on the Dashboard to view this report.<br /><img src="{{site.url}}/assets/3017">
+      Alternatively, click on the Dashboard to view this report.<br /><img src="../../assets/3017">
     </li>
   </ol>
   
@@ -714,13 +714,13 @@ date: 2016-01-07 00:58:14
   
   <ol>
     <li>
-      To view how specific questions were answered, click Quiz Questions.<br /><img src="{{site.url}}/assets/3019">
+      To view how specific questions were answered, click Quiz Questions.<br /><img src="../../assets/3019">
     </li>
     <li>
       <span></span>Click Export to CSV file or Printable Version to export or print the data in this report.
     </li>
     <li>
-      Alternatively, click on the Dashboard to view this report.<br /><img src="{{site.url}}/assets/3020">
+      Alternatively, click on the Dashboard to view this report.<br /><img src="../../assets/3020">
     </li>
   </ol>
   

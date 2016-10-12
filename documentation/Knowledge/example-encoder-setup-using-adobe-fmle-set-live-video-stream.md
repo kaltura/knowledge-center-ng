@@ -75,7 +75,7 @@ date: 2015-11-01 15:35:40
   </ol>
   
   <p style="padding-left: 30px;">
-    <img src="{{site.url}}/assets/2533">
+    <img src="../../assets/2533">
   </p>
   
   <p style="padding-left: 30px;">
@@ -95,7 +95,7 @@ date: 2015-11-01 15:35:40
       Verify that you have created the Webcast event, set up the encoder and have your slides, presenters, moderators and attendees invited to begin broadcasting.
     </li>
     <li>
-      Launch the Kaltura Webcasting application.<br />You will see an <strong>On-Air</strong> indication when there's a live broadcast and the first slide will be broadcast automatically. <br /><br /><img src="{{site.url}}/assets/3456">
+      Launch the Kaltura Webcasting application.<br />You will see an <strong>On-Air</strong> indication when there's a live broadcast and the first slide will be broadcast automatically. <br /><br /><img src="../../assets/3456">
     </li>
   </ol>
   

@@ -11,7 +11,7 @@ date: 2013-12-15 14:39:22
 1.  Be certain that your content has both iPad/iPhone flavors.
 2.  The 'Support Mobile' check-box in the Kaltura Video Building Block for Blackboard Configuration page is checked. 
 
-<span style="font-size: 10pt; font-weight: bold;"><img src="{{site.url}}/assets/1273">
+<span style="font-size: 10pt; font-weight: bold;"><img src="../../assets/1273">
 
 <span style="font-size: 10pt; font-weight: bold;"> </span>
 

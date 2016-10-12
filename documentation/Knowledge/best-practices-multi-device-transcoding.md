@@ -103,7 +103,7 @@ Let's start with that word "transcoding".  A correctly formatted video master w
 
 A user wishes to take a piece of video shot in 1920 x 1080 and make it playable in an adaptive player on the internet. In order to do this the Master Video, which is of a high quality at 1080 in resolution, must be converted to at least 3 or more different bitrates that may even scale down in resolution.
 
-<img src="{{site.url}}/assets/198">
+<img src="../../assets/198">
 
 Note that the 1920 x 1080 master video which was created at 80 mbps is converted to four different and more compressed bit rates. Though the first on the list is a 1920x1080 resolution the bit rate is only 4000 kbps, much lower than the 80,000 kbps (or 80 Mbps) stream. The next three bitrates that are produced scale down from the 1080 resolution to 720 and then 480 – making this video playable for a wide range of users and connections.
 
@@ -169,7 +169,7 @@ A household who's data plan is limited to 3 Mbps can not handle a bit rate that 
   <em>Example: AT&T's ISP Connections By Data Plan (<a href="http://www.att.com/shop/internet/?gnLinkId=s2004#fbid=o2ZQRgwaUXE" target="_blank">Source</a>):</em>
 </p>
 
-<img src="{{site.url}}/assets/199">
+<img src="../../assets/199">
 
 If you are using Akamai  HD HTTP Streaming bit rate spikes are less of an issue as it uses client side caching allowing for a higher threshold – however  if network conditions worsen those spikes may still present a problem. 
 
@@ -412,7 +412,7 @@ Here are some common Theatrical and Broadcast Aspect Ratios:
 
 The key to video encoding is the use of compression – taking a large resolution image as it might appear on 35mm film or HD video and making it viewable by a home user. Though bit rates and resolutions do much of the work to create a balanced viewing experience there are other factors that also contribute to this compression. The most vital of these is the I-Frame Interval, sometimes referred to as the Key Frame Interval or the Instantaneous Decoder Refresh (IDR). All refer to essentially the same thing – the need for a reference frame from which guesses can be made about the subsequent frames. Every frame of video of a master once transcoded is not fully represented. 
 
-<img src="{{site.url}}/assets/201">
+<img src="../../assets/201">
 
 Every encoder has the ability to call out how far apart key frames are created – this is referred to as the Key Frame Interval also known as the i-Frame interval.  The frames in between Key frames are called P-Frames (predictive coded picture) and B-Frames (bi-directionally predictive) . P frames make a guess as to what the picture looks like based on those Kay Frames. B frames are additional reference frames that help improve the quality of P-Frames and the overall look of the stream. 
 
@@ -490,7 +490,7 @@ A master file intended for transcoding is often referred to as a Mezzanine file 
 
 Ideally the video master should be at the native resolution of active picture – in other words – if the video has an aspect ratio of 178 than the master should be 178, if the video, however, was 235 the master should also be 235 with no burned in matting.
 
-<img src="{{site.url}}/assets/202">
+<img src="../../assets/202">
 
 The above is an example of a 1.78 master that contains 2.40 active pictures - meaning that if you looked at this video master on a monitor you would see black mattes recorded, or burned, into the master. If this master was transcoded as 1.78 those black mattes would remain and take away from the image quality by consuming more bits. Mattes should be removed to maximize picture quality and the active picture should be reflected in the final output dimensions.
 
@@ -2582,7 +2582,7 @@ The above bit rates may appear at first to be daunting but remember – you can 
   HTML5 Video Formats Browser Compatibility
 </p>
 
-<img src="{{site.url}}/assets/204">
+<img src="../../assets/204">
 
 * Denotes Manual Install - meaning user will have to manually install a plugin or application.  
 ** Possible on some systems if the HTML5 extension for Windows Media Player Firefox plug-in is installed [28] - Note taken from Wikipedia.  
@@ -2598,7 +2598,7 @@ Above chart references: 
  [1]: http://html5video.org/wiki/Kaltura_Video_Library_Compatibility_Chart
  [2]: http://en.wikipedia.org/wiki/Comparison_of_container_formats
 
-<img src="{{site.url}}/assets/205">
+<img src="../../assets/205">
 
  * Will not function properly on older smart phones - for those older phones, 3GP is recommended.
 

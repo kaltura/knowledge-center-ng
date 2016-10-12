@@ -58,22 +58,22 @@ date: 2013-01-03 14:39:54
 
 1.  Download 'Fiddler' software from <a href="http://www.fiddler2.com/Fiddler2/version.asp" target="_blank">http://www.fiddler2.com/Fiddler2/version.asp</a>
 2.  Open the installer file and follow the installation instructions.
-3.  Once installed, open the software and make sure it is Capturing traffic:<img src="{{site.url}}/assets/946">
+3.  Once installed, open the software and make sure it is Capturing traffic:<img src="../../assets/946">
     Firefox may be configured to use its own Proxy settings. If you see no traffic recorded, please see [http://www.fiddlertool.com/fiddler/help/hookup.asp#Q-NonIE.  
     ][1]  
     <span class="mce-procedure">To capture traffic that is transferred through HTTPs / SSL use the followings instructions:</span>
 <ol style="list-style-type: lower-alpha;">
   <li>
-    Go to Fiddler open Tools->Fiddler options.<img src="{{site.url}}/assets/951">
+    Go to Fiddler open Tools->Fiddler options.<img src="../../assets/951">
   </li>
   <li>
-    In the Fiddler options menu, select the HTTPS tab and mark the "capture HTTPS CONNECTs and Decrypt HTTPS traffic" options.<img src="{{site.url}}/assets/947">
+    In the Fiddler options menu, select the HTTPS tab and mark the "capture HTTPS CONNECTs and Decrypt HTTPS traffic" options.<img src="../../assets/947">
   </li>
 </ol>
 
 4.  [][1]Clear the browser cache.
 5.  Recreate the issue while Fiddler is running and Capturing.
-6.  After capturing the event please save it as a .saz file.<img src="{{site.url}}/assets/948">
+6.  After capturing the event please save it as a .saz file.<img src="../../assets/948">
 
  [1]: http://www.fiddlertool.com/fiddler/help/hookup.asp#Q-NonIE
 
@@ -92,13 +92,13 @@ date: 2013-01-03 14:39:54
 1.  Download the software 'Charles Proxy' from <a href="http://www.charlesproxy.com/download/" target="_blank">http://www.charlesproxy.com/download/</a>
 2.  Install the software and run it.
 3.  When the software opens, in the upper left corner of the window the red dot "recording" should be highlighted – if it isn’t, click the button to “Start/Stop recording".  
-    <img src="{{site.url}}/assets/943">
+    <img src="../../assets/943">
       
     If you need to capture HTTP / SSL traffic, see <http://www.charlesproxy.com/documentation/proxying/ssl-proxying/>
 4.  [][2]Clear the browser cache.
 5.  Recreate the issue you are experiencing while Charles is running.
 6.  Once done, click on File->Save As, and select a unique name.  
-    <img src="{{site.url}}/assets/944">
+    <img src="../../assets/944">
     * additional information about 'Charles' can be found @ <a href="http://www.charlesproxy.com/documentation/" target="_blank">http://www.charlesproxy.com/documentation/</a>
 
  [2]: http://www.charlesproxy.com/documentation/proxying/ssl-proxying/
@@ -124,17 +124,17 @@ date: 2013-01-03 14:39:54
 3.  Restart Firefox.  
     If you need to capture traffic that is transferred through HTTPs / SSL use the followings instructions:<ol style="list-style-type: lower-alpha;">
       <li>
-        Go to Fiddler open Tools->Fiddler options.<br /><img src="{{site.url}}/assets/951">
+        Go to Fiddler open Tools->Fiddler options.<br /><img src="../../assets/951">
       </li>
       <li>
-        In the Fiddler options menu, select the HTTPS tab and mark the "capture HTTPS CONNECTs and Decrypt HTTPS traffic" options.<img src="{{site.url}}/assets/947">
+        In the Fiddler options menu, select the HTTPS tab and mark the "capture HTTPS CONNECTs and Decrypt HTTPS traffic" options.<img src="../../assets/947">
       </li>
     </ol>
 
 4.  To activate 'Firebug',  click 'F12',  or  the FireBug icon located at the top panel.  
-    <img src="{{site.url}}/assets/939">
+    <img src="../../assets/939">
     A console will open at the bottom of the screen.
-5.  Click on 'Net' > 'All'  to capture all web traffic. You should see HTTP traffic being logged at the console.<img src="{{site.url}}/assets/941">
+5.  Click on 'Net' > 'All'  to capture all web traffic. You should see HTTP traffic being logged at the console.<img src="../../assets/941">
 6.  Recreate the issue and export it as 'HAR' file. Send us the .har file.
 
 <p dir="LTR">
@@ -152,18 +152,18 @@ date: 2013-01-03 14:39:54
 </p>
 
 1.  Push F12 on your keyboard (or right click on the page and select ‘Inspect Element’). The console appears on the bottom of the screen.  
-    <img src="{{site.url}}/assets/931">
+    <img src="../../assets/931">
       
     
 2.  On the console, select the network tab.  
-    <img src="{{site.url}}/assets/932">
+    <img src="../../assets/932">
       
     
 3.  Clear the browser cache.
 4.  Recreate the issue while the console is open. You will see the HTTP traffic being logged.
 5.  Right click on any of the lines and select ‘Save all as HAR’.
 6.  Send us the .har file.  
-    <img src="{{site.url}}/assets/933">
+    <img src="../../assets/933">
 
 <p dir="LTR">
   * Additional information about 'Chrome web debugger' can be found @ <a href="https://developers.google.com/chrome-developer-tools/docs/network">https://developers.google.com/chrome-developer-tools/docs/network</a>

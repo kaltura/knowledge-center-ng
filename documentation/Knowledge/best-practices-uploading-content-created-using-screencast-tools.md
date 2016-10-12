@@ -91,11 +91,11 @@ After you upload your content to Kaltura you must be certain that the entry is t
 
 1.  Select the Content tab
 2.  Click on an entry and then select the Flavors tab.
-3.  You can manually select the option to transcode the content to HD flavor (1080). Select Reconvert in the entry’s Action pull down menu.<img src="{{site.url}}/assets/867">
+3.  You can manually select the option to transcode the content to HD flavor (1080). Select Reconvert in the entry’s Action pull down menu.<img src="../../assets/867">
       
     or  
       
-    You can create a 'Screencast Transcoding Profile' and check the Source and HD flavors only.<img src="{{site.url}}/assets/868">
+    You can create a 'Screencast Transcoding Profile' and check the Source and HD flavors only.<img src="../../assets/868">
       
     You can then set this profile as the default profile for future screencast uploads. See <a href="http://www.kaltura.com/content/docs/falconHelp/NetHelp/default.htm#!Documents/addingatranscodingpr.htm" target="_blank">Adding a Transcoding Profile</a> for more information.
 

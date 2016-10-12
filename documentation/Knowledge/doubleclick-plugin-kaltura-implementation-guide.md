@@ -123,7 +123,7 @@ You can add the DoubleClick Plugin through the:
 4.  Select the Advertising tab.
 5.  Enable ads for the selected player.
 6.  Select DoubleClick as the Ad Source.  
-    <img src="{{site.url}}/assets/1075">
+    <img src="../../assets/1075">
 7.  On the left pane, click **Features**.
 8.  Click on **Additional parameters and plugins**.
 9.  Add the AdTagUrl. See [Add the adTagUrl][8].

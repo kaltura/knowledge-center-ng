@@ -11,7 +11,7 @@ date: 2011-12-27 20:48:27
 > 1.  Select the Settings tab and then select the Access Control tab.  
 >     The Access Control Profiles window is displayed.
 > 2.  Click Add Profile.  
->     The New Access Control Profile window is displayed.<span style="font-size: small;"><br /><img src="{{site.url}}/assets/163">
+>     The New Access Control Profile window is displayed.<span style="font-size: small;"><br /><img src="../../assets/163">
 > 3.  Enter an informative Name and Description for the profile.
 > 4.  Configure the Authorized Domains. See <a href="http://knowledge.kaltura.com/faq/how-restrict-domains" target="_blank" title="How to restrict domains">Restricting Domains</a>.
 > 5.  Configure the Authorized Countries. See <a href="http://knowledge.kaltura.com/faq/how-restrict-content-specific-countries" target="_blank" title="How to restrict countries for viewing">Restrict Content to Specific Countries for Viewing</a>.

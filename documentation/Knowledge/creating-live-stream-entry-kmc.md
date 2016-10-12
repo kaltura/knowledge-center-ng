@@ -12,10 +12,10 @@ date: 2013-02-12 15:37:10
 
 1.  Login into the KMC and go to the Upload tab.
     
-    <img src="{{site.url}}/assets/990">
+    <img src="../../assets/990">
 
 2.  Select Live Stream Entry.  
-    The Add New Stream window appears.<span style="font-size: 10px;"><br /><img src="{{site.url}}/assets/983">
+    The Add New Stream window appears.<span style="font-size: 10px;"><br /><img src="../../assets/983">
 3.  <span style="font-size: 10px;"></span>Select the Live Stream Type.  
     The following Live Stream types are available:<span style="font-size: 10px;"><span style="font-size: 10px;"><br /></span></span>
     *   **Desktop and Mobile (HDS/HLS) Akamai Universal Streaming** - Supports both flash HDS (Adobe HTTP Dynamic Streaming) and HLS (Apple HTTP Live Streaming) from a single ingested stream. Akamai universal live streaming also supports DVR functionality that allows you to seek back in time within the live stream window. The default DVR window is 30 minutes. Contact  Kaltura for more information.

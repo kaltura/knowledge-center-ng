@@ -11,11 +11,11 @@ Use this option to quickly upload files. You can continue working on other tasks
 </p>
 
 1.  Select the Upload tab.
-2.  Click Upload from Desktop (or click Upload from Desktop in the Dashboard.)<span style="font-family: times new roman,times;"><img src="{{site.url}}/assets/99">
+2.  Click Upload from Desktop (or click Upload from Desktop in the Dashboard.)<span style="font-family: times new roman,times;"><img src="../../assets/99">
 
 3.  Select one or more media files. Use the Ctrl key to select multiple files.
 
-4.  The Upload Settings window is displayed.<span style="font-size: small;"><br /></span><span style="font-family: times new roman,times;"><img src="{{site.url}}/assets/101">
+4.  The Upload Settings window is displayed.<span style="font-size: small;"><br /></span><span style="font-family: times new roman,times;"><img src="../../assets/101">
 
 5.  <span style="font-family: times new roman,times;"></span>Select the Transcoding Profile. See <a href="http://knowledge.kaltura.com/faq/how-create-transcoding-profile" target="_blank">Configuring Transcoding Profiles</a>.
 

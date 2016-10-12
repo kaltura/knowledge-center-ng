@@ -16,4 +16,4 @@ date: 2011-12-27 21:32:35
 > 
 > 3.  <span style="font-size: small;">Go to the Access Control tab and select an existing profile from the drop-down menu.</span>
 > 
-> 4.  <span style="font-size: small;">Click Save & Close to complete the process.<br /></span><span style="font-size: small;"><img src="{{site.url}}/assets/763">
+> 4.  <span style="font-size: small;">Click Save & Close to complete the process.<br /></span><span style="font-size: small;"><img src="../../assets/763">

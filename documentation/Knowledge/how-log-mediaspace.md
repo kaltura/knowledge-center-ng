@@ -13,7 +13,7 @@ date: 2012-03-24 22:43:57
 </p>
 
 1.  On the MediaSpace home page, click **My Media** or **login**.  
-    <img src="{{site.url}}/assets/411">
+    <img src="../../assets/411">
 2.  In the Login window, enter your username and password.
 
 <dl>

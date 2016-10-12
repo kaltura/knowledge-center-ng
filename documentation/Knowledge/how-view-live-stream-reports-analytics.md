@@ -12,7 +12,7 @@ Plays (for all type of live entries) that are played through the Kaltura player 
 
 The total number of plays is displayed in the ‘Content > Entries’ tab, and is updated every 24 hours.
 
-<img src="{{site.url}}/assets/1423">
+<img src="../../assets/1423">
 
 <p class="mce-heading-4">
   Real time and historic view of full analytics suite - 3<sup>rd</sup> party Akamai Media Analytics

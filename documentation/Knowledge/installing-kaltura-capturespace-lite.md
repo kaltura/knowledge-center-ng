@@ -14,7 +14,7 @@ date: 2016-01-27 18:12:07
   
   <ol>
     <li>
-      <span>Fr</span><span>om the Add New menu, select CaptureSpace Lite.<br /><img src="{{site.url}}/assets/2949">
+      <span>Fr</span><span>om the Add New menu, select CaptureSpace Lite.<br /><img src="../../assets/2949">
     </li>
     <li>
       <span>Download the installation file for Windows or Mac.</span>

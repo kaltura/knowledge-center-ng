@@ -12,4 +12,4 @@ In a media gallery, click a video thumbnail to display the video in the media pl
 
 Related videos from all galleries are displayed next to the media player.
 
-<img src="{{site.url}}/assets/383">
+<img src="../../assets/383">

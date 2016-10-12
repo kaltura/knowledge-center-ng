@@ -24,7 +24,7 @@ You can add or edit metadata to a category or to multiple categories.
     Tags.(Optional)
   </li>
   <li>
-    Reference ID (Optional).<img src="{{site.url}}/assets/713">
+    Reference ID (Optional).<img src="../../assets/713">
   </li>
 </ol>
 

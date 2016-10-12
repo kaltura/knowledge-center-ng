@@ -80,10 +80,10 @@ date: 2016-02-08 23:48:53
   
   <ol>
     <li>
-      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="{{site.url}}/assets/2761">
+      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="../../assets/2761">
     </li>
     <li>
-      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="{{site.url}}/assets/2763">
+      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="../../assets/2763">
     </li>
     <li>
       Click Add New App to open the Add App dialog.

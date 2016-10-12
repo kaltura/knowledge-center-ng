@@ -32,9 +32,9 @@ In the common case, a single Privacy Context should be set to an entire ‘branc
 </p>
 
 1.  Select the Settings tab and then select Integration Settings.
-2.  In the Entitlement Settings sections click Add Entitlements to Categories.<img src="{{site.url}}/assets/710">
+2.  In the Entitlement Settings sections click Add Entitlements to Categories.<img src="../../assets/710">
 3.  Enter the name of the root category integrated with your application/s.
-4.  Enter the privacy context label. Multiple labels can be separated by commas. In MediaSpace, the privacy context label is visible through the MediaSpace configuration panel.<img src="{{site.url}}/assets/711">
+4.  Enter the privacy context label. Multiple labels can be separated by commas. In MediaSpace, the privacy context label is visible through the MediaSpace configuration panel.<img src="../../assets/711">
 5.  Click Save.  
     Following this action the categories tree is updated in the Kaltura backend, and the privacy context is gradually propagated into all sub categories. This operation may take a few minutes.
 

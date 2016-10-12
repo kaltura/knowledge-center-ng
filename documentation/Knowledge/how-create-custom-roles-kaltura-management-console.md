@@ -19,7 +19,7 @@ When you add a KMC admin user role to a specific publisher account, you should a
 1.  Go to the Administration tab and select the Roles tab.
 2.  Click Add Role to create a custom role.
 3.  Enter the Role Name and provide a description.  
-    <img src="{{site.url}}/assets/756">
+    <img src="../../assets/756">
     After naming the role and providing a description you will be able to select the specific permissions required.
 4.  Most of the permissions are organized under KMC high-level functionalities. For granular permissions within each category click Expand All. Or click Advanced to open a more detailed list of the specific KMC functionalities related to the group.
 5.  Click Save.

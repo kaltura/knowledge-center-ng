@@ -14,8 +14,8 @@ date: 2012-01-18 13:30:21
 > 2.  <span style="font-size: small;"><strong></strong>Go to the Studio tab and edit an existing player or create a new one.</span>
 > 3.  <span style="font-size: small;"><strong></strong>Select the Advertising tab.</span>
 > 4.  <span style="font-size: small;"><strong></strong>Enable ads for the selected player.</span>
-> 5.  <span style="font-size: small;"><strong></strong>Select Tremor as the Ad Source.</span><img src="{{site.url}}/assets/254">
-> 6.  <span style="font-size: small;">In the key=value section, enter the policy ID. Type in progId=[policy ID].<br /><br /><span class="mce-note-graphic">NOTE: TremorMedia allows users to utilize other ad sources.</span></span><img src="{{site.url}}/assets/256">
+> 5.  <span style="font-size: small;"><strong></strong>Select Tremor as the Ad Source.</span><img src="../../assets/254">
+> 6.  <span style="font-size: small;">In the key=value section, enter the policy ID. Type in progId=[policy ID].<br /><br /><span class="mce-note-graphic">NOTE: TremorMedia allows users to utilize other ad sources.</span></span><img src="../../assets/256">
 > 
 > <span class="mce-heading-1" style="font-size: small;">Tremor Media added functionality</span>
 > 

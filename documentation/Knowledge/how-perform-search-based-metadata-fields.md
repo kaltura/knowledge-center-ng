@@ -6,7 +6,7 @@ date: 2012-02-26 14:38:57
 
 <span style="font-size: small;">You can use custom fields to search for content and create playlists. To search textual fields, use the search box, for canned lists use the Metadata Filters. See <a href="http://knowledge.kaltura.com/faq/how-search-playlists" target="_blank" title="How to search playlists">Searching Playlists</a>.</span>
 
-<span style="font-size: small;"><img src="{{site.url}}/assets/299">
+<span style="font-size: small;"><img src="../../assets/299">
 
 <table border="1" cellspacing="0" cellpadding="0">
   <tbody>
