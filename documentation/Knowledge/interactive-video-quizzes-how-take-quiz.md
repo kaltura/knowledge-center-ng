@@ -29,7 +29,7 @@ date: 2016-02-07 13:52:42
       Log into MediaSpace or into your KAF based application.<br />A special icon on the video thumbnail, and on the entry page, is displayed for videos that have quizzes configured.
     </li>
     <li>
-      Select the video to start taking the quiz. <br /><img src="{{site.url}}/assets/2876">
+      Select the video to start taking the quiz. <br /><img src="./assets/2876">
     </li>
     <li>
       Click Play. The Welcome screen is displayed.<br /><img src="{{site.url}}/assets/3005">
