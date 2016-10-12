@@ -1,0 +1,78 @@
+<html>
+<head>
+		<!-- apply scripts and styles for scrollable area -->
+	<script src="http://cdn.jquerytools.org/1.0.2/jquery.tools.min.js"></script>
+	<script src="http://static.flowplayer.org/js/jquery.mousewheel.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://static.flowplayer.org/tools/css/scrollable-navig.css" />
+
+	<!-- apply specific style for scrollable area -->
+	<style>
+		div.scrollable { text-align:left;position:relative; overflow:hidden; width: 638px; height:100px; } 
+		div.scrollable div.items { width:20000em; position:absolute; }
+		div.scrollable div.items div { float:left; }  
+		div.scrollable div.items div.active { border:1px inset #ccc; background-color:#fff;	}
+		div.scrollable div.items div.img a:hover img{ border:1px inset #fff; background-color:#fff; }
+		div.scrollable div.items div.img a:link img{ border:1px inset #fff; background-color:#fff; }
+	</style>
+</head>
+<body>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+    <script type="text/javascript">
+	    if (swfobject.hasFlashPlayerVersion("9.0.0")) {
+	      var fn = function() {
+	        var att = { data:"http://www.kaltura.com/index.php/kwidget/wid/_0/uiconf_id/1000106", 
+						width:"500", 
+						height:"310",
+						id:"mykdp",
+						name:"mykdp" };
+	        var par = { flashvars:"&entryId=8duxqb3844" +
+							"&autoPlay=1",
+						allowScriptAccess:"always",
+						allowfullscreen:"true",
+						bgcolor:"000000"
+					};
+	        var id = "content";
+	        var myObject = swfobject.createSWF(att, par, id);
+	      };
+	      swfobject.addDomLoadEvent(fn);
+	    }
+    </script>
+	<div id="container" style="text-align:center;float:left;">
+		<div id="content">KDP Should be loaded here...</div>
+		<div class="navi"></div> 
+		<a class="prev"></a>
+			<div class="scrollable"> 
+			<div class="items"> 
+														<a title="bikeriders2" href="javascript:LoadMedia('8duxqb3844')"><img alt="Kaltura Thumbnail: bikeriders2" title="bikeriders2" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/8duxqb3844/version/100000" ></a>
+														<a title="greenday.mov" href="javascript:LoadMedia('a8c41ekbak')"><img alt="Kaltura Thumbnail: greenday.mov" title="greenday.mov" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/a8c41ekbak/version/100000" ></a>
+														<a title="SNL Digital Short: Business Meeting" href="javascript:LoadMedia('ar9q3j6ejw')"><img alt="Kaltura Thumbnail: SNL Digital Short: Business Meeting" title="SNL Digital Short: Business Meeting" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/ar9q3j6ejw/version/100000" ></a>
+														<a title="old lady closeup" href="javascript:LoadMedia('b1e90p8jv4')"><img alt="Kaltura Thumbnail: old lady closeup" title="old lady closeup" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/b1e90p8jv4/version/100000" ></a>
+														<a title="spring girl" href="javascript:LoadMedia('bf7e2k81tw')"><img alt="Kaltura Thumbnail: spring girl" title="spring girl" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/bf7e2k81tw/version/100000" ></a>
+														<a title="Editor Sandbox Intro" href="javascript:LoadMedia('di7ln23y1s')"><img alt="Kaltura Thumbnail: Editor Sandbox Intro" title="Editor Sandbox Intro" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/di7ln23y1s/version/100000" ></a>
+														<a title="Playing in the sandbox" href="javascript:LoadMedia('do85pt41xw')"><img alt="Kaltura Thumbnail: Playing in the sandbox" title="Playing in the sandbox" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/do85pt41xw/version/100001" ></a>
+														<a title="short brownie dialogue" href="javascript:LoadMedia('geaonn2ebc')"><img alt="Kaltura Thumbnail: short brownie dialogue" title="short brownie dialogue" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/geaonn2ebc/version/100000" ></a>
+														<a title="A short clip" href="javascript:LoadMedia('hj3f40ih3k')"><img alt="Kaltura Thumbnail: A short clip" title="A short clip" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/hj3f40ih3k/version/100000" ></a>
+														<a title="guitarist" href="javascript:LoadMedia('hlyjiaomjk')"><img alt="Kaltura Thumbnail: guitarist" title="guitarist" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/hlyjiaomjk/version/100001" ></a>
+														<a title="typer" href="javascript:LoadMedia('iydb90a598')"><img alt="Kaltura Thumbnail: typer" title="typer" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/iydb90a598/version/100000" ></a>
+														<a title="Welcome to Stuntz' Kaltura Hive Intro" href="javascript:LoadMedia('nudjclw0rk')"><img alt="Kaltura Thumbnail: Welcome to Stuntz' Kaltura Hive Intro" title="Welcome to Stuntz' Kaltura Hive Intro" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/nudjclw0rk/version/100000" ></a>
+														<a title="Music test kaltura Intro" href="javascript:LoadMedia('rgs5vl9dd8')"><img alt="Kaltura Thumbnail: Music test kaltura Intro" title="Music test kaltura Intro" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/rgs5vl9dd8/version/100000" ></a>
+														<a title="Lauren's Funkalicious Kaltura!! Invite" href="javascript:LoadMedia('slccwzyqpm')"><img alt="Kaltura Thumbnail: Lauren's Funkalicious Kaltura!! Invite" title="Lauren's Funkalicious Kaltura!! Invite" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/slccwzyqpm/version/100022" ></a>
+														<a title="Stephanie's Fashion" href="javascript:LoadMedia('wwvax24bvk')"><img alt="Kaltura Thumbnail: Stephanie's Fashion" title="Stephanie's Fashion" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/wwvax24bvk/version/100000" ></a>
+														<a title="hello im alex Intro" href="javascript:LoadMedia('yu61e0rlq2')"><img alt="Kaltura Thumbnail: hello im alex Intro" title="hello im alex Intro" src="http://cdnbakmi.kaltura.com/p/309/sp/30900/thumbnail/entry_id/yu61e0rlq2/version/100000" ></a>
+							</div>
+		</div>
+		<a class="next"></a>
+	</div>
+	<script language="javascript">
+		function LoadMedia(entryId) {
+			$('#mykdp').get(0).insertMedia("-1",entryId,'true');
+		}
+	</script>
+
+	<script>
+		$(function() {
+			$("div.scrollable").scrollable();
+		}); 
+	</script>
+</body>
+</html>
