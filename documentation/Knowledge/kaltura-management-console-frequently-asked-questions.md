@@ -17,7 +17,7 @@ date: 2014-12-22 19:35:42
         </p>
         
         <p>
-          <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?” form.</span>
+          <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?” form.</span>
         </p>
       </td>
     </tr>
@@ -138,7 +138,7 @@ date: 2014-12-22 19:35:42
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">Use this option to match media to an existing entry from your account’s drop folder. This option is displayed when your account is set with a drop folder configuration. For more information <a href="http://knowledge.kaltura.com/node/46" target="_blank">see here</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">Use this option to match media to an existing entry from your account’s drop folder. This option is displayed when your account is set with a drop folder configuration. For more information <a href="{{site.url}}/documentation/Knowledge/kaltura-drop-folders-service-content-ingestion-0.html" target="_blank">see here</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 

@@ -189,7 +189,7 @@ For the purposes of documentation we outline the use of Flash Media Encoder, you
             </p>
             
             <p>
-              You can set additional transcoding profiles for live streaming. See<a href="http://knowledge.kaltura.com/node/1032" target="_blank"> How to Set Transcoding Profiles for Live Streaming</a> and <a href="http://knowledge.kaltura.com/node/59" target="_blank">Adding a Transcoding Profile</a> for more information.
+              You can set additional transcoding profiles for live streaming. See<a href="{{site.url}}/documentation/Knowledge/how-set-transcoding-profiles-live-streaming.html" target="_blank"> How to Set Transcoding Profiles for Live Streaming</a> and <a href="{{site.url}}/documentation/Knowledge/how-create-transcoding-profile.html" target="_blank">Adding a Transcoding Profile</a> for more information.
             </p>
           </td>
         </tr>

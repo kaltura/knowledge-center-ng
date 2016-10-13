@@ -91,7 +91,7 @@ date: 2015-01-05 23:25:19
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/what-bulk-upload-and-ftp-content-ingestion" target="_blank">Bulk Upload Overview</a></span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/111" target="_blank">How to perform a Bulk Upload</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/what-xml-bulk-upload.html" target="_blank">How to perform a Bulk Upload</a></span>
   </li>
 </ul>
 
@@ -109,10 +109,10 @@ date: 2015-01-05 23:25:19
 
 <ul style="text-align: left;">
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/46" target="_blank">Kaltura Drop Folders Service for Content Ingestion [Documentation]</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/kaltura-drop-folders-service-content-ingestion-0.html" target="_blank">Kaltura Drop Folders Service for Content Ingestion [Documentation]</a></span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/114" target="_blank">What is automated ingestion via drop folder? [Documentation]</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/what-automated-ingestion-drop-folder.html" target="_blank">What is automated ingestion via drop folder? [Documentation]</a></span>
   </li>
 </ul>
 
@@ -158,7 +158,7 @@ date: 2015-01-05 23:25:19
 
 <ul style="text-align: left;">
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/874" target="_blank">Moderating Content in the KMC [Documentation]</a> </span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/moderating-content-kmc-0.html" target="_blank">Moderating Content in the KMC [Documentation]</a> </span>
   </li>
 </ul>
 
@@ -421,7 +421,7 @@ date: 2015-01-05 23:25:19
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/creating-and-tracking-analytics-kmc-0" target="_blank">Creating and Tracking Analytics in the KMC [Documentation]</a>            </span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/creating-and-tracking-analytics-kmc-0#ContentReports%20http://knowledge.kaltura.com/node/169" target="_blank">Content Reports [Documentation]</a></span>
+    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/creating-and-tracking-analytics-kmc-0#ContentReports%20{{site.url}}/documentation/Knowledge/creating-and-tracking-analytics-kmc-0.html" target="_blank">Content Reports [Documentation]</a></span>
   </li>
   <li>
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/169#UserandCommunityReports" target="_blank">User and Community Reports [Documentation]</a></span>
@@ -433,7 +433,7 @@ date: 2015-01-05 23:25:19
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/169#UserLevelReports" target="_blank">User Level Reports [Documentation]</a></span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/831" target="_blank">Analytics - System Reports in the KMC</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/analytics-system-reports-kmc.html" target="_blank">Analytics - System Reports in the KMC</a></span>
   </li>
   <li>
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/169#Exporting" target="_blank">Exporting Analytics to a CSV File [Documentation]</a></span>
@@ -472,13 +472,13 @@ date: 2015-01-05 23:25:19
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/how-add-values-custom-metadata-fields" target="_blank">Adding Values to Custom Metadata Fields [Documentation]</a></span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/160" target="_blank">Editing My User Settings [Documentation]</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/how-change-user-settings-kmc.html" target="_blank">Editing My User Settings [Documentation]</a></span>
   </li>
   <li>
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/160#change_password" target="_blank">Changing My Password [Documentation]</a> </span>
   </li>
   <li>
-    <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/878" target="_blank">Managing KMC Users Through the Administration Tab [Documentation]</a></span>
+    <span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/how-manage-kmc-users-through-administration-tab.html" target="_blank">Managing KMC Users Through the Administration Tab [Documentation]</a></span>
   </li>
   <li>
     <span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/faq/what-are-permissions-basic-kaltura-management-console-user-roles" target="_blank">Roles [Documentation]</a> </span>

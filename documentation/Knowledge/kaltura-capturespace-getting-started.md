@@ -95,7 +95,7 @@ date: 2016-01-27 18:36:18
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1649" target="_blank">Back to Kaltura CaptureSpace User Guide</a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-user-guide-0.html" target="_blank">Back to Kaltura CaptureSpace User Guide</a>
   </p>
   
   <p>

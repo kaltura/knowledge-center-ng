@@ -32,7 +32,7 @@ The KalturaGenericSyndicationFeed is the base feed from which the Flexible Feed
   To retrieve the Generic Kaltura Syndication Feed, open the <a href="http://www.kaltura.com/api_v3/testme/" target="_blank">Kaltura API Test Console</a> and follow these steps:
 </p>
 
-1.  Generate a valid Kaltura Session using the session.start or user.loginByLoginId actions. To learn more on how to use the API Test Console, read: <a href="http://knowledge.kaltura.com/node/227" target="_blank">Using Kaltura's API Test Console</a>.
+1.  Generate a valid Kaltura Session using the session.start or user.loginByLoginId actions. To learn more on how to use the API Test Console, read: <a href="{{site.url}}/documentation/Knowledge/using-kalturas-api-test-console-introduction.html" target="_blank">Using Kaltura's API Test Console</a>.
 2.  Select the ***syndicationFeed*** service.
 3.  Select the ***add***** **action.
 4.  <span><span>Under syndicationFeed, select <strong><em>KalturaGenericSyndicationFeed </em></strong>and click Edit next to it.</span></span>

@@ -10,7 +10,7 @@ Categories define the taxonomy and hierarchical structure of your MediaSpace sit
 
 A *channel* is a user generated collection of content that pertains to a subset of users (or all authenticated users). Channel managers and site administrators may give users permission to perform specific actions in a channel. You can access your channels from the My Channels selection in the User menu.
 
-To learn how to use channels, see <a href="http://knowledge.kaltura.com/node/955" target="_blank">Creating and Managing a Channel</a>. The MediaSpace channel page that is public displays the information you have decided to share with the public from your account,
+To learn how to use channels, see <a href="{{site.url}}/documentation/Knowledge/creating-and-managing-channels-kaltura-mediaspace.html" target="_blank">Creating and Managing a Channel</a>. The MediaSpace channel page that is public displays the information you have decided to share with the public from your account,
 
 The following table lists some of the differences between categories and channels.
 

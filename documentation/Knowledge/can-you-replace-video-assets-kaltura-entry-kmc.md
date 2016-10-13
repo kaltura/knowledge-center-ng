@@ -14,4 +14,4 @@ This feature:
 *   Allows review and approval of new media prior to the actual replacement.
 *   Is an integral part of the entry life-cycle and content management workflow.
 
-For more information see <a href="http://knowledge.kaltura.com/node/77" target="_blank">How to replace media in the KMC?</a> 
+For more information see <a href="{{site.url}}/documentation/Knowledge/how-replace-media-kmc.html" target="_blank">How to replace media in the KMC?</a> 

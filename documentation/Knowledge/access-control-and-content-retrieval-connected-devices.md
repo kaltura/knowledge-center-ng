@@ -26,11 +26,11 @@ date: 2016-03-29 19:28:41
   </p>
   
   <p>
-    Both Scheduling and Advanced Access-Control are fully enforced on the server-side and by mobile applications when they retrieve content via Kaltura APIs. For more information on how to retrieve content per platform/protocol see <a href="http://knowledge.kaltura.com/node/39" target="_blank">How to retrieve the download or streaming URL using API calls?</a>
+    Both Scheduling and Advanced Access-Control are fully enforced on the server-side and by mobile applications when they retrieve content via Kaltura APIs. For more information on how to retrieve content per platform/protocol see <a href="{{site.url}}/documentation/Knowledge/how-retrieve-download-or-streaming-url-using-api-calls.html" target="_blank">How to retrieve the download or streaming URL using API calls?</a>
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/39" target="_blank"></a>It is recommended to always use these methods and not, for example, store returned m3u8 urls, as m3u8 urls are only temporary.
+    <a href="{{site.url}}/documentation/Knowledge/how-retrieve-download-or-streaming-url-using-api-calls.html" target="_blank"></a>It is recommended to always use these methods and not, for example, store returned m3u8 urls, as m3u8 urls are only temporary.
   </p>
   
   <p>

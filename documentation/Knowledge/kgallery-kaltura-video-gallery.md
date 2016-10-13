@@ -37,9 +37,9 @@ The examples shown below implement the following layouts:
 
 <ul class="bb-list">
   <li>
-    <a href="http://knowledge.kaltura.com/node/427" class="bb-url">Learn how to add KGallery to your website</a>.
+    <a href="{{site.url}}/documentation/Knowledge/creating-kaltura-video-gallery.html" class="bb-url">Learn how to add KGallery to your website</a>.
   </li>
   <li>
-    <a href="http://knowledge.kaltura.com/node/420">Creating a Dynamic List of Entries Using the listAction API for KGallery Implementation</a>
+    <a href="{{site.url}}/documentation/Knowledge/creating-dynamic-list-entries-using-listaction-api-kgallery-implementation.html">Creating a Dynamic List of Entries Using the listAction API for KGallery Implementation</a>
   </li>
 </ul>

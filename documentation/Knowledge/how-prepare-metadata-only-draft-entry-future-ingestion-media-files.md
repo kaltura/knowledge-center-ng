@@ -21,7 +21,7 @@ Draft entries are entries created without actual content, and are used as a cont
     *   Description
     *   Tags
     *   Categories – use the pencil icon to select a category from the existing category list.
-4.  If you have Custom Data for entries, you can edit the Custom Data fields for the entry. For multiple schemas, use the drop down Jump To menu to select the schema for the entry. See <a href="http://knowledge.kaltura.com/node/345" target="_blank">Managing Schemas</a> for more information.
+4.  If you have Custom Data for entries, you can edit the Custom Data fields for the entry. For multiple schemas, use the drop down Jump To menu to select the schema for the entry. See <a href="{{site.url}}/documentation/Knowledge/what-managing-schema.html" target="_blank">Managing Schemas</a> for more information.
 5.  Click Save and Close.
 
 The ingestion status for a Draft entry is No Media. The following is an example of a Draft entry in the KMC.

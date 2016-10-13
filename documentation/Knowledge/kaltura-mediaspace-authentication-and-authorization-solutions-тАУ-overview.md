@@ -343,5 +343,5 @@ date: 2016-07-10 11:53:57
   </table>
   
   <p class="mce-note-graphic">
-    NOTE: To learn about common authentication and authorization scenarios and how to configure them, refer to <a href="http://knowledge.kaltura.com/node/621">Authenticating and Authorizing Users</a>.
+    NOTE: To learn about common authentication and authorization scenarios and how to configure them, refer to <a href="{{site.url}}/documentation/Knowledge/authenticating-and-authorizing-mediaspace-users.html">Authenticating and Authorizing Users</a>.
   </p>

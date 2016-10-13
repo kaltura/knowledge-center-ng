@@ -8,7 +8,7 @@ date: 2014-11-17 15:05:58
   Starting a Kaltura Session
 </p>
 
-<span>Complete the steps as described in <a href="http://knowledge.kaltura.com/node/1279">How to Start a Kaltura Session using the TestMe Console</a></span>
+<span>Complete the steps as described in <a href="{{site.url}}/documentation/Knowledge/how-start-kaltura-session-using-testme-console.html">How to Start a Kaltura Session using the TestMe Console</a></span>
 
 <p id="UploadingMediawiththeAPI-UploadingMediaUsingtheAPI:" class="mce-procedure">
   To Upload Media Using the API

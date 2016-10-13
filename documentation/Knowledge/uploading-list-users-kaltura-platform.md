@@ -22,7 +22,7 @@ date: 2014-10-13 09:28:21
       <div class="page" title="Page 1">
         <div class="layoutArea">
           <div class="column">
-            The format for the CSV file is described in a Knowledge Center article <a href="http://knowledge.kaltura.com/node/464" target="_blank">End-Users CSV - Usage and Schema Description</a><p>
+            The format for the CSV file is described in a Knowledge Center article <a href="{{site.url}}/documentation/Knowledge/end-users-csv-usage-and-schema-description.html" target="_blank">End-Users CSV - Usage and Schema Description</a><p>
               It is included here by reference.
             </p>
             

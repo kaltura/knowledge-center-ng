@@ -72,6 +72,6 @@ date: 2015-10-27 15:32:47
       Click <strong>Go to Media</strong> to view the Event page.
     </li>
     <li>
-      To continue editing the event, see <a href="http://knowledge.kaltura.com/node/1541" target="_blank">Editing a Webcasting Event</a>.
+      To continue editing the event, see <a href="{{site.url}}/documentation/Knowledge/editing-webcasting-event.html" target="_blank">Editing a Webcasting Event</a>.
     </li>
   </ol>

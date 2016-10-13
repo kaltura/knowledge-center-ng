@@ -65,7 +65,7 @@ Replacing the library is not possible in every site due to configuration setti
 
 ## **Browsers and Devices Support Matrix**
 
-We follow the <a href="http://knowledge.kaltura.com/node/445" target="_blank">Graded Browsers and Devices Support Matrix</a> which is defined by our product team. Roughly, most tests are conducted on the following platforms, in the order they are listed:
+We follow the <a href="{{site.url}}/documentation/Knowledge/browsers-and-mobile-devices-tested-kaltura-players.html" target="_blank">Graded Browsers and Devices Support Matrix</a> which is defined by our product team. Roughly, most tests are conducted on the following platforms, in the order they are listed:
 
 1.  iPad 1,2 (4 & 5)
 2.  iPhone (4 & 5)

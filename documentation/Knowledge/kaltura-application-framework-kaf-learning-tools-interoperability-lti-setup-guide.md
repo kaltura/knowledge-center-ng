@@ -707,7 +707,7 @@ date: 2015-11-30 23:47:03
             
             <td style="text-align: left;" valign="top" width="569">
               <p class="TableBodyText">
-                Which language should KAF use? Note: Language files are in /locale/kms/{LANG}/default.po. See <a href="http://knowledge.kaltura.com/node/1152">here</a> for the list of supported KAF localization languages.
+                Which language should KAF use? Note: Language files are in /locale/kms/{LANG}/default.po. See <a href="{{site.url}}/documentation/Knowledge/what-are-supported-kmc-and-kms-languages.html">here</a> for the list of supported KAF localization languages.
               </p>
               
               <p class="TableBodyText">
@@ -1549,7 +1549,7 @@ date: 2015-11-30 23:47:03
       </h3>
       
       <p>
-        Kaltura Application Framework LTI instances are automatically created using the <a href="http://knowledge.kaltura.com/node/959">Kaltura v2 Player</a>.
+        Kaltura Application Framework LTI instances are automatically created using the <a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit.html">Kaltura v2 Player</a>.
       </p>
       
       <table style="width: 763px;" border="1" cellspacing="0" cellpadding="0">
@@ -3178,7 +3178,7 @@ date: 2015-11-30 23:47:03
       </ul>
       
       <p>
-        Please refer to the <a href="http://knowledge.kaltura.com/node/1573" target="_blank">KAF LTI User Guide</a> for more details about each of these methods.<br /><img src="{{site.url}}/assets/2591">
+        Please refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-integration-guide.html" target="_blank">KAF LTI User Guide</a> for more details about each of these methods.<br /><img src="{{site.url}}/assets/2591">
       </p>
       
       <h3>

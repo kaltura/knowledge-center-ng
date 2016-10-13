@@ -13,7 +13,7 @@ date: 2016-02-09 13:50:42
   </p>
   
   <p>
-    You must have a provisioned REACH module before use. For information about getting your account setup see <a href="http://knowledge.kaltura.com/node/1290" target="_blank">here</a>.
+    You must have a provisioned REACH module before use. For information about getting your account setup see <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-setup-and-walkthrough-guide.html" target="_blank">here</a>.
   </p>
   
   <p>
@@ -96,7 +96,7 @@ date: 2016-02-09 13:50:42
               
               <td style="text-align: left;" valign="top" width="179">
                 <p>
-                  This is provided directly from cielo24 or provisioned through “<a href="http://knowledge.kaltura.com/node/1290">auto-provisioning</a>”.  If you do not have a username or password, please reach out to your Kaltura rep or cielo24 at <a href="mailto:sales@cielo24.com">sales@cielo24.com</a>.
+                  This is provided directly from cielo24 or provisioned through “<a href="{{site.url}}/documentation/Knowledge/kaltura-reach-setup-and-walkthrough-guide.html">auto-provisioning</a>”.  If you do not have a username or password, please reach out to your Kaltura rep or cielo24 at <a href="mailto:sales@cielo24.com">sales@cielo24.com</a>.
                 </p>
               </td>
               

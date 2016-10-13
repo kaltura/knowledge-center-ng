@@ -873,7 +873,7 @@ Cmd+Click or tap to follow the link">http://ny-publish-speedtest.kaltura.com:193
   </p>
   
   <p>
-    Before creating new live entries in the KMC, you will need to make sure that your live transcoding profile settings are configured to align with your particular use-case. See <a href="http://knowledge.kaltura.com/node/1032" target="_blank">How to Set Transcoding Profiles for Live Streaming</a>.
+    Before creating new live entries in the KMC, you will need to make sure that your live transcoding profile settings are configured to align with your particular use-case. See <a href="{{site.url}}/documentation/Knowledge/how-set-transcoding-profiles-live-streaming.html" target="_blank">How to Set Transcoding Profiles for Live Streaming</a>.
   </p>
   
   <ul>

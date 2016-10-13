@@ -34,10 +34,10 @@ The Upload tab presents a list of ingestion options and capabilities to choose f
 
 <a name="upload_media"></a><span class="mce-sub-heading">Upload Media</span>
 
-*   <a href="http://knowledge.kaltura.com/node/737" target="_blank">High-Speed Upload</a>: Uses Kaltura’s High-Speed Upload option powered by Aspera™.
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-high-speed-upload-user-guide.html" target="_blank">High-Speed Upload</a>: Uses Kaltura’s High-Speed Upload option powered by Aspera™.
 *   [Upload from Desktop][7]:  Opens a file browser and allows you to select multiple files. .
-*   <a href="http://knowledge.kaltura.com/node/69" target="_blank">Record from a Webcam</a>: Allows you to capture video content from a webcam connected to your computer.
-*   <a href="http://knowledge.kaltura.com/node/109" target="_blank">Import from Web</a>: Allows you to search for videos to ingest from video repositories such as Metacafe and others, depending on the feature set enabled in your account. 
+*   <a href="{{site.url}}/documentation/Knowledge/how-do-i-ingest-content-recorded-webcam.html" target="_blank">Record from a Webcam</a>: Allows you to capture video content from a webcam connected to your computer.
+*   <a href="{{site.url}}/documentation/Knowledge/how-import-content-kmc-web.html" target="_blank">Import from Web</a>: Allows you to search for videos to ingest from video repositories such as Metacafe and others, depending on the feature set enabled in your account. 
 
  [7]: http://knowledge.kaltura.com/node/103
 
@@ -49,15 +49,15 @@ You can prepare a video entry without including the media content in advance.  
 
 The following options are available:
 
-*   <a href="http://knowledge.kaltura.com/node/123" target="_blank">Video Entry</a>
-*   <a href="http://knowledge.kaltura.com/node/123" target="_blank">Audio Entry</a>
-*   <a href="http://knowledge.kaltura.com/node/373" target="_blank">Live Stream Entry</a>
+*   <a href="{{site.url}}/documentation/Knowledge/how-prepare-videoaudio-entry.html" target="_blank">Video Entry</a>
+*   <a href="{{site.url}}/documentation/Knowledge/how-prepare-videoaudio-entry.html" target="_blank">Audio Entry</a>
+*   <a href="{{site.url}}/documentation/Knowledge/how-prepare-live-stream-entry.html" target="_blank">Live Stream Entry</a>
 
 ### <a name="submit_bulk"></a>Submit Bulk
 
-For more information see <a href="http://knowledge.kaltura.com/node/110" target="_blank">What is bulk upload and FTP content ingestion?</a> and <a href="http://knowledge.kaltura.com/node/49" target="_blank">What is XML bulk upload</a>?
+For more information see <a href="{{site.url}}/documentation/Knowledge/what-bulk-upload-and-ftp-content-ingestion.html" target="_blank">What is bulk upload and FTP content ingestion?</a> and <a href="{{site.url}}/documentation/Knowledge/what-bulk-upload.html" target="_blank">What is XML bulk upload</a>?
 
-For downloading samples see <a href="%20http://knowledge.kaltura.com/node/113" target="_blank">How to download a sample bulk file?</a>
+For downloading samples see <a href="%20{{site.url}}/documentation/Knowledge/how-download-sample-bulk-file.html" target="_blank">How to download a sample bulk file?</a>
 
 <a name="Falcon"></a><span class="mce-heading-2">Falcon</span>
 
@@ -93,10 +93,10 @@ The upload process also includes metadata ingestion, See Managing Metadata and C
 
 You can add content to your site in the following ways:
 
-*   Upload from Desktop: Opens a file browser and allows you to select multiple files. See <a href="http://knowledge.kaltura.com/node/68" target="_blank">How to upload content from your desktop</a>.
-*   Recorded from a Webcam: Allows you to capture video content from a webcam connected to your computer. See <a href="http://knowledge.kaltura.com/node/69" target="_blank" title="How to ingest content from a webcam">ingesting content from a Webcam</a>
-*   Submit CSV/XML: Allows you to submit a CSV or XML file that points to multiple media files and includes metadata. For downloading samples see <a href="%20http://knowledge.kaltura.com/node/113" target="_blank">How to download a sample bulk file?</a>
-*   Import from Web: Allows you to search for videos to ingest from video repositories such as Metacafe and others, depending on the feature set enabled in your account. See <a href="http://knowledge.kaltura.com/node/109" target="_blank" title="How to import from web">Import from Web</a>.
+*   Upload from Desktop: Opens a file browser and allows you to select multiple files. See <a href="{{site.url}}/documentation/Knowledge/how-upload-content-your-desktop.html" target="_blank">How to upload content from your desktop</a>.
+*   Recorded from a Webcam: Allows you to capture video content from a webcam connected to your computer. See <a href="{{site.url}}/documentation/Knowledge/how-do-i-ingest-content-recorded-webcam.html" target="_blank" title="How to ingest content from a webcam">ingesting content from a Webcam</a>
+*   Submit CSV/XML: Allows you to submit a CSV or XML file that points to multiple media files and includes metadata. For downloading samples see <a href="%20{{site.url}}/documentation/Knowledge/how-download-sample-bulk-file.html" target="_blank">How to download a sample bulk file?</a>
+*   Import from Web: Allows you to search for videos to ingest from video repositories such as Metacafe and others, depending on the feature set enabled in your account. See <a href="{{site.url}}/documentation/Knowledge/how-import-content-kmc-web.html" target="_blank" title="How to import from web">Import from Web</a>.
 
 You can also prepare a video entry without including the media content in advance, see No Media Entries. Creating a No Media entry may be useful when metadata settings and media perpetrations are managed separately and possibly by different operational teams. This scenario is used for media that may be included at a later stage, for example, in a drop folder.
 

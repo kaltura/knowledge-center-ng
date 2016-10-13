@@ -21,7 +21,7 @@ In some of the organizations the unique host is more common, though some departm
 
 # How does the WebEx Ingestion Connector Work?
 
-The WebEx Ingestion Connector is based on the <a href="http://knowledge.kaltura.com/node/46" target="_blank">Kaltura Drop Folder Mechanism</a>. Periodically, the connector checks the WebEx server for new content then using the WebEx APIs, it imports that content into Kaltura.
+The WebEx Ingestion Connector is based on the <a href="{{site.url}}/documentation/Knowledge/kaltura-drop-folders-service-content-ingestion-0.html" target="_blank">Kaltura Drop Folder Mechanism</a>. Periodically, the connector checks the WebEx server for new content then using the WebEx APIs, it imports that content into Kaltura.
 
 Kaltura imports the content from the entire WebEx account and not from each host individually.
 

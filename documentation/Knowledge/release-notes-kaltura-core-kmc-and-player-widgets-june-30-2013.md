@@ -179,7 +179,7 @@ These release notes are intended for Kaltura SaaS customers.
         </ul>
         
         <p>
-          For additional information please refer to <a href="http://knowledge.kaltura.com/node/838" target="_blank">Kaltura’s Digital Rights Management (DRM) Service with Widevine Setup and Workflow Guide</a>.
+          For additional information please refer to <a href="{{site.url}}/documentation/Knowledge/kaltura-digital-rights-management-drm-service-widevine-setup-and-workflow-guide.html" target="_blank">Kaltura’s Digital Rights Management (DRM) Service with Widevine Setup and Workflow Guide</a>.
         </p>
       </td>
       
@@ -315,7 +315,7 @@ These release notes are intended for Kaltura SaaS customers.
       
       <td style="text-align: left;" valign="top" width="281">
         <p class="TableBodyText">
-          Search with special characters on <a href="http://knowledge.kaltura.com/node/247" target="_blank">entries</a> and <a href="http://knowledge.kaltura.com/node/881" target="_blank">categories</a> are now supported.
+          Search with special characters on <a href="{{site.url}}/documentation/Knowledge/kaltura-search-engine-media-metadata-and-timeline-search-behavior-and-commands.html" target="_blank">entries</a> and <a href="{{site.url}}/documentation/Knowledge/how-search-through-categories-kmc.html" target="_blank">categories</a> are now supported.
         </p>
       </td>
       

@@ -13,7 +13,7 @@ date: 2016-01-19 20:36:19
           </p>
           
           <p style="text-align: left;">
-            <span style="font-family: verdana, geneva; color: #333333;">If you are a system administrator, please refer to the <span><a href="http://knowledge.kaltura.com/node/1300" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>.</span></span>
+            <span style="font-family: verdana, geneva; color: #333333;">If you are a system administrator, please refer to the <span><a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-administrators-guide.html" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>.</span></span>
           </p>
           
           <p id="page-title" class="title" style="text-align: left;">
@@ -30,28 +30,28 @@ date: 2016-01-19 20:36:19
   
   <ul>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1645" target="_blank"><span style="color: #333399;">Installing Kaltura CaptureSpace Lite</span></a>
+      <a href="{{site.url}}/documentation/Knowledge/installing-kaltura-capturespace-lite.html" target="_blank"><span style="color: #333399;">Installing Kaltura CaptureSpace Lite</span></a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1644" target="_blank" style="font-family: Verdana, Arial, Helvetica, sans-serif;">Introduction to Kaltura CaptureSpace Desktop Recorder</a>
+      <a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-capturespace-desktop-recorder.html" target="_blank" style="font-family: Verdana, Arial, Helvetica, sans-serif;">Introduction to Kaltura CaptureSpace Desktop Recorder</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1644" target="_blank" style="font-family: Verdana, Arial, Helvetica, sans-serif;"></a><a href="http://knowledge.kaltura.com/node/1646" target="_blank">System Requirements and Supported MS Office Versions</a>
+      <a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-capturespace-desktop-recorder.html" target="_blank" style="font-family: Verdana, Arial, Helvetica, sans-serif;"></a><a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-system-requirements-and-supported-ms-office-versions.html" target="_blank">System Requirements and Supported MS Office Versions</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1646" target="_blank"></a><a href="http://knowledge.kaltura.com/node/1648" target="_blank">Getting Started</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-system-requirements-and-supported-ms-office-versions.html" target="_blank"></a><a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-lite-getting-started.html" target="_blank">Getting Started</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1650" target="_blank">The Kaltura CaptureSpace Desktop Recorder Tabs</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-desktop-recorder-tabs.html" target="_blank">The Kaltura CaptureSpace Desktop Recorder Tabs</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1651" target="_blank">Kaltura CaptureSpace Desktop Recorder Recording Options</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-recording-options.html" target="_blank">Kaltura CaptureSpace Desktop Recorder Recording Options</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1652" target="_blank">Editing a Video</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-editing-video.html" target="_blank">Editing a Video</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1653" target="_blank">Uploading a Video to Your Website</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-uploading-video-your-website.html" target="_blank">Uploading a Video to Your Website</a>
     </li>
   </ul>
   

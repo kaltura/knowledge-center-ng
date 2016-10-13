@@ -14,7 +14,7 @@ date: 2016-01-22 17:00:57
     </p>
     
     <p>
-      Additionally, you can export a transcript of the Q&A session and save the transcript as a local file. See <a href="http://knowledge.kaltura.com/node/1622" target="_blank">Exporting a Transcript of the Q&A Session</a>.
+      Additionally, you can export a transcript of the Q&A session and save the transcript as a local file. See <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-exporting-transcript-qa-session.html" target="_blank">Exporting a Transcript of the Q&A Session</a>.
     </p>
   </div>
   

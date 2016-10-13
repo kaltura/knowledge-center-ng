@@ -46,7 +46,7 @@ The following video formats and codecs have been tested and optimized as optimal
   Delivery-specific Formats
 </h3>
 
-Kaltura supports various streaming standards and protocols, see the <a href="http://knowledge.kaltura.com/node/880" class="external-link" rel="nofollow">Video Delivery Settings article</a> for more information about the types of video delivery formats support and supported delivery settings in Kaltura.
+Kaltura supports various streaming standards and protocols, see the <a href="{{site.url}}/documentation/Knowledge/video-delivery-settings.html" class="external-link" rel="nofollow">Video Delivery Settings article</a> for more information about the types of video delivery formats support and supported delivery settings in Kaltura.
 
 <h3 id="KalturaMediaTranscodingServicesandTechnology-intermediateIntermediate-SourceProcessing">
   Intermediate-Source Processing
@@ -54,7 +54,7 @@ Kaltura supports various streaming standards and protocols, see the <a href="ht
 
 With some proprietary formats and codecs, a dedicated hardware, operating system or software may be required to handle the transcoding of such files. In such cases Kaltura will leverage the dedicated technology to convert the ingested proprietary source into an intermediate-source (file of non-proprietary format/codec, usually MP4/H.264 or WMV) and then continue the processing as usual.
 
-For example, read: <a href="http://knowledge.kaltura.com/node/723" class="external-link" rel="nofollow">Best Practices For Uploading Content Created Using Screencast Tools</a>.
+For example, read: <a href="{{site.url}}/documentation/Knowledge/best-practices-uploading-content-created-using-screencast-tools.html" class="external-link" rel="nofollow">Best Practices For Uploading Content Created Using Screencast Tools</a>.
 
 *   Webex/ARF - <a href="http://www.webex.com/play-webex-recording.html" class="external-link" rel="nofollow">Cisco's WebEx Network Recording Tool</a> will be used to covert the proprietary WebEx format before continuing with the media transcoding process.
 *   GoToMeeting Codec - Windows Expression Encoder 4 will be used to covert the proprietary GoToMeeting codec before continuing with the media transcoding process.

@@ -17,7 +17,7 @@ date: 2015-08-26 00:15:59
           </p>
           
           <p>
-            If you are unable to find the information that you are looking for here, use the search bar located above to search for the information you seek, or report missing information using the form: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?”.
+            If you are unable to find the information that you are looking for here, use the search bar located above to search for the information you seek, or report missing information using the form: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?”.
           </p>
         </td>
       </tr>

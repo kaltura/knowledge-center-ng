@@ -27,29 +27,29 @@ For the most recent bi-weekly release notes see github releases pages for follow
 
 <a name="Hercules"></a><a href="#Hercules" class="mce-heading-2">Release Notes for Hercules</a>
 
-*   <a href="http://knowledge.kaltura.com/node/894" target="_blank">Kaltura Core, KMC, and Player Widgets</a>
+*   <a href="{{site.url}}/documentation/Knowledge/release-notes-kaltura-core-kmc-and-player-widgets-june-30-2013.html" target="_blank">Kaltura Core, KMC, and Player Widgets</a>
 
 <a name="Gemini"></a><a href="#Gemini" class="mce-heading-2">Release Notes for Gemini</a>
 
-*   <a href="http://knowledge.kaltura.com/node/845" target="_blank">Kaltura Management Console</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-management-console-kmc-release-notes-gemini.html" target="_blank">Kaltura Management Console</a>
 *   [Kaltura API][3]
 
  [3]: http://knowledge.kaltura.com/node/848
 
 <a name="falcon" href="#falcon" style="display: inline !important;"></a><span class="mce-heading-2">Release Notes for Falcon</span>
 
-*   <a href="http://knowledge.kaltura.com/node/585" target="_blank">Kaltura Management Console</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-management-console-kmc-release-notes-falcon.html" target="_blank">Kaltura Management Console</a>
 
-*   <a href="http://knowledge.kaltura.com/node/628" target="_blank">Kaltura MediaSpace 4.5</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspace-45-release-notes.html" target="_blank">Kaltura MediaSpace 4.5</a>
 
-*   <a href="http://knowledge.kaltura.com/node/582" target="_blank">Kaltura MediaSpace 4.0</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspace-40-release-notes.html" target="_blank">Kaltura MediaSpace 4.0</a>
 
 *   <a href="http://knowledge.kaltura.com/node/543" target="_blank">Kaltura Video Building Block for Blackboard</a>
 
-*   <a href="http://knowledge.kaltura.com/node/544" target="_blank">Kaltura Video Package for Moodle</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-package-moodle-release-notes.html" target="_blank">Kaltura Video Package for Moodle</a>
 
-*   <a href="http://knowledge.kaltura.com/node/583" target="_blank">Kaltura API</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-api-release-notes-and-changelog.html" target="_blank">Kaltura API</a>
 
-*   <a href="http://knowledge.kaltura.com/node/662" target="_blank">Kaltura Multi-Account Publisher Console</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-multi-account-management-console-release-notes.html" target="_blank">Kaltura Multi-Account Publisher Console</a>
 
-*   <a href="http://knowledge.kaltura.com/node/718" target="_blank">Kaltura On-Prem</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-prem-release-notes-falcon.html" target="_blank">Kaltura On-Prem</a>

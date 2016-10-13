@@ -16,7 +16,7 @@ The possible entitlement combination settings for different channel/category/gal
   To set Entitlement Settings
 </p>
 
-1.  Set the Content Privacy. See <a href="http://knowledge.kaltura.com/node/632" target="_blank">Content Privacy.</a>
+1.  Set the Content Privacy. See <a href="{{site.url}}/documentation/Knowledge/how-determine-content-privacy-kmc-0.html" target="_blank">Content Privacy.</a>
 2.  Select the <a href="http://knowledge.kaltura.com/faq/what-are-categorys-listing-options-kmc-and-kms" target="_blank">Category Listing</a>.
 3.  Select the <a href="http://knowledge.kaltura.com/faq/how-define-contribution-policy-kmc-and-kms" target="_blank">Contribution Policy</a>.
 4.  Select whether to inherit specific end-user permissions.
@@ -26,10 +26,10 @@ The possible entitlement combination settings for different channel/category/gal
     <a href="http://knowledge.kaltura.com/faq/how-change-category-owner-kmc-or-kms" target="_blank">Change Owner.</a>
   </li>
   <li>
-    Click <a href="http://knowledge.kaltura.com/node/651" target="_blank">Manage </a>to manage end-user permissions.
+    Click <a href="{{site.url}}/documentation/Knowledge/how-manage-categories-specific-end-user-permissions.html" target="_blank">Manage </a>to manage end-user permissions.
   </li>
   <li>
-    Configure <a href="http://knowledge.kaltura.com/node/636" target="_blank">Additional Category Entitlement Settings</a>.
+    Configure <a href="{{site.url}}/documentation/Knowledge/how-change-category-owner-kmc-or-kms.html" target="_blank">Additional Category Entitlement Settings</a>.
   </li>
 </ol>
 
@@ -41,7 +41,7 @@ The possible entitlement combination settings for different channel/category/gal
 
 The following information describes how Channels/Galleries work in context to KMS application roles.
 
-Please familiarize yourself with the information in the article <a href="http://knowledge.kaltura.com/node/987" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a> before you set entitlement settings for KMS.
+Please familiarize yourself with the information in the article <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspacekaltura-application-framework-kaf-roles-and-permissions.html" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a> before you set entitlement settings for KMS.
 
 **<span>If the settings do not align with a behavior you are seeing in KMS, you may have misconfigured  the gallery / channel entitlements in the KMC configuration</span>**. 
 
@@ -327,4 +327,4 @@ KMS Galleries / channels are manifested with the following entitlements combinat
 
  
 
-ANY combination that is set through the KMC and does not align with the above combinations, will not work properly, or as described in the <a href="http://knowledge.kaltura.com/node/987" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a> article.
+ANY combination that is set through the KMC and does not align with the above combinations, will not work properly, or as described in the <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspacekaltura-application-framework-kaf-roles-and-permissions.html" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a> article.

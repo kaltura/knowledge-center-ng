@@ -16,7 +16,7 @@ The following sections describe the different setting options available in the E
   <a name="workflow_entitlement"></a>Workflow to set Entitlement Settings
 </h2>
 
-1.  Create a category. See <a href="http://knowledge.kaltura.com/node/650" target="_blank">Adding/Editing a Specific Category</a>.
+1.  Create a category. See <a href="{{site.url}}/documentation/Knowledge/how-add-or-edit-specific-category-kmc.html" target="_blank">Adding/Editing a Specific Category</a>.
 2.  Add Entitlements to categories. See [Adding Entitlement to Categories][1].
 3.  Go to the Content tab and select the Categories tab.
 4.  Click on a category or select Edit from the Actions drop down menu.

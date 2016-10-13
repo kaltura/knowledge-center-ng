@@ -49,7 +49,7 @@ date: 2015-10-27 14:40:18
   </h3>
   
   <p class="mce-note-graphic">
-    NOTE: By default, the Q&A module will be enabled for webcast viewers. You can decide to turn the Q&A module on or off at any point during the broadcast. See <a href="http://knowledge.kaltura.com/node/1640" target="_blank">Moderated Q&A Settings</a> for details.
+    NOTE: By default, the Q&A module will be enabled for webcast viewers. You can decide to turn the Q&A module on or off at any point during the broadcast. See <a href="{{site.url}}/documentation/Knowledge/moderated-qa-settings.html" target="_blank">Moderated Q&A Settings</a> for details.
   </p>
   
   <p class="ff11">

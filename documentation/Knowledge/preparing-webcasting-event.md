@@ -71,7 +71,7 @@ date: 2015-10-25 01:55:15
         Define what image you would like to have represent the event. By default  the image will be the first page of the slide deck you upload to the event but you can also upload a separate image as a thumbnail.
       </li>
       <li>
-        All presenters and moderators need to be added as co-editors to the Event. To learn how to add co-editors, see <a href="http://knowledge.kaltura.com/node/1400" target="_blank">Media Collaboration</a>.
+        All presenters and moderators need to be added as co-editors to the Event. To learn how to add co-editors, see <a href="{{site.url}}/documentation/Knowledge/media-collaboration.html" target="_blank">Media Collaboration</a>.
       </li>
     </ul>
     

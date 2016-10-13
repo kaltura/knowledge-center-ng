@@ -679,7 +679,7 @@ log.config.2=DEBUG.org.sakaiproject.kaltura.services.KalturaEntityProducer</pre>
   </p>
   
   <p>
-    Please refer to the article <a href="http://knowledge.kaltura.com/node/549">What's New in the Kaltura Video Tool for Sakai Verion 4</a>,  to understand the differences between the two versions.
+    Please refer to the article <a href="{{site.url}}/documentation/Knowledge/whats-new-kaltura-video-tool-sakai-version-4.html">What's New in the Kaltura Video Tool for Sakai Verion 4</a>,  to understand the differences between the two versions.
   </p>
   
   <p>

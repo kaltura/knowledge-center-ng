@@ -779,7 +779,7 @@ $flashVars["entryId"] = -1;
         </p>
         
         <p>
-          Note - This user should be unique and correlate with your system user ids. Assigning all upload sessions with the same user id will associate all the videos with the same user id, and allow anyone who captures that user session to delete or modify all videos uploaded using that user session. In cases where the uploading user is anonymous on your site, make sure to use a session that is limitted to the upload permission only. For more details about API Authentication and Security, refer to <a href="http://knowledge.kaltura.com/node/229">Kaltura's API Authentication and Security</a>.
+          Note - This user should be unique and correlate with your system user ids. Assigning all upload sessions with the same user id will associate all the videos with the same user id, and allow anyone who captures that user session to delete or modify all videos uploaded using that user session. In cases where the uploading user is anonymous on your site, make sure to use a session that is limitted to the upload permission only. For more details about API Authentication and Security, refer to <a href="{{site.url}}/documentation/Knowledge/kalturas-api-authentication-and-security.html">Kaltura's API Authentication and Security</a>.
         </p>
       </td>
     </tr>

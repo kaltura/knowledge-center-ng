@@ -49,7 +49,7 @@ date: 2014-09-21 13:29:02
 1.  Click on the "Studio" tab and select the "Flash Studio" tab.
 2.  Select the player you want to add the plug-in to and select "Edit" under actions.
 3.  Add the Omniture plugin configuration parameters under the "Additional Parameters and Plugins" (omniture.path, omniture.plugin, etc.).
-4.  For full parameter specs, please see the <a href="http://knowledge.kaltura.com/node/1257" target="_blank">Omniture Plugin for the Kaltura Dynamic Player (KDP) Installation Guide</a>.
+4.  For full parameter specs, please see the <a href="{{site.url}}/documentation/Knowledge/omniture-plugin-kaltura-dynamic-player-kdp-installation-guide.html" target="_blank">Omniture Plugin for the Kaltura Dynamic Player (KDP) Installation Guide</a>.
 
 **For HTML5 Universal (V2) players:**
 

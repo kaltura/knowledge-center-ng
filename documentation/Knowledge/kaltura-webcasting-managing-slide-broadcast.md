@@ -202,5 +202,5 @@ date: 2015-12-01 17:52:07
   </p>
   
   <p>
-    Slides are automatically created when a presentation is recorded using Kaltura Webcasting. See <a href="http://knowledge.kaltura.com/node/1570" target="_blank">Editing/Deleting Chapters and Slides for Webcast Events</a> for details.
+    Slides are automatically created when a presentation is recorded using Kaltura Webcasting. See <a href="{{site.url}}/documentation/Knowledge/kaltura-player-editingdeleting-chapters-and-slides-webcast-events.html" target="_blank">Editing/Deleting Chapters and Slides for Webcast Events</a> for details.
   </p>

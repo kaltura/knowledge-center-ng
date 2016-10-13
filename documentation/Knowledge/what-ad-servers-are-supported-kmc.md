@@ -14,7 +14,7 @@ The Kaltura Player all VAST compliant ad servers and supports the following ad p
 > 
 > *   Tremor  - For more information see <a href="http://knowledge.kaltura.com/faq/how-configure-tremor-media-plugin" target="_blank">How to configure the Tremor Media plugin?</a>
 > 
-> *   DoubleClick - for more information see  the <a href="http://knowledge.kaltura.com/node/886" target="_blank">DoubleClick Plugin for Kaltura Implementation Guide</a>
+> *   DoubleClick - for more information see  the <a href="{{site.url}}/documentation/Knowledge/doubleclick-plugin-kaltura-implementation-guide.html" target="_blank">DoubleClick Plugin for Kaltura Implementation Guide</a>
 > 
 > *   FreeWheel
 >     

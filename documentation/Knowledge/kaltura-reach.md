@@ -30,7 +30,7 @@ date: 2016-02-22 05:01:41
   </p>
   
   <p>
-    For general information on setup please see the <a href="http://knowledge.kaltura.com/node/1290">Kaltura REACH Setup and Walkthrough Guide</a>.
+    For general information on setup please see the <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-setup-and-walkthrough-guide.html">Kaltura REACH Setup and Walkthrough Guide</a>.
   </p>
   
   <p>
@@ -73,16 +73,16 @@ date: 2016-02-22 05:01:41
     
     <ul>
       <li>
-        <a href="http://knowledge.kaltura.com/node/1670" target="_blank">Kaltura REACH User Guide</a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-user-guide.html" target="_blank">Kaltura REACH User Guide</a>
       </li>
       <li>
-        <a href="http://knowledge.kaltura.com/node/1496" target="_blank">Kaltura REACH Release Notes</a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-release-notes.html" target="_blank">Kaltura REACH Release Notes</a>
       </li>
       <li>
-        <a href="http://knowledge.kaltura.com/node/1290" target="_blank">Kaltura REACH Setup and Walkthrough Guide</a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-setup-and-walkthrough-guide.html" target="_blank">Kaltura REACH Setup and Walkthrough Guide</a>
       </li>
       <li>
-        <a href="http://knowledge.kaltura.com/node/1666" target="_blank">Kaltura REACH KMS/KAF Administration Guide</a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-kmskaf-administration-guide.html" target="_blank">Kaltura REACH KMS/KAF Administration Guide</a>
       </li>
       <li>
       </li>

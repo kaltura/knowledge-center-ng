@@ -153,7 +153,7 @@ After your category structure is set up, you can assign content to your categori
 
 You can add entries to categories in the KMC on the Upload tab's Submit Bulk menu using the Entries CSV/XML option. Categories that do not exist are created when you submit the file. To display these categories in MediaSpace, specify the [MediaSpace Root]>site>galleries path.
 
-To learn more about Assigning Content to Categories, refer to <a href="http://knowledge.kaltura.com/node/368" target="_blank">How to create Categories and Assign Entries to a Category</a>.
+To learn more about Assigning Content to Categories, refer to <a href="{{site.url}}/documentation/Knowledge/how-create-categories-and-assign-entries-category-kmc.html" target="_blank">How to create Categories and Assign Entries to a Category</a>.
 
 <p class="mce-procedure">
   To manually assign content to a MediaSpace category in the KMC
@@ -181,7 +181,7 @@ Also see [Assigning MediaSpace Content to Ca][3]tegories.
 
 Usually, the user who uploads content in the KMC is not the administrative content owner of the media entry. 
 
-*   Refer to <a href="http://knowledge.kaltura.com/node/636" target="_blank">How to change the category owner in the KMC or KMS</a>.
+*   Refer to <a href="{{site.url}}/documentation/Knowledge/how-change-category-owner-kmc-or-kms.html" target="_blank">How to change the category owner in the KMC or KMS</a>.
 
 <p class="mce-heading-3">
   <a name="Adding_contributors_to_KMS_Galleries"></a>Adding Members and Contributors via the KMC
@@ -334,7 +334,7 @@ When a user has permissions to create a channel, a *Create Channel* button is di
   Assigning User Permissions to MediaSpace Channels
 </p>
 
-To assign user permissions in bulk, use the <a href="http://knowledge.kaltura.com/node/466" target="_blank">End-User Entitlements CSV</a>. To learn more about assigning end user permissions, refer to the [Kaltura Management Console (KMC) User Manual][11].
+To assign user permissions in bulk, use the <a href="{{site.url}}/documentation/Knowledge/end-user-entitlements-csv-usage-and-schema-description.html" target="_blank">End-User Entitlements CSV</a>. To learn more about assigning end user permissions, refer to the [Kaltura Management Console (KMC) User Manual][11].
 
  [11]: http://knowledge.kaltura.com/node/888/attachment/field_media
 

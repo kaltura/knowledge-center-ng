@@ -36,7 +36,7 @@ To ensure that the Kaltura Support team handles your request in the most efficie
 *   Expected behavior
 *   Steps to reproduce - Step by step instructions on how to replicate the issue, including urls and login credentials where needed. A user story describing what occurred, what was expected and what was the outcome.
 *   The time the issue occurred, and if it is persistent or sporadic.
-*   TCP Sniffer logs (either Fiddler, Chrome Web Tools, Firefox Tamper, tcp-dump or Charles) See <a href="http://knowledge.kaltura.com/node/745" target="_blank">How to capture network traffic logs for Kaltura Support?</a>
+*   TCP Sniffer logs (either Fiddler, Chrome Web Tools, Firefox Tamper, tcp-dump or Charles) See <a href="{{site.url}}/documentation/Knowledge/how-capture-network-traffic-logs-kaltura-support.html" target="_blank">How to capture network traffic logs for Kaltura Support?</a>
 
 *   **Partner ID and Entry ID**
 
@@ -51,7 +51,7 @@ To ensure that the Kaltura Support team handles your request in the most efficie
 *   The executed API call that produced the error.
 *   The parameters passed on the API calls.
 *   IP address from which the API calls were executed.
-*   TCP Sniffer Log. See <a href="http://knowledge.kaltura.com/node/745" target="_blank">here.</a>
+*   TCP Sniffer Log. See <a href="{{site.url}}/documentation/Knowledge/how-capture-network-traffic-logs-kaltura-support.html" target="_blank">here.</a>
 
 <p class="mce-heading-3">
   For issues with Quality of Video in Playback:

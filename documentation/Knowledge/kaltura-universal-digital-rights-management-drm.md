@@ -5,7 +5,7 @@ date: 2015-06-19 08:52:23
 ---
 
 <p>
-    For updated information about Kaltura's DRM Solution please see the article <a href="https://knowledge.kaltura.com/node/1726" target="_blank">Kaltura Online Video Security Capabilities</a>.
+    For updated information about Kaltura's DRM Solution please see the article <a href="{{site.url}}/documentation/Knowledge/kaltura-online-video-security-capabilities.html" target="_blank">Kaltura Online Video Security Capabilities</a>.
   </p>
   
   <p>
@@ -17,7 +17,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p>
-    With Google and others moving to deprecate or disable existing content protection systems (for example, Widevine Classic and Silverlight plugins), and Google choosing to disable NPAPI (Netscape Plugin Application Programming Interface) support in the Chrome browser as of April 2015, Kaltura’s Universal DRM solution allows video service providers to easily transition to Universal DRM from other delivery protocols, without disrupting service, and uses one unified secure player, the <a href="http://knowledge.kaltura.com/node/1148">Kaltura Universal Studio Player</a>, to resolve the end-of-life challenge of existing player technology.  
+    With Google and others moving to deprecate or disable existing content protection systems (for example, Widevine Classic and Silverlight plugins), and Google choosing to disable NPAPI (Netscape Plugin Application Programming Interface) support in the Chrome browser as of April 2015, Kaltura’s Universal DRM solution allows video service providers to easily transition to Universal DRM from other delivery protocols, without disrupting service, and uses one unified secure player, the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html">Kaltura Universal Studio Player</a>, to resolve the end-of-life challenge of existing player technology.  
   </p>
   
   <div>
@@ -29,7 +29,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p>
-    Where old methods of handling DRM demanded separate files and separate players for each DRM technology, Kaltura’s solution uses a single unified player. the <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Kaltura Universal Studio Player</a> across browsers and native apps to ensure seamless support for analytics, business rules, and the user experience. Using this single standard also reduces the storage space required for files, the effort needed for content management, and the fees associated with multiple delivery technologies. 
+    Where old methods of handling DRM demanded separate files and separate players for each DRM technology, Kaltura’s solution uses a single unified player. the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Kaltura Universal Studio Player</a> across browsers and native apps to ensure seamless support for analytics, business rules, and the user experience. Using this single standard also reduces the storage space required for files, the effort needed for content management, and the fees associated with multiple delivery technologies. 
   </p>
   
   <p>
@@ -249,7 +249,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p>
-    <span> See  the</span><a href="http://knowledge.kaltura.com/node/1685" target="_blank"> Universal DRM (uDRM) Technical Specification </a>article for additional information.<a href="http://knowledge.kaltura.com/node/1685" target="_blank"></a>
+    <span> See  the</span><a href="{{site.url}}/documentation/Knowledge/universal-drm-udrm-technical-specification.html" target="_blank"> Universal DRM (uDRM) Technical Specification </a>article for additional information.<a href="{{site.url}}/documentation/Knowledge/universal-drm-udrm-technical-specification.html" target="_blank"></a>
   </p>
   
   <p>

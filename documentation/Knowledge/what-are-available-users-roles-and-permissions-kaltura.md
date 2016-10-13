@@ -103,7 +103,7 @@ The following table lists the information that should be provided for adding a n
     *   Content Uploader
     *   Content Moderator
     *   Player Designer
-4.  (Optional) Click Add Role to create a custom role. See <a href="http://knowledge.kaltura.com/node/685" target="_blank">Creating Custom Roles.</a>
+4.  (Optional) Click Add Role to create a custom role. See <a href="{{site.url}}/documentation/Knowledge/how-create-custom-roles-kaltura-management-console.html" target="_blank">Creating Custom Roles.</a>
 5.  [][1]Click Save.
 
  [1]: file:///C:/Users/Debbie/Documents/KMC/Gemini/Kaltura_Management_Console_(KMC)_User_Manual_gemini.docx#_Creating_Custom_Roles

@@ -10,7 +10,7 @@ To support a non-Akamai live stream from the KMC, this article describes a worka
 
 FMLE (Flash Media Live Encoder) – Can be downloaded from here: <a href="http://www.adobe.com/sea/products/flash-media-encoder.html" target="_blank">http://www.adobe.com/sea/products/flash-media-encoder.html</a>
 
-Make sure you have <a href="http://knowledge.kaltura.com/node/461" target="_blank">created and set a valid Kaltura Session</a>.
+Make sure you have <a href="{{site.url}}/documentation/Knowledge/how-create-kaltura-session.html" target="_blank">created and set a valid Kaltura Session</a>.
 
 <p class="mce-procedure">
   To configure live streaming through the TestMe Console:

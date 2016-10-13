@@ -122,7 +122,7 @@ With this release, the Kaltura Management Console is no longer supported on the 
       </td>
       
       <td style="text-align: left;" valign="top" width="435">
-        <span>You can provision live streams for both Flash HTTP Dynamic Streaming (HDS) and iOS HTTP Live Streaming. You can also associate entries with custom live URLs, for cases where 3</span><sup>rd </sup><span>party live streamers are used. For more information see </span><a href="http://knowledge.kaltura.com/node/816">What are the live streaming types available in the KMC</a><span>.</span>
+        <span>You can provision live streams for both Flash HTTP Dynamic Streaming (HDS) and iOS HTTP Live Streaming. You can also associate entries with custom live URLs, for cases where 3</span><sup>rd </sup><span>party live streamers are used. For more information see </span><a href="{{site.url}}/documentation/Knowledge/what-are-live-streaming-types-available-kmc-0.html">What are the live streaming types available in the KMC</a><span>.</span>
       </td>
     </tr>
     

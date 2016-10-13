@@ -9,7 +9,7 @@ date: 2015-10-29 00:09:06
   </p>
   
   <p class="mce-note-graphic">
-    For live webcasting events, it is recommended to use the Q&A feature that is managed and moderated through the Kaltura Webcasting Producer Application. You can enable commenting on the event later on, once the event is available for VOD. To learn more about the Q&A feature - see<span> <a href="http://knowledge.kaltura.com/node/1628" target="_blank"><span style="color: #000000;">Managing a Live Broadcast</span></a>.</span>
+    For live webcasting events, it is recommended to use the Q&A feature that is managed and moderated through the Kaltura Webcasting Producer Application. You can enable commenting on the event later on, once the event is available for VOD. To learn more about the Q&A feature - see<span> <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-live-broadcast.html" target="_blank"><span style="color: #000000;">Managing a Live Broadcast</span></a>.</span>
   </p>
   
   <h3>
@@ -60,5 +60,5 @@ date: 2015-10-29 00:09:06
   </ol>
   
   <p class="mce-note-graphic">
-    Comments are not the same as the Q&A and should not be used for discussion during Live Broadcasts. The Q&A feature is used during Live Broadcasts and is managed and moderated through the Producer Application - see <a href="http://knowledge.kaltura.com/node/1628" target="_blank"><span>Managing a Live Broadcast</span></a>.
+    Comments are not the same as the Q&A and should not be used for discussion during Live Broadcasts. The Q&A feature is used during Live Broadcasts and is managed and moderated through the Producer Application - see <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-live-broadcast.html" target="_blank"><span>Managing a Live Broadcast</span></a>.
   </p>

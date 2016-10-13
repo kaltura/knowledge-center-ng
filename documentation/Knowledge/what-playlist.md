@@ -11,7 +11,7 @@ There are two types of playlists available in the KMC:
 *   Manual
 *   Rule Based
 
-Manual playlists allow you to select a static list of items, while <a href="http://knowledge.kaltura.com/node/91" target="_blank">Rule Based playlists</a> are dynamic, and automatically updated based on what's currently available in your media library and what rules define the playlist. After you've created your playlist, you can assign a playlist to a player. See <a href="http://knowledge.kaltura.com/node/1148#playlist_setup" target="_blank">How to setup a playlist</a>.
+Manual playlists allow you to select a static list of items, while <a href="{{site.url}}/documentation/Knowledge/how-define-rule-playlist.html" target="_blank">Rule Based playlists</a> are dynamic, and automatically updated based on what's currently available in your media library and what rules define the playlist. After you've created your playlist, you can assign a playlist to a player. See <a href="http://knowledge.kaltura.com/node/1148#playlist_setup" target="_blank">How to setup a playlist</a>.
 
 A simple manual playlist is limited to 500 entries; however, this may drop to 150 if the account makes use of entitlement.
 

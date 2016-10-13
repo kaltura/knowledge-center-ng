@@ -15,11 +15,11 @@ date: 2015-01-15 17:40:58
         </p>
         
         <p>
-          <span style="color: #003300; font-family: verdana, geneva;">A comprehensive list of the kaltura Player documentation can be found <a href="http://knowledge.kaltura.com/node/429" target="_blank"><span style="color: #003300;">here</span></a>.</span>
+          <span style="color: #003300; font-family: verdana, geneva;">A comprehensive list of the kaltura Player documentation can be found <a href="{{site.url}}/documentation/Knowledge/kaltura-media-players-documentation-index.html" target="_blank"><span style="color: #003300;">here</span></a>.</span>
         </p>
         
         <p>
-          <span style="color: #003300; font-family: verdana, geneva;">If you are unable to find the information you are looking for, please use the search bar above to search for the information you seek, or report a missing information <a href="http://knowledge.kaltura.com/node/86" target="_blank"><span style="color: #003300;">here</span></a>.</span>
+          <span style="color: #003300; font-family: verdana, geneva;">If you are unable to find the information you are looking for, please use the search bar above to search for the information you seek, or report a missing information <a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html" target="_blank"><span style="color: #003300;">here</span></a>.</span>
         </p>
         
         <div>
@@ -39,7 +39,7 @@ date: 2015-01-15 17:40:58
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">Updating Kaltura HTML5 Player V2 is an easy operation, and requires a  few simple steps. To see the step by step process for the upgrade <a href="http://knowledge.kaltura.com/node/1349" target="_blank">click here</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">Updating Kaltura HTML5 Player V2 is an easy operation, and requires a  few simple steps. To see the step by step process for the upgrade <a href="{{site.url}}/documentation/Knowledge/how-update-kaltura-player-v2.html" target="_blank">click here</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -47,9 +47,9 @@ date: 2015-01-15 17:40:58
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">Players can be branded or skinned by changing the Player logo and colors, or even by creating completely new css themes.To change the logo on your Player see: <a href="http://knowledge.kaltura.com/node/264" style="font-family: verdana, geneva;">How to remove or change the Kaltura logo from the Player control bar?</a></span>
+<span style="font-family: verdana, geneva;">Players can be branded or skinned by changing the Player logo and colors, or even by creating completely new css themes.To change the logo on your Player see: <a href="{{site.url}}/documentation/Knowledge/how-remove-or-change-kaltura-logo-player-control-bar.html" style="font-family: verdana, geneva;">How to remove or change the Kaltura logo from the Player control bar?</a></span>
 
-<span style="font-family: verdana, geneva;">To learn more about creating a custom theme, please refer to the <a href="http://knowledge.kaltura.com/node/969">Kaltura Player v2 Toolkit Theme & Skin Guide</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">To learn more about creating a custom theme, please refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit-theme-skin-and-plugins-guide.html">Kaltura Player v2 Toolkit Theme & Skin Guide</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -132,7 +132,7 @@ date: 2015-01-15 17:40:58
 *   <span style="font-family: verdana, geneva;">Hidden text elements for every non-text element (for screen readers)</span>
 *   <span style="font-family: verdana, geneva;">Tooltips</span>
 
-<span style="font-family: verdana, geneva;">Keyboard tabbing and controls For more information see <a href="http://knowledge.kaltura.com/node/962" target="_blank">508 Support within the Kaltura Player Toolkit</a>.[/collapsed]</span>
+<span style="font-family: verdana, geneva;">Keyboard tabbing and controls For more information see <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank">508 Support within the Kaltura Player Toolkit</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -199,7 +199,7 @@ date: 2015-01-15 17:40:58
 1.  <span style="font-family: verdana, geneva;">Select the Universal Studio tab.</span>
 2.  <span style="font-family: verdana, geneva;">Click on the relevant Player in the Player List.</span>
 3.  <span style="font-family: verdana, geneva;">Select an icon to modify the current Player configuration.</span>
-4.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a>. [/collapsed]</span>
+4.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a>. [/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -216,7 +216,7 @@ date: 2015-01-15 17:40:58
 3.  <span style="font-family: verdana, geneva;">Click Duplicate.</span>
 4.  <span style="font-family: verdana, geneva;">The Player configuration Basic Configuration window is displayed and the Player is rendered as a Creating a Player in the Universal Studio Universal Studio Information Guide 10 copy of the existing Player.</span>
 5.  <span style="font-family: verdana, geneva;">Modify the Player’s Basic Display settings to give the new Player a distinct name</span>
-6.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a> [/collapsed]</span>
+6.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a> [/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -231,7 +231,7 @@ date: 2015-01-15 17:40:58
 1.  <span style="font-family: verdana, geneva;">Select the Universal Studio tab.</span>
 2.  <span style="font-family: verdana, geneva;">In the Actions column of the relevant Player, click Delete. </span>  
     <span style="font-family: verdana, geneva;">A Delete confirmation prompt is displayed.</span>
-3.  <span style="font-family: verdana, geneva;">Confirm the deletion. To learn more refer to <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a>[/collapsed]</span>
+3.  <span style="font-family: verdana, geneva;">Confirm the deletion. To learn more refer to <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a>[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -247,7 +247,7 @@ date: 2015-01-15 17:40:58
 
 1.  <span style="font-family: verdana, geneva;">Select the Studio tab and then click Universal Studio.</span>  
     <span style="font-family: verdana, geneva;">The list of existing Players is displayed.</span>
-2.  <span style="font-family: verdana, geneva;">Click Update to update the Player to the Universal Studio Player. To learn more refer to <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a>.[/collapsed]</span>
+2.  <span style="font-family: verdana, geneva;">Click Update to update the Player to the Universal Studio Player. To learn more refer to <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -268,7 +268,7 @@ date: 2015-01-15 17:40:58
 5.  <span style="font-family: verdana, geneva;">Configure the Analytics. (Optional)</span>
 6.  <span style="font-family: verdana, geneva;">Configure the Monetization. (Optional)</span>
 7.  <span style="font-family: verdana, geneva;">Configure the Plugins (Optional)</span>
-8.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a>.[/collapsed]</span>
+8.  <span style="font-family: verdana, geneva;">Click Save Player Settings. To learn more refer to <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a>.[/collapsed]</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 

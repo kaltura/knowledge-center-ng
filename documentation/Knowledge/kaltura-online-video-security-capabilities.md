@@ -125,7 +125,7 @@ date: 2016-06-30 16:30:07
           </p>
           
           <p class="TableBodyText">
-            For more information about the MediaSpace permissions, refer to the article <a href="https://knowledge.kaltura.com/node/475" target="_blank">Kaltura Entitlement Infrastructure</a>.
+            For more information about the MediaSpace permissions, refer to the article <a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-entitlement-infrastructure.html" target="_blank">Kaltura Entitlement Infrastructure</a>.
           </p>
           
           <p class="TableBodyText">
@@ -159,7 +159,7 @@ date: 2016-06-30 16:30:07
         
         <td style="text-align: left;" valign="top" width="229">
           <p class="TableBodyText">
-            Geo restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="https://knowledge.kaltura.com/node/192">How to create an access profile. </a> 
+            Geo restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="{{site.url}}/documentation/Knowledge/how-create-access-profile.html">How to create an access profile. </a> 
           </p>
         </td>
       </tr>
@@ -185,7 +185,7 @@ date: 2016-06-30 16:30:07
         
         <td style="text-align: left;" valign="top" width="229">
           <p class="TableBodyText">
-            Domain restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC refer to the article <a href="https://knowledge.kaltura.com/node/192">How to create an access profile. </a>
+            Domain restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC refer to the article <a href="{{site.url}}/documentation/Knowledge/how-create-access-profile.html">How to create an access profile. </a>
           </p>
         </td>
       </tr>
@@ -211,7 +211,7 @@ date: 2016-06-30 16:30:07
         
         <td style="text-align: left;" valign="top" width="229">
           <p class="TableBodyText">
-            IP address restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="https://knowledge.kaltura.com/node/192" target="_blank">How to create an access profile</a><a href="https://knowledge.kaltura.com/node/192">. </a>
+            IP address restriction can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="{{site.url}}/documentation/Knowledge/how-create-access-profile.html" target="_blank">How to create an access profile</a><a href="{{site.url}}/documentation/Knowledge/how-create-access-profile.html">. </a>
           </p>
         </td>
       </tr>
@@ -267,7 +267,7 @@ date: 2016-06-30 16:30:07
         
         <td style="text-align: left;" valign="top" width="229">
           <p class="TableBodyText">
-            Scheduling can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about scheduling, refer to the article  <a href="https://knowledge.kaltura.com/node/207" target="_blank">How to configure content scheduling?</a>
+            Scheduling can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about scheduling, refer to the article  <a href="{{site.url}}/documentation/Knowledge/how-configure-content-scheduling.html" target="_blank">How to configure content scheduling?</a>
           </p>
         </td>
       </tr>
@@ -293,7 +293,7 @@ date: 2016-06-30 16:30:07
         
         <td style="text-align: left;" valign="top" width="229">
           <p class="TableBodyText">
-            Kaltura Session authentication for embed codes can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="https://knowledge.kaltura.com/node/192" target="_blank">How to create an access profile. </a>
+            Kaltura Session authentication for embed codes can be applied using the Kaltura Management Console (KMC) on each entry or in bulk. For more information about creation of access profiles via the KMC, refer to the article <a href="{{site.url}}/documentation/Knowledge/how-create-access-profile.html" target="_blank">How to create an access profile. </a>
           </p>
         </td>
       </tr>
@@ -451,7 +451,7 @@ date: 2016-06-30 16:30:07
   </p>
   
   <p>
-    For additional information about the Kaltura uDRM solution, see <a href="https://knowledge.kaltura.com/node/1685">here</a>.
+    For additional information about the Kaltura uDRM solution, see <a href="{{site.url}}/documentation/Knowledge/universal-drm-udrm-technical-specification.html">here</a>.
   </p>
   
   <p>

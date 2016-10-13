@@ -32,7 +32,7 @@ date: 2016-08-04 05:40:07
     </p>
     
     <p>
-      Supported video formats are detailed <a href="https://knowledge.kaltura.com/node/79" class="external-link" rel="nofollow">here</a>.
+      Supported video formats are detailed <a href="{{site.url}}/documentation/Knowledge/what-are-supported-transcoding-formats-saas-edition.html" class="external-link" rel="nofollow">here</a>.
     </p>
     
     <p>
@@ -64,7 +64,7 @@ date: 2016-08-04 05:40:07
     </ul>
     
     <p>
-      As part of Kaltura's on the fly packaging capabilities, Kaltura takes the ingested caption source format and converts it to the appropriate in band caption format for the specific delivery type (based on the device/browser/OS used for playback). The supported player/delivery caption formats can be found <a href="https://knowledge.kaltura.com/node/1747" rel="nofollow">here</a>.
+      As part of Kaltura's on the fly packaging capabilities, Kaltura takes the ingested caption source format and converts it to the appropriate in band caption format for the specific delivery type (based on the device/browser/OS used for playback). The supported player/delivery caption formats can be found <a href="{{site.url}}/documentation/Knowledge/kaltura-player-capabilities-matrix.html" rel="nofollow">here</a>.
     </p>
     
     <p>

@@ -31,19 +31,19 @@ date: 2015-10-27 14:41:28
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1584" target="_blank">Managing slides in a broadcast</a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-slide-broadcast.html" target="_blank">Managing slides in a broadcast</a>
   </p>
   
   <p>
-    <a href="https://knowledge.kaltura.com/node/1767" target="_blank">Using Webcasting Polls</a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-polls.html" target="_blank">Using Webcasting Polls</a>
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1621" target="_blank">Responding to On-Air questions</a>
+    <a href="{{site.url}}/documentation/Knowledge/moderated-qa-replying-question-air.html" target="_blank">Responding to On-Air questions</a>
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1688" target="_blank">Configuring the Control Views</a><span style="font-size: 1.17em;"> </span>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-controlling-attendees-view-layout.html" target="_blank">Configuring the Control Views</a><span style="font-size: 1.17em;"> </span>
   </p>
   
   <p>

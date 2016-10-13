@@ -17,7 +17,7 @@ date: 2015-06-13 00:21:41
           </p>
           
           <p style="text-align: left;" align="center">
-            <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?” form.</span>
+            <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?” form.</span>
           </p>
         </td>
       </tr>

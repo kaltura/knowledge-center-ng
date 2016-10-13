@@ -6,7 +6,7 @@ date: 2013-02-28 23:09:52
 
 Audio Description Tracks allow playback of an additional narration track for blind and visually impaired viewers while using the Kaltura Player.
 
-The Kaltura v2 Player is 508 compliant. For more information see the <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Stuido Information Guide.</a>
+The Kaltura v2 Player is 508 compliant. For more information see the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Stuido Information Guide.</a>
 
 <h3 class="mce-heading-3">
   508 Compliancy
@@ -20,7 +20,7 @@ All Universal Studio players are 508 compliant. The player’s features include:
 *   Tooltips
 *   Keyboard tabbing and controls
 
-For more information see <a href="http://knowledge.kaltura.com/node/962" target="_blank">508 Support within the Kaltura Player Toolkit</a>.
+For more information see <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank">508 Support within the Kaltura Player Toolkit</a>.
 
 <p class="mce-note-graphic">
   The following information for the 508 compliant V1 player has been deprecated.
@@ -30,8 +30,8 @@ For more information see <a href="http://knowledge.kaltura.com/node/962" target
   Adding an Audio Description to an Entry Workflow
 </p>
 
-1.  In the Upload tab, <a href="http://knowledge.kaltura.com/node/101" target="_blank">upload an entry</a>.
-2.  <a href="http://knowledge.kaltura.com/node/150" target="_blank">Create a 508 player</a> and <a href="http://knowledge.kaltura.com/node/153" target="_blank">add content to the player</a>.
+1.  In the Upload tab, <a href="{{site.url}}/documentation/Knowledge/how-use-upload-tab.html" target="_blank">upload an entry</a>.
+2.  <a href="{{site.url}}/documentation/Knowledge/how-create-player.html" target="_blank">Create a 508 player</a> and <a href="{{site.url}}/documentation/Knowledge/how-add-content-player.html" target="_blank">add content to the player</a>.
 3.  Configure the player’s Subtitles and Transcriptions options and check Audio Description. 
 4.  Select an entry and [assign an audio description file to the entry][1].
 5.  Hear[ the entry with the audio description.][2]
@@ -42,7 +42,7 @@ For more information see <a href="http://knowledge.kaltura.com/node/962" target
      <a name="assign"></a><span class="mce-procedure">To assign an audio description file to an entry</span>
 
 1.  Select the Content tab and click on an entry.
-2.  Add a custom data field. See  <a href="http://knowledge.kaltura.com/node/347" target="_blank">Adding Custom Data Fields.</a>
+2.  Add a custom data field. See  <a href="{{site.url}}/documentation/Knowledge/how-add-fields-custom-metadata-profile.html" target="_blank">Adding Custom Data Fields.</a>
 3.  Add a text field named “AudioFile”.  
 4.  Select the Metadata tab.
 5.  Enter the value of the URL of the audio file.  

@@ -19,7 +19,7 @@ date: 2014-11-30 11:12:00
 <div id="content" class="page view">
   <div id="main-content" class="wiki-content">
     <p>
-      When Kaltura ad stitching is enabled, the Kaltura 'play-server' cloud manages all client HLS manifest and segment requests. This enables the swapping of individual segments with respective alternate pieces of content. Ads are configured against the Kaltura Ad cuepoint API, or represented directly on the ingest stream. Ad events include a VAST ad tag URL. After the play server reaches a time that includes an ad, a VAST request is made on the server to retrieve ads for each client that is consuming the stream. Ad tags should be configured with respective substitutionsas described in the <a href="http://knowledge.kaltura.com/node/1259" target="_blank" class="external-link" rel="nofollow">Integrating Kaltura with VAST adTag URL</a> article.
+      When Kaltura ad stitching is enabled, the Kaltura 'play-server' cloud manages all client HLS manifest and segment requests. This enables the swapping of individual segments with respective alternate pieces of content. Ads are configured against the Kaltura Ad cuepoint API, or represented directly on the ingest stream. Ad events include a VAST ad tag URL. After the play server reaches a time that includes an ad, a VAST request is made on the server to retrieve ads for each client that is consuming the stream. Ad tags should be configured with respective substitutionsas described in the <a href="{{site.url}}/documentation/Knowledge/integrating-kaltura-vast-adtag-url.html" target="_blank" class="external-link" rel="nofollow">Integrating Kaltura with VAST adTag URL</a> article.
     </p>
     
     <p>
@@ -138,7 +138,7 @@ date: 2014-11-30 11:12:00
     </h3>
     
     <p>
-      Kaltura ad stitching works against the same UiConf player identifiers as the Kaltura Universal Studio players. This enables consolidating ad stitching logic against the same player JSON that drives more feature rich player embeds. The player "VAST" configuration can be configured in the Kaltura Universal studio. You can use different players for web embeds than those used for ad stitching, but note they are managed in the same way with the <a href="http://knowledge.kaltura.com/node/1148">Universal Studio Player.</a>  
+      Kaltura ad stitching works against the same UiConf player identifiers as the Kaltura Universal Studio players. This enables consolidating ad stitching logic against the same player JSON that drives more feature rich player embeds. The player "VAST" configuration can be configured in the Kaltura Universal studio. You can use different players for web embeds than those used for ad stitching, but note they are managed in the same way with the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html">Universal Studio Player.</a>  
     </p>
     
     <p>

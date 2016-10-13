@@ -15,7 +15,7 @@ date: 2014-12-10 00:24:09
         </p>
         
         <p style="text-align: left;">
-          <span style="font-family: verdana, geneva;">This guide is intended for the Kaltura CaptureSpace administrators. For additional information see the <a href="http://knowledge.kaltura.com/node/1649" target="_blank">Kaltura CaptureSpace User Guide</a> and the <a href="http://knowledge.kaltura.com/node/1631" target="_blank">Kaltura CaptureSpace Lite User Guide</a>.</span>
+          <span style="font-family: verdana, geneva;">This guide is intended for the Kaltura CaptureSpace administrators. For additional information see the <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-user-guide-0.html" target="_blank">Kaltura CaptureSpace User Guide</a> and the <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-lite-user-guide.html" target="_blank">Kaltura CaptureSpace Lite User Guide</a>.</span>
         </p>
         
         <p style="text-align: left;">
@@ -48,7 +48,7 @@ date: 2014-12-10 00:24:09
   <span style="font-family: verdana, geneva; color: #000000;">Manage Content at your Fingertips</span>
 </p>
 
-<span style="font-family: verdana, geneva; color: #000000;">Using Kaltura’s Management Console, you can perform bulk ingestion and upload previously recorded content, create transcoding profiles, manage and create custom metadata and categories, design and configure players, create playlists, view analytics, and have complete control to access your media. With the CaptureSpace HTML5 Player and chapters' editor, viewers can shorten lengthy clips, search through the slide text and skip to the relevant point, playback the presentation side by side, and also view picture in picture. For more information see <a href="http://knowledge.kaltura.com/node/1351" target="_blank">Viewing Rich Media in the Kaltura Player</a>.</span>
+<span style="font-family: verdana, geneva; color: #000000;">Using Kaltura’s Management Console, you can perform bulk ingestion and upload previously recorded content, create transcoding profiles, manage and create custom metadata and categories, design and configure players, create playlists, view analytics, and have complete control to access your media. With the CaptureSpace HTML5 Player and chapters' editor, viewers can shorten lengthy clips, search through the slide text and skip to the relevant point, playback the presentation side by side, and also view picture in picture. For more information see <a href="{{site.url}}/documentation/Knowledge/viewing-rich-media-kaltura-player.html" target="_blank">Viewing Rich Media in the Kaltura Player</a>.</span>
 
 <span style="font-family: verdana, geneva; color: #000000;">Captured content is managed in the Kaltura video platform that already powers cross-campus media management and publishing. This enables effective discovery and reuse of content across the institution.</span>
 
@@ -88,7 +88,7 @@ Kaltura CaptureSpace Lite is a simple video creation tool that enables users to 
 
 <span style="font-family: verdana, geneva;">In addition, the Kaltura player version must be 2.27 and up.</span>
 
-<span style="font-family: verdana, geneva;">For end users installing Kaltura CaptureSpace Desktop Recorder or Kaltura CaptureSpace Lite please see <a href="http://knowledge.kaltura.com/node/1646" target="_blank">System Requirements for the Kaltura CaptureSpace Desktop Recorder</a>. </span><span style="font-family: verdana, geneva;">[/collapsed]</span>
+<span style="font-family: verdana, geneva;">For end users installing Kaltura CaptureSpace Desktop Recorder or Kaltura CaptureSpace Lite please see <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-system-requirements-and-supported-ms-office-versions.html" target="_blank">System Requirements for the Kaltura CaptureSpace Desktop Recorder</a>. </span><span style="font-family: verdana, geneva;">[/collapsed]</span>
 
 <p class="mce-heading-2">
   <span style="font-family: verdana, geneva; color: #000000;"><a name="Enbale"></a>Enabling Kaltura CaptureSpace and CaptureSpace Lite</span>

@@ -165,7 +165,7 @@ date: 2016-07-13 18:07:24
       <strong>Offline WebVTT on Android </strong> - WebVTT captions for offline playback are now available on Android, for Android versions 4.3 and up. See the <a href="https://knowledge.kaltura.com/kaltura-player-capabilities-matrix">Kaltura Player Capabilities Matrix</a> for a full Matrix of WebVTT support.
     </li>
     <li>
-      <strong>CVAA Compliance</strong> – The Kaltura Player is now compliant with the <a href="https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa">Twenty-First Century Communications and Video Accessibility Act (CVAA)</a> and includes a styling editor for captions to enhance accessibility. See <a href="https://knowledge.kaltura.com/node/1760">CVAA Support within the Kaltura Player Toolkit</a> for more information.
+      <strong>CVAA Compliance</strong> – The Kaltura Player is now compliant with the <a href="https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa">Twenty-First Century Communications and Video Accessibility Act (CVAA)</a> and includes a styling editor for captions to enhance accessibility. See <a href="{{site.url}}/documentation/Knowledge/cvaa-support-within-kaltura-player-toolkit.html">CVAA Support within the Kaltura Player Toolkit</a> for more information.
     </li>
     <li>
       <strong>Safari on iOS10</strong> - Fairplay DRM on Safari is now supported on iOS10 (awaiting iOS10 official release). See the <a href="https://knowledge.kaltura.com/kaltura-player-capabilities-matrix">Kaltura Player Capabilities Matrix</a> for a full Matrix of DRM support.
@@ -186,7 +186,7 @@ date: 2016-07-13 18:07:24
   
   <ul>
     <li>
-      <strong>Kaltura V2 Mobile Skin Player</strong> -<span>The new mobile skin is designed to enable a more mobile/touch friendly user experience on Kaltura's V2 players. The new mobile skin is available to all customers and is enabled via the KMC. For more information see </span><a href="https://knowledge.kaltura.com/node/1734">Using the Kaltura V2 Player Mobile Skin</a><span>.</span>
+      <strong>Kaltura V2 Mobile Skin Player</strong> -<span>The new mobile skin is designed to enable a more mobile/touch friendly user experience on Kaltura's V2 players. The new mobile skin is available to all customers and is enabled via the KMC. For more information see </span><a href="{{site.url}}/documentation/Knowledge/using-kaltura-v2-player-mobile-skin.html">Using the Kaltura V2 Player Mobile Skin</a><span>.</span>
     </li>
     <li>
       <span></span><span><strong>Enhancements to the Chromecast Receiver</strong> </span><span>- </span>Additional features to Kaltura's custom receiver, including:

@@ -67,7 +67,7 @@ date: 2016-01-18 18:28:36
   </h3>
   
   <p>
-    Before you start a live broadcast, read the <a href="http://knowledge.kaltura.com/node/1597" target="_blank">Webcasting Tips and Recommendations</a>.
+    Before you start a live broadcast, read the <a href="{{site.url}}/documentation/Knowledge/webcasting-tips-and-recommendations.html" target="_blank">Webcasting Tips and Recommendations</a>.
   </p>
   
   <h3>
@@ -125,7 +125,7 @@ date: 2016-01-18 18:28:36
   </h3>
   
   <p>
-    You can browse through the slide deck on the timeline area during a live broadcast, preview other slides, and skip directly to present a designated slide. See <a href="http://knowledge.kaltura.com/node/1584" target="_blank">Managing Slide Broadcast</a> for more information.
+    You can browse through the slide deck on the timeline area during a live broadcast, preview other slides, and skip directly to present a designated slide. See <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-slide-broadcast.html" target="_blank">Managing Slide Broadcast</a> for more information.
   </p>
   
   <p class="mce-procedure">
@@ -143,7 +143,7 @@ date: 2016-01-18 18:28:36
   </h3>
   
   <p>
-    Use the Timeline tab at the bottom of the application to add polls and engage your audience. See <a href="https://knowledge.kaltura.com/node/1767" target="_blank">Kaltura Webcasting Polls</a> for more information.
+    Use the Timeline tab at the bottom of the application to add polls and engage your audience. See <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-polls.html" target="_blank">Kaltura Webcasting Polls</a> for more information.
   </p>
   
   <h3>
@@ -163,7 +163,7 @@ date: 2016-01-18 18:28:36
   </p>
   
   <p>
-    For more information about live analytics, see <a href="http://knowledge.kaltura.com/node/1600" target="_blank">Kaltura Webcasting - Live Analytics</a>.
+    For more information about live analytics, see <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-live-analytics.html" target="_blank">Kaltura Webcasting - Live Analytics</a>.
   </p>
   
   <h3>
@@ -171,7 +171,7 @@ date: 2016-01-18 18:28:36
   </h3>
   
   <p>
-    The moderator is responsible to managing the Q&A dduring the event. See <a href="http://knowledge.kaltura.com/node/1586" target="_blank">Kaltura Webcasting Q&A</a> for more information. 
+    The moderator is responsible to managing the Q&A dduring the event. See <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-moderated-qa.html" target="_blank">Kaltura Webcasting Q&A</a> for more information. 
   </p>
   
   <h3>

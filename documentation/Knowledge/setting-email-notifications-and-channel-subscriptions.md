@@ -385,7 +385,7 @@ date: 2016-06-16 00:12:55
       </li>
     </ol>
     
-    <a href="https://knowledge.kaltura.com/node/1711">Back</a><br /><p>
+    <a href="{{site.url}}/documentation/Knowledge/understanding-mediaspace-setup-2.html">Back</a><br /><p>
        
     </p>
   </div>

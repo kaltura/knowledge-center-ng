@@ -14,10 +14,10 @@ The player’s features include:
 *   Tooltips
 *   Keyboard tabbing and controls
 
-For more information see <a href="http://knowledge.kaltura.com/node/962" target="_blank"><em class="search-keyword">508</em> Support within the Kaltura Player Toolkit</a>.
+For more information see <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank"><em class="search-keyword">508</em> Support within the Kaltura Player Toolkit</a>.
 
 <p class="mce-note-graphic">
-  Please see the <a href="http://knowledge.kaltura.com/node/1148" target="_blank">Universal Studio Information Guide</a> for the latest version of the Kaltura V2 player information. 
+  Please see the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html" target="_blank">Universal Studio Information Guide</a> for the latest version of the Kaltura V2 player information. 
 </p>
 
 <p class="mce-note-graphic">
@@ -57,7 +57,7 @@ The 508 compliant video player includes functionality and interface design that 
     <span style="font-size: 10px;">Select the Player Controls.</span>
   </li>
   <li>
-    <span style="font-size: 10px;">Select the Subtitles and Transcriptions Options. See </span><a href="http://knowledge.kaltura.com/node/135" target="_blank" style="font-size: 10px;">Setting Up Captions for Display</a><span style="font-size: 10px;">.</span>
+    <span style="font-size: 10px;">Select the Subtitles and Transcriptions Options. See </span><a href="{{site.url}}/documentation/Knowledge/how-set-captions-display.html" target="_blank" style="font-size: 10px;">Setting Up Captions for Display</a><span style="font-size: 10px;">.</span>
   </li>
   <li>
     <span style="font-size: 10px;">Save Changes.<br /><img src="{{site.url}}/assets/1051">

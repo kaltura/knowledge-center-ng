@@ -27,7 +27,7 @@ date: 2016-01-24 14:10:08
       To show or hide the speaker notes, click the <span></span><strong>Notes</strong><span> icon.</span>
     </li>
     <li>
-      To upload a slide deck, click <strong>Add New Slide Deck</strong> (see <em>Uploading Slide Decks</em> in <a href="https://knowledge.kaltura.com/node/1584" target="_blank">Managing Slide Broadcast</a> for details).
+      To upload a slide deck, click <strong>Add New Slide Deck</strong> (see <em>Uploading Slide Decks</em> in <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-slide-broadcast.html" target="_blank">Managing Slide Broadcast</a> for details).
     </li>
     <li>
       To add polls to the broadcast, in the Timeline tab at the bottom of the application, click the plus button <img src="{{site.url}}/assets/3414">

@@ -13,11 +13,11 @@ date: 2011-12-28 01:50:00
         </p>
         
         <p style="text-align: left;">
-          <span style="font-family: verdana, geneva;">To learn more about The Kaltura Architecture Framework that is part of the Kaltura Video Platform Architecture, see <a href="http://knowledge.kaltura.com/node/986">Understanding the Kaltura Application Framework</a>.</span>
+          <span style="font-family: verdana, geneva;">To learn more about The Kaltura Architecture Framework that is part of the Kaltura Video Platform Architecture, see <a href="{{site.url}}/documentation/Knowledge/understanding-kaltura-application-framework-kaf.html">Understanding the Kaltura Application Framework</a>.</span>
         </p>
         
         <p style="text-align: left;">
-          <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?” form.</span>
+          <span style="font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?” form.</span>
         </p>
       </td>
     </tr>
@@ -136,7 +136,7 @@ date: 2011-12-28 01:50:00
 
 <span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2130">
 
-<span style="font-family: verdana, geneva;">The Kaltura platform includes self-contained, client-side components called Kaltura Widgets, which implement specific APIs in Flash or HTML. Kaltura widgets can be customized, skinned and easily embedded within publisher’s websites. Kaltura widgets rely on advanced web technologies, encapsulating graphics, media functionalities, and workflow events control along with direct access to Kaltura core technologies (via the Kaltura web services layer). Kaltura’s most commonly used widgets include: the <a href="http://knowledge.kaltura.com/kaltura-simple-uploader-ksu">Kaltura Simple Uploader</a>, <a href="http://knowledge.kaltura.com/node/416">Kaltura Contributor Wizard</a> (KCW) <a href="http://knowledge.kaltura.com/node/353#ksr">Kaltura Screen Recorder</a> and the <a href="http://html5video.org/wiki/Kaltura_HTML5_Video_Library">HTML5 Player</a>.</span>
+<span style="font-family: verdana, geneva;">The Kaltura platform includes self-contained, client-side components called Kaltura Widgets, which implement specific APIs in Flash or HTML. Kaltura widgets can be customized, skinned and easily embedded within publisher’s websites. Kaltura widgets rely on advanced web technologies, encapsulating graphics, media functionalities, and workflow events control along with direct access to Kaltura core technologies (via the Kaltura web services layer). Kaltura’s most commonly used widgets include: the <a href="http://knowledge.kaltura.com/kaltura-simple-uploader-ksu">Kaltura Simple Uploader</a>, <a href="{{site.url}}/documentation/Knowledge/kaltura-contribution-wizard-kcw.html">Kaltura Contributor Wizard</a> (KCW) <a href="http://knowledge.kaltura.com/node/353#ksr">Kaltura Screen Recorder</a> and the <a href="http://html5video.org/wiki/Kaltura_HTML5_Video_Library">HTML5 Player</a>.</span>
 
 <span style="font-family: verdana, geneva;">Some Kaltura widgets (specifically the Kaltura Dynamic Player) implement internal hooks to enable the widget’s integration with a Kaltura or a 3<sup>rd</sup> party plug-in applications. Such plug-in applications are then used to provide Kaltura widgets’ functionality with complementary media services. Examples of 3<sup>rd</sup> party services already integrated as a plug-in within Kaltura widgets are: Doubleclick for Publishers (DFP) ad services powered by Google, Ad services powered by Adap.tv, Ad services powered by Tremor Media, Ad services supporting VAST based ad servers, Media social syndication services powered by Gigya, and subtitle editing services powered by PLYmedia. [/collapsed]</span>
 

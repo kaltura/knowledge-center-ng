@@ -100,7 +100,7 @@ date: 2015-10-27 14:42:23
   </h3>
   
   <p>
-    The Kaltura Player is equipped with different viewing modes. To select the viewing mode see <a href="https://knowledge.kaltura.com/node/1351" target="_blank">Viewing Rich Media in the Kaltura Player</a>.
+    The Kaltura Player is equipped with different viewing modes. To select the viewing mode see <a href="{{site.url}}/documentation/Knowledge/viewing-rich-media-kaltura-player.html" target="_blank">Viewing Rich Media in the Kaltura Player</a>.
   </p>
   
   <h3>

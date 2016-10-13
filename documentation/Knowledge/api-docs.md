@@ -146,7 +146,7 @@ Read the guides in-order, or find the specific answers you are looking for and l
     
     <tr class="kaltura-table-row">
       <td class="kaltura-table-row-item" style="width: 33%; text-align: left;">
-        <a href="http://knowledge.kaltura.com/node/451">Kaltura Android SDK — Reference Application: Implementation Guide</a><a href="/kaltura-thumbnail-api"></a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-android-sdk-reference-application-implementation-guide.html">Kaltura Android SDK — Reference Application: Implementation Guide</a><a href="/kaltura-thumbnail-api"></a>
       </td>
       
       <td class="kaltura-table-row-item" style="width: 33%; text-align: left;">
@@ -160,7 +160,7 @@ Read the guides in-order, or find the specific answers you are looking for and l
     
     <tr class="kaltura-table-row">
       <td class="kaltura-table-row-item" style="width: 33%; text-align: left;">
-        <a href="http://knowledge.kaltura.com/node/450">Kaltura iOS SDK — Reference Application: Implementation Guide</a><a href="/kaltura-thumbnail-api"></a>
+        <a href="{{site.url}}/documentation/Knowledge/kaltura-ios-sdk-reference-application-implementation-guide.html">Kaltura iOS SDK — Reference Application: Implementation Guide</a><a href="/kaltura-thumbnail-api"></a>
       </td>
       
       <td class="kaltura-table-row-item" style="width: 33%; text-align: left;">
@@ -271,7 +271,7 @@ Read the guides in-order, or find the specific answers you are looking for and l
     <tr class="kaltura-table-row">
       <td class="kaltura-table-row-item" style="width: 33%; text-align: left;">
         <p id="page-title">
-          <a href="http://knowledge.kaltura.com/node/583">Kaltura API Release Notes for Falcon</a>
+          <a href="{{site.url}}/documentation/Knowledge/kaltura-api-release-notes-and-changelog.html">Kaltura API Release Notes for Falcon</a>
         </p>
       </td>
       
@@ -311,7 +311,7 @@ The following links review few of the selected sample applications:
 
 *   [Create A New Kaltura Entry And Upload Video File Using The Kaltura API][8]
 *   <a href="http://blog.kaltura.org/kaltura-api-how-to-get-started-video" target="_blank">Getting Started with the Kaltura API - Blog post and Webinar.</a>
-*   <a href="http://knowledge.kaltura.com/node/96" target="_blank">How to retrieve the Partner ID, API Admin Secret and API User Secret?</a>
+*   <a href="{{site.url}}/documentation/Knowledge/what-can-you-configure-integration-settings.html" target="_blank">How to retrieve the Partner ID, API Admin Secret and API User Secret?</a>
 *   [How to retrieve the download or streaming URL using API calls?][9]
 *   [How to retrieve a media entry details and metadata?][10]
 *   [How the Search in Kaltura Works (How to perform AND, OR, NOT and Exact Match searches in API)][11].

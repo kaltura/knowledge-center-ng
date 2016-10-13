@@ -9,7 +9,7 @@ date: 2012-01-04 14:08:34
 </p>
 
 > 1.  Search for content based on a filter. See <a href="http://knowledge.kaltura.com/faq/how-filter-entries-table" target="_blank">How to filter the entries table</a>.
-> 2.  Click Add Playlist to create a playlist. See<a href="http://knowledge.kaltura.com/node/90" target="_blank"> How to create a manual playlist</a> or <a href="http://knowledge.kaltura.com/node/139" target="_blank">How to create/add a single rule playlist</a>.
+> 2.  Click Add Playlist to create a playlist. See<a href="{{site.url}}/documentation/Knowledge/how-create-manual-playlist.html" target="_blank"> How to create a manual playlist</a> or <a href="{{site.url}}/documentation/Knowledge/how-create-add-single-rule-playlist.html" target="_blank">How to create/add a single rule playlist</a>.
 
  
 

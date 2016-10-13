@@ -85,7 +85,7 @@ New devices, cameras and input sources are introduced every month, from studio g
 </h3>
 
 <p id="main-content" class="wiki-content">
-  For a list of commonly used media formats and codecs that were tested and optimized for transcoding and delivery by Kaltura, see <a href="http://knowledge.kaltura.com/node/79" target="_blank">What are the supported Transcoding formats for the SaaS edition?</a> 
+  For a list of commonly used media formats and codecs that were tested and optimized for transcoding and delivery by Kaltura, see <a href="{{site.url}}/documentation/Knowledge/what-are-supported-transcoding-formats-saas-edition.html" target="_blank">What are the supported Transcoding formats for the SaaS edition?</a> 
 </p>
 
 <p class="wiki-content">
@@ -122,7 +122,7 @@ These are the five stages of the transcoding process:
   <span class="confluence-anchor-link"></span><a name="analysis"></a>Analysis
 </h3>
 
-The first step in the transcoding process is to analyze the source media characteristics and parameters. Based on the source parameters, the Kaltura Decision Layer decides whether there is a need for an intermediate-source processing phase. The transcoding logic then attempts to match the best encoding settings for that source and for the specific flavor in the transcoding profile specified. For example, in most cases, the bitrate and the frame size of the generated flavors should not exceed the source file bitrate and frame size. These decision settings can be overridden in the <a href="http://knowledge.kaltura.com/node/61" class="external-link" rel="nofollow">transcoding profile settings</a>.
+The first step in the transcoding process is to analyze the source media characteristics and parameters. Based on the source parameters, the Kaltura Decision Layer decides whether there is a need for an intermediate-source processing phase. The transcoding logic then attempts to match the best encoding settings for that source and for the specific flavor in the transcoding profile specified. For example, in most cases, the bitrate and the frame size of the generated flavors should not exceed the source file bitrate and frame size. These decision settings can be overridden in the <a href="{{site.url}}/documentation/Knowledge/what-are-editing-options-flavors-transcoding-profile.html" class="external-link" rel="nofollow">transcoding profile settings</a>.
 
 <h3 id="KalturaMediaTranscodingServicesandTechnology-intermediateIntermediate-SourceProcessing">
   <span class="confluence-anchor-link"></span><a name="source_processing"></a>Intermediate-Source Processing
@@ -130,7 +130,7 @@ The first step in the transcoding process is to analyze the source media charact
 
 With some proprietary formats and codecs, a dedicated hardware, operating system or software may be required to handle the transcoding of such files. In such cases Kaltura will leverage the dedicated technology to convert the ingested proprietary source into an intermediate-source (file of non-proprietary format/codec, usually MP4/H.264 or WMV) and then continue the processing as usual.
 
-For example (read: <a href="http://knowledge.kaltura.com/node/723" class="external-link" rel="nofollow">Best Practices For Uploading Content Created Using Screencast Tools</a>):
+For example (read: <a href="{{site.url}}/documentation/Knowledge/best-practices-uploading-content-created-using-screencast-tools.html" class="external-link" rel="nofollow">Best Practices For Uploading Content Created Using Screencast Tools</a>):
 
 *   Webex/ARF - <a href="http://www.webex.com/play-webex-recording.html" class="external-link" rel="nofollow">Cisco's WebEx Network Recording Tool</a> will be used to covert the proprietary WebEx format before continuing with the media transcoding process.
 *   GoToMeeting Codec - Windows Expression Encoder 4 will be used to covert the proprietary GoToMeeting codec before continuing with the media transcoding process.
@@ -154,7 +154,7 @@ The redundant flavors are marked as Non Applicable (i.e. output flavors that sho
   <a name="asset_generation" rel="nofollow"></a><span class="confluence-anchor-link"></span>Asset Generation
 </h3>
 
-<a href="http://knowledge.kaltura.com/node/230" class="external-link" rel="nofollow">The Kaltura batch system</a> executes the asset generation. In this phase, each of the flavors specified in the transcoding profile will be executed as transcoding jobs in parallel and according to priority and resources availability by the designated encoder. In case of a specific transcoding tool failure, the batch worker attempts to use the rest of the fallback transcoders that are available for the specific flavor.
+<a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-batch-processes.html" class="external-link" rel="nofollow">The Kaltura batch system</a> executes the asset generation. In this phase, each of the flavors specified in the transcoding profile will be executed as transcoding jobs in parallel and according to priority and resources availability by the designated encoder. In case of a specific transcoding tool failure, the batch worker attempts to use the rest of the fallback transcoders that are available for the specific flavor.
 
 When an asset transcoding completed successfully, the newly transcoded asset goes into the validation phase.
 
@@ -206,8 +206,8 @@ The job prioritization mechanism takes into account the following factors: (Note
 1.  **The duration of the source video** - For the following reasons, transcoding jobs of shorter duration generally have a higher priority.
     *   The users expectations usually correlate to the video duration: a user who uploads a 5 min video generally expects the video to be ready in a matter of minutes, while a user who uploads an hour long video will expect it to take more time.
     *   The duration of a video provides a rough estimate for the execution time required to process the transcoding of that video.
-2.  **Impact on "Entry Readiness"** - Transcoding of flavors that are marked as "required" as for the entry status to be READY, are assigned higher priority than flavors marked as "optional". If all flavors are marked as optional, the lowest bitrate flavor will implicitly be treated as required. (Read more on <a href="http://knowledge.kaltura.com/node/61" class="external-link" rel="nofollow">Entry Readiness settings</a>).
-3.  **The ingestion / upload method** - Videos that were singularly ingested using the upload API (e.g. via browser or mobile app upload) will be assigned a higher priority than videos ingested as part of a bulk upload (<a href="http://knowledge.kaltura.com/node/49" class="external-link" rel="nofollow">using CSV / XML bulk upload</a>).
+2.  **Impact on "Entry Readiness"** - Transcoding of flavors that are marked as "required" as for the entry status to be READY, are assigned higher priority than flavors marked as "optional". If all flavors are marked as optional, the lowest bitrate flavor will implicitly be treated as required. (Read more on <a href="{{site.url}}/documentation/Knowledge/what-are-editing-options-flavors-transcoding-profile.html" class="external-link" rel="nofollow">Entry Readiness settings</a>).
+3.  **The ingestion / upload method** - Videos that were singularly ingested using the upload API (e.g. via browser or mobile app upload) will be assigned a higher priority than videos ingested as part of a bulk upload (<a href="{{site.url}}/documentation/Knowledge/what-bulk-upload.html" class="external-link" rel="nofollow">using CSV / XML bulk upload</a>).
 4.  **The ingesting account overhead** - As more transcoding jobs will be executed under a single account, the pending jobs in the account's growing queue will be assigned a lower priority to avoid clogging the queue with a single account's queue.
 5.  **Account Class of Service** - Accounts can be assigned classes of service to indicate priority treatment. A high-priority account that has 20 running jobs may get a higher priority than a low-priority account that has 10 running jobs.
 6.  **User assigned priority** - <span>Priority can be set per flavor in a specific transcoding profile to indicate the importance of flavors (for example, when the mobile app has more views than your website, publishers can configure the iPhone and iPad flavors to have a higher priority than the web flavors). I</span><span>t is also possible to configure different priorities between an accounts transcoding profiles, to enable the content uploader to choose the priority of their media entry. Transcoding priority </span><span>can be set via API when manually queuing conversion jobs.</span>
@@ -262,7 +262,7 @@ Video file encryption (i.e. data-at-rest or Widevine) is encrypted at a much hig
   <span>Real-time Thumbnails Creation</span>
 </h3>
 
-<a href="http://knowledge.kaltura.com/node/228" target="_blank" class="external-link" rel="nofollow">The Kaltura Thumbnail API</a> provides a simple web interface to dynamically generate image snapshots of Kaltura video entries on the fly. Generated images are generated upon demand, and caching is managed on disk and CDN levels. The result of the thumbnail API is a JPEG, PNG or GIF image, and provides many image manipulation tools, including;
+<a href="{{site.url}}/documentation/Knowledge/kaltura-thumbnail-api.html" target="_blank" class="external-link" rel="nofollow">The Kaltura Thumbnail API</a> provides a simple web interface to dynamically generate image snapshots of Kaltura video entries on the fly. Generated images are generated upon demand, and caching is managed on disk and CDN levels. The result of the thumbnail API is a JPEG, PNG or GIF image, and provides many image manipulation tools, including;
 
 *   Image re-sizing and frame cropping.
 *   Extracting specific frame from a video clip on.
@@ -330,11 +330,11 @@ Depending on the chosen video transcoding engine, Kaltura exposes a wide range o
 </h2>
 
 <p class="p2">
-  <span class="s1">The Kaltura Media Transcoding Services are implemented as a Kaltura batch workers. See <a href="http://knowledge.kaltura.com/node/230" target="_blank" class="external-link" rel="nofollow">Introduction to Kaltura Batch Processes</a> to learn more about batch processes and the Kaltura batch architecture.</span>
+  <span class="s1">The Kaltura Media Transcoding Services are implemented as a Kaltura batch workers. See <a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-batch-processes.html" target="_blank" class="external-link" rel="nofollow">Introduction to Kaltura Batch Processes</a> to learn more about batch processes and the Kaltura batch architecture.</span>
 </p>
 
 <p class="p2">
-  <span class="s1">To ensure ease of extensibility and allow for adding new transcoding engines and capabilities, the Kaltura Media Transcoding Services are built on the <a href="http://knowledge.kaltura.com/node/430" target="_blank" class="external-link" rel="nofollow">Kaltura Backend Plugins Framework</a>. Transcoding server plugins are configured and </span><span class="s2">registered automatically with the Kaltura batch managers, who activate the plugin worker for all job types that are assigned to that backend plugin.</span>
+  <span class="s1">To ensure ease of extensibility and allow for adding new transcoding engines and capabilities, the Kaltura Media Transcoding Services are built on the <a href="{{site.url}}/documentation/Knowledge/creating-kaltura-server-plugins.html" target="_blank" class="external-link" rel="nofollow">Kaltura Backend Plugins Framework</a>. Transcoding server plugins are configured and </span><span class="s2">registered automatically with the Kaltura batch managers, who activate the plugin worker for all job types that are assigned to that backend plugin.</span>
 </p>
 
 <p class="p3">

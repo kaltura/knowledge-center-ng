@@ -104,5 +104,5 @@ date: 2015-11-01 15:35:40
   </p>
   
   <p>
-    To learn more about the types of encoders you can use, see <a href="http://knowledge.kaltura.com/node/1146" target="_blank">Which Encoders can I use with the Kaltura Live Streaming</a>?
+    To learn more about the types of encoders you can use, see <a href="{{site.url}}/documentation/Knowledge/kaltura-live-supported-encoders.html" target="_blank">Which Encoders can I use with the Kaltura Live Streaming</a>?
   </p>

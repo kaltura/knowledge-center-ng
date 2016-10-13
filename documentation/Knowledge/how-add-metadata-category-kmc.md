@@ -28,5 +28,5 @@ You can add or edit metadata to a category or to multiple categories.
   </li>
 </ol>
 
-4.  If you have Custom Data for categories, you can edit the Custom Data fields for the category. For multiple schemas, use the drop down Jump To menu to select the schema values you want to edit for the category. See <a href="http://knowledge.kaltura.com/node/648" target="_blank">Managing Schemas</a> for more information.
+4.  If you have Custom Data for categories, you can edit the Custom Data fields for the category. For multiple schemas, use the drop down Jump To menu to select the schema values you want to edit for the category. See <a href="{{site.url}}/documentation/Knowledge/how-manage-schemas.html" target="_blank">Managing Schemas</a> for more information.
 5.  Click Save & Close.

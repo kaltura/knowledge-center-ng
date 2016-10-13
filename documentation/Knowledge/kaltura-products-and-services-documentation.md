@@ -19,7 +19,7 @@ date: 2012-03-05 22:58:30
         </p>
         
         <p>
-          If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?” form.
+          If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?” form.
         </p>
       </td>
     </tr>
@@ -34,7 +34,7 @@ date: 2012-03-05 22:58:30
 *   [Kaltura REACH][4]
 *   [Kaltura API][5]
 *   [Kaltura Deployment Options][6]
-*   <a href="http://knowledge.kaltura.com/node/584" target="_blank">Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/release-notes.html" target="_blank">Release Notes</a>
 *   [Glossary][7]
 
  [1]: #apps
@@ -104,7 +104,7 @@ date: 2012-03-05 22:58:30
 
  
 
-*   <a href="http://knowledge.kaltura.com/node/964" target="_blank">Kaltura MediaSpace Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspace-5-release-notes-and-changelog.html" target="_blank">Kaltura MediaSpace Release Notes</a>
 
 [collapsed title="Version 5.50 docs"]
 
@@ -179,13 +179,13 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Kaltura Webcasting"]<a name="webcasting"></a>
 
-*   <a href="https://knowledge.kaltura.com/node/1671" target="_blank">Kaltura Webcasting Release Notes</a>
-*   <a href="http://knowledge.kaltura.com/node/1533" target="_blank">Kaltura Webcasting</a>
-*   <a href="http://knowledge.kaltura.com/node/1535" target="_blank">Kaltura Webcasting Producer's Guide </a>
-*   <a href="http://knowledge.kaltura.com/node/1536" target="_blank">Kaltura Webcasting Moderator's Guide </a>
-*   <a href="http://knowledge.kaltura.com/node/1537" target="_blank">Kaltura Webcasting Presenter's Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1538" target="_blank">Kaltura Webcasting Attendee's Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1531" target="_blank">Kaltura Webcasting Administrator's Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-release-notes.html" target="_blank">Kaltura Webcasting Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting.html" target="_blank">Kaltura Webcasting</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-producers-guide.html" target="_blank">Kaltura Webcasting Producer's Guide </a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-moderators-guide.html" target="_blank">Kaltura Webcasting Moderator's Guide </a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-presenters-guide.html" target="_blank">Kaltura Webcasting Presenter's Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-attendees-guide.html" target="_blank">Kaltura Webcasting Attendee's Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-administrators-guide.html" target="_blank">Kaltura Webcasting Administrator's Guide</a>
 
  
 
@@ -195,8 +195,8 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Kaltura CaptureSpace"]<a name="capturespace" style="color: #828a8c; font-size: 14pt; font-weight: bold; background-color: #ffffff;"></a>
 
-*   <a href="http://knowledge.kaltura.com/node/1649" target="_blank">Kaltura CaptureSpace - User Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1300" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-user-guide-0.html" target="_blank">Kaltura CaptureSpace - User Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-administrators-guide.html" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1373#August2015" target="_blank">Kaltura CaptureSpace Release Notes</a>
 
 [/collapsed]
@@ -255,9 +255,9 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="KAF LTI Integration"]<a name="kaflti"></a>
 
-*   <a href="http://knowledge.kaltura.com/node/1573" target="_blank">Kaltura Application Framework (KAF) Learning Tools Interoperability (LTI) Integration Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1578" target="_blank">Kaltura Application Framework (KAF) for Learning Tools Interoperability (LTI) Setup Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1581/attachment/field_media" target="_blank">Kaltura Application Framework (KAF) for Learning Tools Interoperability (LTI) User Guide</a><a href="http://knowledge.kaltura.com/node/1573" target="_blank"><br /></a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-integration-guide.html" target="_blank">Kaltura Application Framework (KAF) Learning Tools Interoperability (LTI) Integration Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-setup-guide.html" target="_blank">Kaltura Application Framework (KAF) for Learning Tools Interoperability (LTI) Setup Guide</a>
+*   <a href="http://knowledge.kaltura.com/node/1581/attachment/field_media" target="_blank">Kaltura Application Framework (KAF) for Learning Tools Interoperability (LTI) User Guide</a><a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-integration-guide.html" target="_blank"><br /></a>
 
 [/collapsed]
 
@@ -298,7 +298,7 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Version 1.1 docs"]
 
-*   <a href="https://knowledge.kaltura.com/node/1739" target="_blank">Kaltura Video Extension for SharePoint 2013 Deployment Guide for On-Premise v1.1</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-extension-sharepoint-2013-deployment-guide-premise-v-11.html" target="_blank">Kaltura Video Extension for SharePoint 2013 Deployment Guide for On-Premise v1.1</a>
 
 [/collapsed]
 
@@ -307,7 +307,7 @@ date: 2012-03-05 22:58:30
 *   <a href="http://knowledge.kaltura.com/node/1382/attachment/field_media" target="_blank">Kaltura Video Extension for SharePoint 2013 User Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1345/attachment/field_media" target="_blank">Kaltura Video Extension for SharePoint 2013 Deployment Guide for MS Office 365</a>
 *   <a href="http://knowledge.kaltura.com/node/1381/attachment/field_media" target="_blank">Kaltura Video Extension for SharePoint 2013 Deployment Guide for On-Premise</a>
-*   <a href="http://knowledge.kaltura.com/node/1377" target="_blank">Kaltura Video Extension for SharePoint 2013 Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-extension-sharepoint-2013-release-notes.html" target="_blank">Kaltura Video Extension for SharePoint 2013 Release Notes</a>
 
 [/collapsed]
 
@@ -318,8 +318,8 @@ date: 2012-03-05 22:58:30
 [collapsed title="SharePoint v2"]
 
 *   [Kaltura Extension for SharePoint User Guide][21]
-*   <a href="http://knowledge.kaltura.com/node/1004" target="_blank">Kaltura Extension for SharePoint Release Notes</a>
-*   <a href="http://knowledge.kaltura.com/node/1150" target="_blank">Kaltura Video OpenSearch Description (OSDX) File for SharePoint</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-sharepoint-2010-video-extension-v2-release-notes.html" target="_blank">Kaltura Extension for SharePoint Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-opensearch-description-osdx-file-sharepoint.html" target="_blank">Kaltura Video OpenSearch Description (OSDX) File for SharePoint</a>
 
  [21]: http://knowledge.kaltura.com/node/1008/attachment/field_media
 
@@ -379,11 +379,11 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Version 4 for Moodle"]**<a name="moodle25_26"></a>**
 
-*   <a href="http://knowledge.kaltura.com/node/1250" target="_blank">What's New in the Kaltura Video Package V4 for Moodle</a>[][22]
+*   <a href="{{site.url}}/documentation/Knowledge/what-new-kaltura-video-package-moodle-v4.html" target="_blank">What's New in the Kaltura Video Package V4 for Moodle</a>[][22]
 *   [Kaltura Video Package V4 for Moodle Setup Guide][22]
 *   <a href="http://knowledge.kaltura.com/node/1170/attachment/field_media" target="_blank">Kaltura Video Package V4 for Moodle Installation and Upgrade Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1168/attachment/field_media" target="_blank">Kaltura Video Package V4 for Moodle User Manual</a>
-*   <a href="http://knowledge.kaltura.com/node/1249" target="_blank">Kaltura Video Package V4 for Moodle versions 2.5-3.0 Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-package-v4-moodle-release-notes.html" target="_blank">Kaltura Video Package V4 for Moodle versions 2.5-3.0 Release Notes</a>
 
  [22]: http://knowledge.kaltura.com/node/1169/attachment/field_media
 
@@ -407,9 +407,9 @@ date: 2012-03-05 22:58:30
 [collapsed title="Kaltura Video App for Canvas"]<a name="Canvas" style="color: #828a8c; font-size: 14pt; font-weight: bold; background-color: #ffffff;"></a>
 
 *   <a href="http://knowledge.kaltura.com/node/1015/attachment/field_media" target="_blank">Kaltura Video App for Canvas User Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1609" target="_blank">Kaltura Video App for Canvas Deployment Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-app-canvas-deployment-guide-0.html" target="_blank">Kaltura Video App for Canvas Deployment Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1014/attachment/field_media" target="_blank">Kaltura Video App for Canvas Setup Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/1019" target="_blank">Kaltura Video App for Canvas Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-app-canvas-release-notes-and-changelog.html" target="_blank">Kaltura Video App for Canvas Release Notes</a>
 
 [/collapsed]
 
@@ -435,7 +435,7 @@ date: 2012-03-05 22:58:30
 [collapsed title="Version 4"]
 
 *   [What's New in the Kaltura Video Tool for Sakai Version 4][24]<a href="http://knowledge.kaltura.com/node/834/attachment/field_media" target="_blank"></a>
-*   <a href="http://knowledge.kaltura.com/node/1643" target="_blank">Kaltura Video Tool for Sakai Installation and Upgrade Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-tool-sakai-installation-and-upgrade-guide-version-40.html" target="_blank">Kaltura Video Tool for Sakai Installation and Upgrade Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1658/attachment/field_media" target="_blank">Kaltura Video Tool for Sakai Setup Guide</a>
 *   <a href="http://knowledge.kaltura.com/node/1657/attachment/field_media" target="_blank">Kaltura Video Tool for Sakai User Guide</a>
 *   <a href="https://knowledge.kaltura.com/kaltura-video-tool-sakai-release-notes-0" target="_blank">Kaltura Video Tool for Sakai Release Notes</a>
@@ -473,15 +473,15 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Version 2.7"]
 
-*   <a href="https://knowledge.kaltura.com/node/1776" target="_blank">Kaltura Video Plugin for WordPress Information Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/905" target="_blank">Kaltura Video Plugin for WordPress Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-plugin-wordpress-information-guide.html" target="_blank">Kaltura Video Plugin for WordPress Information Guide</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-plugin-wordpress-release-notes.html" target="_blank">Kaltura Video Plugin for WordPress Release Notes</a>
 
 [/collapsed]
 
 [collapsed title="Version 2.5"]
 
 *   <a href="http://knowledge.kaltura.com/node/912/attachment/field_media" target="_blank">Kaltura Video Plugin for WordPress Quick Start Guide</a>
-*   <a href="http://knowledge.kaltura.com/node/905" target="_blank">Kaltura Video Plugin for WordPress Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-video-plugin-wordpress-release-notes.html" target="_blank">Kaltura Video Plugin for WordPress Release Notes</a>
 
 [/collapsed]
 
@@ -535,11 +535,11 @@ date: 2012-03-05 22:58:30
 
 [collapsed title="Kaltura Contribution Wizard"]<a name="kcw" style="color: #828a8c; font-size: 14pt; font-weight: bold; background-color: #ffffff;"></a>
 
-*   <a href="http://knowledge.kaltura.com/node/416" target="_blank">Kaltura Contribution Wizard (KCW)</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-contribution-wizard-kcw.html" target="_blank">Kaltura Contribution Wizard (KCW)</a>
 *   <a href="http://knowledge.kaltura.com/kaltura-contributor-wizard-kcw-website-integration" target="_blank">Kaltura Contributor Wizard (KCW) - Website Integration</a>
-*   <a href="http://knowledge.kaltura.com/node/439" target="_blank">Kaltura Contribution Wizard (KCW) Customization</a>
-*   <a href="http://knowledge.kaltura.com/node/436" target="_blank">Kaltura Contribution Wizard (KCW) Project Setup in Flash Builder</a>
-*   <a href="http://knowledge.kaltura.com/node/418" target="_blank">Adding a Custom Search Provider to the Kaltura Contribution Wizard (KCW)</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-contribution-wizard-kcw-customization.html" target="_blank">Kaltura Contribution Wizard (KCW) Customization</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-contribution-wizard-kcw-project-setup-flash-builder.html" target="_blank">Kaltura Contribution Wizard (KCW) Project Setup in Flash Builder</a>
+*   <a href="{{site.url}}/documentation/Knowledge/adding-custom-search-provider-kaltura-contribution-wizard-kcw.html" target="_blank">Adding a Custom Search Provider to the Kaltura Contribution Wizard (KCW)</a>
 
 [/collapsed]
 
@@ -582,19 +582,19 @@ date: 2012-03-05 22:58:30
   
   <ul>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1669" target="_blank">Kaltura REACH</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-reach.html" target="_blank">Kaltura REACH</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1666" target="_blank">Kaltura REACH KMS/KAF Administration Guide</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-kmskaf-administration-guide.html" target="_blank">Kaltura REACH KMS/KAF Administration Guide</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1290" target="_blank">Kaltura REACH Setup and Walkthrough Guide</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-setup-and-walkthrough-guide.html" target="_blank">Kaltura REACH Setup and Walkthrough Guide</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1670" target="_blank">Kaltura REACH User Guide</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-user-guide.html" target="_blank">Kaltura REACH User Guide</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1496">Kaltura REACH Release Notes</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-reach-release-notes.html">Kaltura REACH Release Notes</a>
     </li>
   </ul>
   
@@ -629,7 +629,7 @@ date: 2012-03-05 22:58:30
 *   [Introduction to Kaltura's Cross-Platform Media Players][36]
 *   [JavaScript API for Kaltura Media Players][37]
 *   <a href="http://knowledge.kaltura.com/adding-new-kaltura-api-client-library-generator" target="_blank">Adding the New Kaltura API Client Library Generator</a>
-*   <a href="http://knowledge.kaltura.com/node/583" target="_blank">Kaltura API Release Notes</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-api-release-notes-and-changelog.html" target="_blank">Kaltura API Release Notes</a>
 
  [28]: /kaltura-api-usage-guidelines
  [29]: /using-kalturas-api-test-console-introduction
@@ -658,7 +658,7 @@ For more information, see the <a href="http://knowledge.kaltura.com/kaltura-api-
 
 [collapsed title="Kaltura Deployment Options"]<a name="deployment-options" href="#CE" style="font-size: 14pt; font-weight: bold; background-color: #ffffff;"></a>
 
-*   <a href="http://knowledge.kaltura.com/node/1469" target="_blank">Kaltura CE - Documentation</a>
+*   <a href="{{site.url}}/documentation/Knowledge/kaltura-community-edition-install-setup-and-developer-documentation.html" target="_blank">Kaltura CE - Documentation</a>
 
 <p class="mce-heading-3" style="padding-left: 30px;">
   <a name="on-prem"></a> <span style="color: #000000; font-size: 10px;">Kaltura On-Prem </span>

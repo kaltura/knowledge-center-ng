@@ -159,7 +159,7 @@ These release notes are intended for Kaltura SaaS customers.
       
       <td style="text-align: left;" valign="top" width="228">
         <p>
-          Initial release of the<a href="http://knowledge.kaltura.com/node/969" target="_blank"> HTML5 v2 player</a>. The new HTML5 version is the default for players created <span style="text-decoration: underline;">or updated </span>from the KMC.
+          Initial release of the<a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit-theme-skin-and-plugins-guide.html" target="_blank"> HTML5 v2 player</a>. The new HTML5 version is the default for players created <span style="text-decoration: underline;">or updated </span>from the KMC.
         </p>
         
         <p>

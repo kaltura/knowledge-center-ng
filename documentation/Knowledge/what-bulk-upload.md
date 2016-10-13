@@ -6,7 +6,7 @@ date: 2011-12-19 23:54:05
 
 <div>
   <p>
-    Kaltura offers bulk content ingenstion when there is a need to upload large files. Bulk upload presents a great advantage to consolidate large amounts of video content in different locations from remote sites. See <a href="http://knowledge.kaltura.com/node/111" target="_blank" title="What is XML bulk upload">Bulk Upload</a> and <a href="http://knowledge.kaltura.com/node/110" target="_blank" title="What is bulk and FTP upload">FTP Upload</a>.
+    Kaltura offers bulk content ingenstion when there is a need to upload large files. Bulk upload presents a great advantage to consolidate large amounts of video content in different locations from remote sites. See <a href="{{site.url}}/documentation/Knowledge/what-xml-bulk-upload.html" target="_blank" title="What is XML bulk upload">Bulk Upload</a> and <a href="{{site.url}}/documentation/Knowledge/what-bulk-upload-and-ftp-content-ingestion.html" target="_blank" title="What is bulk and FTP upload">FTP Upload</a>.
   </p>
 </div>
 

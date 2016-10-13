@@ -17,7 +17,7 @@ date: 2013-01-29 17:58:58
 </p>
 
 <p class="p2 mce-note-graphic">
-  Note, the list below present all browser versions that support the HTML5 video element, and known to be compatible with the Kaltura HTML5 Player, however not all browsers are tested consistently. For a a list of all devices and browsers that were tested on Kaltura, visit: <a href="http://knowledge.kaltura.com/node/445">Browsers and Mobile Devices Tested With Kaltura Players</a>.
+  Note, the list below present all browser versions that support the HTML5 video element, and known to be compatible with the Kaltura HTML5 Player, however not all browsers are tested consistently. For a a list of all devices and browsers that were tested on Kaltura, visit: <a href="{{site.url}}/documentation/Knowledge/browsers-and-mobile-devices-tested-kaltura-players.html">Browsers and Mobile Devices Tested With Kaltura Players</a>.
 </p>
 
 <p class="p2">
@@ -28,11 +28,11 @@ date: 2013-01-29 17:58:58
 </p>
 
 <p class="p1">
-  <span class="s1">For Android versions fragmentation compatibility, refer to: <a href="http://knowledge.kaltura.com/node/586">Android Platform Fragmentation and Kaltura Video</a>.</span>
+  <span class="s1">For Android versions fragmentation compatibility, refer to: <a href="{{site.url}}/documentation/Knowledge/android-platform-fragmentation-and-kaltura-video.html">Android Platform Fragmentation and Kaltura Video</a>.</span>
 </p>
 
 <p class="p1">
-  <span class="s1">Windows 8 and Internet Explorer 10 are also supported and tested by Kaltura, for more information please refer to: <a href="http://knowledge.kaltura.com/node/681">Kaltura Players and Internet Explorer 10</a>.</span>
+  <span class="s1">Windows 8 and Internet Explorer 10 are also supported and tested by Kaltura, for more information please refer to: <a href="{{site.url}}/documentation/Knowledge/kaltura-players-and-internet-explorer-10.html">Kaltura Players and Internet Explorer 10</a>.</span>
 </p>
 
 <p class="p1">
@@ -52,4 +52,4 @@ Cross-platform video playback support depends on the availability of the video f
 
 Due to the fragmentation and variety of codecs, formats, and screen sizes, when planning for cross-platform compatability or mobile reach strategy, publishers are advised to create a list of all major devices to target, and then confirm that their Kaltura account has all the required video flavors configured to support these devices.
 
-To learn more about transcoding profiles and cross-platform video playback, refer to: <a href="http://knowledge.kaltura.com/node/217" target="_blank">Best Practices For Multi-Device Transcoding</a>.
+To learn more about transcoding profiles and cross-platform video playback, refer to: <a href="{{site.url}}/documentation/Knowledge/best-practices-multi-device-transcoding.html" target="_blank">Best Practices For Multi-Device Transcoding</a>.

@@ -17,7 +17,7 @@ date: 2016-01-27 18:45:09
           </p>
           
           <p style="text-align: left;">
-            If you are a system administrator, please refer to the <a href="http://knowledge.kaltura.com/node/1300" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>. 
+            If you are a system administrator, please refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-administrators-guide.html" target="_blank">Kaltura CaptureSpace - Administrator's Guide</a>. 
           </p>
           
           <p id="page-title" class="title" style="text-align: left;">
@@ -34,25 +34,25 @@ date: 2016-01-27 18:45:09
   
   <ul>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1644" target="_blank">Introduction to Kaltura CaptureSpace Desktop Recorder</a>
+      <a href="{{site.url}}/documentation/Knowledge/introduction-kaltura-capturespace-desktop-recorder.html" target="_blank">Introduction to Kaltura CaptureSpace Desktop Recorder</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1646" target="_blank">System Requirements and Supported MS Office Versions</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-system-requirements-and-supported-ms-office-versions.html" target="_blank">System Requirements and Supported MS Office Versions</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1647" target="_blank">Getting Started</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-getting-started.html" target="_blank">Getting Started</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1647" target="_blank"></a><a href="http://knowledge.kaltura.com/node/1650" target="_blank">The Kaltura CaptureSpace Desktop Recorder Tabs</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-getting-started.html" target="_blank"></a><a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-desktop-recorder-tabs.html" target="_blank">The Kaltura CaptureSpace Desktop Recorder Tabs</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1651" target="_blank">Kaltura CaptureSpace Desktop Recorder Recording Options</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-recording-options.html" target="_blank">Kaltura CaptureSpace Desktop Recorder Recording Options</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1652" target="_blank">Editing a Video</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-editing-video.html" target="_blank">Editing a Video</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1653" target="_blank">Uploading a Video to Your Website</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-uploading-video-your-website.html" target="_blank">Uploading a Video to Your Website</a>
     </li>
   </ul>
   

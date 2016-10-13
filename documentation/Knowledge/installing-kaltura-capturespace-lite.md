@@ -28,5 +28,5 @@ date: 2016-01-27 18:12:07
   </ol>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1631" target="_blank"><span>Back to Kaltura CaptureSpace Lite User Guide</span></a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-lite-user-guide.html" target="_blank"><span>Back to Kaltura CaptureSpace Lite User Guide</span></a>
   </p>

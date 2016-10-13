@@ -30,7 +30,7 @@ You can choose between the following types of video delivery settings:
 
  [6]: #rtmpe
 
-For more information see <a href="http://knowledge.kaltura.com/node/217" target="_blank">Best Practices for Multi-Device Transcoding</a>.
+For more information see <a href="{{site.url}}/documentation/Knowledge/best-practices-multi-device-transcoding.html" target="_blank">Best Practices for Multi-Device Transcoding</a>.
 
 For Kaltura SaaS users, the default delivery format is Kaltura Auto.
 
@@ -49,7 +49,7 @@ For a video length  <5 minutes (short form) – delivery format will be Progres
 
 For a video length  >5 minutes (long form) – delivery format will be Akamai HTTP Streaming.
 
-If you have defined an <a href="http://knowledge.kaltura.com/node/447" target="_blank">Access Control Profile</a>, the delivery format will be HDS .
+If you have defined an <a href="{{site.url}}/documentation/Knowledge/kaltura-media-access-control-model.html" target="_blank">Access Control Profile</a>, the delivery format will be HDS .
 
 ### <a name="progressive"></a>HTTP Progressive Download Delivery
 

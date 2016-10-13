@@ -416,5 +416,5 @@ V4 offers out of the box migration of content for user upgrading from the V3 ver
 </div>
 
 <p style="text-align: left;" align="center">
-  For more details and important information on the content migration process, please refer to the<a href="http://knowledge.kaltura.com/node/1170/attachment/field_media" target="_blank"> Kaltura Video Package V4 for Moodle versions 2.8 -3.0  Installation and Upgrade Guide </a>and to the <a href="http://knowledge.kaltura.com/node/1249" target="_blank">Kaltura Video Package V4 for Moodle 2.5-3.0 Release Notes.</a>
+  For more details and important information on the content migration process, please refer to the<a href="http://knowledge.kaltura.com/node/1170/attachment/field_media" target="_blank"> Kaltura Video Package V4 for Moodle versions 2.8 -3.0  Installation and Upgrade Guide </a>and to the <a href="{{site.url}}/documentation/Knowledge/kaltura-video-package-v4-moodle-release-notes.html" target="_blank">Kaltura Video Package V4 for Moodle 2.5-3.0 Release Notes.</a>
 </p>

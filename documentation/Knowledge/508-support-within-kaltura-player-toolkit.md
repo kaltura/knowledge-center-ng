@@ -5,7 +5,7 @@ date: 2013-09-09 16:57:48
 ---
 
   
-All Kaltura players that use the <a href="http://knowledge.kaltura.com/node/959" target="_blank">Kaltura Player Toolkit</a> are now 508 compliant by default and are based on on <a href="http://www.w3.org/TR/wai-aria/" target="_blank">W3C Accessible Rich Internet Applications (WAI-ARIA)</a>. The screen reader includes friendly markup and testing controls. The player uses HTML controls even when using Flash for video on older browsers. 
+All Kaltura players that use the <a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit.html" target="_blank">Kaltura Player Toolkit</a> are now 508 compliant by default and are based on on <a href="http://www.w3.org/TR/wai-aria/" target="_blank">W3C Accessible Rich Internet Applications (WAI-ARIA)</a>. The screen reader includes friendly markup and testing controls. The player uses HTML controls even when using Flash for video on older browsers. 
 
 <span>Kaltura Player v2 </span> delivers a great keyboard input experience for users unable to use a mouse and a seamless browser-managed experience for better integration with web accessibility tools. The player also includes [keyboard shortcuts][1] for all main player functions and player plug-ins**<span>.</span>**  
 

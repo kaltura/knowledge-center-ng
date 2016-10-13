@@ -293,7 +293,7 @@ The following lists the constants and variable parameters and their descriptions
       
       <td style="text-align: left;" valign="top" width="201">
         <p class="TableBodyText">
-          Enter your Partner ID. Please refer to <a href="http://knowledge.kaltura.com/node/162" target="_blank">Kaltura API Usage Guidelines</a>.
+          Enter your Partner ID. Please refer to <a href="{{site.url}}/documentation/Knowledge/kaltura-api-usage-guidelines.html" target="_blank">Kaltura API Usage Guidelines</a>.
         </p>
       </td>
     </tr>
@@ -323,7 +323,7 @@ The following lists the constants and variable parameters and their descriptions
       
       <td style="text-align: left;" valign="top" width="201">
         <p class="TableBodyText">
-          Enter your Web Service Secret. Refer to the <a href="http://knowledge.kaltura.com/node/162" target="_blank">Kaltura API Usage Guidelines</a> for more information. The Secret string is used within Kaltura objects to create a secured session ID, preventing hacking and abuse attempts aiming to damage Partner/end-user’s content.
+          Enter your Web Service Secret. Refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-api-usage-guidelines.html" target="_blank">Kaltura API Usage Guidelines</a> for more information. The Secret string is used within Kaltura objects to create a secured session ID, preventing hacking and abuse attempts aiming to damage Partner/end-user’s content.
         </p>
       </td>
     </tr>

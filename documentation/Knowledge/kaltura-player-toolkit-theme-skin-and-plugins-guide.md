@@ -928,7 +928,7 @@ Almost all plugin configuration options that end up being displayed on the playe
   <span>Universal Studio</span>
 </p>
 
-<span>Read about the Player Universal Studio at length in the <a href="http://knowledge.kaltura.com/node/1148">Universal Studio Information Guide</a>.</span>
+<span>Read about the Player Universal Studio at length in the <a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html">Universal Studio Information Guide</a>.</span>
 
 <span> </span>
 

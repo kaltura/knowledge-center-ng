@@ -19,7 +19,7 @@ date: 2015-02-02 20:23:33
         </p>
         
         <p style="text-align: left;">
-          <span style="color: #888888; font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report missing information: "<span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/86" target="_blank"><span style="color: #003366;">Couldn't find what you were looking for</span></a>?</span>” form.</span>
+          <span style="color: #888888; font-family: verdana, geneva;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report missing information: "<span style="color: #003366;"><a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html" target="_blank"><span style="color: #003366;">Couldn't find what you were looking for</span></a>?</span>” form.</span>
         </p>
       </td>
     </tr>

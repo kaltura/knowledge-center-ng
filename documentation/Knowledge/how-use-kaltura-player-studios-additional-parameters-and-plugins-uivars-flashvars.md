@@ -514,7 +514,7 @@ This table provides the full list of common use cases of player modifications r
       </td>
       
       <td style="text-align: left;" width="184">
-        See<a href="http://knowledge.kaltura.com/node/794" target="_blank"> </a><span style="text-align: center;"><a href="http://knowledge.kaltura.com/node/794" target="_blank">What flashvars can you use to change the playlist items text color in a playlist player</a>.<a href="http://knowledge.kaltura.com/node/794" target="_blank"></a></span>
+        See<a href="{{site.url}}/documentation/Knowledge/what-flashvars-can-you-use-change-playlist-items-text-color-playlist-player.html" target="_blank"> </a><span style="text-align: center;"><a href="{{site.url}}/documentation/Knowledge/what-flashvars-can-you-use-change-playlist-items-text-color-playlist-player.html" target="_blank">What flashvars can you use to change the playlist items text color in a playlist player</a>.<a href="{{site.url}}/documentation/Knowledge/what-flashvars-can-you-use-change-playlist-items-text-color-playlist-player.html" target="_blank"></a></span>
       </td>
       
       <td style="text-align: left;" width="129">
@@ -874,7 +874,7 @@ This table provides the full list of common use cases of player modifications r
       
       <td style="text-align: left;" width="184">
         <p>
-          <a href="http://knowledge.kaltura.com/node/135">Read more about the captions features</a>. This flashvar is used to set the default language to be used when the player begins to play.
+          <a href="{{site.url}}/documentation/Knowledge/how-set-captions-display.html">Read more about the captions features</a>. This flashvar is used to set the default language to be used when the player begins to play.
         </p>
       </td>
       

@@ -37,22 +37,22 @@ date: 2015-10-27 14:38:13
   
   <ol>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1540" target="_blank">Create the Webcast Event</a>
+      <a href="{{site.url}}/documentation/Knowledge/creating-webcasting-event.html" target="_blank">Create the Webcast Event</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1547" target="_blank">Set up the Presenter’s Information</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-presenters-tab-addedit-presenter-information.html" target="_blank">Set up the Presenter’s Information</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1618" target="_blank">Optional – Set the Comments Configuration</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-optional-–-set-comments-configuration.html" target="_blank">Optional – Set the Comments Configuration</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1549" target="_blank">Optional – Set the Thumbnails Configuration</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-set-webcasting-event-thumbnail.html" target="_blank">Optional – Set the Thumbnails Configuration</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1551" target="_blank">Set up the Live Encoder</a>
+      <a href="{{site.url}}/documentation/Knowledge/example-encoder-setup-using-adobe-fmle-set-live-video-stream.html" target="_blank">Set up the Live Encoder</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1548" target="_blank">Install/Launch the Webcasting Application</a>
+      <a href="{{site.url}}/documentation/Knowledge/installlaunch-kaltura-webcasting-application.html" target="_blank">Install/Launch the Webcasting Application</a>
     </li>
   </ol>
   
@@ -62,7 +62,7 @@ date: 2015-10-27 14:38:13
   
   <ol>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1566" target="_blank">Prepare the Kaltura Webcasting presenters</a>
+      <a href="{{site.url}}/documentation/Knowledge/preparing-webcasting-presentersspeakers.html" target="_blank">Prepare the Kaltura Webcasting presenters</a>
     </li>
     <li>
       <a href="http://knowledge.kaltura.com/preparing-webcasting-event" target="_blank">Perform a dry run of the event to ensure all equipment and related personnel are prepared</a>
@@ -75,19 +75,19 @@ date: 2015-10-27 14:38:13
   
   <ul>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1584" target="_blank">Manage slide broadcast</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-slide-broadcast.html" target="_blank">Manage slide broadcast</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1586" target="_blank">Ensure moderators are responding to Q&A and address any technical issues raised by attendees</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-moderated-qa.html" target="_blank">Ensure moderators are responding to Q&A and address any technical issues raised by attendees</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1688" target="_blank">Configure the Control Views</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-controlling-attendees-view-layout.html" target="_blank">Configure the Control Views</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1600" target="_blank">Follow live analytics from the audience</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-live-analytics.html" target="_blank">Follow live analytics from the audience</a>
     </li>
     <li>
-      <a href="https://knowledge.kaltura.com/node/1767" target="_blank">Encourage the presenter to use interactive polls</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-polls.html" target="_blank">Encourage the presenter to use interactive polls</a>
     </li>
   </ul>
   
@@ -97,22 +97,22 @@ date: 2015-10-27 14:38:13
   
   <ul>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1570" target="_blank">Edit the slides before publishing</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-player-editingdeleting-chapters-and-slides-webcast-events.html" target="_blank">Edit the slides before publishing</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1633" target="_blank">Edit the video before publishing</a>
+      <a href="{{site.url}}/documentation/Knowledge/creating-and-trimming-video-clip-kms-and-kaf-applications.html" target="_blank">Edit the video before publishing</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1627" target="_blank">Publish the VOD to a category or channel</a>
+      <a href="{{site.url}}/documentation/Knowledge/publishing-webcasting-event-category-or-channel.html" target="_blank">Publish the VOD to a category or channel</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1354" target="_blank">Review and download analytics</a>
+      <a href="{{site.url}}/documentation/Knowledge/live-analytics-kaltura-live-streaming-information-guide.html" target="_blank">Review and download analytics</a>
     </li>
     <li>
-      <a href="http://knowledge.kaltura.com/node/1622" target="_blank">Export the Q&A transcript to share with the presenters</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-exporting-transcript-qa-session.html" target="_blank">Export the Q&A transcript to share with the presenters</a>
     </li>
     <li>
-      <a href="https://knowledge.kaltura.com/node/1767" target="_blank">Export the poll results</a>
+      <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-polls.html" target="_blank">Export the poll results</a>
     </li>
   </ul>
   

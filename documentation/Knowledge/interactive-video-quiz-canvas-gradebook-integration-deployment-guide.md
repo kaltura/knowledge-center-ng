@@ -61,7 +61,7 @@ date: 2016-02-08 23:48:53
         Kaltura Video App for Canvas should be installed on your Canvas environment
       </li>
       <li>
-        If you haven’t already, re-install the Media Gallery and BSE (Browse, Search and Embed tool) with the latest content item message based integration. The new xml can be generated using your KAF instance.<br />http://123456.kaf.kaltura.com/canvas/config/create-xml-for-instance. <br />For additional information please review the <a href="http://knowledge.kaltura.com/node/1609" target="_blank">Kaltura Video App for Canvas Deployment Guide</a>
+        If you haven’t already, re-install the Media Gallery and BSE (Browse, Search and Embed tool) with the latest content item message based integration. The new xml can be generated using your KAF instance.<br />http://123456.kaf.kaltura.com/canvas/config/create-xml-for-instance. <br />For additional information please review the <a href="{{site.url}}/documentation/Knowledge/kaltura-video-app-canvas-deployment-guide-0.html" target="_blank">Kaltura Video App for Canvas Deployment Guide</a>
       </li>
     </ul>
     

@@ -9,7 +9,7 @@ date: 2012-02-26 14:17:53
 </p>
 
 1.  Select the Settings tab and then select the Custom Data menu.
-2.  Add a schema. See <a href="https://knowledge.kaltura.com/node/346" target="_blank">Adding a Schema</a>.
+2.  Add a schema. See <a href="{{site.url}}/documentation/Knowledge/how-add-kaltura-custom-metadata-schema-profile.html" target="_blank">Adding a Schema</a>.
 3.  Click Add Field.  
     The New Field window appears.<span style="font-size: small;"><br /><img src="../../assets/293">
 4.  Select the Field type. See [What fields can be configured in the Kaltura custom metadata schema][1].

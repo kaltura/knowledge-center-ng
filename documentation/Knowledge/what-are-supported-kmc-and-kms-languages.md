@@ -36,7 +36,7 @@ date: 2014-03-25 23:16:49
   <img src="{{site.url}}/assets/3092">
 </p>
 
-*    Administrators can create additional languages and customize existing languages.  See  <a href="https://knowledge.kaltura.com/node/1696" target="_blank">Localization for KMS/KAF Administrators - How to Change Your Kaltura Application Language?</a> for additional information.
+*    Administrators can create additional languages and customize existing languages.  See  <a href="{{site.url}}/documentation/Knowledge/localization-kmskaf-administrators-how-change-your-kaltura-application-language.html" target="_blank">Localization for KMS/KAF Administrators - How to Change Your Kaltura Application Language?</a> for additional information.
 
 <p style="padding-left: 30px;">
    

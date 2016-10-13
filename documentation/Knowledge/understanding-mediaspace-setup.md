@@ -237,7 +237,7 @@ KMC entitlement definitions are displayed in the KMC under Content>Categories>Ed
 
 <span>If modifications are made in the KMC that do not correspond to one of the channel types, MediaSpace behavior will follow the KMC definition, not the designated type.</span>
 
-For more information, refer to<a href="http://knowledge.kaltura.com/node/637" target="_blank"> How to set entitlement settings in the KMC</a>[.][5]
+For more information, refer to<a href="{{site.url}}/documentation/Knowledge/how-set-entitlement-settings-kmc.html" target="_blank"> How to set entitlement settings in the KMC</a>[.][5]
 
  [5]: http://knowledge.kaltura.com/node/637
 

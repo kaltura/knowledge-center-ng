@@ -6,7 +6,7 @@ date: 2012-11-25 21:37:59
 
 API upgrades and backward compatibility is a common concern for developers utilizing APIs to build applications. 
 
-Kaltura's client libraries are automatically generated from the server code, that include an automatic client libraries' generator mechanism. See <a href="http://knowledge.kaltura.com/node/43" target="_blank" title="Adding the New Kaltura API Client Library Generator">Kaltura API Client Libraries Generator</a> for more information. As a result, the Kaltura API client libraries are not available as a static code repository that you can track for changes.
+Kaltura's client libraries are automatically generated from the server code, that include an automatic client libraries' generator mechanism. See <a href="{{site.url}}/documentation/Knowledge/adding-new-kaltura-api-client-library-generator.html" target="_blank" title="Adding the New Kaltura API Client Library Generator">Kaltura API Client Libraries Generator</a> for more information. As a result, the Kaltura API client libraries are not available as a static code repository that you can track for changes.
 
 To keep up to date with the changes between releases, follow the <a href="https://twitter.com/Kaltura_API" target="_blank" title="Kaltura API Twitter Account">Kaltura API Twitter account</a>. 
 

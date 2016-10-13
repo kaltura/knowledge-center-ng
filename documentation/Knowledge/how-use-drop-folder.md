@@ -8,4 +8,4 @@ The Kaltura Drop Folder is a paid for service that enables you to automate the i
   
 Kaltura offers multiple configuration options for setting each drop folder to a specific workflow.  Contact your Kaltura account manager to learn more about how drop folders can simplify your workflow, and to activate and configure drop folders on your account.  
   
-For more information see <a href="http://knowledge.kaltura.com/node/46" target="_blank">Kaltura Drop Folders Service for Content Ingestion</a>.
+For more information see <a href="{{site.url}}/documentation/Knowledge/kaltura-drop-folders-service-content-ingestion-0.html" target="_blank">Kaltura Drop Folders Service for Content Ingestion</a>.

@@ -17,7 +17,7 @@ date: 2013-09-11 22:13:07
         </p>
         
         <p style="text-align: left;">
-          If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="http://knowledge.kaltura.com/node/86">Couldn't find what you were looking for</a>?” form.
+          If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "<a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html">Couldn't find what you were looking for</a>?” form.
         </p>
       </td>
     </tr>
@@ -3521,7 +3521,7 @@ These release notes pertain to Kaltura MediaSpace 5.40.11, released February 14
   What's New in This Release
 </p>
 
-*   **Interactive Video Quiz**<span style="font-weight: bold;"> - </span>the ability to create, playback and report quizzes and surveys inside video content. For more written details read <a href="http://knowledge.kaltura.com/node/1677" style="font-weight: bold;">here</a> and for short video tutorials see <a href="http://videos.kaltura.com/category/4_Tutorials%3EInteractive+Video+Quiz/40511741" style="font-weight: bold;">here</a>.
+*   **Interactive Video Quiz**<span style="font-weight: bold;"> - </span>the ability to create, playback and report quizzes and surveys inside video content. For more written details read <a href="{{site.url}}/documentation/Knowledge/kaltura-interactive-video-quizzes.html" style="font-weight: bold;">here</a> and for short video tutorials see <a href="http://videos.kaltura.com/category/4_Tutorials%3EInteractive+Video+Quiz/40511741" style="font-weight: bold;">here</a>.
 *   <span style="font-weight: bold;"></span>**New Channel Details View** – An option for a new channel page table view was added to the admin console.
 *   **Entry List ****UI Change** - The user name was moved to the bottom of the details, instead of its current location below the title.
 *   **Channel Playlist UI Changes** – In the Channel edit page, in the Playlist tab, the 'Save' and 'Cancel' buttons were removed.  The channel playlists order is now saved automatically. In addition, the search was moved to the right side of the page.
@@ -3742,7 +3742,7 @@ These release notes pertain to Kaltura MediaSpace 5.38.06, released January 17,
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">What's New in This Release</span>
 
-*   **CaptureSpace Lite** - New MediaSpace instances will not include Kaltura Screen Recorder (KSR) and will only receive CaptureSpace Lite. To learn more about CaptureSpace Lite, read the <a href="http://knowledge.kaltura.com/node/1300" target="_blank">admin guide</a>, the <a href="http://knowledge.kaltura.com/node/1631" target="_blank">user guide</a> or watch [video tutorials][6].
+*   **CaptureSpace Lite** - New MediaSpace instances will not include Kaltura Screen Recorder (KSR) and will only receive CaptureSpace Lite. To learn more about CaptureSpace Lite, read the <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-administrators-guide.html" target="_blank">admin guide</a>, the <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-lite-user-guide.html" target="_blank">user guide</a> or watch [video tutorials][6].
 *   **UI changes**
 *   The text on the “Add Media” button in a channel or category (for cases where you want to add content to a channel or category) was changed to “Add to Channel” or “Add to Gallery” respectively.
 *   The location of “Add New” button in channel or category (in case you want to create new content to be added) was changed – lowered 1 line.
@@ -4546,7 +4546,7 @@ These release notes pertain to Kaltura MediaSpace 5.33.03, released November 9,
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">What's New in This Release</span>
 
-*   **Import Content into a Channel - **Channel managers can import content into their channel from any other channel they manage. KMS Admin can enable this for all channel managers in the new *Importchannel *module. See <a href="http://knowledge.kaltura.com/node/1557" target="_blank">Import Channels Feature Description</a> for more information.
+*   **Import Content into a Channel - **Channel managers can import content into their channel from any other channel they manage. KMS Admin can enable this for all channel managers in the new *Importchannel *module. See <a href="{{site.url}}/documentation/Knowledge/import-channels-feature-description.html" target="_blank">Import Channels Feature Description</a> for more information.
 *   **Additional actions on Groups in Channels and Categories - **Additional actions have been added for Category and Channel Managers to improve managing groups in their categories or channels.  Auto-completion of a group's name is available when adding a group, as well as the capability of deleting a group from the category/channel. These actions may be enabled through the KMS admin using the fields '*findGroupUserSuggestions*' and '*enableGroupActionMenu*' in the  '*Channelmembers*' and 'C*ategorymembers*' modules.
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">Resolved Issues</span>
@@ -11148,7 +11148,7 @@ These release notes pertain to Kaltura MediaSpace 5.11.05, released August 10, 
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">What's New in this Release</span>
 
-*   **Update Channel Thumbnail** - MediaSpace Channel Managers can set the thumbnail of their choice to their channels. This feature is available to all MediaSpace users. For more information see <a href="http://knowledge.kaltura.com/node/1237" target="_blank">here</a>.
+*   **Update Channel Thumbnail** - MediaSpace Channel Managers can set the thumbnail of their choice to their channels. This feature is available to all MediaSpace users. For more information see <a href="{{site.url}}/documentation/Knowledge/updating-channel-thumbnail-kms.html" target="_blank">here</a>.
 *   **Playlist Secure Embed **- MediaSpace administrators can now set the playlist embed to be secure (similarly to entry secure embed). MediaSpace entitlements will be enforced on a playlist that is embedded in external sites. When embedding a playlist to your sites and blogs, you will be prompted to authenticate (if not already authenticated). If a user is authorized to watch the media according to the entitlements defined in MediaSpace, the media will play. Otherwise, a message is displayed indicating that the user is not authorized to watch the media. Note that if playlist secure embed is not enabled, only public media is viewable in the playlist, However, when the playlist secure embed is enabled, you will be required to login (to display the addtional media aside from the public media of the playlist). Playlist secure embed cannot work when anonymous MediaSpace is enabled. Activate this feature in the *KMS Admin > Embedplaylist* module and set* secureEmbed to *Yes.
 *   **Kaltura Screen Recorder Troubleshooting Guide** - Since the Kaltura Screen Recorder uses Java which may cause issues on certain devices and browsers, a clarification note was added in the screen recording media creation. The note states that "The Kaltura Sscreen Recorder uses Java which has certain limitations on certain devices and browsers. For more information see <a href="http://knowledge.kaltura.com/how-troubleshoot-kaltura-screen-recorder#ksr+safari" target="_blank">here</a>". We intend to add an option for MediaSpace Admins to enable/disable this note and to edit the text and link as they wish to.
 

@@ -107,7 +107,7 @@ date: 2015-10-29 10:05:44
   </p>
   
   <p>
-    <strong>Note</strong>: You may set up your live encoder before you launch the Webcast Application<span>. See <a href="http://knowledge.kaltura.com/node/1624" target="_blank">Setting Up the Live Encoder</a> for details.</span>
+    <strong>Note</strong>: You may set up your live encoder before you launch the Webcast Application<span>. See <a href="{{site.url}}/documentation/Knowledge/setting-webcasting-live-video-streamdz.html" target="_blank">Setting Up the Live Encoder</a> for details.</span>
   </p>
   
   <p>

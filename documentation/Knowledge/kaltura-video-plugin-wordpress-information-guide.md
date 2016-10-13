@@ -240,7 +240,7 @@ date: 2016-09-27 19:53:13
   </ol>
   
   <p class="mce-note-graphic">
-    You can only select HTML players. Legacy Flash players are no longer available for use in the WordPress Plugin for smooth workflows. You can easily create new players from the KMC. See the<a href="https://knowledge.kaltura.com/node/1148"> Universal Studio Information Guide</a> for more information.
+    You can only select HTML players. Legacy Flash players are no longer available for use in the WordPress Plugin for smooth workflows. You can easily create new players from the KMC. See the<a href="{{site.url}}/documentation/Knowledge/universal-studio-information-guide.html"> Universal Studio Information Guide</a> for more information.
   </p>
   
   <p>

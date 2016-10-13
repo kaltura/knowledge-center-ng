@@ -19,7 +19,7 @@ date: 2016-08-04 05:41:26
       </p>
       
       <p>
-        Specific guidelines and capabilities related to ingest formats can be found <a href="https://knowledge.kaltura.com/node/1746" rel="nofollow">here</a>.
+        Specific guidelines and capabilities related to ingest formats can be found <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaprep-ingest.html" rel="nofollow">here</a>.
       </p>
       
       <p>

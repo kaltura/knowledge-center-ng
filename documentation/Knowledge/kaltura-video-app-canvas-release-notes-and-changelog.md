@@ -82,7 +82,7 @@ date: 2014-01-22 16:10:44
 
 These release notes pertain to the Kaltura Video App for Canvas, released in January, 2015. Added support according to the content item message specification as part of the LTI standard. 
 
-To upgrade you will need to uninstall the Media Gallery app and re-install following the instructions in the <a href="http://knowledge.kaltura.com/node/1609" target="_blank">Kaltura Video App for Canvas Deployment Guide.</a>
+To upgrade you will need to uninstall the Media Gallery app and re-install following the instructions in the <a href="{{site.url}}/documentation/Knowledge/kaltura-video-app-canvas-deployment-guide-0.html" target="_blank">Kaltura Video App for Canvas Deployment Guide.</a>
 
 <p class="mce-heading-3">
   Resolved issues

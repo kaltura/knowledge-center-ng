@@ -9,14 +9,14 @@ The Kaltura video platform offers many ways for ingesting content into the Kaltu
 Check the list below and find the most sutiable ingestion methology for your solution:
 
 1.  [Bulk Upload][1] ([XML][2] / CSV / [FTP][3])
-2.  <a href="http://knowledge.kaltura.com/node/46" target="_blank">Drop Folders</a>
-3.  <a href="http://knowledge.kaltura.com/node/737" target="_blank">High-Speed Upload</a> (Aspera Drop folder)
+2.  <a href="{{site.url}}/documentation/Knowledge/kaltura-drop-folders-service-content-ingestion-0.html" target="_blank">Drop Folders</a>
+3.  <a href="{{site.url}}/documentation/Knowledge/kaltura-high-speed-upload-user-guide.html" target="_blank">High-Speed Upload</a> (Aspera Drop folder)
 4.  [Upload using the KMC upload tab][4]
 5.  [Upload using Kaltura API][5]
 6.  [Kaltura Simple Uploader (KSU)][6]
 7.  [Upload using MediaSpace][7]
 8.  [KRecord][8]
-9.  <a href="http://knowledge.kaltura.com/node/737" target="_blank"></a>[Kaltura Contribution Wizard (KCW)][9] - Legacy support only - Deprecated
+9.  <a href="{{site.url}}/documentation/Knowledge/kaltura-high-speed-upload-user-guide.html" target="_blank"></a>[Kaltura Contribution Wizard (KCW)][9] - Legacy support only - Deprecated
 
  [1]: http://knowledge.kaltura.com/faq/what-bulk-upload
  [2]: http://knowledge.kaltura.com/faq/what-xml-bulk-upload

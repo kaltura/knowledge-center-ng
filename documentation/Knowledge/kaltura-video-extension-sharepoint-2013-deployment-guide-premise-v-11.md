@@ -123,7 +123,7 @@ date: 2016-07-24 01:55:40
   </p>
   
   <p>
-    For additional information, see <a href="http://knowledge.kaltura.com/node/1470">How to gather diagnostic information from a SharePoint 2013 On-Prem site </a>.
+    For additional information, see <a href="{{site.url}}/documentation/Knowledge/how-gather-diagnostic-information-sharepoint-2013-prem-site.html">How to gather diagnostic information from a SharePoint 2013 On-Prem site </a>.
   </p>
   
   <h2>
@@ -883,7 +883,7 @@ date: 2016-07-24 01:55:40
   </ul>
   
   <p>
-    For more information see <a href="http://knowledge.kaltura.com/node/987" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a>. 
+    For more information see <a href="{{site.url}}/documentation/Knowledge/kaltura-mediaspacekaltura-application-framework-kaf-roles-and-permissions.html" target="_blank">Kaltura MediaSpace/Kaltura Application Framework (KAF) Roles and Permissions</a>. 
   </p>
   
   <p>

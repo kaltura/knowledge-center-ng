@@ -12,12 +12,12 @@ date: 2015-01-16 22:12:26
           <span style="font-family: verdana, geneva; color: #000000;">In this document you will learn about frequently asked questions about Encoding and Transcoding. </span>
         </p>
         
-        <span style="font-family: verdana, geneva; color: #000000;">For a complete description about Kaltura's Transcoding Services, see </span><a href="http://knowledge.kaltura.com/node/1433" target="_blank">Kaltura Media Transcoding Services and Technology</a>.<p>
-          <span style="font-family: verdana, geneva; color: #ffffff;"><span style="color: #000000;">In addition to this article,  you can also refer to best practices for Multi-Device Transcoding</span> <span style="color: #0000ff;"><a href="http://knowledge.kaltura.com/node/217" target="_blank"><span style="color: #0000ff;">here</span></a>.</span></span>
+        <span style="font-family: verdana, geneva; color: #000000;">For a complete description about Kaltura's Transcoding Services, see </span><a href="{{site.url}}/documentation/Knowledge/kaltura-media-transcoding-services-and-technology.html" target="_blank">Kaltura Media Transcoding Services and Technology</a>.<p>
+          <span style="font-family: verdana, geneva; color: #ffffff;"><span style="color: #000000;">In addition to this article,  you can also refer to best practices for Multi-Device Transcoding</span> <span style="color: #0000ff;"><a href="{{site.url}}/documentation/Knowledge/best-practices-multi-device-transcoding.html" target="_blank"><span style="color: #0000ff;">here</span></a>.</span></span>
         </p>
         
         <p>
-          <span style="font-family: verdana, geneva;"><span style="color: #ffffff;"><span style="color: #000000;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "</span><span style="color: #0000ff;"><a href="http://knowledge.kaltura.com/node/86"><span style="color: #0000ff;">Couldn't find what you were looking for</span></a>?</span>” form</span>.</span>
+          <span style="font-family: verdana, geneva;"><span style="color: #ffffff;"><span style="color: #000000;">If you are unable to find the information that you are looking for here, please use the search bar above to search for the information you seek, or report a missing information: "</span><span style="color: #0000ff;"><a href="{{site.url}}/documentation/Knowledge/couldnt-find-what-youre-looking.html"><span style="color: #0000ff;">Couldn't find what you were looking for</span></a>?</span>” form</span>.</span>
         </p>
       </td>
     </tr>
@@ -57,7 +57,7 @@ date: 2015-01-16 22:12:26
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">Follow the steps <a href="http://knowledge.kaltura.com/node/58" target="_blank">here</a> to edit transcoding profile.</span>
+<span style="font-family: verdana, geneva;">Follow the steps <a href="{{site.url}}/documentation/Knowledge/how-edit-transcoding-profile.html" target="_blank">here</a> to edit transcoding profile.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -65,7 +65,7 @@ date: 2015-01-16 22:12:26
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">This guide describes how to create transcoding profiles. <a href="http://knowledge.kaltura.com/node/59" target="_blank">Click here</a>.</span>
+<span style="font-family: verdana, geneva;">This guide describes how to create transcoding profiles. <a href="{{site.url}}/documentation/Knowledge/how-create-transcoding-profile.html" target="_blank">Click here</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -81,7 +81,7 @@ date: 2015-01-16 22:12:26
 *   <span style="font-family: verdana, geneva;">Optional</span>
 *   <span style="font-family: verdana, geneva;">No impact</span>
 
-<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/61" target="_blank">Click here</a> to learn more.</span>
+<span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/what-are-editing-options-flavors-transcoding-profile.html" target="_blank">Click here</a> to learn more.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -116,7 +116,7 @@ date: 2015-01-16 22:12:26
 *   <span style="font-family: verdana, geneva;">Available plugins such as Flash and Silverlight</span>
 *   <span style="font-family: verdana, geneva;">Other programs running in the background.</span>
 
-<span style="font-family: verdana, geneva;"><a href="http://knowledge.kaltura.com/node/217" target="_blank">Learn more</a>.</span>
+<span style="font-family: verdana, geneva;"><a href="{{site.url}}/documentation/Knowledge/best-practices-multi-device-transcoding.html" target="_blank">Learn more</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -124,7 +124,7 @@ date: 2015-01-16 22:12:26
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;">The Flavors tab in the Edit Entry window allows you to manage the <em>flavors</em> that are available as well as replace media files and their transcoding flavors. <a href="http://knowledge.kaltura.com/node/65" target="_blank">Learn more</a>.</span>
+<span style="font-family: verdana, geneva;">The Flavors tab in the Edit Entry window allows you to manage the <em>flavors</em> that are available as well as replace media files and their transcoding flavors. <a href="{{site.url}}/documentation/Knowledge/how-use-flavors-tab.html" target="_blank">Learn more</a>.</span>
 
 <span style="font-family: verdana, geneva;"> </span>
 
@@ -150,7 +150,7 @@ date: 2015-01-16 22:12:26
 
 \_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\_\_\_|\\___|
 
-To learn more about the supported transcoding formats <a href="http://knowledge.kaltura.com/node/79" target="_blank">Click here</a>.
+To learn more about the supported transcoding formats <a href="{{site.url}}/documentation/Knowledge/what-are-supported-transcoding-formats-saas-edition.html" target="_blank">Click here</a>.
 
 <span style="font-family: verdana, geneva;"> </span>
 

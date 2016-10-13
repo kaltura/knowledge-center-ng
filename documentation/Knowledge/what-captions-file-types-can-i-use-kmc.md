@@ -20,4 +20,4 @@ date: 2011-12-19 22:41:00
 
 <span>Captions can either be a form of written translation of a dialog in a foreign language or a written rendering of the dialog in the same language. Closed captions files contain added information to help viewers who are <a href="http://en.wikipedia.org/wiki/Deaf" title="Deaf"><span style="mso-bidi-font-family: Arial; color: #666560;">deaf</span></a> and <span style="color: #666560;">hard-of-hearing</span> to follow the dialog, or people who cannot understand the spoken dialogue or who have accent recognition problems. </span>
 
-<span>For greater accessibility and compatibility with equipment like screen readers, use Kaltura’s 508 Compliant Player. For more information, see <a href="http://knowledge.kaltura.com/node/48" target="_blank">508-Compliant Video Player.</a></span>
+<span>For greater accessibility and compatibility with equipment like screen readers, use Kaltura’s 508 Compliant Player. For more information, see <a href="{{site.url}}/documentation/Knowledge/what-kind-accessibility-player-can-i-create-kmc.html" target="_blank">508-Compliant Video Player.</a></span>

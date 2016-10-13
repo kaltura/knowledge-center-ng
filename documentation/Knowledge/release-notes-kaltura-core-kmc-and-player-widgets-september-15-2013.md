@@ -139,11 +139,11 @@ These release notes are intended for Kaltura SaaS customers.
       
       <td style="text-align: left;" valign="top" width="357">
         <p>
-          All Kaltura players that use the HTML5 <a href="http://knowledge.kaltura.com/node/959" target="_blank">Kaltura Player Toolkit</a> are now 508 compliant by default and are based on <a href="http://www.w3.org/TR/wai-aria/" target="_blank">W3C Accessible Rich Internet Applications (WAI-ARIA)</a>. Specifications of the accessibility features are described in the article: <a href="http://knowledge.kaltura.com/node/962" target="_blank">508 Support within the Kaltura Player Toolkit</a>
+          All Kaltura players that use the HTML5 <a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit.html" target="_blank">Kaltura Player Toolkit</a> are now 508 compliant by default and are based on <a href="http://www.w3.org/TR/wai-aria/" target="_blank">W3C Accessible Rich Internet Applications (WAI-ARIA)</a>. Specifications of the accessibility features are described in the article: <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank">508 Support within the Kaltura Player Toolkit</a>
         </p>
         
         <p>
-           <a href="http://knowledge.kaltura.com/node/962" target="_blank"><br /></a>
+           <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank"><br /></a>
         </p>
       </td>
       
@@ -165,7 +165,7 @@ These release notes are intended for Kaltura SaaS customers.
     <tr>
       <td style="text-align: left;" valign="top" width="94">
         <p>
-          <a href="http://knowledge.kaltura.com/node/959" target="_blank">W</a>ebEx
+          <a href="{{site.url}}/documentation/Knowledge/kaltura-player-toolkit.html" target="_blank">W</a>ebEx
         </p>
       </td>
       

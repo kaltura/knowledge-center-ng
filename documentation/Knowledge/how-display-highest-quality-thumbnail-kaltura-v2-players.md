@@ -50,7 +50,7 @@ date: 2014-12-02 14:02:27
   To set maximum quality thumbnail using Flashvar (embed method)
 </p>
 
-1.  See <a href="http://knowledge.kaltura.com/node/1298" target="_blank">How to generate a dynamic embed code</a>, to embed a player in a webpage. 
+1.  See <a href="{{site.url}}/documentation/Knowledge/how-generate-dynamic-embed-code-kmc.html" target="_blank">How to generate a dynamic embed code</a>, to embed a player in a webpage. 
 2.  Add the following Flashvar:
     
     <table border="0" cellspacing="0" cellpadding="0">

@@ -20,7 +20,7 @@ Contact your Kaltura Project/Account Manager to confirm that the following prere
 *   (Optional) The *Like* feature is enabled in your account settings.
 *   A root category is set up for MediaSpace in the KMC (see <a href="http://knowledge.kaltura.com/node/616#TosetupaMediaSpacecategorytree" target="_blank">To set up a MediaSpace category tree in the KMC</a>)
 
-Assigning user permissions usually is handled in bulk using a comma-separated value (CSV) file. To learn more about the End-User Entitlements CSV, refer to the <a href="http://knowledge.kaltura.com/node/466" target="_blank">End-User Entitlements CSV</a>.
+Assigning user permissions usually is handled in bulk using a comma-separated value (CSV) file. To learn more about the End-User Entitlements CSV, refer to the <a href="{{site.url}}/documentation/Knowledge/end-user-entitlements-csv-usage-and-schema-description.html" target="_blank">End-User Entitlements CSV</a>.
 
 <p class="mce-heading-2">
   Understanding Content Collections
@@ -230,7 +230,7 @@ KMC entitlement definitions are displayed in the KMC under Content>Categories>Ed
 
 <span>If modifications are made in the KMC that do not correspond to one of the channel types, MediaSpace behavior will follow the KMC definition, not the designated type.</span>
 
-For more information, refer to <a href="http://knowledge.kaltura.com/node/637" target="_blank">How to set entitlement settings in the KMC.</a>
+For more information, refer to <a href="{{site.url}}/documentation/Knowledge/how-set-entitlement-settings-kmc.html" target="_blank">How to set entitlement settings in the KMC.</a>
 
 <h2 class="mce-heading-3">
   <a name="application_roles"></a>Understanding Application Roles
@@ -286,7 +286,7 @@ You can assign application roles to multiple users with a bulk action. You use a
 
 Do one of the following:
 
-*   In the KMC, upload the End-Users CSV. Refer to the <a href="http://knowledge.kaltura.com/node/464" target="_blank">End-Users CSV - Usage and Schema Description.</a>
+*   In the KMC, upload the End-Users CSV. Refer to the <a href="{{site.url}}/documentation/Knowledge/end-users-csv-usage-and-schema-description.html" target="_blank">End-Users CSV - Usage and Schema Description.</a>
 *   On the User Management panel of the Kaltura MediaSpace Administration Area:
 *   Click **Submit CSV**.
 *   Click **Choose File** to select the CSV file, and click **OK**.  

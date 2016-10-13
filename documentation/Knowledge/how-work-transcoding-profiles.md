@@ -15,7 +15,7 @@ You can create two transcoding profiles, one for each of your target audiences, 
 </p>
 
 > 1.  Create the template entry you want to use:  
->     Create a “Draft” entry, using the Upload Tab. See <a href="http://knowledge.kaltura.com/node/341" target="_blank">How to prepare a metadata-only "Draft" entry for future ingestion of media files</a>.
+>     Create a “Draft” entry, using the Upload Tab. See <a href="{{site.url}}/documentation/Knowledge/how-prepare-metadata-only-draft-entry-future-ingestion-media-files.html" target="_blank">How to prepare a metadata-only "Draft" entry for future ingestion of media files</a>.
 > 2.  Prepare the metadata.  
 >     For example: Template Entry for Transcoding Profile X”:  
 >     <img src="../../assets/745">

@@ -143,6 +143,6 @@ date: 2011-12-25 21:59:12
 
 3.  Click "Create Live Stream" to create the live entry ID.
 
-<a href="https://knowledge.kaltura.com/node/1750" target="_blank">Back</a>
+<a href="{{site.url}}/documentation/Knowledge/getting-started-kaltura-live.html" target="_blank">Back</a>
 
 <span style="font-size: small;"> </span>

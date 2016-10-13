@@ -391,7 +391,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
         </td>
         
         <td style="text-align: left;" valign="top" width="489">
-          See <a href="https://knowledge.kaltura.com/node/1734" target="_blank">Using the Kaltura V2 Player Mobile Skin</a> for more information. 
+          See <a href="{{site.url}}/documentation/Knowledge/using-kaltura-v2-player-mobile-skin.html" target="_blank">Using the Kaltura V2 Player Mobile Skin</a> for more information. 
         </td>
       </tr>
       
@@ -559,7 +559,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </ul>
   
   <p>
-    For more information see <a href="http://knowledge.kaltura.com/node/962" target="_blank">508 Support within the Kaltura Player Toolkit</a>.
+    For more information see <a href="{{site.url}}/documentation/Knowledge/508-support-within-kaltura-player-toolkit.html" target="_blank">508 Support within the Kaltura Player Toolkit</a>.
   </p>
   
   <p class="mce-heading-3">
@@ -2383,7 +2383,7 @@ The Omniture s\_code config version of the plugin allows you to connect the Omni
 
 Youbora Real Time Analytics & Monitoring uses a plugin on every player on every device of every user to track and monitor all information relevant to every view (real time for VoD and live video).
 
-For additional information on Youbora Analytics see the <a href="http://knowledge.kaltura.com/node/1675" target="_blank">Youbora Player Plugin Setup and Information Guide</a> on the Knowledge Center.
+For additional information on Youbora Analytics see the <a href="{{site.url}}/documentation/Knowledge/youbora-player-plugin-setup-and-information-guide.html" target="_blank">Youbora Player Plugin Setup and Information Guide</a> on the Knowledge Center.
 
 <table style="width: 630px;" border="1" cellspacing="0" cellpadding="0">
   <thead>
@@ -3056,7 +3056,7 @@ DoubleClick for Publishers (DFP) Video provides publishers with a platform to in
       
       <td style="text-align: left;" valign="top" width="293">
         <p class="TableBodyText">
-          The DoubleClick DFP VAST ad tag URL (can include multiple nested VAST URLs) (see <a href="http://knowledge.kaltura.com/node/1259">Integrating Kaltura with a VAST adTag URL</a> Enter the ad Tag URL in this field.
+          The DoubleClick DFP VAST ad tag URL (can include multiple nested VAST URLs) (see <a href="{{site.url}}/documentation/Knowledge/integrating-kaltura-vast-adtag-url.html">Integrating Kaltura with a VAST adTag URL</a> Enter the ad Tag URL in this field.
         </p>
       </td>
     </tr>
@@ -3820,7 +3820,7 @@ Use the Moderation option to allow users to moderate content and flag content as
 
 ### <a name="restrict"></a><span style="color: #828a8c; font-size: 14pt;">Restrict User Agent</span>
 
-Use to block the player to specific user agents. Use these settings for the player display only. For general purpose access controls, see <a href="http://knowledge.kaltura.com/node/204" target="_blank">entry level access controls</a>.   
+Use to block the player to specific user agents. Use these settings for the player display only. For general purpose access controls, see <a href="{{site.url}}/documentation/Knowledge/how-assign-access-control-profile-entry.html" target="_blank">entry level access controls</a>.   
 
 <p class="mce-procedure">
   To restrict the User Agent

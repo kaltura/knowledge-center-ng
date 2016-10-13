@@ -1972,7 +1972,7 @@ date: 2015-10-18 23:39:11
     </p>
     
     <p>
-      For more information about course playlists see <a href="http://knowledge.kaltura.com/node/1521">Course Playlist Feature - User Guide</a>.
+      For more information about course playlists see <a href="{{site.url}}/documentation/Knowledge/course-playlist-feature-user-guide.html">Course Playlist Feature - User Guide</a>.
     </p>
     
     <a href="#top">Back to Top</a>

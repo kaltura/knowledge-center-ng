@@ -159,11 +159,11 @@ date: 2016-01-27 20:18:32
   </p>
   
   <p>
-    <a href="http://knowledge.kaltura.com/node/1649" target="_blank">Back to Kaltura CaptureSpace User Guide</a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-user-guide-0.html" target="_blank">Back to Kaltura CaptureSpace User Guide</a>
   </p>
   
   <p>
-    <span><a href="http://knowledge.kaltura.com/node/1631" target="_blank">Back to Kaltura CaptureSpace Lite User Guide</a></span>
+    <span><a href="{{site.url}}/documentation/Knowledge/kaltura-capturespace-lite-user-guide.html" target="_blank">Back to Kaltura CaptureSpace Lite User Guide</a></span>
   </p>
   
   <p>

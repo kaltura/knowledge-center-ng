@@ -188,7 +188,7 @@ date: 2015-10-25 01:00:47
             
             <td style="text-align: left;" valign="bottom" width="68%">
               <p class="TableBodyText">
-                This list of transcoding profiles is taken from the Kaltura Management Console and is based on the available transcoding profiles there. The transcoding profile is applied to all webcast events created after this field is set (You cannot change previous entries’ transcoding profiles here. See the article <a href="http://knowledge.kaltura.com/node/1499">Adaptive Bit Rate Settings</a> for more information.
+                This list of transcoding profiles is taken from the Kaltura Management Console and is based on the available transcoding profiles there. The transcoding profile is applied to all webcast events created after this field is set (You cannot change previous entries’ transcoding profiles here. See the article <a href="{{site.url}}/documentation/Knowledge/live-adaptive-bitrate-settings.html">Adaptive Bit Rate Settings</a> for more information.
               </p>
             </td>
           </tr>
@@ -272,7 +272,7 @@ date: 2015-10-25 01:00:47
             
             <td style="text-align: left;" valign="bottom" width="68%">
               <p>
-                This value is automatically assigned by the system upon save. ID of the UIConf for the BSE Kwebcast player. This field is only relevant for KAF administrators. See the article <a href="http://knowledge.kaltura.com/node/1272">New Browse Search and Embed (BSE) Layout</a> for more information.
+                This value is automatically assigned by the system upon save. ID of the UIConf for the BSE Kwebcast player. This field is only relevant for KAF administrators. See the article <a href="{{site.url}}/documentation/Knowledge/new-browse-search-and-embed-bse-layout.html">New Browse Search and Embed (BSE) Layout</a> for more information.
               </p>
             </td>
           </tr>

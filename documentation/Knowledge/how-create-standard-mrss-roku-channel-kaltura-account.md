@@ -8,11 +8,11 @@ Roku is a set-top box that allows you to stream content on your TV or connected 
 
 ## Related Documentation & Resources
 
-<span style="color: #3366ff;"><a href="http://knowledge.kaltura.com/node/661" target="_blank"><span style="color: #3366ff;">Roku MRSS Template Channel ReadMe</span></a> </span>
+<span style="color: #3366ff;"><a href="{{site.url}}/documentation/Knowledge/roku-mrss-template-channel-readme.html" target="_blank"><span style="color: #3366ff;">Roku MRSS Template Channel ReadMe</span></a> </span>
 
-<span style="color: #3366ff;"><a href="http://knowledge.kaltura.com/node/657"><span style="color: #3366ff;">Roku Developer Guide</span></a></span>
+<span style="color: #3366ff;"><a href="{{site.url}}/documentation/Knowledge/roku-developer-guide.html"><span style="color: #3366ff;">Roku Developer Guide</span></a></span>
 
-<span style="color: #3366ff;"><a href="http://knowledge.kaltura.com/node/657"></a><a href="http://knowledge.kaltura.com/node/658" target="_blank"><span style="color: #3366ff;">Channelpackage</span></a></span>
+<span style="color: #3366ff;"><a href="{{site.url}}/documentation/Knowledge/roku-developer-guide.html"></a><a href="{{site.url}}/documentation/Knowledge/channelpackage.html" target="_blank"><span style="color: #3366ff;">Channelpackage</span></a></span>
 
 <span style="color: #3366ff;"><a href="http://knowledge.kaltura.com/node/660" target="_blank"><span style="color: #3366ff;">Roku XSLT</span></a></span>
 

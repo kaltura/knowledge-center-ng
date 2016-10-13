@@ -81,11 +81,11 @@ date: 2015-10-06 18:03:36
   </p>
   
   <p>
-    The following screen displays a "video quiz"; that is included in a media item in a playlist. . A media item can include any type of content supported by KMS, including video quizzes.  Video quizzes together with playlists are a powerful combo for increasing performance of learning and training strategies. To learn more about Interactive Video Quizzes and how to enable and create quizzes,  see  <a href="https://knowledge.kaltura.com/node/1677">Kaltura Interactive Video Quizzes</a>.
+    The following screen displays a "video quiz"; that is included in a media item in a playlist. . A media item can include any type of content supported by KMS, including video quizzes.  Video quizzes together with playlists are a powerful combo for increasing performance of learning and training strategies. To learn more about Interactive Video Quizzes and how to enable and create quizzes,  see  <a href="{{site.url}}/documentation/Knowledge/kaltura-interactive-video-quizzes.html">Kaltura Interactive Video Quizzes</a>.
   </p>
   
   <p>
-    <a href="https://knowledge.kaltura.com/node/1677">.</a>
+    <a href="{{site.url}}/documentation/Knowledge/kaltura-interactive-video-quizzes.html">.</a>
   </p>
   
   <p>
