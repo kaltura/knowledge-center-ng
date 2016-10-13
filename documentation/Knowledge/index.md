@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledge 
+title: Knowledge Site 
 ---
 
 {% capture html %}
