@@ -12,6 +12,7 @@ date: 2011-12-29 09:19:05
    
 </p>
 
+
 *   Start by reading about [Kaltura's Architecture][1].
 *   For Interactive Code Recipes and Examples, visit <a href="https://developers.kaltura.org" target="_blank">https://developers.kaltura.org</a>.
 *   As a reference for understaning technical terms related to Online Video, Media Asset Management and Kaltura - use the [Kaltura Knowledge Center Glossary][2].
