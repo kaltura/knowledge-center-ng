@@ -18,3 +18,9 @@ This is better than the KC.
 
 ### Quick Start for Dummies
 Need some more header ideas.
+* first point
+* second point
+* third
+
+## Quick Start for Smarties
+You dont have to be a genius to know how to use Github.
