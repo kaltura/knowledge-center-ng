@@ -285,6 +285,6 @@ To adapt your skin to the KRecord default skin, refer to KalturaRecord-> library
   Defining Locales
 </p>
 
-Define each KRecord locale value in the following XML file format:{syntaxhighlighter brush: xml;fontsize: 100; first-line: 1; }<setting> <key>localeKey</key> <value>Value String</value> </setting>{/syntaxhighlighter}
+Define each KRecord locale value in the following XML file format:{% highlight xml %}<setting> <key>localeKey</key> <value>Value String</value> </setting>{% endhighlight %}
 
 To change the locale, edit the locale.xml file.

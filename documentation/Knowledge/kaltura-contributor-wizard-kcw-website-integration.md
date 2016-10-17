@@ -65,7 +65,7 @@ Look for detailed information on this example in the following sections:
 
 <div class="geshifilter">
   <div class="html4strict geshifilter-html4strict">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<html> <head> <!--include external scripts--> <?php require_once("KalturaClient.php"); ?> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script> </head> <body> <?php //define constants define("KALTURA_PARTNER_ID", Your Kaltura Partner ID); define("KALTURA_PARTNER_SERVICE_SECRET", " Your Kaltura Service Secret"); //define session variables $partnerUserID = 'ANONYMOUS'; //construct Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_SERVICE_SECRET, $partnerUserID, KalturaSessionType::USER); //Prepare variables to be passed to embedded flash object. $flashVars = array(); $flashVars["uid"] = $partnerUserID; $flashVars["partnerId"] = KALTURA_PARTNER_ID; $flashVars["ks"] = $ks; $flashVars["afterAddEntry"] = "onContributionWizardAfterAddEntry"; $flashVars["close"] = "onContributionWizardClose"; $flashVars["showCloseButton"] = false; $flashVars["Permissions"] = 1; ?> <div id="kcw"></div> <script type="text/javascript"> var params = { allowScriptAccess: "always", allowNetworking: "all", wmode: "opaque" }; // php to js var flashVars = <?php echo json_encode($flashVars); ?>; <!--embed flash object--> swfobject.embedSWF("http://www.kaltura.com/kcw/ui_conf_id/1000741 ", "kcw", "680", "360", "9.0.0", "expressInstall.swf", flashVars, params); </script> <!--implement callback scripts--> <script type="text/javascript"> function onContributionWizardAfterAddEntry(entries) { alert(entries.length + " media file/s was/were succsesfully uploaded"); for(var i = 0; i < entries.length; i++) { alert("entries["+i+"]:EntryID = " + entries[i].entryId); } } </script> <script type="text/javascript"> function onContributionWizardClose() { alert("Thank you for using Kaltura ontribution Wizard"); } </script> </body> </html>{/syntaxhighlighter}
+    {% highlight javascript %}<html> <head> <!--include external scripts--> <?php require_once("KalturaClient.php"); ?> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script> </head> <body> <?php //define constants define("KALTURA_PARTNER_ID", Your Kaltura Partner ID); define("KALTURA_PARTNER_SERVICE_SECRET", " Your Kaltura Service Secret"); //define session variables $partnerUserID = 'ANONYMOUS'; //construct Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_SERVICE_SECRET, $partnerUserID, KalturaSessionType::USER); //Prepare variables to be passed to embedded flash object. $flashVars = array(); $flashVars["uid"] = $partnerUserID; $flashVars["partnerId"] = KALTURA_PARTNER_ID; $flashVars["ks"] = $ks; $flashVars["afterAddEntry"] = "onContributionWizardAfterAddEntry"; $flashVars["close"] = "onContributionWizardClose"; $flashVars["showCloseButton"] = false; $flashVars["Permissions"] = 1; ?> <div id="kcw"></div> <script type="text/javascript"> var params = { allowScriptAccess: "always", allowNetworking: "all", wmode: "opaque" }; // php to js var flashVars = <?php echo json_encode($flashVars); ?>; <!--embed flash object--> swfobject.embedSWF("http://www.kaltura.com/kcw/ui_conf_id/1000741 ", "kcw", "680", "360", "9.0.0", "expressInstall.swf", flashVars, params); </script> <!--implement callback scripts--> <script type="text/javascript"> function onContributionWizardAfterAddEntry(entries) { alert(entries.length + " media file/s was/were succsesfully uploaded"); for(var i = 0; i < entries.length; i++) { alert("entries["+i+"]:EntryID = " + entries[i].entryId); } } </script> <script type="text/javascript"> function onContributionWizardClose() { alert("Thank you for using Kaltura ontribution Wizard"); } </script> </body> </html>{% endhighlight %}
   </div>
 </div>
 
@@ -75,7 +75,7 @@ The KalturaClient.php script is part of the PHP Kaltura API Client Library being
 
 <div class="geshifilter">
   <div class="html4strict geshifilter-html4strict">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<head> <!--include external scripts--> <?php require_once("KalturaClient.php"); ?> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script> </head>{/syntaxhighlighter}
+    {% highlight javascript %}<head> <!--include external scripts--> <?php require_once("KalturaClient.php"); ?> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script> </head>{% endhighlight %}
   </div>
 </div>
 
@@ -85,7 +85,7 @@ In the following example, the PHP code defines 2 constants and one variable, lat
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//define constants define("KALTURA_PARTNER_ID", Your Kaltura Partner ID); define("KALTURA_PARTNER_SERVICE_SECRET", “Your Kaltura Service Secret”); //define session variables $partnerUserID = 'ANONYMOUS';{/syntaxhighlighter}
+    {% highlight php %}//define constants define("KALTURA_PARTNER_ID", Your Kaltura Partner ID); define("KALTURA_PARTNER_SERVICE_SECRET", “Your Kaltura Service Secret”); //define session variables $partnerUserID = 'ANONYMOUS';{% endhighlight %}
   </div>
 </div>
 
@@ -175,7 +175,7 @@ In the following example, the PHP code constructs the relevant Kaltura objects t
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//construct Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_SERVICE_SECRET, $partnerUserID,KalturaSessionType::USER);{/syntaxhighlighter}
+    {% highlight php %}//construct Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_SERVICE_SECRET, $partnerUserID,KalturaSessionType::USER);{% endhighlight %}
   </div>
 </div>
 
@@ -187,7 +187,7 @@ In the following example, the PHP/JavaScript code is preparing the flashVars and
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//Prepare variables to be passed to embedded flash object. $flashVars = array(); $flashVars["uid"] = $partnerUserID; $flashVars["partnerId"] = KALTURA_PARTNER_ID; $flashVars["ks"] = $ks; $flashVars["afterAddEntry"] = "onContributionWizardAfterAddEntry"; $flashVars["close"] = "onContributionWizardClose"; $flashVars["showCloseButton"] = false; $flashVars["Permissions"] = 1; ?> <div id="kcw"></div> <script type="text/javascript"> var params = { allowScriptAccess: "always", allowNetworking: "all", wmode: "opaque" }; // php to js var flashVars = <?php echo json_encode($flashVars); ?>; {/syntaxhighlighter}
+    {% highlight php %}//Prepare variables to be passed to embedded flash object. $flashVars = array(); $flashVars["uid"] = $partnerUserID; $flashVars["partnerId"] = KALTURA_PARTNER_ID; $flashVars["ks"] = $ks; $flashVars["afterAddEntry"] = "onContributionWizardAfterAddEntry"; $flashVars["close"] = "onContributionWizardClose"; $flashVars["showCloseButton"] = false; $flashVars["Permissions"] = 1; ?> <div id="kcw"></div> <script type="text/javascript"> var params = { allowScriptAccess: "always", allowNetworking: "all", wmode: "opaque" }; // php to js var flashVars = <?php echo json_encode($flashVars); ?>; {% endhighlight %}
   </div>
 </div>
 
@@ -424,7 +424,7 @@ The flashVars array being populated at the above example should be transferred i
 
 ## <a name="embed"></a>Embed Flash Objects
 
-The following example shows how a JavaScript call to <span class="geshifilter"><code class="geshifilter-javascript">swfobject.embedSWF</code></span> function is being made; this is the actual embedding of the KCW Widget. {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<!--embed flash object--> swfobject.embedSWF("http://www.kaltura.com/kcw/ui\_conf\_id/1000199", "kcw", "680", "360", "9.0.0","expressInstall.swf", flashVars, params); </script> {/syntaxhighlighter}
+The following example shows how a JavaScript call to <span class="geshifilter"><code class="geshifilter-javascript">swfobject.embedSWF</code></span> function is being made; this is the actual embedding of the KCW Widget. {% highlight javascript %}<!--embed flash object--> swfobject.embedSWF("http://www.kaltura.com/kcw/ui\_conf\_id/1000199", "kcw", "680", "360", "9.0.0","expressInstall.swf", flashVars, params); </script> {% endhighlight %}
 
 The applicative parameters being passed as arguments at this example are:
 
@@ -653,7 +653,7 @@ Please look for more information on the [javascipt]swfobject.embedSWF[/javascipt
 
 <div class="geshifilter">
   <div class="javascript geshifilter-javascript">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<!--implement callback scripts--> <script type="text/javascript"> function onContributionWizardAfterAddEntry(entries) { alert(entries.length + " media file/s was/were succsesfully uploaded"); for(var i = 0; i < entries.length; i++) { alert("entries["+i+"]:EntryID = " + entries[i].entryId); } } </script>{/syntaxhighlighter}{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script type="text/javascript"> function onContributionWizardClose() { alert("Thank you for using Kaltura Contribution Wizard"); } </script> {/syntaxhighlighter}
+    {% highlight javascript %}<!--implement callback scripts--> <script type="text/javascript"> function onContributionWizardAfterAddEntry(entries) { alert(entries.length + " media file/s was/were succsesfully uploaded"); for(var i = 0; i < entries.length; i++) { alert("entries["+i+"]:EntryID = " + entries[i].entryId); } } </script>{% endhighlight %}{% highlight javascript %}<script type="text/javascript"> function onContributionWizardClose() { alert("Thank you for using Kaltura Contribution Wizard"); } </script> {% endhighlight %}
   </div>
 </div>
 
@@ -819,7 +819,7 @@ Partner’s data is being handled differently in the 2 following cases:
     
     <div class="geshifilter">
       <div class="html4strict geshifilter-html4strict">
-        {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<br/> <form> <input id="partnerData" /> <input id="nextButton" type="button" value="set partner data" onClick="changePData()"> </form> <script type = “text/javascript> function changePData() { var pData = document.getElementById("partnerData").value; var flashObj = document.getElementById("kcw"); flashObj.setPartnerData(pData); } </script>{/syntaxhighlighter}
+        {% highlight javascript %}<br/> <form> <input id="partnerData" /> <input id="nextButton" type="button" value="set partner data" onClick="changePData()"> </form> <script type = “text/javascript> function changePData() { var pData = document.getElementById("partnerData").value; var flashObj = document.getElementById("kcw"); flashObj.setPartnerData(pData); } </script>{% endhighlight %}
       </div>
     </div>
   </li>
@@ -883,7 +883,7 @@ The following example suggests a way to override the functionality of KCW widget
 
 <div class="geshifilter">
   <div class="html4strict geshifilter-html4strict">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<!--implement advanced partner data communication functionality--> <br/> <form> <input id="backButton" type="button" value="Back" onClick="back()"> <input id="nextButton" type="button" value="Next" onClick="next()"> </form> <script type="text/javascript"> function next() { var flashObj = document.getElementById("kcw"); flashObj.goNextStep(); } function back() { var flashObj = document.getElementById("kcw"); flashObj.gobackStep(); } function nextButtonChanged(label, isEnabled, visible) { var nextButton = document.getElementById("nextButton"); setButtonMode(nextButton, isEnabled, label) } function backButtonChanged(label, isEnabled, visible) { var backButton = document.getElementById("backButton"); setButtonMode(backButton, isEnabled, label) } function setButtonMode(buttonObj, isEnabled, label) { buttonObj.disabled = !isEnabled; buttonObj.value = label; } function kcwPendingChangeHandler(pending) { document.getElementById("nextButton").disabled = pending ? true : false; document.getElementById("backButton").disabled = pending ? true : false; } </script>{/syntaxhighlighter}
+    {% highlight javascript %}<!--implement advanced partner data communication functionality--> <br/> <form> <input id="backButton" type="button" value="Back" onClick="back()"> <input id="nextButton" type="button" value="Next" onClick="next()"> </form> <script type="text/javascript"> function next() { var flashObj = document.getElementById("kcw"); flashObj.goNextStep(); } function back() { var flashObj = document.getElementById("kcw"); flashObj.gobackStep(); } function nextButtonChanged(label, isEnabled, visible) { var nextButton = document.getElementById("nextButton"); setButtonMode(nextButton, isEnabled, label) } function backButtonChanged(label, isEnabled, visible) { var backButton = document.getElementById("backButton"); setButtonMode(backButton, isEnabled, label) } function setButtonMode(buttonObj, isEnabled, label) { buttonObj.disabled = !isEnabled; buttonObj.value = label; } function kcwPendingChangeHandler(pending) { document.getElementById("nextButton").disabled = pending ? true : false; document.getElementById("backButton").disabled = pending ? true : false; } </script>{% endhighlight %}
   </div>
 </div>
 

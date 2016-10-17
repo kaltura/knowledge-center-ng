@@ -17,7 +17,7 @@ date: 2012-01-09 18:12:00
 3.  Configure the **Basics** settings.
 4.  On the **Features** tab, expand the** Additional parameters and plugins** panel.
 5.  In the **Paste your plug-in line here** field, insert the following UIVars code and click **go**:  
-    {syntaxhighlighter brush: plain;fontsize: 100; first-line: 1; }controlsHolder.includeInLayout=false&controlsHolder.visible=false&externalInterfaceDisabled=false{/syntaxhighlighter}**
+    {% highlight plaintext %}controlsHolder.includeInLayout=false&controlsHolder.visible=false&externalInterfaceDisabled=false{% endhighlight %}**
 6.  (Optional) Modify the **Key-value table** values.
 7.  Click **Save Changes**.
 

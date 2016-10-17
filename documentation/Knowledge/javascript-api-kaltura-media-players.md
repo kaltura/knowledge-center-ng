@@ -154,7 +154,7 @@ Before you can [use the JavaScript API's base methods][13], the player has to re
 
 *jsCallbackReady* is the player's first callback.
 
-The player passes *jsCallbackReady* an *objectId* parameter that represents the identifier of the player that is embedded on the page:{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }function jsCallbackReady(objectId) { window.kdp = document.getElementById(objectId); } {/syntaxhighlighter}
+The player passes *jsCallbackReady* an *objectId* parameter that represents the identifier of the player that is embedded on the page:{% highlight javascript %}function jsCallbackReady(objectId) { window.kdp = document.getElementById(objectId); } {% endhighlight %}
 
 Kaltura recommends that you place *jsCallbackReady* in the global scope. This allows easily finding this critical function in the JavaScript code.
 
@@ -217,7 +217,7 @@ Use the [addJsListener][23] method to listen for a specific notification that so
 
 <p class="Sub-Heading">
   <strong>addJsListener Method Syntax</strong>
-</p>{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }addJsListener("event", "functionName"){/syntaxhighlighter}
+</p>{% highlight javascript %}addJsListener("event", "functionName"){% endhighlight %}
 
 *   *event* is a string that represents the name of the event notification. Enclose the notification name in single or double quotation marks.
 *   *functionName* is a string that represents the name of the listener function to call when the event occurs. Enclose the listener function name in single or double quotation marks, without parentheses.
@@ -232,7 +232,7 @@ To listen for a player entry time being updated:
 
 1.  Pass *playerUpdatePlayhead* on the notification name parameter in *addJsListener*.
 2.  On your web page, define a JavaScript function that is called when the *playerUpdatePlayhead* notification is fired in the player (for example, *playerUpdatePlayheadHandler*).
-3.  Pass the JavaScript function name as the listener *functionName* parameter in *addJsListener*.{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }kdp.addJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”) function playerUpdatePlayheadHandler(data, id) { // data = the player's progress time in seconds // id = the ID of the player that fired the notification }{/syntaxhighlighter}
+3.  Pass the JavaScript function name as the listener *functionName* parameter in *addJsListener*.{% highlight javascript %}kdp.addJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”) function playerUpdatePlayheadHandler(data, id) { // data = the player's progress time in seconds // id = the ID of the player that fired the notification }{% endhighlight %}
 
 <h3 class="mce-heading-3">
   Using removeJsListener
@@ -252,7 +252,7 @@ When you remove a listener, you must specify the associated function name.
 
 <p class="Sub-Heading">
   <strong>removeJsListener Method Syntax</strong>
-</p>{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }removeJsListener("event", "functionName"){/syntaxhighlighter}
+</p>{% highlight javascript %}removeJsListener("event", "functionName"){% endhighlight %}
 
 *   *event* is a string that represents the name of the event notification. Enclose the notification name in single or double quotation marks.
 *   *functionName* is a string that represents the name of the listener function called when the event occurs. Enclose the listener function name in single or double quotation marks, without parentheses.
@@ -269,7 +269,7 @@ To limit listening to a player update event to a single instance:
  [25]: #addJsListenerSampleCode
 
 > *   Pass "*playerUpdatePlayhead*" on the notification name parameter.
-> *   Pass the JavaScript function name on the listener *functionName* parameter.{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }kdp.addJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”) function playerUpdatePlayheadHandler(data, id) { // data = the player's progress time in seconds // id = the ID of the player that fired the notification; } kdp.removeJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”){/syntaxhighlighter}
+> *   Pass the JavaScript function name on the listener *functionName* parameter.{% highlight javascript %}kdp.addJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”) function playerUpdatePlayheadHandler(data, id) { // data = the player's progress time in seconds // id = the ID of the player that fired the notification; } kdp.removeJsListener(“playerUpdatePlayhead”, “playerUpdatePlayheadHandler”){% endhighlight %}
 
 <h2 class="mce-heading-2">
   <a name="sendNotification"></a>Invoking Player Actions (sendNotification)
@@ -279,7 +279,7 @@ Use the [sendNotification][21] method to create custom notifications that tell t
 
 <p class="Sub-Heading">
   <strong>sendNotification Method Syntax</strong>
-</p>{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }sendNotification("command", { optional : data }){/syntaxhighlighter}
+</p>{% highlight javascript %}sendNotification("command", { optional : data }){% endhighlight %}
 
 *   *command* is a string that represents the player command. Enclose the command in single or double quotation marks.
 *   *{ optional : data }* is an optional  JavaScript Object Notation (JSON) object.
@@ -293,7 +293,7 @@ To play a video from a specific point, call the *jumpToTime* function in the scr
 1.  Pass the *doPlay* command on the *command* parameter in *sendNotification*.  
     Note: *doPlay* does not require a parameter. You can either use null or omit it.
 2.  Pass the *doSeek* command on the *command* parameter in *sendNotification*.   
-    Specify a *timesec* parameter in milliseconds from the beginning of the video.{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script language="JavaScript"> var kdp; function jumpToTime(timesec) { kdp.sendNotification("doPlay"); // kdp.sendNotification('doPlay', null); // Null parameters are optional // Moves to a specific point, defined in seconds from the start of the video kdp.sendNotification("doSeek", timesec); } </script>{/syntaxhighlighter}
+    Specify a *timesec* parameter in milliseconds from the beginning of the video.{% highlight javascript %}<script language="JavaScript"> var kdp; function jumpToTime(timesec) { kdp.sendNotification("doPlay"); // kdp.sendNotification('doPlay', null); // Null parameters are optional // Moves to a specific point, defined in seconds from the start of the video kdp.sendNotification("doSeek", timesec); } </script>{% endhighlight %}
 
 <h2 class="mce-heading-2">
   <a name="evaluate"></a>Retrieving Information in Runtime (evaluate)
@@ -322,7 +322,7 @@ The *evaluate* method is valid for any object that KDP3 externalizes for JavaScr
 
 <p class="Sub-Heading">
   <strong>evaluate Method Syntax</strong>
-</p>{syntaxhighlighter brush: as3;fontsize: 100; first-line: 1; }evaluate("{object.property.property}"){/syntaxhighlighter}
+</p>{% highlight plaintext %}evaluate("{object.property.property}"){% endhighlight %}
 
 *   *object.property.property*is the reference to the component object with data that you want to extract. Enclose the reference in curly braces within single or double quotation marks.
     *   *property* references are optional sub-objects and/or properties. *property* can be an object.
@@ -335,7 +335,7 @@ To get the name of an entry from a player so that you can display it:
 
 1.  On your web page, define a function to get the entry name, for example, *getName*.
 2.  Pass the component object reference on the *object.property.property* parameter in *evaluate*. Specify the object and property (*entry* and *name*) to extract.
-3.  Define an alert that displays the extracted data.{syntaxhighlighter brush: as3;fontsize: 100; first-line: 1; }function getName() { var entry\_name = kdp.evaluate('{mediaProxy.entry.name}'); alert('Entry name: '+entry\_name); }{/syntaxhighlighter}
+3.  Define an alert that displays the extracted data.{% highlight plaintext %}function getName() { var entry\_name = kdp.evaluate('{mediaProxy.entry.name}'); alert('Entry name: '+entry\_name); }{% endhighlight %}
 
 <h2 class="mce-heading-2">
   <a name="setKDPAttribute"></a>Changing Player Attributes in Runtime (setKDPAttribute)
@@ -349,7 +349,7 @@ Use the *setKDPAttribute* method to change something about a player by setting p
 
 <p class="Sub-Heading">
   <strong>setKDPAttribute Method Syntax</strong>
-</p>{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }setKDPAttribute("object","property","value"){/syntaxhighlighter}
+</p>{% highlight javascript %}setKDPAttribute("object","property","value"){% endhighlight %}
 
 *   *object* is a string that represents the object you want to modify. Use standard dot notation to specify sub-objects, for example, *configProxy.flashvars*.
 *   *property* is the player property that you want to modify.
@@ -365,7 +365,7 @@ To make a player begin playing automatically, pass the following parameters in *
 
 1.  Pass *configProxy.flashvars* on the *object* parameter. Define this object using standard dot notation. *configProxy* holds parameters related to general player configuration.
 2.  Pass *autoPlay* on the *property* parameter.
-3.  Pass *true* on the *value* parameter.{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }kdp.setKDPAttribute("configProxy.flashvars","autoPlay","true"){/syntaxhighlighter}
+3.  Pass *true* on the *value* parameter.{% highlight javascript %}kdp.setKDPAttribute("configProxy.flashvars","autoPlay","true"){% endhighlight %}
 
 <h1 class="mce-heading-1">
   <a name="UnderstandingJSAPIDiffs4FlashHTML5"></a>Understanding JavaScript API Support Differences for Flash and HTML5 Players
@@ -530,9 +530,9 @@ Continue with [defining what happens when a user clicks the button][29].
 In the script area of the web page where you embed the player with the custom button:
 
 1.  Insert the following JavaScript function.  
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script> function customFuncx (entryId){ // Add your custom code here. } </script>{/syntaxhighlighter}
+    {% highlight javascript %}<script> function customFuncx (entryId){ // Add your custom code here. } </script>{% endhighlight %}
 2.   Replace *x* in *customFunc**x*** with the custom button digit. For example, use *customFunc1* for Custom Button 1. See [Designing a Call To Action Button][28].
-3.  Where indicated, add JavaScript code that defines an action. For example, create an alert that Custom Button 1 was clicked:{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }function customFunc1(entryId) { alert('Custom button was clicked. Played entryId is '+ entryId ); }{/syntaxhighlighter}
+3.  Where indicated, add JavaScript code that defines an action. For example, create an alert that Custom Button 1 was clicked:{% highlight javascript %}function customFunc1(entryId) { alert('Custom button was clicked. Played entryId is '+ entryId ); }{% endhighlight %}
 
 To learn more, refer to [Integrate KDP on web pages (JavaScript)][31].
 
@@ -608,16 +608,16 @@ The [sample code][35] illustrates how to handle code cue points for this use cas
 In the script area of the web page where you embed the player, add a JavaScript script:
 
 1.  Insert the [addJsListener][23] method (see [Using addJsListener][36]) to detect a cue point.  
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }myPlayer.addJsListener("cuePointReached", "cuePointHandler");{/syntaxhighlighter}
+    {% highlight javascript %}myPlayer.addJsListener("cuePointReached", "cuePointHandler");{% endhighlight %}
 *   Pass *"cuePointReached"* on the notification name parameter.
 *   Pass a function that you define to handle cue points on the listener *functionName* parameter.
 
 2.  Insert your function that handles cue points. Enable the function to receive a cue point identifier.  
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }var currentCue = null; var cuePointHandler = function( qPoint ) { switchActiveCue('cp'+qPoint.cuePoint.id); };{/syntaxhighlighter}
+    {% highlight javascript %}var currentCue = null; var cuePointHandler = function( qPoint ) { switchActiveCue('cp'+qPoint.cuePoint.id); };{% endhighlight %}
 3.  Insert a function that you define (for example, *switchActiveCue*) to make a selected cue point active.  
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }var switchActiveCue = function ( newId ) { if (currentCue != null) currentCue.className = ''; currentCue = document.getElementById(newId); currentCue.className = 'selected'; console.log(newId); }{/syntaxhighlighter}
+    {% highlight javascript %}var switchActiveCue = function ( newId ) { if (currentCue != null) currentCue.className = ''; currentCue = document.getElementById(newId); currentCue.className = 'selected'; console.log(newId); }{% endhighlight %}
 4.  Insert a function  that you define (for example, *jumpToTime*) to go to a point in the video (defined in milliseconds from the start of the video) and begin playing.   
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }var jumpToTime = function ( timesec ) { if (myPlayer != null) { myPlayer.sendNotification("doPlay"); myPlayer.sendNotification("doSeek", timesec/1000); } }{/syntaxhighlighter}Use the [sendNotification][21] method (see [Invoking player actions (sendNotification)][4]).
+    {% highlight javascript %}var jumpToTime = function ( timesec ) { if (myPlayer != null) { myPlayer.sendNotification("doPlay"); myPlayer.sendNotification("doSeek", timesec/1000); } }{% endhighlight %}Use the [sendNotification][21] method (see [Invoking player actions (sendNotification)][4]).
 *   Pass the *doPlay* command on the *command* parameter in *sendNotification*.
 *   Pass the *doSeek* command on the *command* parameter in *sendNotification*.  
 
@@ -637,7 +637,7 @@ In the script area of the web page where you embed the player, add a JavaScript 
 
 <p class="Sub-Heading">
   <strong>Code Cue Point Sample Code</strong>
-</p>{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script> var jsCallbackReady = function( playerId ) { myPlayer = document.getElementById(playerId); myPlayer.addJsListener("cuePointReached", "cuePointHandler"); }; var currentCue = null; var cuePointHandler = function( qPoint ) { switchActiveCue('cp'+qPoint.cuePoint.id); }; var switchActiveCue = function ( newId ) { if (currentCue != null) currentCue.className = ''; currentCue = document.getElementById(newId); currentCue.className = 'selected'; console.log(newId); } var jumpToTime = function ( timesec ) { if (myPlayer != null) { myPlayer.sendNotification("doPlay"); myPlayer.sendNotification("doSeek", timesec/1000); } } </script>{/syntaxhighlighter}
+</p>{% highlight javascript %}<script> var jsCallbackReady = function( playerId ) { myPlayer = document.getElementById(playerId); myPlayer.addJsListener("cuePointReached", "cuePointHandler"); }; var currentCue = null; var cuePointHandler = function( qPoint ) { switchActiveCue('cp'+qPoint.cuePoint.id); }; var switchActiveCue = function ( newId ) { if (currentCue != null) currentCue.className = ''; currentCue = document.getElementById(newId); currentCue.className = 'selected'; console.log(newId); } var jumpToTime = function ( timesec ) { if (myPlayer != null) { myPlayer.sendNotification("doPlay"); myPlayer.sendNotification("doSeek", timesec/1000); } } </script>{% endhighlight %}
 
 <h1 class="mce-heading-1">
   <a name="BestPractices"></a>Best Practices
@@ -651,7 +651,7 @@ What best practices does Kaltura recommend for working with the JavaScript API?
 
 <span class="mce-heading-2">Caching the Player Object in a Global Variable</span>
 
-Cache a reference to the player object inside a global variable using the following syntax:{syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }window.kdp = document.getElementById(player_id);{/syntaxhighlighter}
+Cache a reference to the player object inside a global variable using the following syntax:{% highlight javascript %}window.kdp = document.getElementById(player_id);{% endhighlight %}
 
 When you place a reference to the player object inside a variable, you do not need to query the document object model (DOM) each time you do something with the player, such as adding or removing event listeners.
 

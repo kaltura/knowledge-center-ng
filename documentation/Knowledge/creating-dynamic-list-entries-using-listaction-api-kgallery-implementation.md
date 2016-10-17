@@ -17,13 +17,13 @@ To call the <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//define constants define("KALTURA_PARTNER_ID", ""); define("KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET", ""); {/syntaxhighlighter}Using the partner credentials, generate the KS:
+    {% highlight php %}//define constants define("KALTURA_PARTNER_ID", ""); define("KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET", ""); {% endhighlight %}Using the partner credentials, generate the KS:
   </div>
 </div>
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//define session variables $partnerUserID = '31'; // this can be whatever you decide depending on your implementation //Construction of Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET, $partnerUserID,KalturaSessionType::ADMIN); //Set the generated KS as the default actions KS to use by the client library $client->setKs($ks);{/syntaxhighlighter}
+    {% highlight php %}//define session variables $partnerUserID = '31'; // this can be whatever you decide depending on your implementation //Construction of Kaltura objects for session initiation $config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET, $partnerUserID,KalturaSessionType::ADMIN); //Set the generated KS as the default actions KS to use by the client library $client->setKs($ks);{% endhighlight %}
   </div>
 </div>
 
@@ -31,7 +31,7 @@ After the KS is  set up, perform the following steps to call the list action:
 
 1.  Define the filter to use when listing the entries.<div class="geshifilter">
       <div class="php geshifilter-php">
-        {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$entryFilter = new KalturaBaseEntryFilter(); /** * Available types (defined within KalturaEntryType class under KalturaClient.php): * AUTOMATIC = -1; * MEDIA_CLIP = 1; * MIX = 2; * PLAYLIST = 5; * DATA = 6; * DOCUMENT = 10; */ if (isset($_GET['entryType'])) $entryFilter->typeEqual = (int)$_GET['entryType']; {/syntaxhighlighter}{syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$entryFilter->statusEqual = KalturaEntryStatus::READY; $entryFilter->orderBy = KalturaBaseEntryOrderBy::CREATED_AT_DESC; {/syntaxhighlighter}To allow for the list to filter according to a url parameter by the name of entryType, use the <span class="geshifilter"><code class="geshifilter-php">$_GET['entryType']</code></span> variable. If a filter is not defined, all entries will be returned by the list action.
+        {% highlight php %}$entryFilter = new KalturaBaseEntryFilter(); /** * Available types (defined within KalturaEntryType class under KalturaClient.php): * AUTOMATIC = -1; * MEDIA_CLIP = 1; * MIX = 2; * PLAYLIST = 5; * DATA = 6; * DOCUMENT = 10; */ if (isset($_GET['entryType'])) $entryFilter->typeEqual = (int)$_GET['entryType']; {% endhighlight %}{% highlight php %}$entryFilter->statusEqual = KalturaEntryStatus::READY; $entryFilter->orderBy = KalturaBaseEntryOrderBy::CREATED_AT_DESC; {% endhighlight %}To allow for the list to filter according to a url parameter by the name of entryType, use the <span class="geshifilter"><code class="geshifilter-php">$_GET['entryType']</code></span> variable. If a filter is not defined, all entries will be returned by the list action.
       </div>
     </div>
     
@@ -40,7 +40,7 @@ After the KS is  set up, perform the following steps to call the list action:
 2.  Define the pager.  
     <div class="geshifilter">
       <div class="php geshifilter-php">
-        {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$kalturaPager = new KalturaFilterPager(); $kalturaPager->pageSize = 10; $kalturaPager->pageIndex = (isset($_GET['p']))? $_GET['p']: 1;{/syntaxhighlighter}
+        {% highlight php %}$kalturaPager = new KalturaFilterPager(); $kalturaPager->pageSize = 10; $kalturaPager->pageIndex = (isset($_GET['p']))? $_GET['p']: 1;{% endhighlight %}
       </div>
     </div>
     
@@ -55,7 +55,7 @@ After the KS is  set up, perform the following steps to call the list action:
     
     <div class="geshifilter">
       <div class="php geshifilter-php">
-        {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<?php foreach($result->objects as $entry): ?> <div id="<?php echo $entry->id; ?>" class="doc"> <div><span>Name: </span><?php echo $entry->name; ?></div> <div><span>Created: </span><?php echo date('Y-m-d H:i:s', $entry->createdAt); ?></div> <div><a href="#" onclick="$('#infodiv<?php echo $entry->id; ?>').toggle('fast');" >More...</a><div style="display:none;overflow:hidden;" id="infodiv<?php echo $entry->id; ?>"><pre><?php echoprint_r($entry, true); ?></pre></div></div> </div> <? endforeach; ?>{/syntaxhighlighter}
+        {% highlight javascript %}<?php foreach($result->objects as $entry): ?> <div id="<?php echo $entry->id; ?>" class="doc"> <div><span>Name: </span><?php echo $entry->name; ?></div> <div><span>Created: </span><?php echo date('Y-m-d H:i:s', $entry->createdAt); ?></div> <div><a href="#" onclick="$('#infodiv<?php echo $entry->id; ?>').toggle('fast');" >More...</a><div style="display:none;overflow:hidden;" id="infodiv<?php echo $entry->id; ?>"><pre><?php echoprint_r($entry, true); ?></pre></div></div> </div> <? endforeach; ?>{% endhighlight %}
       </div>
     </div>
 

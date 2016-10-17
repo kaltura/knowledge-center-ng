@@ -62,7 +62,10 @@ The following example displays the external script required for the KGallery Ser
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<html> <head> </head> <body> <!--include external scripts--> <?php require_once("kaltura_client_v3/KalturaClient.php");{/syntaxhighlighter}
+    {% highlight php %}<html> <head> </head> <body> 
+<!--include external scripts--> 
+<?php require_once("kaltura_client_v3/KalturaClient.php");
+{% endhighlight %}
   </div>
 </div>
 
@@ -74,7 +77,10 @@ In the following example, the PHP code defines 2 constants and one variable, to 
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }//define constants define("KALTURA_PARTNER_ID", Your Partner Id); define("KALTURA_PARTNER_WEB_SERVICE_SECRET", "Your Partner ADMIN secret");{/syntaxhighlighter}
+    {% highlight php %}
+//define constants define("KALTURA_PARTNER_ID", Your Partner Id); 
+define("KALTURA_PARTNER_WEB_SERVICE_SECRET", "Your Partner ADMIN secret");
+{% endhighlight %}
   </div>
 </div>
 
@@ -164,7 +170,12 @@ The following example shows how the PHP code constructs the relevant Kaltura obj
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$config = new KalturaConfiguration(KALTURA_PARTNER_ID); $client = new KalturaClient($config); $ks = $client->session->start(KALTURA_PARTNER_WEB_SERVICE_SECRET, $partnerUserID,KalturaSessionType::USER); $client->setKs($ks); // set the session in the client{/syntaxhighlighter}
+    {% highlight php %}
+$config = new KalturaConfiguration(KALTURA_PARTNER_ID); 
+$client = new KalturaClient($config); 
+$ks = $client->session->start(KALTURA_PARTNER_WEB_SERVICE_SECRET, $partnerUserID,KalturaSessionType::USER); 
+$client->setKs($ks); // set the session in the client
+{% endhighlight %}
   </div>
 </div>
 
@@ -174,7 +185,16 @@ The following example shows how the PHP code constructs a filter object and a p
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: php;fontsize: 100; first-line: 1; }$filter = new KalturaMediaEntryFilter(); $filter->statusEqual = KalturaEntryStatus::READY; $filter->mediaTypeEqual = KalturaMediaType::VIDEO ; $pager = new KalturaFilterPager(); $pager->pageSize = 5; $pager->pageIndex = 1; $list = $client->media->listAction($filter,$pager); // list all of the media items in the partner ?>{/syntaxhighlighter}
+    {% highlight php %}
+$filter = new KalturaMediaEntryFilter(); 
+$filter->statusEqual = KalturaEntryStatus::READY; 
+$filter->mediaTypeEqual = KalturaMediaType::VIDEO ; 
+$pager = new KalturaFilterPager(); 
+$pager->pageSize = 5; 
+$pager->pageIndex = 1; 
+$list = $client->media->listAction($filter,$pager); // list all of the media items in the partner 
+?>
+{% endhighlight %}
   </div>
 </div>
 
@@ -190,7 +210,17 @@ The following example shows how the  <span class="geshifilter"><code class="ge
 
 <div class="geshifilter">
   <div class="php geshifilter-php">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<div id="KalturaGallary" style="position:relative;overflow:hidden;"> <table> <?php foreach ($list->objects as $mediaEntry): ?> <?php $name = $mediaEntry->name; // get the entry name $id = $mediaEntry->id; $thumbUrl = $mediaEntry->thumbnailUrl; // get the entry thumbnail URL $description = $mediaEntry->description; ?> <td> <ul style="list-style:none;"> <li style="width:120px; height:90px;"><a href="javascript:LoadMedia('<?php echo $id; ?>')"> <img border="0" src="<?php echo $thumbUrl; ?>" > </a></li> <li style="width:120px; height:40px;"><?php echo $name; ?></li> </ul> </td> <?php endforeach; ?> </table> </div>{/syntaxhighlighter}
+    {% highlight javascript %}
+<div id="KalturaGallary" style="position:relative;overflow:hidden;"> <table> 
+<?php foreach ($list->objects as $mediaEntry): ?> 
+<?php $name = $mediaEntry->name; // get the entry name 
+$id = $mediaEntry->id; 
+$thumbUrl = $mediaEntry->thumbnailUrl; // get the entry thumbnail URL 
+$description = $mediaEntry->description; 
+?> 
+<td> <ul style="list-style:none;"> <li style="width:120px; height:90px;"><a href="javascript:LoadMedia('<?php echo $id; ?>')"> <img border="0" src="<?php echo $thumbUrl; ?>" > </a></li> <li style="width:120px; height:40px;">
+<?php echo $name; ?></li> </ul> </td> <?php endforeach; ?> </table> </div>
+{% endhighlight %}
   </div>
 </div>
 
@@ -202,7 +232,13 @@ The following example shows how a JavaScript method is defined, when receiving 
 
 <div class="geshifilter">
   <div class="javascript geshifilter-javascript">
-    {syntaxhighlighter brush: jscript;fontsize: 100; first-line: 1; }<script language="javascript"> function LoadMedia(entryId) { alert (entryId); // show media implementation should go here. } </script> </body> </html>{/syntaxhighlighter}
+    {% highlight javascript %}
+<script language="javascript"> 
+function LoadMedia(entryId) { 
+	alert (entryId); // show media implementation should go here. 
+} 
+</script> 
+{% endhighlight %}
   </div>
 </div>
 
