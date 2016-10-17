@@ -28,7 +28,7 @@ While it is possible to easily query the Kaltura API periodically, Kaltura’s A
       Enter the Notification URL.
     </li>
     <li>
-      Select the type of notifications from the displayed list.<br /><img src="{{site.url}}/assets/143">
+      Select the type of notifications from the displayed list.<br /><img src="../../assets/143.img">
     </li>
   </ol>
   

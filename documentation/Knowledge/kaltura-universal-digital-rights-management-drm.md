@@ -69,7 +69,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p>
-    All HTML5 browsers, Adobe and Silverlight and all the native applications are supported. You can keep doing what you did before with you old libraries of content without changing your current deployment.<img src="{{site.url}}/assets/2369">
+    All HTML5 browsers, Adobe and Silverlight and all the native applications are supported. You can keep doing what you did before with you old libraries of content without changing your current deployment.<img src="../../assets/2369.img">
   </p>
   
   <p class="mce-heading-2">
@@ -120,7 +120,7 @@ date: 2015-06-19 08:52:23
   </div>
   
   <p>
-    <img src="{{site.url}}/assets/2364">
+    <img src="../../assets/2364.img">
   </p>
   
   <div>
@@ -213,7 +213,7 @@ date: 2015-06-19 08:52:23
   </div>
   
   <p>
-    <span><img src="{{site.url}}/assets/2371">
+    <span><img src="../../assets/2371.img">
   </p>
   
   <p>
@@ -225,7 +225,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2372">
+    <img src="../../assets/2372.img">
   </p>
   
   <p>
@@ -237,7 +237,7 @@ date: 2015-06-19 08:52:23
   </p>
   
   <p class="mce-heading-3">
-    <img src="{{site.url}}/assets/2368">
+    <img src="../../assets/2368.img">
   </p>
   
   <p>

@@ -17,7 +17,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-     <img src="{{site.url}}/assets/3298">
+     <img src="../../assets/3298.img">
   </p>
   
   <h2>
@@ -25,7 +25,7 @@ date: 2016-07-13 18:49:41
   </h2>
   
   <p>
-     <img src="{{site.url}}/assets/3299">
+     <img src="../../assets/3299.img">
   </p>
   
   <p>
@@ -81,7 +81,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3308">
+    <img src="../../assets/3308.img">
   </p>
   
   <h3>
@@ -97,7 +97,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-     <img src="{{site.url}}/assets/3300">
+     <img src="../../assets/3300.img">
   </p>
   
   <h3>
@@ -113,7 +113,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3301">
+    <img src="../../assets/3301.img">
   </p>
   
   <h3>
@@ -153,7 +153,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3307">
+    <img src="../../assets/3307.img">
   </p>
   
   <h3>
@@ -165,7 +165,7 @@ date: 2016-07-13 18:49:41
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3306">
+    <img src="../../assets/3306.img">
   </p>
   
   <h3>
@@ -178,7 +178,7 @@ date: 2016-07-13 18:49:41
   
   <div>
     <p>
-      <img src="{{site.url}}/assets/3305">
+      <img src="../../assets/3305.img">
     </p>
     
     <p>
@@ -211,7 +211,7 @@ date: 2016-07-13 18:49:41
         Add Enableplayer.EnableMobileSkin to the key field, and ‘true’ to the Value field.
       </li>
       <li>
-        Click Save Player Settings.<br /><img src="{{site.url}}/assets/3326">
+        Click Save Player Settings.<br /><img src="../../assets/3326.img">
       </li>
     </ol>
     

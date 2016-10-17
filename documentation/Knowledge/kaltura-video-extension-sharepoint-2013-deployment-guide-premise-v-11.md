@@ -147,13 +147,13 @@ date: 2016-07-24 01:55:40
       Browse to KAF admin panel https://[your-kaf-domain]/admin/config/tab/sharepoint.
     </li>
     <li>
-      Replace “[your-kaf-domain]” with the URL of your KAF instance.  <br /><img src="{{site.url}}/assets/3329">
+      Replace “[your-kaf-domain]” with the URL of your KAF instance.  <br /><img src="../../assets/3329.img">
     </li>
     <li>
       Click on “Download SharePoint Installation Package”, to initiate the download and save the file to a directory within your SharePoint server.
     </li>
     <li>
-      Click on ‘Download Search Installation files” to initiate the download and save the file to a directory within your SharePoint server.<br /><img src="{{site.url}}/assets/3330">
+      Click on ‘Download Search Installation files” to initiate the download and save the file to a directory within your SharePoint server.<br /><img src="../../assets/3330.img">
     </li>
   </ol>
   
@@ -185,13 +185,13 @@ date: 2016-07-24 01:55:40
       Open PowerShell Management Shell. Click Start (Windows Icon) -> Type “SharePoint 2013 Management Shell”.
     </li>
     <li>
-      Right click on the item “SharePoint 2013 Management Shell” and choose “Run as administrator”. As a result, the PowerShell window opens as displayed.<br /><span><strong>NOTE:</strong> Running the PowerShell shell as administrator is required only if you have “User Access Control” (UAC) activated within Windows. If UAC is disabled then you may open the PowerShell shell by clicking on the “SharePoint 2013 Management Shell” item.<br /><img src="{{site.url}}/assets/3331">
+      Right click on the item “SharePoint 2013 Management Shell” and choose “Run as administrator”. As a result, the PowerShell window opens as displayed.<br /><span><strong>NOTE:</strong> Running the PowerShell shell as administrator is required only if you have “User Access Control” (UAC) activated within Windows. If UAC is disabled then you may open the PowerShell shell by clicking on the “SharePoint 2013 Management Shell” item.<br /><img src="../../assets/3331.img">
     </li>
     <li>
       Within the PowerShell console, type the following command: <br />Add-SPSolution '{Path To the WSP file}\KalturaSolution.wsp'
     </li>
     <li>
-      Replace {Path To the WSP file} with the location where you saved the WSP file. The following screen displays an example of Adding the solution via PowerShell window.<br /><img src="{{site.url}}/assets/3332">
+      Replace {Path To the WSP file} with the location where you saved the WSP file. The following screen displays an example of Adding the solution via PowerShell window.<br /><img src="../../assets/3332.img">
     </li>
   </ol>
   
@@ -220,7 +220,7 @@ date: 2016-07-24 01:55:40
       Browse to SharePoint Solution Store.
     </li>
     <li>
-      Navigate to “SharePoint Central Administration” -> select “System Settings” (on the left pane) and then select “Manage farm solutions”. You should now see the solution that was added in <a href="#step2">Step 2</a>: “Kaltura SharePoint Solution.wsp”<br /><img src="{{site.url}}/assets/3333">
+      Navigate to “SharePoint Central Administration” -> select “System Settings” (on the left pane) and then select “Manage farm solutions”. You should now see the solution that was added in <a href="#step2">Step 2</a>: “Kaltura SharePoint Solution.wsp”<br /><img src="../../assets/3333.img">
     </li>
     <li>
       Deploy the solution. Click on the solution, The “Deploy Solution” screen is displayed.
@@ -229,7 +229,7 @@ date: 2016-07-24 01:55:40
       Select “All content web applications” from the “Deploy to?” dropdown menu or pick a specific web application you want to deploy the solution to.
     </li>
     <li>
-      Click “OK”. The solution is now deployed.<br /><img src="{{site.url}}/assets/3334">
+      Click “OK”. The solution is now deployed.<br /><img src="../../assets/3334.img">
     </li>
   </ol>
   
@@ -258,7 +258,7 @@ date: 2016-07-24 01:55:40
       Browse to SharePoint’s Farm Features window. Navigate to “SharePoint Central Administration”, select “System Settings”, then select “Manage Farm Features”.
     </li>
     <li>
-      Activate the Kaltura Backbone feature. Locate the feature called “Kaltura Backbone” and click “Active”.<br /><img src="{{site.url}}/assets/3335">
+      Activate the Kaltura Backbone feature. Locate the feature called “Kaltura Backbone” and click “Active”.<br /><img src="../../assets/3335.img">
     </li>
   </ol>
   
@@ -290,10 +290,10 @@ date: 2016-07-24 01:55:40
       Navigate to “SharePoint Central Administration” and select “Manage Service Applications” and then select “Secure Store Service” (or the name the Secure Store Service was assigned during installation).
     </li>
     <li>
-      Set the application credentials. You should see the Secure Store application named “KalturaStore”. Click on KalturaStore and choose “Set Credentials” from the drop down menu.<br /><span>NOTE: Even if the credentials (Secure Store configuration info) were previously filled, they appear as empty because SharePoint hides this information due to security reasons. Consequently, when the need arises to edit a single field – you are required to fill-in all of the fields.<br /><img src="{{site.url}}/assets/3336">
+      Set the application credentials. You should see the Secure Store application named “KalturaStore”. Click on KalturaStore and choose “Set Credentials” from the drop down menu.<br /><span>NOTE: Even if the credentials (Secure Store configuration info) were previously filled, they appear as empty because SharePoint hides this information due to security reasons. Consequently, when the need arises to edit a single field – you are required to fill-in all of the fields.<br /><img src="../../assets/3336.img">
     </li>
     <li>
-      Fill in the following Kaltura app credentials and settings within the Secure Store: <br /><img src="{{site.url}}/assets/3346">
+      Fill in the following Kaltura app credentials and settings within the Secure Store: <br /><img src="../../assets/3346.img">
     </li>
   </ol>
   
@@ -359,7 +359,7 @@ date: 2016-07-24 01:55:40
         Select the item “KalturaEntity”, on the top ribbon and click “Set Object Permissions”.
       </li>
       <li>
-        Add the Farm Account which is used for crawling external data (The Farm Account was chosen during the farm installation. If you are not sure how to identify the Farm Account, please refer to the Microsoft article <a href="https://technet.microsoft.com/en-us/library/cc263445.aspx" target="_blank">Plan for administrative and service accounts in SharePoint 2013</a> ), then check the following Permissions’ check-boxes: “Edit”, “Execute”, and “Set Permissions”.<br /><img src="{{site.url}}/assets/3338">
+        Add the Farm Account which is used for crawling external data (The Farm Account was chosen during the farm installation. If you are not sure how to identify the Farm Account, please refer to the Microsoft article <a href="https://technet.microsoft.com/en-us/library/cc263445.aspx" target="_blank">Plan for administrative and service accounts in SharePoint 2013</a> ), then check the following Permissions’ check-boxes: “Edit”, “Execute”, and “Set Permissions”.<br /><img src="../../assets/3338.img">
       </li>
     </ol>
     
@@ -384,7 +384,7 @@ date: 2016-07-24 01:55:40
       Add a new content source. Navigate to Search Service Application- Browse to “SharePoint Central Administration” and select “Manage Service Applications” and then select “Search Service Application” (or any other name the search service was assigned during installation).
     </li>
     <li>
-      Fill in the following information in the Add Content Source window as displayed in the following screens.<br /><img src="{{site.url}}/assets/3340">
+      Fill in the following information in the Add Content Source window as displayed in the following screens.<br /><img src="../../assets/3340.img">
     </li>
     <li>
       Verify that the new content source can crawl Kaltura media successfully.
@@ -400,7 +400,7 @@ date: 2016-07-24 01:55:40
         Select “Start full crawl”. Wait for the crawling to complete and then click on the content source again.
       </li>
       <li>
-        Select “View crawl log” and then ensure that no error appears on the last crawl report.<br /><img src="{{site.url}}/assets/3341">
+        Select “View crawl log” and then ensure that no error appears on the last crawl report.<br /><img src="../../assets/3341.img">
       </li>
     </ol>
   </ol>
@@ -427,10 +427,10 @@ date: 2016-07-24 01:55:40
   
   <ol>
     <li>
-      Navigate to a site collection settings screen<strong>. </strong>Browse to a site collection where you want to apply Kaltura functionality. Enter the Site collection settings screen, then choose “Site Collection Features”.<br /><img src="{{site.url}}/assets/3342">
+      Navigate to a site collection settings screen<strong>. </strong>Browse to a site collection where you want to apply Kaltura functionality. Enter the Site collection settings screen, then choose “Site Collection Features”.<br /><img src="../../assets/3342.img">
     </li>
     <li>
-      Activate the widgets feature. To use Kaltura Widgets web parts (Media Gallery, My Media and Browse Search and Embed) in the site collection, activate the feature “Kaltura Widgets” by selecting the feature and clicking “Active”.<img src="{{site.url}}/assets/3343">
+      Activate the widgets feature. To use Kaltura Widgets web parts (Media Gallery, My Media and Browse Search and Embed) in the site collection, activate the feature “Kaltura Widgets” by selecting the feature and clicking “Active”.<img src="../../assets/3343.img">
     </li>
   </ol>
   
@@ -480,7 +480,7 @@ date: 2016-07-24 01:55:40
       Upload the search UI design files to SharePoint “Design Manager”: Within the site settings page, navigate to “Design Manager”.
     </li>
     <li>
-      Within the Design Manager home screen, choose “Import a complete design package”.<br /><img src="{{site.url}}/assets/3327">
+      Within the Design Manager home screen, choose “Import a complete design package”.<br /><img src="../../assets/3327.img">
     </li>
     <ol style="list-style-type: lower-alpha;">
       <li>
@@ -500,7 +500,7 @@ date: 2016-07-24 01:55:40
           Navigate to “Import Configuration”. The link appears under the menu “Site Collection Settings”.
         </li>
         <li>
-          Upload the file “Kaltura SharePoint Solution - Search UI Configuration.xml” using the file Upload button that appears in the screen and then confirm by clicking “Import”.<br /><img src="{{site.url}}/assets/3328">
+          Upload the file “Kaltura SharePoint Solution - Search UI Configuration.xml” using the file Upload button that appears in the screen and then confirm by clicking “Import”.<br /><img src="../../assets/3328.img">
         </li>
       </ol>
     </li>

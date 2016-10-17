@@ -6,7 +6,7 @@ date: 2012-03-25 00:03:10
 
 After <a href="http://knowledge.kaltura.com/faq/how-upload-media-mediaspace" target="_blank">a video is uploaded</a>, it is converted for optimal playback. You cannot preview or publish a video during conversion. If media is waiting for moderation, you cannot preview or publish it until it is approved. You can edit media information during conversion and while waiting for moderation.
 
-<img src="{{site.url}}/assets/392">
+<img src="../../assets/392.img">
 
 **<span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: x-small;">Media Page: A video that is awaiting moderation</span>**
 

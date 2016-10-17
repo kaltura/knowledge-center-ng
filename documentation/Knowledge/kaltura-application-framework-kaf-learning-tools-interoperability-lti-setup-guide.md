@@ -79,7 +79,7 @@ date: 2015-11-30 23:47:03
       </h2>
       
       <p>
-        Your KAF instance is composed of multiple <strong>KAF modules</strong>, such as “Application”, “Player”, and “Auth”. Each module controls a different aspect of your LMS integration. A KAF module is composed of a set of <strong>configuration fields</strong>. All KAF modules are listed on the left menu in your KAF Admin Console instance.<br /><img src="{{site.url}}/assets/2589">
+        Your KAF instance is composed of multiple <strong>KAF modules</strong>, such as “Application”, “Player”, and “Auth”. Each module controls a different aspect of your LMS integration. A KAF module is composed of a set of <strong>configuration fields</strong>. All KAF modules are listed on the left menu in your KAF Admin Console instance.<br /><img src="../../assets/2589.img">
       </p>
       
       <p class="mce-note-graphic">
@@ -2648,7 +2648,7 @@ date: 2015-11-30 23:47:03
       </table>
       
       <h4>
-        Example of Downloadmedia Configuration<br /><img src="{{site.url}}/assets/2590">
+        Example of Downloadmedia Configuration<br /><img src="../../assets/2590.img">
       </h4>
       
       <h3>
@@ -3178,7 +3178,7 @@ date: 2015-11-30 23:47:03
       </ul>
       
       <p>
-        Please refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-integration-guide.html" target="_blank">KAF LTI User Guide</a> for more details about each of these methods.<br /><img src="{{site.url}}/assets/2591">
+        Please refer to the <a href="{{site.url}}/documentation/Knowledge/kaltura-application-framework-kaf-learning-tools-interoperability-lti-integration-guide.html" target="_blank">KAF LTI User Guide</a> for more details about each of these methods.<br /><img src="../../assets/2591.img">
       </p>
       
       <h3>

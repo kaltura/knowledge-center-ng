@@ -11,7 +11,7 @@ date: 2011-12-25 00:52:26
 1.  Go the the Settings tab and select Integration Settings.
 2.  In the Entry Management pane click Advanced Settings.
 
-<img src="{{site.url}}/assets/90">
+<img src="../../assets/90.img">
 
 The following table describes the fields for the Miscellaneous options.
 
@@ -124,7 +124,7 @@ Kaltura provide two types of Notifications: 
 </p>
 
 1.  Enter the Notification URL.
-2.  Select the type of notifications from the displayed list. <img src="{{site.url}}/assets/92">
+2.  Select the type of notifications from the displayed list. <img src="../../assets/92.img">
 
 <p class="MsoBodyText" style="margin: 6pt 0in 0pt;">
   For more information about the various notifications and how to implement a notification handler script on your server, refer to: <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?page=notifications"><span style="color: #0fa2bb; font-family: arial, helvetica, sans-serif;">API Notifications.</span></a>

@@ -219,12 +219,12 @@ MediaSpace supports the following privacy types for channels:
 *   **Private:** Only specific users are entitled to access the channel and to contribute content.
 
 Channel type definitions are displayed in MediaSpace under Channel Settings>Basic:  
-<img src="{{site.url}}/assets/1170">
+<img src="../../assets/1170.img">
   
 
 
 KMC entitlement definitions are displayed in the KMC under Content>Categories>Edit Category window>Entitlements tab:  
-<img src="{{site.url}}/assets/1171">
+<img src="../../assets/1171.img">
   
 
 
@@ -271,7 +271,7 @@ You can modify MediaSpace application role names to match your institutional ter
 2.  Modify the label for one or more roles, and click **Save**.
 
 <p class="FigureList">
-   <img src="{{site.url}}/assets/1172">
+   <img src="../../assets/1172.img">
 </p>
 
 <h3 class="mce-heading-4">
@@ -290,7 +290,7 @@ Do one of the following:
 *   On the User Management panel of the Kaltura MediaSpace Administration Area:
 *   Click **Submit CSV**.
 *   Click **Choose File** to select the CSV file, and click **OK**.  
-    <img src="{{site.url}}/assets/1173">
+    <img src="../../assets/1173.img">
 
 <h2 class="mce-heading-3">
   <a name="understanding_entitlement"></a>Understanding Entitlement Permissions
@@ -336,7 +336,7 @@ When Anonymous mode is enabled, open categories can also be viewed by anonymous 
 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.
 2.  Under *allowAnonymous*, select **Yes** and click **Save**.  
-    <img src="{{site.url}}/assets/1174">
+    <img src="../../assets/1174.img">
 
 <p class="FigureList">
    

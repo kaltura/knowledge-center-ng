@@ -359,7 +359,7 @@ When a customer uses their own storage and / or CDN, analytics information relat
 
 The following diagram illustrates a few of the ramifications for the chosen selections:
 
-<img src="{{site.url}}/assets/1601">
+<img src="../../assets/1601.img">
 
  
 

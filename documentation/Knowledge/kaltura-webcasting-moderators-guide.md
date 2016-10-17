@@ -33,7 +33,7 @@ date: 2015-10-27 14:40:18
   </h4>
   
   <p>
-    <img src="{{site.url}}/assets/2985">
+    <img src="../../assets/2985.img">
   </p>
   
   <h4>
@@ -41,7 +41,7 @@ date: 2015-10-27 14:40:18
   </h4>
   
   <p>
-    <img src="{{site.url}}/assets/2986">
+    <img src="../../assets/2986.img">
   </p>
   
   <h3>

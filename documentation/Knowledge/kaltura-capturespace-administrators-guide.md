@@ -64,7 +64,7 @@ date: 2014-12-10 00:24:09
 
 Kaltura CaptureSpace Lite is a simple video creation tool that enables users to easily capture their webcam, voice, and screen using the same user interface and a limited subset of functionality our existing Premium CaptureSpace users leverage today. CaptureSpace Lite is a native client, available for both Windows and Mac users. Installation does not require administrator privileges.
 
-<img src="{{site.url}}/assets/2946">
+<img src="../../assets/2946.img">
 
 <span style="font-family: verdana, geneva; color: #000000;"><a href="#Back_to_Top"><span style="color: #000000;">Back To Top</span></a></span>
 
@@ -100,17 +100,17 @@ Kaltura CaptureSpace Lite is a simple video creation tool that enables users to 
   <span style="font-family: verdana, geneva; color: #000000;">To Enable the Kaltura CaptureSpace Module</span>
 </p>
 
-1.  <span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;">In the MediaSpace Configuration Management window, select CaptureSpace and set enabled to ‘Yes’.<br /><img src="{{site.url}}/assets/1814">
-2.  <span style="font-family: verdana, geneva; color: #000000;">FTP settings are only required for older versions of CaptureSpace clients (Version 4.44 and before). Leave these fields empty. </span><img src="{{site.url}}/assets/2947">
-3.  <span style="font-family: verdana, geneva;">In the AddNewLabelLite field, enter the label you would like users to see when launching CaptureSpace or CaptureSpace Lite  from the Add New menu. </span>\<img src="{{site.url}}/assets/2928">
-4.  <span style="font-family: verdana, geneva;"><span><span><span>The setting for AllowDownloadingClient enables users to download the CaptureSpace Lite client for installation from the KMS/KAF website. Click Yes to enable users to download and install the client.</span></span></span></span><img src="{{site.url}}/assets/2931">
+1.  <span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;">In the MediaSpace Configuration Management window, select CaptureSpace and set enabled to ‘Yes’.<br /><img src="../../assets/1814.img">
+2.  <span style="font-family: verdana, geneva; color: #000000;">FTP settings are only required for older versions of CaptureSpace clients (Version 4.44 and before). Leave these fields empty. </span><img src="../../assets/2947.img">
+3.  <span style="font-family: verdana, geneva;">In the AddNewLabelLite field, enter the label you would like users to see when launching CaptureSpace or CaptureSpace Lite  from the Add New menu. </span>\<img src="../../assets/2928.img">
+4.  <span style="font-family: verdana, geneva;"><span><span><span>The setting for AllowDownloadingClient enables users to download the CaptureSpace Lite client for installation from the KMS/KAF website. Click Yes to enable users to download and install the client.</span></span></span></span><img src="../../assets/2931.img">
 5.  <span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;"><span style="color: #000000;"><span style="color: #000000;">Under allowedRoles, specify who is allowed to create new recording using the Kaltura CaptureSpace Desktop Recording. There are two ways to set permissions:<br /></span></span></span></span>
     a) Choose one of the roles below. You can read more about user roles in Kaltura in the [<span style="color: #000000;">Kaltura MediaSpace Setup Guide</span>][1]. 
     
     *   privateOnly Role
     *   admin Role
     *   unmoderatedAdmin Role  
-        <img src="{{site.url}}/assets/1817">
+        <img src="../../assets/1817.img">
 
  [1]: http://knowledge.kaltura.com/node/918/attachment/field_media
 
@@ -120,7 +120,7 @@ Kaltura CaptureSpace Lite is a simple video creation tool that enables users to 
 
 *   <span style="font-family: verdana, geneva;">Select “Specific Users”.</span>
 *   <span style="font-family: verdana, geneva;">Click </span><strong style="color: #888888; font-family: verdana, geneva;">+ Add “allowedUsers”.</strong>
-*   <span style="font-family: verdana, geneva;">Enter the user name of the specific user and click </span><strong style="color: #888888; font-family: verdana, geneva;"><strong style="color: #888888; font-family: verdana, geneva;"><strong><strong><strong>Submit.<strong style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif;"><img src="{{site.url}}/assets/1818">
+*   <span style="font-family: verdana, geneva;">Enter the user name of the specific user and click </span><strong style="color: #888888; font-family: verdana, geneva;"><strong style="color: #888888; font-family: verdana, geneva;"><strong><strong><strong>Submit.<strong style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif;"><img src="../../assets/1818.img">
 *   Repeat the process to add more users.  
 
 <p style="padding-left: 30px;">
@@ -136,9 +136,9 @@ Kaltura CaptureSpace Lite is a simple video creation tool that enables users to 
 </p>
 
 <p style="padding-left: 30px;">
-  <br /><img src="{{site.url}}/assets/2932">
+  <br /><img src="../../assets/2932.img">
 </p>
 
 <p style="padding-left: 30px;">
-  7. Set the recording limit, or the maximum number of minutes for a recording. For example, marking this field with 120 will enable users to record up to 2 hours in each recording. <br /><img src="{{site.url}}/assets/2933">
+  7. Set the recording limit, or the maximum number of minutes for a recording. For example, marking this field with 120 will enable users to record up to 2 hours in each recording. <br /><img src="../../assets/2933.img">
 </p>

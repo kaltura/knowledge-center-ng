@@ -19,5 +19,5 @@ date: 2015-12-06 12:15:10
   </ul>
   
   <p style="padding-left: 30px;">
-    <img src="{{site.url}}/assets/3484">
+    <img src="../../assets/3484.img">
   </p>

@@ -23,10 +23,10 @@ This article describes how to set up content, galleries and channels, channel us
     Click <strong>Add Category</strong>.
   </li>
   <li>
-    On the New Category window, select the position of the root category and save your new category.<br /><img src="{{site.url}}/assets/618">
+    On the New Category window, select the position of the root category and save your new category.<br /><img src="../../assets/618.img">
   </li>
   <li>
-    In the New Category window, enter metadata for the new category and click <strong>Save</strong>.<br /><img src="{{site.url}}/assets/619">
+    In the New Category window, enter metadata for the new category and click <strong>Save</strong>.<br /><img src="../../assets/619.img">
   </li>
 </ol>
 
@@ -36,7 +36,7 @@ This article describes how to set up content, galleries and channels, channel us
     On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Categories tab.
   </li>
   <li>
-    Under <em>rootCategory</em>, select the category that you created, and click <strong>Save</strong>. <br /><img src="{{site.url}}/assets/620">
+    Under <em>rootCategory</em>, select the category that you created, and click <strong>Save</strong>. <br /><img src="../../assets/620.img">
   </li>
 </ol>
 
@@ -46,7 +46,7 @@ This article describes how to set up content, galleries and channels, channel us
     Select the Content tab and then select the Categories tab.
   </li>
   <li>
-    Verify that the root category is displayed with new sub-categories.<br /><img src="{{site.url}}/assets/621">
+    Verify that the root category is displayed with new sub-categories.<br /><img src="../../assets/621.img">
   </li>
 </ol>
 
@@ -64,7 +64,7 @@ This article describes how to set up content, galleries and channels, channel us
     On the Edit Category window, select the Entitlements tab.
   </li>
   <li>
-    Under Privacy Context Label, confirm that a value is displayed. <br /><img src="{{site.url}}/assets/622">
+    Under Privacy Context Label, confirm that a value is displayed. <br /><img src="../../assets/622.img">
   </li>
 </ol>
 
@@ -82,7 +82,7 @@ In the KMC, select the Upload tab and then do one of the following:
     Use this option to upload a small number of files.
 *   Under Submit Bulk, select **Entries CSV/XML**.  
     Use this option to upload a large number of files. Using this option, you also import metadata such as categories and tags.  
-    <img src="{{site.url}}/assets/626">
+    <img src="../../assets/626.img">
 
  To learn more about uploading and ingestion, refer to the <a href="http://knowledge.kaltura.com/node/888/attachment/field_media" target="_blank">Kaltura Management Console (KMC) User Manual</a>.
 
@@ -124,9 +124,9 @@ To learn more about Creating and Managing Content Categories, see see [How to 
 
 1.  In the KMC, select the Content tab and then select the Categories tab.
 2.  Click **galleries **in the Categories table to open the Edit Category window.  
-    <img src="{{site.url}}/assets/629">
+    <img src="../../assets/629.img">
 3.  On the Edit Category window, select the Sub Categories tab (displayed only when there is more than one sub‑category):  
-    <img src="{{site.url}}/assets/630">
+    <img src="../../assets/630.img">
 4.  Specify the order of the sub-categories using the Up and Down arrows, and click **Save**.
 5.  Repeat for additional sub-category levels under *galleries*.
 
@@ -139,12 +139,12 @@ By default, categories in MediaSpace are added without an owner. To delegate the
 1.  In the KMC, select the Content tab and then select the Categories tab.
 2.  Search for the category that you want to set the owner for, and open the Edit Category window.
 3.  On the Edit Category window, select the Entitlements tab. You will notice that the “Owner” is not specified.  
-    <img src="{{site.url}}/assets/1178">
+    <img src="../../assets/1178.img">
 4.  Click Change.
 5.  Enter the user name or user ID of the appropriate owner for this category and click Save.
 
 <p style="padding-left: 30px;">
-   <img src="{{site.url}}/assets/1179">
+   <img src="../../assets/1179.img">
 </p>
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">A<a name="assigning_content_2cats"></a>ssigning Content to you MediaSpace Categories</span>
@@ -162,13 +162,13 @@ To learn more about Assigning Content to Categories, refer to <a href="{{site.ur
 1.  In the KMC, select the Content tab and then select the Entries tab.
 2.  In the Entries table, select one or more entries and click **Bulk Actions**.
 3.  Select Add/Remove Categories and click **Add to Categories**.  
-    <img src="{{site.url}}/assets/631">
+    <img src="../../assets/631.img">
 4.  On the Select Categories window, under the *galleries* category, select one or more categories and click **Apply**:  
-    <img src="{{site.url}}/assets/632">
+    <img src="../../assets/632.img">
 5.  In the Entries table, the entries are displayed for the category you used as a filter.
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/633">
+  <img src="../../assets/633.img">
 </p>
 
 Also see [Assigning MediaSpace Content to Ca][3]tegories.
@@ -195,12 +195,12 @@ Usually, the user who uploads content in the KMC is not the administrative conte
 2.  In the Categories table, click the category name.
 3.  On the Edit Category window, select the Entitlements tab.
 4.  Under Specific End-User Permissions, click **Manage**.  
-    <img src="{{site.url}}/assets/636">
+    <img src="../../assets/636.img">
 5.  On the Specific End-User Permissions window, click **Add Users**.  
-    <img src="{{site.url}}/assets/637">
+    <img src="../../assets/637.img">
 6.  On the Add Users window, under Permission Level select **Contributor**.
 7.  On the Add Users window, under Select End-Users start typing a user name. A list of suggestions is displayed after you type the third character.  
-    <img src="{{site.url}}/assets/638">
+    <img src="../../assets/638.img">
 8.  On the Add Users window, select a user from the suggestion list and click **Save**.   
     In MediaSpace, the selected user will have the Add Media option for the specified gallery. 
 
@@ -243,7 +243,7 @@ This section describes the following topics:
     In the <em>type</em> menu, select <strong>Channels Page</strong> or <strong>My Channels</strong>.
   </li>
   <li>
-    In the <em>name</em> field, enter the label to display.<br /><img src="{{site.url}}/assets/1194">
+    In the <em>name</em> field, enter the label to display.<br /><img src="../../assets/1194.img">
   </li>
 </ol>
 
@@ -261,7 +261,7 @@ This section describes the following topics:
     In the <em>type</em> menu, select <strong>My Channels</strong>.
   </li>
   <li>
-    In the <em>label</em> field, enter the label to display.<br /><img src="{{site.url}}/assets/641">
+    In the <em>label</em> field, enter the label to display.<br /><img src="../../assets/641.img">
   </li>
 </ol>
 
@@ -278,7 +278,7 @@ When you create a channel, you can associate a channel to a category. When users
 </p>
 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Channelcategories tab.
-2.  <img src="{{site.url}}/assets/1195">
+2.  <img src="../../assets/1195.img">
 3.  Under enabled, select Yes to enable the Channelcategories module.
 4.  Click Save. 
 
@@ -302,14 +302,14 @@ See [Who can create a channel?][9]
 *   **privateOnlyRole** – All users with upload permissions
 *   **adminRole **– All users with permission to upload and publish to categories
 *   **unmoderatedAdmin** – All users with permission to upload and publish to categories and to bypass moderation (if moderation is enabled)  
-    <img src="{{site.url}}/assets/642">
+    <img src="../../assets/642.img">
 
 We do not recommend enabling a Viewer to create channels since Viewers cannot add content to channels they create.
 
 When a user has permissions to create a channel, a *Create Channel* button is displayed on Channel Listing pages.
 
 <p class="FigureList">
-  <img src="{{site.url}}/assets/1196">
+  <img src="../../assets/1196.img">
 </p>
 
 <p class="mce-heading-3">
@@ -323,7 +323,7 @@ When a user has permissions to create a channel, a *Create Channel* button is di
 1.  In the KMC, select the Content tab and then select the Entries tab.
 2.  In the Entries table, select one or more entries and click **Bulk Actions**.
 3.  Select Add/Remove Categories and click **Add Categories**.   
-    <img src="{{site.url}}/assets/1197">
+    <img src="../../assets/1197.img">
 4.  On the Select Categories window, under the channels category, select one or more categories and click **Apply.**  
     In the Entries table, the entries are displayed when you filter for a category to which you assigned the entries.  
     Also see [Assigning MediaSpace Content to Categories][10].
@@ -402,7 +402,7 @@ Channel managers and owners can add members and change user permissions in Media
 
 <span class="mce-note-graphic">This operation is available to current owner only and will </span><strong class="mce-note-graphic">transfer</strong><span class="mce-note-graphic"> ownership from you to selected member.</span>
 
-<img src="{{site.url}}/assets/1198">
+<img src="../../assets/1198.img">
 
 To learn more about editing channel users, refer to the [Kaltura MediaSpace User Manual][17].
 
@@ -424,7 +424,7 @@ Do one of the following:
 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.
 2.  Under *sslSettings*, select **Login only** and click **Save.**   
-    <img src="{{site.url}}/assets/1199">
+    <img src="../../assets/1199.img">
 3.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Client tab.
 4.  Under serviceUrl, enter an HTTP URL and click Save.  
     <img src="http://cdnknowledge.kaltura.com//sites/default/files/styles/large/public/KMS4_Setup_serviceUrl_htpp.png" border="0" alt="" width="640" height="71" />
@@ -435,7 +435,7 @@ NOTE: To run MediaSpace on HTTPS, contact your Kaltura Project Manager or Accoun
 
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.
 2.  Under *sslSettings*, select **All site** and click **Save**.  
-    <img src="{{site.url}}/assets/1201">
+    <img src="../../assets/1201.img">
 3.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Client tab.
 4.  Under serviceUrl, enter an HTTPS URL and click Save.   
-    <img src="{{site.url}}/assets/1202">
+    <img src="../../assets/1202.img">

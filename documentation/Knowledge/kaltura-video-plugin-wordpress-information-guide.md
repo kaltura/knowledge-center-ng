@@ -96,7 +96,7 @@ date: 2016-09-27 19:53:13
       Paste the 'All-in-One-Video-Pack' directory under the '/wp-content/plugins/' directory.
     </li>
     <li>
-      Activate the plugin through the 'Plugins' menu in the WordPress admin application.<br />The following message is displayed:<br /><img src="{{site.url}}/assets/3493">
+      Activate the plugin through the 'Plugins' menu in the WordPress admin application.<br />The following message is displayed:<br /><img src="../../assets/3493.img">
     </li>
     <li>
       Click the link to get a Kaltura Partner ID or to connect the Plugin to an existing Partner ID.
@@ -104,13 +104,13 @@ date: 2016-09-27 19:53:13
     <li>
       Fill in All in One Video Package Installation form.<br /><br /><ul>
         <li>
-          If you do not have a Kaltura Partner ID, fill in the All in One video Package Installation Form.<br /><img src="{{site.url}}/assets/3494">
+          If you do not have a Kaltura Partner ID, fill in the All in One video Package Installation Form.<br /><img src="../../assets/3494.img">
         </li>
       </ul>
       
       <ul>
         <li>
-          If you have a Kaltura Partner ID, click “Click here if you already have a partner ID” and fill out the form with your Kaltura credentials.<br /><img src="{{site.url}}/assets/3495">
+          If you have a Kaltura Partner ID, click “Click here if you already have a partner ID” and fill out the form with your Kaltura credentials.<br /><img src="../../assets/3495.img">
         </li>
       </ul>
     </li>
@@ -143,13 +143,13 @@ date: 2016-09-27 19:53:13
       Activate the plugin through the 'Plugins' menu in the WordPress Network Admin application.
     </li>
     <li>
-      If you are installing the plugin on a WordPress MultiSite network, select ‘Plugins’ from the Network Admin interface:<br /><img src="{{site.url}}/assets/3513">
+      If you are installing the plugin on a WordPress MultiSite network, select ‘Plugins’ from the Network Admin interface:<br /><img src="../../assets/3513.img">
     </li>
     <li>
-      Click ‘Network Activate’ on the Plugins screen.<br /><img src="{{site.url}}/assets/3514">
+      Click ‘Network Activate’ on the Plugins screen.<br /><img src="../../assets/3514.img">
     </li>
     <li>
-      Fill the form with your Kaltura credentials.<br /><img src="{{site.url}}/assets/3515">
+      Fill the form with your Kaltura credentials.<br /><img src="../../assets/3515.img">
     </li>
     <li>
       After the Plugin is connected to a Kaltura publisher account, configure it from the Network Admin UI through Settings > All in One Video Pack in the Admin sidebar.
@@ -170,7 +170,7 @@ date: 2016-09-27 19:53:13
   
   <ul>
     <li>
-      You can either upgrade from the WordPress plugins screen by clicking ‘Update Now’,<br /><img src="{{site.url}}/assets/3516">
+      You can either upgrade from the WordPress plugins screen by clicking ‘Update Now’,<br /><img src="../../assets/3516.img">
     </li>
   </ul>
   
@@ -203,7 +203,7 @@ date: 2016-09-27 19:53:13
   
   <ol>
     <li>
-      In the Admin sidebar, click Settings and then select All in One Video.<br />The following screen is displayed:<br /><img src="{{site.url}}/assets/3517">
+      In the Admin sidebar, click Settings and then select All in One Video.<br />The following screen is displayed:<br /><img src="../../assets/3517.img">
     </li>
     <li>
       Select the Root Category. The root category is the category in Kaltura that serves as the main repository for all videos in this WordPress instance.
@@ -257,13 +257,13 @@ date: 2016-09-27 19:53:13
   
   <ol>
     <li>
-      When creating a new post or editing a post, click the Add Kaltura Media button located above the text editor.<br /><img src="{{site.url}}/assets/3524">
+      When creating a new post or editing a post, click the Add Kaltura Media button located above the text editor.<br /><img src="../../assets/3524.img">
     </li>
     <li>
-      Upload your content/media.<br />After the media item is uploaded, the following screen is displayed:<br /><img src="{{site.url}}/assets/3525">
+      Upload your content/media.<br />After the media item is uploaded, the following screen is displayed:<br /><img src="../../assets/3525.img">
     </li>
     <li>
-      Enter a Title, Description and click ‘Save’.<br />The following screen is displayed:<br /><img src="{{site.url}}/assets/3526">
+      Enter a Title, Description and click ‘Save’.<br />The following screen is displayed:<br /><img src="../../assets/3526.img">
     </li>
     <li>
       Select the player to use from the Select player design dropdown.
@@ -282,13 +282,13 @@ date: 2016-09-27 19:53:13
   
   <ol>
     <li>
-      When creating or editing a post, click the Add Kaltura Media button located above the text editor.<br /><img src="{{site.url}}/assets/3527">
+      When creating or editing a post, click the Add Kaltura Media button located above the text editor.<br /><img src="../../assets/3527.img">
     </li>
     <li>
-      Click Browse Existing Media.<br />The following window is displayed:<br /><img src="{{site.url}}/assets/3528">
+      Click Browse Existing Media.<br />The following window is displayed:<br /><img src="../../assets/3528.img">
     </li>
     <li>
-      Choose the media you want to add by clicking the plus sign below the thumbnail.<br />You can search, browse and filter using the different fields available on screen<br />After you select the media, the following screen is displayed:<br /><img src="{{site.url}}/assets/3529">
+      Choose the media you want to add by clicking the plus sign below the thumbnail.<br />You can search, browse and filter using the different fields available on screen<br />After you select the media, the following screen is displayed:<br /><img src="../../assets/3529.img">
     </li>
     <li>
       Select the player to use from the Select player design dropdown.
@@ -322,7 +322,7 @@ date: 2016-09-27 19:53:13
   
   <ul>
     <li>
-      On the side menu, select Media and then select All in One Video.<br /><img src="{{site.url}}/assets/3531">
+      On the side menu, select Media and then select All in One Video.<br /><img src="../../assets/3531.img">
     </li>
   </ul>
   

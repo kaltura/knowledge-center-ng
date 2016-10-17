@@ -1285,7 +1285,7 @@ The **limitations** section defines limitations on uploaded and imported files.
 
 You can skin the KCW with a swf file that the uiConf points to (in the cssUrl tag).
 
-Each KCW component is associated with a specific style. The figure shows the components and associated styles.<img src="{{site.url}}/assets/438">
+Each KCW component is associated with a specific style. The figure shows the components and associated styles.<img src="../../assets/438.img">
 
 <p class="mce-heading-3">
   Defining Locales
@@ -1307,7 +1307,7 @@ Note: you must compile a new locale in the en_US folder.
 
 The figure shows an example of defining a new locale. 
 
-<img src="{{site.url}}/assets/439">
+<img src="../../assets/439.img">
 
 <span class="mce-heading-2"><a name="KCWConfileExmaple"></a>Sample KCW confile </span>
 

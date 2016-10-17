@@ -57,12 +57,12 @@ All players created using the previous KMC Studio are automatically available to
 1.  Select the Studio tab and then click Universal Studio.  
     The list of existing players is displayed.
 2.  Click Update to update the player to the Universal Studio player.  
-    <img src="{{site.url}}/assets/1657">
+    <img src="../../assets/1657.img">
     An Update confirmation box is displayed.  
-    <img src="{{site.url}}/assets/1668">
+    <img src="../../assets/1668.img">
 3.  Click Update.
 4.  Click Upgrade to upgrade the player to the latest version of Universal Studio players.  
-    <img src="{{site.url}}/assets/1659">
+    <img src="../../assets/1659.img">
     An Upgrade confirmation box is displayed.
 5.  Begin to configure the Universal Studio player settings.
 
@@ -113,7 +113,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1522">
+            <img src="../../assets/1522.img">
           </p>
         </td>
         
@@ -133,7 +133,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1523">
+            <img src="../../assets/1523.img">
           </p>
         </td>
         
@@ -153,7 +153,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1524">
+            <img src="../../assets/1524.img">
           </p>
         </td>
         
@@ -173,7 +173,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1525">
+            <img src="../../assets/1525.img">
           </p>
         </td>
         
@@ -193,7 +193,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1537">
+            <img src="../../assets/1537.img">
           </p>
         </td>
         
@@ -213,7 +213,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       <tr align="left" valign="middle">
         <td valign="top" width="248">
           <p class="TableBodyText">
-            <img src="{{site.url}}/assets/1541">
+            <img src="../../assets/1541.img">
           </p>
         </td>
         
@@ -257,7 +257,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       Select the Universal Studio tab.
     </li>
     <li>
-      Click Add New player.<br />The Basic Display window is displayed.<img src="{{site.url}}/assets/1483">
+      Click Add New player.<br />The Basic Display window is displayed.<img src="../../assets/1483.img">
     </li>
     <li>
       Configure the <a href="#basic">Basic settings</a>.
@@ -370,7 +370,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
         
         <td style="text-align: left;" valign="top" width="489">
           <p>
-             <img src="{{site.url}}/assets/2356">
+             <img src="../../assets/2356.img">
           </p>
           
           <p>
@@ -448,7 +448,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </table>
   
   <p>
-    <img src="{{site.url}}/assets/1486">
+    <img src="../../assets/1486.img">
   </p>
   
   <p>
@@ -688,7 +688,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
       Select the Look and Feel icon.
     </li>
     <li>
-      Click on the feature to configure. <br /><img src="{{site.url}}/assets/3245">
+      Click on the feature to configure. <br /><img src="../../assets/3245.img">
     </li>
   </ol>
   
@@ -722,7 +722,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1500">
+    <img src="../../assets/1500.img">
   </p>
   
   <p class="mce-procedure">
@@ -759,7 +759,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1499">
+    <img src="../../assets/1499.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -799,7 +799,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1502">
+    <img src="../../assets/1502.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -839,7 +839,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1505">
+    <img src="../../assets/1505.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -879,7 +879,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3402">
+    <img src="../../assets/3402.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -926,10 +926,10 @@ Since some of the Flash features are not directly supported in the Universal Stu
       Check the Enable Options Menu box to enable the captions styling menu.
     </li>
     <li>
-      Click Preview Changes. The Options menu in the Closed Captions popup menu is displayed.<br /><img src="{{site.url}}/assets/3403">
+      Click Preview Changes. The Options menu in the Closed Captions popup menu is displayed.<br /><img src="../../assets/3403.img">
     </li>
     <li>
-      Click on Options to display the caption styling editor.<br /><img src="{{site.url}}/assets/3405">
+      Click on Options to display the caption styling editor.<br /><img src="../../assets/3405.img">
     </li>
     <li>
       Select your caption display preferences using the scrolls and menus and click Save Settings.<br />The video player renders the captions with the configured settings.
@@ -986,7 +986,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1532">
+    <img src="../../assets/1532.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -1020,7 +1020,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1557">
+    <img src="../../assets/1557.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -1054,7 +1054,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2166">
+    <img src="../../assets/2166.img">
   </p>
   
   <p class="mce-heading-4">
@@ -1335,10 +1335,10 @@ Since some of the Flash features are not directly supported in the Universal Stu
   
   <ol>
     <li>
-      Click on the Share icon. The location of the icon depends on your configuration.<br />The following share and embed window is displayed on the player.<br /><img src="{{site.url}}/assets/2164">
+      Click on the Share icon. The location of the icon depends on your configuration.<br />The following share and embed window is displayed on the player.<br /><img src="../../assets/2164.img">
     </li>
     <li>
-      Click on the social media or email icon to open the relevant social media windows or email for sharing.<br /><img src="{{site.url}}/assets/2163">
+      Click on the social media or email icon to open the relevant social media windows or email for sharing.<br /><img src="../../assets/2163.img">
     </li>
     <li>
       For additional embed code and JSON configuration information see the <a href="http://kgit.html5video.org/tags/v2.28/modules/KalturaSupport/components/share/ShareAPI.html">Share Plugin API</a>.
@@ -1366,7 +1366,7 @@ Since some of the Flash features are not directly supported in the Universal Stu
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2355">
+    <img src="../../assets/2355.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -1458,7 +1458,7 @@ Use the Playlist setup options to configure the playlist’s settings and config
 ### Playlist Configuration
 
 The Kaltura playlist plugin supports associating multiple clips in sequence.  
-<img src="{{site.url}}/assets/1993">
+<img src="../../assets/1993.img">
 
 <p class="mce-procedure">
   To configure the playlist’s settings
@@ -2581,7 +2581,7 @@ Kaltura’s plugin for *VAST* supports VPAID ads.
 </h3>
 
 Kaltura player features robust VAST support for prerolls, midrolls, overlays, companions and postrolls.  
-<img src="{{site.url}}/assets/1663">
+<img src="../../assets/1663.img">
 
  
 
@@ -3463,7 +3463,7 @@ The following plugins are available:
 
 Use the Keyboard Shortcuts option to control the player using keyboard shortcuts. See JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent" target="_new">key mappings</a> for more information. 
 
-<img src="{{site.url}}/assets/1458">
+<img src="../../assets/1458.img">
 
 <p class="mce-procedure">
    To set keyboard shortcuts
@@ -3709,7 +3709,7 @@ Use the Keyboard Shortcuts option to control the player using keyboard shortcuts
 
 Use the Moderation option to allow users to moderate content and flag content as inappropriate.
 
-<img src="{{site.url}}/assets/1469">
+<img src="../../assets/1469.img">
 
 <p class="mce-procedure">
   To set the Moderation options
@@ -3866,7 +3866,7 @@ Kaltura Universal DRM enables multiple DRM engines to run within the Kaltura pla
 
 Use to select the video quality.
 
-<img src="{{site.url}}/assets/3358">
+<img src="../../assets/3358.img">
 
  
 
@@ -3954,7 +3954,7 @@ Use to select the video quality.
 
 Use to enable multiple audio tracks<span>.</span>
 
-<img src="{{site.url}}/assets/3357">
+<img src="../../assets/3357.img">
 
 <p class="mce-procedure">
   To configure the Audio Selector
@@ -3970,7 +3970,7 @@ Use to enable multiple audio tracks<span>.</span>
 
 Use to add a download button to the player controls. The download button enables users to download the media to a local file.
 
- <img src="{{site.url}}/assets/1661">
+ <img src="../../assets/1661.img">
 
 <p class="mce-procedure">
   To add the Download button
@@ -3999,7 +3999,7 @@ Use this option to over write player strings. For full string keys listing, revi
 
 Use to add UI variables to the player configuration.
 
- <img src="{{site.url}}/assets/1560">
+ <img src="../../assets/1560.img">
 
 To simplify the management of many of the player features, Kaltura has implemented the “*UIVars*” to override and configure player features.
 

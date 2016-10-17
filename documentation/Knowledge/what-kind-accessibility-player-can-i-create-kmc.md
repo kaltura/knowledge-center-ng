@@ -60,7 +60,7 @@ The 508 compliant video player includes functionality and interface design that 
     <span style="font-size: 10px;">Select the Subtitles and Transcriptions Options. See </span><a href="{{site.url}}/documentation/Knowledge/how-set-captions-display.html" target="_blank" style="font-size: 10px;">Setting Up Captions for Display</a><span style="font-size: 10px;">.</span>
   </li>
   <li>
-    <span style="font-size: 10px;">Save Changes.<br /><img src="{{site.url}}/assets/1051">
+    <span style="font-size: 10px;">Save Changes.<br /><img src="../../assets/1051.img">
   </li>
 </ol>
 

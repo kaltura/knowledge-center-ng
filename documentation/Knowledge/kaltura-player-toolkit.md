@@ -10,7 +10,7 @@ date: 2013-09-08 12:50:47
 
 The Kaltura Player Toolkit enables users to lead video delivery with HTML5 and provide the fastest viewing experience on any device, while maintaining all the same features and a consistent CSS/HTML player design. Kaltura Players v2 enable delivery of HTML5 with Chromeless components for Flash, iOS and Android.
 
-<img src="{{site.url}}/assets/1205">
+<img src="../../assets/1205.img">
 
 The key advantages of the Kaltura Players v2 are:
 
@@ -29,14 +29,14 @@ The key advantages of the Kaltura Players v2 are:
 </p>
 
 <p class="mce-heading-3">
-  <img src="{{site.url}}/assets/1206">
+  <img src="../../assets/1206.img">
 </p>
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">Basic Look and Feel of the Kaltura Player v2</span>
 
 The following illustrates the basic look and feel of the Kaltura Player v2.
 
-<img src="{{site.url}}/assets/1185">
+<img src="../../assets/1185.img">
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">Mouse Over Scrubber</span>
 
@@ -48,7 +48,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
   </ul>
 </div>
 
-<img src="{{site.url}}/assets/1186">
+<img src="../../assets/1186.img">
 
 <p class="mce-heading-3">
   Responsive Player Layout
@@ -61,7 +61,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
 *   Smaller players / screens keep important controls. 
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1187">
+  <img src="../../assets/1187.img">
 </p>
 
 <p class="mce-heading-3">
@@ -74,7 +74,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
 
 *   Events for tracking conversion/retainment
 
-<img src="{{site.url}}/assets/1188">
+<img src="../../assets/1188.img">
 
 <p class="mce-heading-3">
   Playlists and Chapters
@@ -85,7 +85,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
     <li>
       Flexible HTML plugins for playlists and chapters with support for inheriting site styles
     </li>
-  </ul><img src="{{site.url}}/assets/1207">
+  </ul><img src="../../assets/1207.img">
 </div>
 
 <p class="mce-heading-3">
@@ -102,7 +102,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
 *   Note: The browsers that are projected to support MPEG DASH: IE 11 (Windows, Xbox, phone;) Chrome (Desktop & Android), Firefox (Desktop)
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1189">
+  <img src="../../assets/1189.img">
 </p>
 
 <p class="mce-heading-3">
@@ -128,7 +128,7 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
   </ul>
 </div>
 
-<img src="{{site.url}}/assets/1191">
+<img src="../../assets/1191.img">
 
 <p class="mce-heading-3">
   Improved Accessibility: 508 and WebVTT
@@ -169,4 +169,4 @@ The following illustrates the basic look and feel of the Kaltura Player v2.
   </ul>
 </div>
 
-<img src="{{site.url}}/assets/1208">
+<img src="../../assets/1208.img">

@@ -54,7 +54,7 @@ date: 2016-04-04 15:18:20
   </ul>
   
   <p>
-     <img src="{{site.url}}/assets/3091">
+     <img src="../../assets/3091.img">
   </p>
   
   <h3>
@@ -90,7 +90,7 @@ date: 2016-04-04 15:18:20
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3119">
+    <img src="../../assets/3119.img">
   </p>
   
   <p>

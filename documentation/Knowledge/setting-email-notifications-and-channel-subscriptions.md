@@ -341,16 +341,16 @@ date: 2016-06-16 00:12:55
     
     <ol>
       <li>
-        On the Configuration Management panel of the Kaltura MediaSpace Administration Area, enable the <strong>Emailnotifications</strong> module by selecting “Yes” for enabled .<br /><img src="{{site.url}}/assets/3215">
+        On the Configuration Management panel of the Kaltura MediaSpace Administration Area, enable the <strong>Emailnotifications</strong> module by selecting “Yes” for enabled .<br /><img src="../../assets/3215.img">
       </li>
       <li>
         Click  <strong>Save</strong>.
       </li>
       <li>
-        Click on the dedicated page link to access the notifications configuration.<br /><img src="{{site.url}}/assets/3216">
+        Click on the dedicated page link to access the notifications configuration.<br /><img src="../../assets/3216.img">
       </li>
       <li>
-        Use the dedicated page to enable / disable individual notifications and modify the templates of the emails that are sent for each notification.<br /><img src="{{site.url}}/assets/3217">
+        Use the dedicated page to enable / disable individual notifications and modify the templates of the emails that are sent for each notification.<br /><img src="../../assets/3217.img">
       </li>
     </ol>
     
@@ -372,16 +372,16 @@ date: 2016-06-16 00:12:55
     
     <ol>
       <li>
-        On the Configuration Management panel of the Kaltura MediaSpace Administration Area, go to the <strong>Channelsubscription</strong> module.<br /><img src="{{site.url}}/assets/3214">
+        On the Configuration Management panel of the Kaltura MediaSpace Administration Area, go to the <strong>Channelsubscription</strong> module.<br /><img src="../../assets/3214.img">
       </li>
       <li>
         Select <strong>Yes</strong> for enabled and click <strong>Save</strong>.
       </li>
       <li>
-        The channel manager can offer the subscription feature when creating or editing the channel settings by selecting the “Enable subscription to channel”.<br /><img src="{{site.url}}/assets/3213">
+        The channel manager can offer the subscription feature when creating or editing the channel settings by selecting the “Enable subscription to channel”.<br /><img src="../../assets/3213.img">
       </li>
       <li>
-        If Enable Subscription to channel is checked, users can subscribe to the channel from the channel page (Be certain that the <em>entry was added to channel event</em> is enabled.)<br /><img src="{{site.url}}/assets/3212">
+        If Enable Subscription to channel is checked, users can subscribe to the channel from the channel page (Be certain that the <em>entry was added to channel event</em> is enabled.)<br /><img src="../../assets/3212.img">
       </li>
     </ol>
     

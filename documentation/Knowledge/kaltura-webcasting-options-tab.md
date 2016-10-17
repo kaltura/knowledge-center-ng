@@ -9,5 +9,5 @@ date: 2015-10-28 19:11:49
   </p>
   
   <p style="padding-left: 30px;">
-    <span><img src="{{site.url}}/assets/2509">
+    <span><img src="../../assets/2509.img">
   </p>

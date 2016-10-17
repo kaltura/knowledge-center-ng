@@ -28,12 +28,12 @@ Before activating the Webcasting Module, be certain that the Events Module is en
 
 1.  Login to Kaltura MediaSpace and go to the Kaltura MediaSpace Configuration Management window.
 2.  Scroll down and select the Kwebcast module in the Modules/Custom/core section,  
-    <img src="{{site.url}}/assets/2412">
+    <img src="../../assets/2412.img">
     The Webcasting Administration <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">page is displayed.</span>  
       
     
 3.  In the Enabled field, select Yes to enable the Kwebcast module.  
-    <img src="{{site.url}}/assets/2413">
+    <img src="../../assets/2413.img">
 4.  <span style="font-family: verdana, geneva; color: #888888;"><span style="font-family: verdana, geneva; color: #888888;">Select or enter values for the relevant fields and click Save.<br /></span></span><table style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
       <thead>
         <tr>

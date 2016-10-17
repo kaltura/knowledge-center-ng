@@ -84,7 +84,7 @@ date: 2016-01-18 18:28:36
   
   <ol>
     <li>
-      When the video stream is broadcasting, you will be prompted with a message asking if you want to broadcast slides. <br /><img src="{{site.url}}/assets/2958">
+      When the video stream is broadcasting, you will be prompted with a message asking if you want to broadcast slides. <br /><img src="../../assets/2958.img">
     </li>
     <li>
       Click <strong>Yes</strong> to start broadcasting the current slide.

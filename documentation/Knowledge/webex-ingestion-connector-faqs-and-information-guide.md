@@ -33,7 +33,7 @@ The entry includes:
 *   A Kaltura source file – WMV format, from which the customer can re-transcode to any flavor
 *   All the customer’s flavors
 
-<img src="{{site.url}}/assets/1443">
+<img src="../../assets/1443.img">
 
 On top of the video content itself, Kaltura imports the content metadata as "name" and "host name".
 
@@ -47,7 +47,7 @@ When you import a WebEx session into Kaltura, a fixed single screen is imported 
 
 The WebEx Ingestion Connector dynamically imports the WebEx panels as they are configured in the WebEx console. If you select panels in Panels Display Options ( as shown in the following screenshot) in the recording configuration , they will be included in the created video. Unchecked panels are not included. This option is available per the API that WebEx (Cisco) supports.
 
-<img src="{{site.url}}/assets/1445">
+<img src="../../assets/1445.img">
 
 # Can the WebEx Ingestion Connector work in an OnPrem environment?
 

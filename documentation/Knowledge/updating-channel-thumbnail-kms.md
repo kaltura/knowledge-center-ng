@@ -24,7 +24,7 @@ A Channel Manager can set an entry thumbnail to be the channel thumbnail.
 
 1.  Select an entry.
 2.  Click Set as Channel Thumbnail.  
-    <img src="{{site.url}}/assets/1587">
+    <img src="../../assets/1587.img">
 
  
 
@@ -37,9 +37,9 @@ The Channel Manager can upload a a thumbnail from the desktop.
 </p>
 
 1.  Click Upload Thumbnail.  
-    <img src="{{site.url}}/assets/1592">
+    <img src="../../assets/1592.img">
 2.  Choose an image file and click Save.  
-    <img src="{{site.url}}/assets/1589">
+    <img src="../../assets/1589.img">
 
 The Channel Manager can choose to  reset the channel thumbnail to the default thumnail, which is the dynamic thumbnail choice of the system. The default thumbnail is based on the last media item published to the channel. If there was no media, the thumbnail is based on the type of channel (open, private, moderated, shared repository).
 
@@ -48,7 +48,7 @@ The Channel Manager can choose to  reset the channel thumbnail to the default t
 </p>
 
 *   Click Reset Thumbnail.  
-    <img src="{{site.url}}/assets/1591">
+    <img src="../../assets/1591.img">
 
  
 

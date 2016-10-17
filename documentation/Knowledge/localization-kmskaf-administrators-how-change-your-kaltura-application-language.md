@@ -29,7 +29,7 @@ date: 2016-04-18 16:03:57
           <em>languageConfiguration</em> – Set the instance configuration: multi-language instance or single language instance.
         </li>
         <li>
-          <em>languageSelection</em> - Choose the default language for a new user in this specific instance.<br /><br /><img src="{{site.url}}/assets/3145">
+          <em>languageSelection</em> - Choose the default language for a new user in this specific instance.<br /><br /><img src="../../assets/3145.img">
         </li>
       </ul>
     </li>
@@ -40,7 +40,7 @@ date: 2016-04-18 16:03:57
   </ol>
   
   <p style="padding-left: 60px;">
-    <img src="{{site.url}}/assets/3225">
+    <img src="../../assets/3225.img">
   </p>
   
   <p>
@@ -69,15 +69,15 @@ date: 2016-04-18 16:03:57
     </li>
     <li>
       In the <em>DownloadLocaleText field,</em>click Download Texts to download the latest texts of KMS. <br /><p>
-        <img src="{{site.url}}/assets/3096">
+        <img src="../../assets/3096.img">
       </p>
       
       <p>
-        <img src="{{site.url}}/assets/3098">
+        <img src="../../assets/3098.img">
       </p>
       
       <p>
-        <img src="{{site.url}}/assets/3226">
+        <img src="../../assets/3226.img">
       </p>
     </li>
     
@@ -97,7 +97,7 @@ date: 2016-04-18 16:03:57
       <span style="line-height: 16px; background-color: initial;">Select the </span><em style="font-weight: bold; line-height: 16px; background-color: initial;">Languages</em><span style="line-height: 16px; background-color: initial;"> module in the Global section.</span>
     </li>
     <li>
-      <span style="line-height: 16px; background-color: initial;"></span>Click +Add UpdateCustom Language to upload the new/modified texts for KMS or your KAF instance (a binary .mo file).<br /><br /><img src="{{site.url}}/assets/3103">
+      <span style="line-height: 16px; background-color: initial;"></span>Click +Add UpdateCustom Language to upload the new/modified texts for KMS or your KAF instance (a binary .mo file).<br /><br /><img src="../../assets/3103.img">
     </li>
     <li>
       Configure the following fields to upload the custom Language and click Save.<br /><table style="width: 630px;" border="1" cellspacing="0" cellpadding="0" align="left">

@@ -20,7 +20,7 @@ date: 2014-03-25 23:16:49
 </ul>
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1424">
+  <img src="../../assets/1424.img">
 </p>
 
 <p style="padding-left: 30px;">
@@ -33,7 +33,7 @@ date: 2014-03-25 23:16:49
 *   Select the language of your choice from the drop down menu.
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/3092">
+  <img src="../../assets/3092.img">
 </p>
 
 *    Administrators can create additional languages and customize existing languages.  See  <a href="{{site.url}}/documentation/Knowledge/localization-kmskaf-administrators-how-change-your-kaltura-application-language.html" target="_blank">Localization for KMS/KAF Administrators - How to Change Your Kaltura Application Language?</a> for additional information.

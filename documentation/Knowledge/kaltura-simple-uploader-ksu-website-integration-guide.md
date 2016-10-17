@@ -1077,7 +1077,7 @@ The KSU widget must be located on top of the actual GUI element that your end-us
 
 The following image shows the transparent KSU widget (marked with the dotted line) located on top of a functionless “Select & Browse” button (set within an html span tag in the example). This way the desktop browser is triggered from the KSU widget itself when clicking the button.
 
-<img src="{{site.url}}/assets/419">
+<img src="../../assets/419.img">
 
 The uploader div is set as a SWFObject’s alternative content container. Refer to <a href="http://code.google.com/p/swfobject/wiki/documentation" target="_blank">Google hosted SWFObject documentation</a> for more information on why this configuraiton is necessary. Make sure that the ID of this div element is the same as the ID of the embedded flash object.
 

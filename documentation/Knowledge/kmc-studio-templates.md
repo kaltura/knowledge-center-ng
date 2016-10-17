@@ -73,7 +73,7 @@ For example:  The next line creates the “controls” tab shown in the image:
 </p>
 
 <p class="Copyright">
-   <img src="{{site.url}}/assets/305">
+   <img src="../../assets/305.img">
 </p>
 
 <h3 class="mce-sub-heading">
@@ -118,7 +118,7 @@ These elements should not have ID attributes.
 *   <CheckBox/> - elements cannot be used for true/false selections. They are used for cross-screens features and should not be used for other purposes.
 *   <Input/> -  for free text
 *   <ComboBox/> - elements have inner elements stating their "dataProviders", items with data and label. The label is shown in the dropdown, while the actual value used is the "data".  A ComboBox node might look like this:  
-    {syntaxhighlighter brush: xml;fontsize: 100; first-line: 1; }<ComboBox id="timerType" k\_param="timerType" k\_value="forwards"> <item> <data>forwards</data> <label>Count Forwards</label> </item> <item> <data>backwards</data> <label>Count Backwards</label> </item> </ComboBox>{/syntaxhighlighter} 
+    {% highlight xml %}<ComboBox id="timerType" k\_param="timerType" k\_value="forwards"> <item> <data>forwards</data> <label>Count Forwards</label> </item> <item> <data>backwards</data> <label>Count Backwards</label> </item> </ComboBox>{% endhighlight %} 
 *   <NumericStepper/> - supports minimum, maximum attributes. int value type only.
 *   <ColorPicker /> - uses uint (color) value type.
 
@@ -152,7 +152,7 @@ Checkboxes will not work in features forms anywhere else or in any other manner 
 
 The following feature node will create this feature options screen in the Studio.
 
-<img src="{{site.url}}/assets/308">
+<img src="../../assets/308.img">
 
  {syntaxhighlighter brush: xml;fontsize: 100; first-line: 1; }<feature showCheckbox="true" specialFeature="true" featureLabel="Your Watermark" id="watermark" selected="true" k\_param="selected" k\_value="true"> <Spacer/> <Label label="Your Watermark" bold="true"/> <Label label="Brand your player with your own logo displayed as a watermark on the video. Upload an image to a location on the web and provide the link below."/> <Spacer/> <Label label="Watermark URL"/> <Input id="watermarkPath" k\_param="watermarkPath" k\_value="http://www.kaltura.com/content/uiconf/kaltura/kmc/appstudio/kdp3/exampleWatermark.png"/> <Label label="Watermark landing page url"/> <Input id="watermarkClickPath" k\_param="watermarkClickPath" k\_value="http://www.kaltura.com/"/> <Spacer/> <Label label="Watermark location on the video:"/> <ComboBox id="watermarkPosition" k\_param="watermarkPosition" k\_value="bottomLeft"> <item> <data>bottomLeft</data> <label>Bottom Left</label> </item> <item> <data>bottomRight</data> <label>Bottom Right</label> </item> <item> <data>topLeft</data> <label>Top Left</label> </item> <item> <data>topRight</data> <label>Top Right</label> </item> </ComboBox> <Label label="Padding"/> <NumericStepper id="padding" k\_param="padding" k\_value="5"/> </feature>{/syntaxhighlighter}
 

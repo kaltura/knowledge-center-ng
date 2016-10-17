@@ -112,10 +112,10 @@ For the purposes of documentation we outline the use of Flash Media Encoder, you
 </p>
 
 1.  Login into the KMC and go to the Upload tab.  
-    <img src="{{site.url}}/assets/1332">
+    <img src="../../assets/1332.img">
 2.  Select Live Stream Entry.  
     The Add New Stream window is displayed.  
-    <img src="{{site.url}}/assets/2226">
+    <img src="../../assets/2226.img">
 3.  Select the Live Stream Type. For this particular example, select **Kaltura Live Streaming**.  
     The following Live Stream types are available:
     
@@ -260,7 +260,7 @@ For the purposes of documentation we outline the use of Flash Media Encoder, you
 
 1.  Go the Content tab in the KMC.
 2.  Click on the Live Stream Entry in the Entries table.
-3.  Select the Live Stream tab.<img src="{{site.url}}/assets/1334">
+3.  Select the Live Stream tab.<img src="../../assets/1334.img">
     For the** Kaltura Live Streaming (HDS / HLS / DASH)** type, the primary and Backup URLs are automatically created by Kaltura.
 
 4.  Click Export for FMLE to export the client encoder information to an XML that will be used to enter into encoder.
@@ -282,7 +282,7 @@ For the purposes of documentation we outline the use of Flash Media Encoder, you
 3.  Select File > Openfile.
 4.  Select the exported saved file and click OK.
 5.  Click Connect and then click Start.  
-    Wait until you see the broadcasting prompt to start broadcasting.<img src="{{site.url}}/assets/1335">
+    Wait until you see the broadcasting prompt to start broadcasting.<img src="../../assets/1335.img">
 6.  Select the relevant recording Device from the drop-down menu. Copy the details of the live entry to the Flash Media Live Encoder. You can copy the details manually, or use the “Export XML to FME” option.  
     <ol style="list-style-type: lower-alpha;">
       <li>
@@ -318,7 +318,7 @@ If you checked [enable recording][2] – a new entry is created with the chunks 
 <span class="mce-procedure">To view the  broadcasting setup</span>
 
 1.  Return to the KMC and select the Content tab.
-2.  In the KMC Entries Table, click the Preview & Embed link for the live stream entry.<img src="{{site.url}}/assets/1337">
+2.  In the KMC Entries Table, click the Preview & Embed link for the live stream entry.<img src="../../assets/1337.img">
 3.  Select the player from the drop-down menu and copy the Embed Code.
 4.  Paste the Embed Code within an HTML page or use the short link URL created for this live stream.<span class="Apple-tab-span" style="white-space: pre;"><br /></span>
 5.  Browse to the page where the embed code was inserted and press Play on the video player.
@@ -476,10 +476,10 @@ Clipping creates a new entry from an existing entry and allows you to specify th
 
 1.  Select the Content tab and then select an entry from the Entries Table.
 2.  In the Metadata tab, click Clip This.  
-    <img src="{{site.url}}/assets/2359">
+    <img src="../../assets/2359.img">
     The Clipping Tool window is displayed.
 3.  Click Add New Clip.  
-    <img src="{{site.url}}/assets/2360">
+    <img src="../../assets/2360.img">
 4.  Use the arrow to choose the granularity level for the display.  
     The choices are:  
     *   100%
@@ -506,7 +506,7 @@ This Clips tab is available after you create a clip. The read-only list of all c
 
 1.  Select the Content tab and then select an entry from the Entries Table.
 2.  In the Metadata tab, click Trim This.  
-    <img src="{{site.url}}/assets/3079">
+    <img src="../../assets/3079.img">
 3.  Use the trimming timeline or enter exact in and out times.
 4.  Press Play and click Set In as the starting point of the video clip or alternatively, select the start time.
 5.  Select Set Out as the end point of the video clip, or alternatively select the end time.

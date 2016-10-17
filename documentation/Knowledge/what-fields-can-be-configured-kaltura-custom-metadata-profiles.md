@@ -15,7 +15,7 @@ You can add the following types of fields:
 
 The following is an example of a Custom Metadata Schema.
 
-<span style="font-size: small;"><img src="{{site.url}}/assets/289">
+<span style="font-size: small;"><img src="../../assets/289.img">
 
 As a best practice, we recommend richly mapping your media assets with metadata. This will make your assets more findable and more usable as business objects.
 

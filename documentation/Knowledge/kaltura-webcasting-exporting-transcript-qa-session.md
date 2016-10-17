@@ -22,7 +22,7 @@ date: 2016-01-11 18:27:28
   
   <ol>
     <li>
-      Click the Q&A Navigation menu and select <strong>Export</strong>.<br /><img src="{{site.url}}/assets/2926">
+      Click the Q&A Navigation menu and select <strong>Export</strong>.<br /><img src="../../assets/2926.img">
     </li>
     <li>
       Select the file for export name and click <strong>Save</strong> to save the file locally.

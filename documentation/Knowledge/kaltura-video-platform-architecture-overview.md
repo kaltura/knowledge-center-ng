@@ -45,13 +45,13 @@ date: 2011-12-28 01:50:00
 <span style="font-family: verdana, geneva;">The following diagram illustrates the logical layout of Kaltura’s Online Video Platform layers. </span>
 
   
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/1448">
+<span style="font-family: verdana, geneva;"><img src="../../assets/1448.img">
 
 <span style="font-family: verdana, geneva;"> </span>
 
 <span style="font-family: verdana, geneva;"> [collapsed title="Layer 1 - Kaltura Core Technology"] </span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2134">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2134.img">
 
 <span style="font-family: verdana, geneva;">The following list includes the main features of the Kaltura server-side implementation.</span>
 
@@ -130,11 +130,11 @@ date: 2011-12-28 01:50:00
 
 <span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva;">[collapsed title="Layer 2 - Kaltura API Client Libraries"]</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2132">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2132.img">
 
 <span style="font-family: verdana, geneva;">[collapsed title="Layer 3 - Kaltura Widgets"] <br /></span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2130">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2130.img">
 
 <span style="font-family: verdana, geneva;">The Kaltura platform includes self-contained, client-side components called Kaltura Widgets, which implement specific APIs in Flash or HTML. Kaltura widgets can be customized, skinned and easily embedded within publisher’s websites. Kaltura widgets rely on advanced web technologies, encapsulating graphics, media functionalities, and workflow events control along with direct access to Kaltura core technologies (via the Kaltura web services layer). Kaltura’s most commonly used widgets include: the <a href="http://knowledge.kaltura.com/kaltura-simple-uploader-ksu">Kaltura Simple Uploader</a>, <a href="{{site.url}}/documentation/Knowledge/kaltura-contribution-wizard-kcw.html">Kaltura Contributor Wizard</a> (KCW) <a href="http://knowledge.kaltura.com/node/353#ksr">Kaltura Screen Recorder</a> and the <a href="http://html5video.org/wiki/Kaltura_HTML5_Video_Library">HTML5 Player</a>.</span>
 
@@ -142,9 +142,9 @@ date: 2011-12-28 01:50:00
 
 <span style="font-family: verdana, geneva;">[collapsed title="Layer 4 - Kaltura Application Framework"]</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2133">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2133.img">
 
-<span style="font-family: verdana, geneva;"><br /><img src="{{site.url}}/assets/2128">
+<span style="font-family: verdana, geneva;"><br /><img src="../../assets/2128.img">
 
 <span style="font-family: verdana, geneva;"><span class="mce-heading-3">KMC</span>The Kaltura Management Console, (KMC) is a basic Kaltura application, available to administrators of all publisher accounts, which provides a comprehensive and user friendly tool for utilizing Kaltura’s media and account management core capabilities, including content importing/uploading, sorting/filtering/moderating, creation of playlists, configuration of widgets’ features and graphic interface, management of publishers’ account and server settings, user administration and reporting and analytics.</span>
 
@@ -220,7 +220,7 @@ date: 2011-12-28 01:50:00
 
 <span style="font-family: verdana, geneva;">The following diagram illustrates a sample deployment architecture:</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/886">
+<span style="font-family: verdana, geneva;"><img src="../../assets/886.img">
 
 <table class="kaltura-table" style="width: 100%;">
   <thead>
@@ -884,7 +884,7 @@ date: 2011-12-28 01:50:00
 
 <span style="font-family: verdana, geneva;">For media files synchronization, a batch process can copy media items from one datacenter to the other datacenter, in order to maintain full online redundancy.  Below is a diagram illustrating the architecture of a multi-datacenter setup of the Kaltura Platform.</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/186">
+<span style="font-family: verdana, geneva;"><img src="../../assets/186.img">
 
 <span style="font-family: verdana, geneva;"> [collapsed title="Self-Streaming Considerations"]</span>
 

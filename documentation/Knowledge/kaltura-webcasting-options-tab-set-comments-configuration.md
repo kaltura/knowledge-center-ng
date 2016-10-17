@@ -38,7 +38,7 @@ date: 2015-10-29 00:09:06
       On the Edit Event page, click Edit for the media you want to edit.
     </li>
     <li>
-      Select the Options tab and select the Disable comments for this media checkbox.<img src="{{site.url}}/assets/2511">
+      Select the Options tab and select the Disable comments for this media checkbox.<img src="../../assets/2511.img">
     </li>
   </ol>
   

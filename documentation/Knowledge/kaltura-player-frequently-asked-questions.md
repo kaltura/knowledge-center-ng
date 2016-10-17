@@ -276,7 +276,7 @@ date: 2015-01-15 17:40:58
 
 <span style="font-family: verdana, geneva;">_______________________________________________________________________________________</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2159">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2159.img">
 
 <p class="mce-procedure">
   <span style="font-family: verdana, geneva;">To modify custom styles</span>
@@ -294,7 +294,7 @@ date: 2015-01-15 17:40:58
 
 <span style="font-family: verdana, geneva;">You can use to add information screen about the video.</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2160">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2160.img">
 
 <p class="mce-procedure">
   <span style="font-family: verdana, geneva;">To modify the info screen</span>
@@ -312,7 +312,7 @@ date: 2015-01-15 17:40:58
 
 <span style="font-family: verdana, geneva;">You can use the Share feature to add the Share interface to the Player.</span>
 
-<span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2161">
+<span style="font-family: verdana, geneva;"><img src="../../assets/2161.img">
 
 <p class="mce-procedure">
   <span style="font-family: verdana, geneva;">To set the share button</span>
@@ -323,7 +323,7 @@ date: 2015-01-15 17:40:58
 3.  <span style="font-family: verdana, geneva;">Select the parent (where the Share button should be placed) from the drop down menu.</span>  
     <span style="font-family: verdana, geneva;">The options are:</span>
     
-    <span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2162">
+    <span style="font-family: verdana, geneva;"><img src="../../assets/2162.img">
 
 4.  <span style="font-family: verdana, geneva;">Select the Share button alignment location.</span>
 5.  <span style="font-family: verdana, geneva;">Enter the Order where the Share button should be displayed.</span>

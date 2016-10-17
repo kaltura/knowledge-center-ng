@@ -36,7 +36,7 @@ To learn more about the MediaSpace application role, refer to [Understanding App
 
 The LDAP authentication method implements the following authentication flow:
 
-<img src="{{site.url}}/assets/752">
+<img src="../../assets/752.img">
 
 <p class="mce-note-graphic">
   NOTES:<br />1. LDAP server capabilities and <a href="#MediaSpaceLDAPconfiguration">MediaSpace LDAP configuration</a> determine whether search for user Distinguished Name (DN) or direct binding is used.<br />2. MediaSpace can connect with only one LDAP server.
@@ -71,7 +71,7 @@ Depending on your [MediaSpace LDAP configuration][3], MediaSpace uses one of the
 
 The LDAP authentication method implements the following authorization flow:
 
- <img src="{{site.url}}/assets/753">
+ <img src="../../assets/753.img">
 
 <p class="mce-note-graphic">
   NOTES:<br />1. LDAP server capabilities and <a href="#MediaSpaceLDAPconfiguration">MediaSpace LDAP configuration</a> determine whether group membership is queried based on user or group records.<br />2. When an AD server is used and primaryGroupIdAttribute is configured in the MediaSpace Configuration Management panel, the primary group ID is searched for a matching role if no other group matches a role.<br />3. Authorization based on nested groups is not supported.<br />4. When querying group membership from group objects, using large groups is not recommended since MediaSpace does not support paging when querying LDAP.

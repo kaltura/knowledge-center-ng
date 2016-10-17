@@ -227,12 +227,12 @@ MediaSpace supports the following privacy types for channels:
 *   **Private:** Only specific users are entitled to access the channel and to contribute content.
 
 Channel type definitions are displayed in MediaSpace under Channel Settings>Basic:  
-<img src="{{site.url}}/assets/1176">
+<img src="../../assets/1176.img">
 
 KMC entitlement definitions are displayed in the KMC under Content>Categories>Edit Category window>Entitlements tab:
 
 <p class="Figure">
-   <img src="{{site.url}}/assets/1177">
+   <img src="../../assets/1177.img">
 </p>
 
 <span>If modifications are made in the KMC that do not correspond to one of the channel types, MediaSpace behavior will follow the KMC definition, not the designated type.</span>
@@ -274,7 +274,7 @@ You can modify MediaSpace application role names to match your institutional ter
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Roles tab.
 2.  Modify the label for one or more roles, and click **Save**.
 
- <img src="{{site.url}}/assets/608">
+ <img src="../../assets/608.img">
 
 ### Assigning Application Roles to Multiple Users in Bulk
 
@@ -290,7 +290,7 @@ Do one of the following:
 1.  Click **Submit CSV**.
 2.  Click **Choose File** to select the CSV file, and click **OK**.
 
- <img src="{{site.url}}/assets/609">
+ <img src="../../assets/609.img">
 
 To learn more about the End Users CSV, refer to the <a href="http://knowledge.kaltura.com/node/888/attachment/field_media" target="_blank">Kaltura Management Console (KMC) User Manual</a>.
 
@@ -339,7 +339,7 @@ When Anonymous mode is enabled, galleries also can be viewed by anonymous users.
 1.  On the Configuration Management panel of the Kaltura MediaSpace Administration Area, open the Auth tab.
 2.  Under *allowAnonymous*, select **Yes **and click **Save**.
 
- <img src="{{site.url}}/assets/610">
+ <img src="../../assets/610.img">
 
 <p class="Sub-Heading mce-sub-heading">
   Who can view or contribute content to a category/channel?

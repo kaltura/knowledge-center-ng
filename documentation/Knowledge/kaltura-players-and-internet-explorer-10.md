@@ -51,7 +51,7 @@ Add a META-tag or HTTP header to the site HTML in order to prompt the user to sw
 
 This option is only relevant if you support mobile playback using the Kaltura HTML5 library. To check if you are currently configured to support mobile playback using the Kaltura HTML5 library, go the “Preview and Embed” window of an entry and see if the checkbox “Support mobile devices by fall-forward to HTML5” is checked. If checked, the Metro UI will use the Kaltura HTML5 player.
 
-<img src="{{site.url}}/assets/861">
+<img src="../../assets/861.img">
 You will need to verify that the embed code supports HTML5 on **all** pages and entries on your site, verify encoding flavors, and verify correct plugins' functions (including advertising and analytics).
 
 Also note that this option does not support adaptive streaming. For adaptive streaming formats in IE10 Metro UI you must use a Flash player as recommended above. HTTP Live Streaming (also known as HLS), is not supported by Microsoft and the adaptive streaming offered by Microsoft is <a href="http://www.microsoft.com/silverlight/iis-smooth-streaming/demo/#/on-demand" target="_blank">Smooth Streaming</a>, which is also not supported on IE10 Metro UI.

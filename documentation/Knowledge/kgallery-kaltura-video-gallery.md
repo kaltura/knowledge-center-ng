@@ -26,10 +26,10 @@ The examples shown below implement the following layouts:
 
 <ul class="bb-list">
   <li>
-    A static HTML table based layout<br /><img src="{{site.url}}/assets/428">
+    A static HTML table based layout<br /><img src="../../assets/428.img">
   </li>
   <li>
-    A dynamic scrollable layout<br /><a href="http://knowledge.kaltura.com/sites/default/files/kgalleryScrollable.zip"><img src="{{site.url}}/assets/426">
+    A dynamic scrollable layout<br /><a href="http://knowledge.kaltura.com/sites/default/files/kgalleryScrollable.zip"><img src="../../assets/426.img">
   </li>
 </ul>
 

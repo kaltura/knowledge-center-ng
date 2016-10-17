@@ -18,24 +18,24 @@ To understand this document, you need to be familiar with authentication and aut
   <a name="Single_Sign-on_Gateway"></a>Single Sign-on Gateway
 </p>
 
- <img src="{{site.url}}/assets/741">
+ <img src="../../assets/741.img">
 
 <p class="mce-heading-3">
   <a name="Kaltura_AuthenticationAuthorizatio"></a>Kaltura Authentication/Authorization
 </p>
 
- <img src="{{site.url}}/assets/742">
+ <img src="../../assets/742.img">
 
 <p class="mce-heading-3">
   <a name="Generic_LDAP"></a>Generic LDAP
 </p>
 
- <img src="{{site.url}}/assets/743">
+ <img src="../../assets/743.img">
 
 <p class="mce-heading-3">
   <a name="Header_Authentication"></a>Header Authentication
 </p>
 
-  <img src="{{site.url}}/assets/744">
+  <img src="../../assets/744.img">
 
  

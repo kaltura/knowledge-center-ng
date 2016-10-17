@@ -48,7 +48,7 @@ This section contains the following topics:
 
 The following is an example of a Kaltura Media field created for uploading video only.
 
-<img src="{{site.url}}/assets/471">
+<img src="../../assets/471.img">
 
 <p class="mce-heading-3">
    <a name="configuring"></a>Configuring Settings for the Kaltura Media Field
@@ -106,7 +106,7 @@ When you add new media, content is uploaded to your Kaltura account as well as s
 1.  Select the Structure tab and then select a content type.
 2.  In the Operations column, select manage fields.
 3.  In the Widget column, click on the widget type. The Change Widget panel is displayed.  
-     <img src="{{site.url}}/assets/473">
+     <img src="../../assets/473.img">
 4.  Change the Widget type and click Continue.
 
 <h3 class="mce-heading-4">
@@ -130,9 +130,9 @@ When you add new media, content is uploaded to your Kaltura account as well as s
 
 **<a name="player_settings"></a>PLAYER SETTINGS**
 
-**<img src="{{site.url}}/assets/479">
+**<img src="../../assets/479.img">
 
-**<img src="{{site.url}}/assets/480">
+**<img src="../../assets/480.img">
 
 <table border="1" cellspacing="0" cellpadding="0">
   <thead>
@@ -259,7 +259,7 @@ When you add new media, content is uploaded to your Kaltura account as well as s
         </p>
         
         <p class="TableBodyText" style="text-align: left;">
-          <img src="{{site.url}}/assets/481">
+          <img src="../../assets/481.img">
         </p>
         
         <p class="TableBodyText">
@@ -302,7 +302,7 @@ When you add new media, content is uploaded to your Kaltura account as well as s
 
 **<a name="thumbnail_settings"></a>THUMBNAIL SETTINGS**
 
-**<img src="{{site.url}}/assets/482">
+**<img src="../../assets/482.img">
 
 This section is relevant when selecting a thumbnail display for the Kaltura Media field. See [Managing the Content Type Display][4].
 
@@ -404,7 +404,7 @@ This section is relevant when selecting a thumbnail display for the Kaltura Medi
 
 **<a name="content_ingestion"></a>CONTENT INGESTION**
 
-**<img src="{{site.url}}/assets/483">
+**<img src="../../assets/483.img">
 
 <table border="1" cellspacing="0" cellpadding="0">
   <thead>
@@ -567,7 +567,7 @@ This section is relevant when selecting a thumbnail display for the Kaltura Medi
 
 You can change the display of the configured fields from the default, for each instance of the field and for each different custom display.
 
-<img src="{{site.url}}/assets/484">
+<img src="../../assets/484.img">
 
 <p class="Procedure mce-procedure">
   To manage the Kaltura Media field display
@@ -578,7 +578,7 @@ You can change the display of the configured fields from the default, for each i
 3.  In the Operation column, click manage display to configure the display/format options.  
     *   Choose the Drupal Label from the dropdown menu. Select Above, Inline or Hidden.
     *   Choose the <a name="display_format"></a>Display format option for the Kaltura Media Field. For example, the options for video are as follows:  
-        <img src="{{site.url}}/assets/485">
+        <img src="../../assets/485.img">
 4.  [Customize][18] your display (optional).
 5.  Click Save.
 
@@ -594,7 +594,7 @@ You can change the display of the configured fields from the default, for each i
 4.  Click Customize Display Settings and check the settings you want for you display modes.  
     The options you select, for example, Teaser, RSS will be displayed in the manage display screen for further customization.** **
 5.  Click on the Display mode, for example, Teaser, and then click the  icon to open the instance specific customization fields.  
-     <img src="{{site.url}}/assets/486">
+     <img src="../../assets/486.img">
 6.  Customize the fields.
 7.  Click Update.
 
@@ -613,16 +613,16 @@ After a Kaltura Media Field is created in a content type, each time content of t
     *   If you selected Use existing media only, the content editor will not be able to upload new media content.
     *   If you selected Use existing media and add new media – the content editor will be able to upload new media as well as choose from existing uploaded content  
         The following example displays a label created for adding new and existing media.  
-        <span style="color: #0000ff;">Add Media Use existing media and add new media<br /><img src="{{site.url}}/assets/487">
+        <span style="color: #0000ff;">Add Media Use existing media and add new media<br /><img src="../../assets/487.img">
     <span>The label “Add New” (highlighted in the screenshot) appears only when the field is configured to Add new media. Clicking Add New initiates the <span>Kaltura</span> Contribution Wizard flow. See </span>[Adding Media through the Kaltura Contribution Wizard][8]. 
 3.  To sort the content, click on the column table headings for Title and Created By.
 4.  To search through your media content, enter a text string and click Apply.  
     <span>If</span>** **<span>you selected more than one media type, you can filter the type of content for your search by using the check boxes</span>.  
-    <img src="{{site.url}}/assets/488">
+    <img src="../../assets/488.img">
 5.  After you select/find the media that you want to use in this specific content, click Insert.  
-    In the create/edit Content type page, the selected content is displayed as you specified in the [display format][19].<img src="{{site.url}}/assets/489">
+    In the create/edit Content type page, the selected content is displayed as you specified in the [display format][19].<img src="../../assets/489.img">
     To remove the content for the Kaltura Media field for a video, click on the red x.  
-    <img src="{{site.url}}/assets/490">
+    <img src="../../assets/490.img">
 
 6.  Click Save.  
     After you save the content, the content is displayed as defined in the field display settings. See[ Managing the Content Type Display.][4]
@@ -646,13 +646,13 @@ The following example describes how to contribute media using the Kaltura Contri
 </p>
 
 1.  Depending on the options you selected for widgets and adding media, the Kaltura Contribution Wizard is displayed.  
-    <img src="{{site.url}}/assets/491">
+    <img src="../../assets/491.img">
 2.  Select the type of content and source using the different tabs and options.  
     In this example, a video file is used as the sample to upload.  
-     <img src="{{site.url}}/assets/494">
+     <img src="../../assets/494.img">
 3.  Press ‘Upload!’ to upload the content to Kaltura.
 4.  Fill in metadata for the content.  
-    <img src="{{site.url}}/assets/493">
+    <img src="../../assets/493.img">
 5.  Press ‘Next’ to finish the process.
 
 <div>

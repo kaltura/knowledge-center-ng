@@ -40,7 +40,7 @@ Next to the TestMe Console, you will also find the API Docs (automatically gener
   The TestMe Console UI
 </p>
 
-<img src="{{site.url}}/assets/223">
+<img src="../../assets/223.img">
 
 <p class="mce-note-graphic">
   Install the following Chrome extension to display TestMe XML responses correctly in a Chrome browser: <a href="https://chrome.google.com/extensions/detail/gbammbheopgpmaagmckhpjbfgdfkpadb" target="_blank">https://chrome.google.com/extensions/detail/gbammbheopgpmaagmckhpjbfgdfkpadb</a>
@@ -52,7 +52,7 @@ Kaltura’s API consists of several API service actions for querying, setting, u
 
 Service actions are grouped as API services according to the entity type they apply on (e.g. Entry, Category, Playlist) and provide all actions relevant to the specific entity.
 
-<img src="{{site.url}}/assets/219">
+<img src="../../assets/219.img">
 
 <p class="mce-heading-3">
   Creating a valid Kaltura Session
@@ -72,11 +72,11 @@ There are two main methods for creating a Kaltura Session:
 </p>
 
 1.  Select ***session*** from the <span>Select service</span> drop down list.  
-    <img src="{{site.url}}/assets/220">
+    <img src="../../assets/220.img">
 2.  Select the ***start*** from the Select action drop down list.  
-    <img src="{{site.url}}/assets/221">
+    <img src="../../assets/221.img">
 3.  Retrieve your API Admin secret or API User secrete from the <a href="http://www.kaltura.com/index.php/kmc/kmc4#account|integration" target="_blank">Integration Settings panel in KMC</a>.  
-    <img src="{{site.url}}/assets/222">
+    <img src="../../assets/222.img">
 4.  Insert your admin secret in the *secret (string)* text box.
 5.  Select <span>ADMIN</span> from the *type (KalturaSessionType)* drop down list.
 6.  Insert your Partner ID in the *partnerId (int)* text box.

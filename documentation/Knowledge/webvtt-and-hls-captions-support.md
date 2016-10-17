@@ -47,4 +47,4 @@ http://kalturavod-vh.akamaihd.net/i/p/243342/sp/24334200/serveFlavor/entryId/0\_
 
 #### **How will Captions Appear on the iPhone?**
 
-<img src="{{site.url}}/assets/1299">
+<img src="../../assets/1299.img">

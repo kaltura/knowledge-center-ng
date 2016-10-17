@@ -14,7 +14,7 @@ date: 2015-10-29 00:50:59
   
   <ol>
     <li>
-      In the Edit Event page, go to the Presenters tab and select Add a presenter.<br /><img src="{{site.url}}/assets/2512">
+      In the Edit Event page, go to the Presenters tab and select Add a presenter.<br /><img src="../../assets/2512.img">
     </li>
     <li>
       Add the following information:<br /><ol style="list-style-type: lower-alpha;">
@@ -51,7 +51,7 @@ date: 2015-10-29 00:50:59
   
   <ul>
     <li>
-      Edit presenter's information by clicking the pencil next to the presenter’s information.<br /><img src="{{site.url}}/assets/2937">
+      Edit presenter's information by clicking the pencil next to the presenter’s information.<br /><img src="../../assets/2937.img">
     </li>
     <li>
       Click <strong>Replace Image</strong> to replace the current image.

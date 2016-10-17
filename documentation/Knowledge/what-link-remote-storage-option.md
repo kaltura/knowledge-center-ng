@@ -9,6 +9,6 @@ date: 2011-12-21 14:24:17
 <span style="font-size: small;">You can link content to remote storage from the KMC User Interface. The Link to Remote Storage option is useful for partners that use their own transcoder and also host and deliver content on/from a remote storage (e.g. CDN storage, internal organization storage). The partner’s transcoder generates the flavors. After the files are uploaded directly to the remote storage it is only necessary to indicate which flavors to link to an entry in Kaltura. The connection of the remote storage profile to the transcoding profile is used for this purpose. </span>  
 <span style="font-size: small;"></span>
 
-<span style="font-size: small;"><img src="{{site.url}}/assets/746">
+<span style="font-size: small;"><img src="../../assets/746.img">
 
 <span style="font-size: small;">Contact your Kaltura account manager to learn more about how this feature can simplify your workflow, and to activate and configure remote storage on your account.</span>

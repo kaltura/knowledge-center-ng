@@ -922,7 +922,7 @@ Kaltura’s integrated DRM solutions seamlessly plug in to its existing infrastr
 
 Encrypted video files are generated as additional “flavors” of original asset using Kaltura’s transcoding farm and based on selected vendor and license policy. 
 
-<img src="{{site.url}}/assets/228">
+<img src="../../assets/228.img">
 
 <span class="mce-note-graphic">NOTE: Due to licensing requirements, DRM solutions are only available for commercial Kaltura editions (SaaS and On Prem) and are at additional cost. For more information about DRM and the available DRM solutions, please <a href="http://corp.kaltura.com/company/contact-us" target="_blank">contact us</a> or contact your Kaltura Account Manager.</span>
 

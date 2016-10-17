@@ -495,13 +495,13 @@ The icon for a custom button is a star. You cannot modify the icon.
 
 1.  Open the KMC and go to [Studio][30].
 2.  Edit an existing player or select a new player.  
-    <img src="{{site.url}}/assets/70">
+    <img src="../../assets/70.img">
 3.  In the Edit Player or Create New Player window, go to the Features tab and open the Custom Buttons menu.  
-    <img src="{{site.url}}/assets/71">
+    <img src="../../assets/71.img">
 4.  Select one or more custom buttons and click **Options** to design the button. You can display your changes in the Preview pane.  
-    <img src="{{site.url}}/assets/72">
+    <img src="../../assets/72.img">
 5.  Under Options, you can modify the following:  
-    <img src="{{site.url}}/assets/73">
+    <img src="../../assets/73.img">
 *   Location and Playing States
     *   Display the button in the main video area, in the video controls area at the bottom of the player, or both.
     *   Define when during the play cycle to display the button in the main video area.
@@ -515,7 +515,7 @@ The icon for a custom button is a star. You cannot modify the icon.
 
 For example, you can design a player with a Rent Video button.
 
-<img src="{{site.url}}/assets/74">
+<img src="../../assets/74.img">
 
 Continue with [defining what happens when a user clicks the button][29].
 
@@ -595,7 +595,7 @@ The [sample code][35] illustrates how to handle code cue points for this use cas
 
  [35]: #CodeCuePointSampleCode
 
-<img src="{{site.url}}/assets/68">
+<img src="../../assets/68.img">
 
 *   A cue point is defined for each chapter.
 *   As the video plays and reaches each cue point, the associated chapter name is displayed automatically.

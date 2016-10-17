@@ -16,7 +16,7 @@ date: 2016-01-18 16:35:25
       <strong>Unlisted</strong> - Media page will be visible to anyone with a link to the page.
     </li>
     <li>
-      <strong>Published </strong>- Media page will be visible to individuals according to entitlements on published destinations; it will also appear in the MediaSpace events page. Selecting this option adds the Categories and Channels selection tabs. <br /><img src="{{site.url}}/assets/2503">
+      <strong>Published </strong>- Media page will be visible to individuals according to entitlements on published destinations; it will also appear in the MediaSpace events page. Selecting this option adds the Categories and Channels selection tabs. <br /><img src="../../assets/2503.img">
     </li>
   </ul>
   

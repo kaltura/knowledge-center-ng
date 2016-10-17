@@ -305,7 +305,7 @@ date: 2015-10-18 23:39:11
       Audios
     </li>
     <li>
-      Images<br /><img src="{{site.url}}/assets/2663">
+      Images<br /><img src="../../assets/2663.img">
     </li>
   </ul>
   
@@ -319,16 +319,16 @@ date: 2015-10-18 23:39:11
     </li>
     <ul>
       <li>
-        Sort by Most Recent<br /><img src="{{site.url}}/assets/2664">
+        Sort by Most Recent<br /><img src="../../assets/2664.img">
       </li>
       <li>
-        View All Statuses (For My Media)<br /><img src="{{site.url}}/assets/2666">
+        View All Statuses (For My Media)<br /><img src="../../assets/2666.img">
       </li>
       <li>
-        View all Media<br /><img src="{{site.url}}/assets/2665">
+        View all Media<br /><img src="../../assets/2665.img">
       </li>
       <li>
-        View Media I Own (For Media Collaboration)<br /><img src="{{site.url}}/assets/2667">
+        View Media I Own (For Media Collaboration)<br /><img src="../../assets/2667.img">
       </li>
     </ul>
   </ul>
@@ -342,7 +342,7 @@ date: 2015-10-18 23:39:11
       Click on any media thumbnail from your My Media or Media Gallery page to browse to the media entry and play the content.
     </li>
     <li>
-      Click <strong>Play</strong> in the media player. You can use options such as volume control, report abuse (flag), caption selection, full screen, and enlarging the player.<br /><img src="{{site.url}}/assets/2668">
+      Click <strong>Play</strong> in the media player. You can use options such as volume control, report abuse (flag), caption selection, full screen, and enlarging the player.<br /><img src="../../assets/2668.img">
     </li>
   </ol>
   
@@ -366,7 +366,7 @@ date: 2015-10-18 23:39:11
     </li>
     
     <li>
-      Select the type of abuse.<br /><img src="{{site.url}}/assets/2669">
+      Select the type of abuse.<br /><img src="../../assets/2669.img">
     </li>
   </ol>
   
@@ -383,7 +383,7 @@ date: 2015-10-18 23:39:11
       Click on a media thumbnail or title to display the video in the media player.
     </li>
     <li>
-      Click the <strong>Like</strong> button under the media player.<br />A <em>Liked</em> label and an <em>unlike</em> option are displayed.<br /><img src="{{site.url}}/assets/2670">
+      Click the <strong>Like</strong> button under the media player.<br />A <em>Liked</em> label and an <em>unlike</em> option are displayed.<br /><img src="../../assets/2670.img">
     </li>
     <li>
       To cancel the Like, click <strong>Unlike</strong>.
@@ -407,7 +407,7 @@ date: 2015-10-18 23:39:11
       Click a media thumbnail or title.
     </li>
     <li>
-      In the Comments tab under the media player, enter a comment in the Add a Comment field and click <strong>Add</strong>.<br /><img src="{{site.url}}/assets/2671">
+      In the Comments tab under the media player, enter a comment in the Add a Comment field and click <strong>Add</strong>.<br /><img src="../../assets/2671.img">
     </li>
   </ol>
   
@@ -485,7 +485,7 @@ date: 2015-10-18 23:39:11
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2672">
+    <img src="../../assets/2672.img">
   </p>
   
   <p>
@@ -555,10 +555,10 @@ date: 2015-10-18 23:39:11
   
   <ol>
     <li>
-      In your My Media page, enter a search string (such as a tag or part of a title or a description) in the Search field.Media with metadata that includes the text is displayed.<br /><img src="{{site.url}}/assets/2673">
+      In your My Media page, enter a search string (such as a tag or part of a title or a description) in the Search field.Media with metadata that includes the text is displayed.<br /><img src="../../assets/2673.img">
     </li>
     <li>
-      In Media Galleries you can toggle between search results in metadata and in captions by clicking on Media or Search in Video respectively.<br /><img src="{{site.url}}/assets/2674">
+      In Media Galleries you can toggle between search results in metadata and in captions by clicking on Media or Search in Video respectively.<br /><img src="../../assets/2674.img">
     </li>
   </ol>
   
@@ -579,7 +579,7 @@ date: 2015-10-18 23:39:11
       From My Media or Media Gallery, click a video thumbnail or title to open the Media page.
     </li>
     <li>
-      Enter a search term in the Search in Video search box under the media player.<br /><img src="{{site.url}}/assets/2676">
+      Enter a search term in the Search in Video search box under the media player.<br /><img src="../../assets/2676.img">
     </li>
     <li>
       In the results, click a caption to play the video from the point where the text appears.
@@ -643,10 +643,10 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        Select Media Upload from the Add New dropdown menu.<br /><img src="{{site.url}}/assets/2701">
+        Select Media Upload from the Add New dropdown menu.<br /><img src="../../assets/2701.img">
       </li>
       <li>
-        Click <strong>Choose a file to upload</strong>.<br /><img src="{{site.url}}/assets/2702">
+        Click <strong>Choose a file to upload</strong>.<br /><img src="../../assets/2702.img">
       </li>
       <li>
         In the Select file to upload window, select a media file to upload and click <strong>Open</strong>.
@@ -660,7 +660,7 @@ date: 2015-10-18 23:39:11
             Click <strong>Cancel</strong> to cancel the upload.
           </li>
           <li>
-            Click <strong>Choose another file to </strong>upload additional files.<br /><img src="{{site.url}}/assets/2703">
+            Click <strong>Choose another file to </strong>upload additional files.<br /><img src="../../assets/2703.img">
           </li>
         </ul>
       </li>
@@ -721,7 +721,7 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        Select Webcam Recording from the Add New dropdown menu.<br /><img src="{{site.url}}/assets/2700">
+        Select Webcam Recording from the Add New dropdown menu.<br /><img src="../../assets/2700.img">
       </li>
       <li>
         The Record from Webcam page is displayed in the Record from Webcam window, click Allow when the Flash Player Settings message is displayed.
@@ -730,7 +730,7 @@ date: 2015-10-18 23:39:11
         In the Record from Webcam window, click anywhere in the recording area to start recording, click anywhere in the recording area to stop recording, and click <strong>Save</strong>.
       </li>
       <li>
-        In the Record from Webcam window, enter information about the media and click <strong>Save</strong>.<br /><img src="{{site.url}}/assets/2706">
+        In the Record from Webcam window, enter information about the media and click <strong>Save</strong>.<br /><img src="../../assets/2706.img">
       </li>
     </ol>
     
@@ -754,13 +754,13 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        Select YouTube from the Add New dropdown menu.<br /><img src="{{site.url}}/assets/2707">
+        Select YouTube from the Add New dropdown menu.<br /><img src="../../assets/2707.img">
       </li>
       <li>
         Enter the Video Page Link or the Content ID and click Preview.<br />To obtain the URL, right click on the video in YouTube and copy the URL. Only public YouTube videos are supported
       </li>
       <li>
-        In the YouTube window, enter information about the document and click <strong>Save</strong>.<br /><img src="{{site.url}}/assets/2709">
+        In the YouTube window, enter information about the document and click <strong>Save</strong>.<br /><img src="../../assets/2709.img">
       </li>
     </ol>
     
@@ -818,7 +818,7 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        Select Screen Recording from the Add New dropdown menu.<br /><img src="{{site.url}}/assets/2677">
+        Select Screen Recording from the Add New dropdown menu.<br /><img src="../../assets/2677.img">
       </li>
       <li>
         In the Screen Recording window, click <strong>Launch the screen recorder</strong>.
@@ -831,18 +831,18 @@ date: 2015-10-18 23:39:11
           Drag and resize the frame to define the screen area to record and enter Alt-P or click the Record button to begin recording.
         </li>
         <li>
-          Toggle Alt-P or the Record/Pause button to pause and continue recording.<br /><img src="{{site.url}}/assets/2678">
+          Toggle Alt-P or the Record/Pause button to pause and continue recording.<br /><img src="../../assets/2678.img">
         </li>
       </ol>
       
       <li>
-        Click <strong>Done</strong> to finish recording.<br /><img src="{{site.url}}/assets/2679">
+        Click <strong>Done</strong> to finish recording.<br /><img src="../../assets/2679.img">
       </li>
       <li>
-        Review your recording and click Upload.<br /><img src="{{site.url}}/assets/2680">
+        Review your recording and click Upload.<br /><img src="../../assets/2680.img">
       </li>
       <li>
-        When the upload is complete, click <strong>Close</strong>.<br /><img src="{{site.url}}/assets/2681">
+        When the upload is complete, click <strong>Close</strong>.<br /><img src="../../assets/2681.img">
       </li>
       <li>
         In the Screen Capture window, enter information about the recording and click <strong>Save</strong>.<br />A link to the media is displayed.
@@ -950,7 +950,7 @@ date: 2015-10-18 23:39:11
   
   <ul>
     <li>
-      On your My Media page, click <strong>Edit</strong> for the media you want to edit.<br />The Edit Media page opens with Editing tabs. The editing tab display is dependent on your KAF admin configuration. <br /><img src="{{site.url}}/assets/2710">
+      On your My Media page, click <strong>Edit</strong> for the media you want to edit.<br />The Edit Media page opens with Editing tabs. The editing tab display is dependent on your KAF admin configuration. <br /><img src="../../assets/2710.img">
     </li>
   </ul>
   
@@ -959,7 +959,7 @@ date: 2015-10-18 23:39:11
   </h2>
   
   <p>
-    Use the Options tab in the Edit page to manage clipping and to manage comments.<br /><img src="{{site.url}}/assets/2712">
+    Use the Options tab in the Edit page to manage clipping and to manage comments.<br /><img src="../../assets/2712.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -971,7 +971,7 @@ date: 2015-10-18 23:39:11
       Go to the entry Edit Page in My Media.
     </li>
     <li>
-      Select the Options tab and then check the “Enable everyone to create clips from this video” checkbox.<br /><img src="{{site.url}}/assets/2711">
+      Select the Options tab and then check the “Enable everyone to create clips from this video” checkbox.<br /><img src="../../assets/2711.img">
     </li>
   </ol>
   
@@ -1000,10 +1000,10 @@ date: 2015-10-18 23:39:11
       Select My Media and then click Edit next to the entry you want to use to create a clip.
     </li>
     <li>
-      In the Edit Media window select Create Clip<br /><img src="{{site.url}}/assets/2714">
+      In the Edit Media window select Create Clip<br /><img src="../../assets/2714.img">
     </li>
     <li>
-      Use the trimming timeline or enter exact start and end times.<br /><img src="{{site.url}}/assets/2715">
+      Use the trimming timeline or enter exact start and end times.<br /><img src="../../assets/2715.img">
     </li>
     <li>
       Press Play and click Set Starting Point of the video clip or alternatively, select the Start Time.
@@ -1033,7 +1033,7 @@ date: 2015-10-18 23:39:11
   </p>
   
   <p>
-    If clipping from within a Media Gallery, the clips can replace the original media item in the Media Gallery and thus de facto trim it.<br /><img src="{{site.url}}/assets/2716">
+    If clipping from within a Media Gallery, the clips can replace the original media item in the Media Gallery and thus de facto trim it.<br /><img src="../../assets/2716.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -1090,7 +1090,7 @@ date: 2015-10-18 23:39:11
       Go to the entry Edit Page in My Media.
     </li>
     <li>
-      Select the Collaboration tab.<br /><img src="{{site.url}}/assets/2721">
+      Select the Collaboration tab.<br /><img src="../../assets/2721.img">
     </li>
     <li>
       Enter the user name for the new owner.
@@ -1117,7 +1117,7 @@ date: 2015-10-18 23:39:11
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2724">
+    <img src="../../assets/2724.img">
   </p>
   
   <p class="Procedure mce-procedure">
@@ -1129,10 +1129,10 @@ date: 2015-10-18 23:39:11
       Go to the entry Edit Page in My Media.
     </li>
     <li>
-      Select the Collaboration tab.<br /><img src="{{site.url}}/assets/2723">
+      Select the Collaboration tab.<br /><img src="../../assets/2723.img">
     </li>
     <li>
-      Click Add Collaborator.<br />The Add Collaborator window is displayed.<br /><img src="{{site.url}}/assets/2725">
+      Click Add Collaborator.<br />The Add Collaborator window is displayed.<br /><img src="../../assets/2725.img">
     </li>
     <li>
       Enter the collaborator’s user name or ID .You can add users that are available on the site and you can use the auto-complete function (from 3rd letter and on).
@@ -1147,7 +1147,7 @@ date: 2015-10-18 23:39:11
       To view the collaborators’ permissions click View all Permissions and select the type of collaborator.
     </li>
     <li>
-      Use the editing options /icons in the Actions column to edit/delete the collaboration options.<br /><img src="{{site.url}}/assets/2726">
+      Use the editing options /icons in the Actions column to edit/delete the collaboration options.<br /><img src="../../assets/2726.img">
     </li>
   </ol>
   
@@ -1226,7 +1226,7 @@ date: 2015-10-18 23:39:11
       In the Edit Media window select the captions tab.
     </li>
     <li>
-      Click <strong>Upload captions file</strong>.<br /><img src="{{site.url}}/assets/2728">
+      Click <strong>Upload captions file</strong>.<br /><img src="../../assets/2728.img">
     </li>
     <li>
       Click <strong>Browse</strong> and select an SRT or DFXP caption file.
@@ -1238,7 +1238,7 @@ date: 2015-10-18 23:39:11
       Enter a label to display for the file in the caption selector.<br />The caption selector displays caption options in the media player.
     </li>
     <li>
-      Click <strong>Save</strong> to upload the file.<br />The file is added to a table on the media page's Captions tab.<br /><img src="{{site.url}}/assets/2729">
+      Click <strong>Save</strong> to upload the file.<br />The file is added to a table on the media page's Captions tab.<br /><img src="../../assets/2729.img">
     </li>
   </ol>
   
@@ -1364,7 +1364,7 @@ date: 2015-10-18 23:39:11
       Click the Captions tab to display the caption table.
     </li>
     <li>
-      Click the <strong>Download icon</strong>.<br /><img src="{{site.url}}/assets/2730">
+      Click the <strong>Download icon</strong>.<br /><img src="../../assets/2730.img">
     </li>
   </ol>
   
@@ -1411,7 +1411,7 @@ date: 2015-10-18 23:39:11
       Select one thumbnail from ten automatically generated thumbnails of the selected video and set it as the default thumbnail.
     </li>
     <li>
-      Download a thumbnail to back up your current thumbnail.<br /><img src="{{site.url}}/assets/2731">
+      Download a thumbnail to back up your current thumbnail.<br /><img src="../../assets/2731.img">
     </li>
   </ul>
   
@@ -1527,7 +1527,7 @@ date: 2015-10-18 23:39:11
       In the Edit Media window, click the YouTube tab.
     </li>
     <li>
-      Replace the video link.<br /><img src="{{site.url}}/assets/2732">
+      Replace the video link.<br /><img src="../../assets/2732.img">
     </li>
   </ol>
   
@@ -1548,10 +1548,10 @@ date: 2015-10-18 23:39:11
       Select My Media and then click Edit next to the entry you want to trim,
     </li>
     <li>
-      In the Edit Media window select the Attachment tab.<br /><img src="{{site.url}}/assets/2733">
+      In the Edit Media window select the Attachment tab.<br /><img src="../../assets/2733.img">
     </li>
     <li>
-      Click Upload file. The Upload window is displayed.<br /><img src="{{site.url}}/assets/2734">
+      Click Upload file. The Upload window is displayed.<br /><img src="../../assets/2734.img">
     </li>
     <li>
       Provide descriptive information about the attachment (optional) and click Select File.
@@ -1560,7 +1560,7 @@ date: 2015-10-18 23:39:11
       Select a file to attach and click Open.<br />The file is saved as attachment to your media file.
     </li>
     <li>
-      Use the editing options /icons in the Actions column to change delete or download the attachment file.<br /><img src="{{site.url}}/assets/2735">
+      Use the editing options /icons in the Actions column to change delete or download the attachment file.<br /><img src="../../assets/2735.img">
     </li>
   </ol>
   
@@ -1598,7 +1598,7 @@ date: 2015-10-18 23:39:11
       Select My Media and then click Edit next to the entry you want to replace.
     </li>
     <li>
-      In the Edit Media window select the Replace Video tab.<br /><img src="{{site.url}}/assets/2736">
+      In the Edit Media window select the Replace Video tab.<br /><img src="../../assets/2736.img">
     </li>
     <li>
       Click Choose a file to upload and select the replacement file.
@@ -1629,7 +1629,7 @@ date: 2015-10-18 23:39:11
       Select an entry.
     </li>
     <li>
-      Select Analytics from the Actions drop down menu.<br /><img src="{{site.url}}/assets/2738">
+      Select Analytics from the Actions drop down menu.<br /><img src="../../assets/2738.img">
     </li>
   </ol>
   
@@ -1661,13 +1661,13 @@ date: 2015-10-18 23:39:11
   
   <ul>
     <li>
-      On your My Media page, click <strong>Edit</strong> for the media you want to edit<br /><img src="{{site.url}}/assets/2739">
+      On your My Media page, click <strong>Edit</strong> for the media you want to edit<br /><img src="../../assets/2739.img">
     </li>
   </ul>
   
   <ul>
     <li>
-      On the view media page of a media entry you created, click <strong>Actions</strong> and select <strong>Edit</strong>.<br /><img src="{{site.url}}/assets/2742">
+      On the view media page of a media entry you created, click <strong>Actions</strong> and select <strong>Edit</strong>.<br /><img src="../../assets/2742.img">
     </li>
   </ul>
   
@@ -1696,7 +1696,7 @@ date: 2015-10-18 23:39:11
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2743">
+    <img src="../../assets/2743.img">
   </p>
   
   <p>
@@ -1718,13 +1718,13 @@ date: 2015-10-18 23:39:11
   
   <ol>
     <li>
-      On your My Media page, check the media items you want to publish and select <strong>Publish</strong> from the Actions menu.<br />The publish window is displayed.<br /><img src="{{site.url}}/assets/2744">
+      On your My Media page, check the media items you want to publish and select <strong>Publish</strong> from the Actions menu.<br />The publish window is displayed.<br /><img src="../../assets/2744.img">
     </li>
     <li>
-      Click <strong>Publish</strong> and then check the courses where you want to publish the content to.<br /><span class="mce-note-graphic">Publishing depends on your configuration. An admin can determine whether students can publish to course galleries. According to the configuration and data received, the list of sites that a user can publish to is displayed and can be chosen from.<br /><img src="{{site.url}}/assets/2745">
+      Click <strong>Publish</strong> and then check the courses where you want to publish the content to.<br /><span class="mce-note-graphic">Publishing depends on your configuration. An admin can determine whether students can publish to course galleries. According to the configuration and data received, the list of sites that a user can publish to is displayed and can be chosen from.<br /><img src="../../assets/2745.img">
     </li>
     <li>
-      Click <strong>Save</strong>.<br />When the media is published, a notification is displayed at top of the page and the media will be available in the Media Galleries you selected.<br /><img src="{{site.url}}/assets/2746">
+      Click <strong>Save</strong>.<br />When the media is published, a notification is displayed at top of the page and the media will be available in the Media Galleries you selected.<br /><img src="../../assets/2746.img">
     </li>
   </ol>
   
@@ -1737,7 +1737,7 @@ date: 2015-10-18 23:39:11
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2747">
+    <img src="../../assets/2747.img">
   </p>
   
   <div align="center">
@@ -1765,7 +1765,7 @@ date: 2015-10-18 23:39:11
       Select a media Item and click Edit.
     </li>
     <li>
-      Click the Downloads Tab.<br /><img src="{{site.url}}/assets/2748">
+      Click the Downloads Tab.<br /><img src="../../assets/2748.img">
     </li>
     <li>
       Check one or more Available Formats.
@@ -1784,7 +1784,7 @@ date: 2015-10-18 23:39:11
       Select a media Item.
     </li>
     <li>
-      Click Download.<br /><img src="{{site.url}}/assets/2749">
+      Click Download.<br /><img src="../../assets/2749.img">
     </li>
   </ol>
   
@@ -1845,7 +1845,7 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        In the Media Gallery, select <strong>Edit</strong> from the <strong>Actions</strong> drop down menu.<br /><img src="{{site.url}}/assets/2685">
+        In the Media Gallery, select <strong>Edit</strong> from the <strong>Actions</strong> drop down menu.<br /><img src="../../assets/2685.img">
       </li>
       <li>
         (Optional) Enter a description and tags for the Media Gallery for the course.
@@ -1880,7 +1880,7 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        Select the <strong>Add Media</strong> button.<br /><img src="{{site.url}}/assets/2751">
+        Select the <strong>Add Media</strong> button.<br /><img src="../../assets/2751.img">
       </li>
       <li>
         Filter your content.<br />Select one or more of the following filtering options:<br /><ul>
@@ -1937,7 +1937,7 @@ date: 2015-10-18 23:39:11
     
     <ol>
       <li>
-        In the Media Gallery, click on Browse Pending.<br /><span>If there are no media items are pending moderation, the Browse Pending tab is not displayed.<br /><img src="{{site.url}}/assets/2753">
+        In the Media Gallery, click on Browse Pending.<br /><span>If there are no media items are pending moderation, the Browse Pending tab is not displayed.<br /><img src="../../assets/2753.img">
       </li>
       <li>
         Click on the thumbnail to view the media.
@@ -1993,7 +1993,7 @@ date: 2015-10-18 23:39:11
     
     <ul>
       <li>
-        In the Media Gallery, click Actions and then Analytics.<br /><img src="{{site.url}}/assets/2693">
+        In the Media Gallery, click Actions and then Analytics.<br /><img src="../../assets/2693.img">
       </li>
     </ul>
     
@@ -2063,7 +2063,7 @@ date: 2015-10-18 23:39:11
         From the Media Gallery select Actions and then select Analytics.
       </li>
       <li>
-        In the Analytics page, select the desired report by clicking its corresponding tab.<br /><img src="{{site.url}}/assets/2695">
+        In the Analytics page, select the desired report by clicking its corresponding tab.<br /><img src="../../assets/2695.img">
       </li>
     </ol>
     
@@ -2080,7 +2080,7 @@ date: 2015-10-18 23:39:11
         From the Media Gallery Analytics page, select the desired report by clicking its corresponding tab.
       </li>
       <li>
-        Click on the <img src="{{site.url}}/assets/2697">
+        Click on the <img src="../../assets/2697.img">
       </li>
     </ol>
     
@@ -2089,7 +2089,7 @@ date: 2015-10-18 23:39:11
     </h3>
     
     <p>
-      The <strong>Media</strong> detailed entry report displays the list of all the users that viewed the selected media entry.<br /><img src="{{site.url}}/assets/2698">
+      The <strong>Media</strong> detailed entry report displays the list of all the users that viewed the selected media entry.<br /><img src="../../assets/2698.img">
     </p>
     
     <h3 class="Subheading">
@@ -2101,7 +2101,7 @@ date: 2015-10-18 23:39:11
     </p>
     
     <p>
-      <img src="{{site.url}}/assets/2699">
+      <img src="../../assets/2699.img">
     </p>
     
     <h3 class="Subheading">
@@ -2125,7 +2125,7 @@ date: 2015-10-18 23:39:11
         In a report or detailed entry report, click the <strong>Printable Version</strong> button . A new browser tab with a printable report version is displayed.
       </li>
       <li>
-        Click <strong>Print</strong> to print the page.<br /><img src="{{site.url}}/assets/2694">
+        Click <strong>Print</strong> to print the page.<br /><img src="../../assets/2694.img">
       </li>
     </ol>
     
@@ -2164,7 +2164,7 @@ date: 2015-10-18 23:39:11
   </ul>
   
   <p>
-    The Browse, Search and Embed window also allows you to upload and create new content on the fly.<br /><img src="{{site.url}}/assets/2687">
+    The Browse, Search and Embed window also allows you to upload and create new content on the fly.<br /><img src="../../assets/2687.img">
   </p>
   
   <p>
@@ -2207,13 +2207,13 @@ date: 2015-10-18 23:39:11
       Click on a tool available in your course, for example, Announcements and click Add.
     </li>
     <li>
-      In the rich text editor click the Embed Kaltura Media button. <img src="{{site.url}}/assets/2689">
+      In the rich text editor click the Embed Kaltura Media button. <img src="../../assets/2689.img">
     </li>
     <li>
-      To create new content from within the Browse, Search and Embed window, click the Add New button and choose the desired content type.<br /><img src="{{site.url}}/assets/2688">
+      To create new content from within the Browse, Search and Embed window, click the Add New button and choose the desired content type.<br /><img src="../../assets/2688.img">
     </li>
     <li>
-      To embed a video, click the <strong>Select</strong> button next to the video.<br /><img src="{{site.url}}/assets/2690">
+      To embed a video, click the <strong>Select</strong> button next to the video.<br /><img src="../../assets/2690.img">
     </li>
   </ol>
   
@@ -2234,7 +2234,7 @@ date: 2015-10-18 23:39:11
       Click on <strong>Announcements</strong> and then choose <strong>Add</strong> from the top menu items.
     </li>
     <li>
-      Click on the <strong>Kaltura Video Tool icon</strong> in the editor’s toolbar.<br /><img src="{{site.url}}/assets/2682">
+      Click on the <strong>Kaltura Video Tool icon</strong> in the editor’s toolbar.<br /><img src="../../assets/2682.img">
     </li>
     <li>
       A window with the contents of the ‘reusable’ media items in the Course Library is displayed.
@@ -2246,14 +2246,14 @@ date: 2015-10-18 23:39:11
             Detailed
           </li>
           <li>
-            Collapsed<br /><img src="{{site.url}}/assets/2691">
+            Collapsed<br /><img src="../../assets/2691.img">
           </li>
         </ul>
       </ol>
     </li>
     
     <li>
-      Select the player size from the Select drop down menu. Player sizes are determined in the admin console by your administrator.<img src="{{site.url}}/assets/2683">
+      Select the player size from the Select drop down menu. Player sizes are determined in the admin console by your administrator.<img src="../../assets/2683.img">
     </li>
     <li>
       Browse or search for the media item you want to use.

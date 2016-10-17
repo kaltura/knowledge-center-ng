@@ -30,7 +30,7 @@ date: 2016-01-24 14:10:08
       To upload a slide deck, click <strong>Add New Slide Deck</strong> (see <em>Uploading Slide Decks</em> in <a href="{{site.url}}/documentation/Knowledge/kaltura-webcasting-managing-slide-broadcast.html" target="_blank">Managing Slide Broadcast</a> for details).
     </li>
     <li>
-      To add polls to the broadcast, in the Timeline tab at the bottom of the application, click the plus button <img src="{{site.url}}/assets/3414">
+      To add polls to the broadcast, in the Timeline tab at the bottom of the application, click the plus button <img src="../../assets/3414.img">
     </li>
   </ul>
   
@@ -39,5 +39,5 @@ date: 2016-01-24 14:10:08
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3457">
+    <img src="../../assets/3457.img">
   </p>

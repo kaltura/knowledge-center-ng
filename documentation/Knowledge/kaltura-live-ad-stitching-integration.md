@@ -23,7 +23,7 @@ date: 2014-11-30 11:12:00
     </p>
     
     <p>
-      <span style="color: #ff0000;"><br /><img src="{{site.url}}/assets/2427">
+      <span style="color: #ff0000;"><br /><img src="../../assets/2427.img">
     </p>
     
     <p class="mce-heading-2">

@@ -14,10 +14,10 @@ date: 2016-01-13 13:56:15
   
   <ol>
     <li>
-      In the Edit event page, click Invite Attendees.<br /><img src="{{site.url}}/assets/2904">
+      In the Edit event page, click Invite Attendees.<br /><img src="../../assets/2904.img">
     </li>
     <li>
-      Open the ics file.<br />The link created at the bottom of the message is the link to the Event Page. The link provided is also where the live broadcast will take place and reside as a VOD after the event.<br /><img src="{{site.url}}/assets/2906">
+      Open the ics file.<br />The link created at the bottom of the message is the link to the Event Page. The link provided is also where the live broadcast will take place and reside as a VOD after the event.<br /><img src="../../assets/2906.img">
     </li>
     <li>
       Add the recipients as you would normally do with your mail client and send the message to the event attendees.

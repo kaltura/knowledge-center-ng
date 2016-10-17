@@ -64,7 +64,7 @@ date: 2016-03-27 07:07:26
         Click on the Plugin icon on the bottom left.
       </li>
       <li>
-        Click Import Plugin.<br /><img src="{{site.url}}/assets/3081">
+        Click Import Plugin.<br /><img src="../../assets/3081.img">
       </li>
       <li>
         Copy and insert the following string into the Plugin Configuration String box and click Import.<br /><code>onPageJs1=//mediadataplayer-cdn.cielo24.com/v2/stable/kaltura.js&cielo24Transcriptions.DynaTransWindowHeight=400&cielo24Transcriptions.DynaTransWindowTitle=MediaDataPlayer&cielo24Transcriptions.DynaTransClientLogo=https://mediadataplayer-cdn.cielo24.com/v2/stable/widget/img/logo-transparent.png&cielo24Transcriptions.DynaTransHideGear=FALSE&cielo24Transcriptions.DynaTransHideShare=FALSE&cielo24Transcriptions.DynaTransHidePrint=FALSE&cielo24Transcriptions.DynaTransHideDownload=FALSE&cielo24Transcriptions.DynaTransHideLeftMenu=FALSE&cielo24Transcriptions.DynaTransHideSpeakers=FALSE&cielo24Transcriptions.DynaTransHideTimestamps=TRUE&cielo24Transcriptions.DynaTransAutoscrollOff=FALSE&cielo24Transcriptions.DynaTransWidgetUrl=https://mediadataplayer-cdn.cielo24.com/v2/stable/widget/widget.html&cielo24Transcriptions.DynaTransHideMetaTopics=FALSE&cielo24Transcriptions.DynaTransHideMetaSpeakers=FALSE&cielo24Transcriptions.DynaTransHideMetaKeywords=FALSE&cielo24Transcriptions.DynaTransHideFooter=FALSE&cielo24Transcriptions.DynaTransEnableAdditionalCSS=TRUE&cielo24Transcriptions.DynaTranscriptStartsHidden=FALSE&cielo24Transcriptions.DynaTransAdditionalCSS=.action-edit #wrapper.video{margin-bottom:0}#mediaContainer #wrapper.video{height:auto;padding-bottom:0 !important;padding-top:0 !important;}#mediaContainer #wrapper.video #player div.kWidgetIframeContainer{position:relative;padding-bottom:56.25%;left:auto;top:auto}.entryTitle,.stat_data{margin-top:20px}#mediaContainer #wrapper.video #player div #cielo24-iframe-wrapper-kplayer{background:#FFF;height:auto;left:auto;position:relative;top:auto;width:auto}#mediaContainer #wrapper.video #player #cielo24-iframe-wrapper-kplayer iframe{background-color:#FFF;height:inherit;left:unset;position:unset;top:unset;width:none}</code>
@@ -809,7 +809,7 @@ date: 2016-03-27 07:07:26
   </div>
   
   <div class="WordSection1">
-    If you set the ‘embed' defaults in KAF,  the height will already be adjusted. If not, copy the iFrame embed code and manipulate it directly.<br /><img src="{{site.url}}/assets/3084">
+    If you set the ‘embed' defaults in KAF,  the height will already be adjusted. If not, copy the iFrame embed code and manipulate it directly.<br /><img src="../../assets/3084.img">
   </div>
   
   <div class="WordSection1">

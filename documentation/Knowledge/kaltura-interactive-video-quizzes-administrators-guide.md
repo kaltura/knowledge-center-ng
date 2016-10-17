@@ -42,10 +42,10 @@ date: 2016-01-21 15:58:34
       Login to Kaltura MediaSpace or the KAF Admin Console and go to the Configuration Management window.
     </li>
     <li>
-      Scroll down and click the Quiz module in the Modules/Custom/core section.<span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb"><br /><img src="{{site.url}}/assets/2951">
+      Scroll down and click the Quiz module in the Modules/Custom/core section.<span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb"><br /><img src="../../assets/2951.img">
     </li>
     <li>
-      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the Kwebcast module.<br /><img src="{{site.url}}/assets/2952">
+      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the Kwebcast module.<br /><img src="../../assets/2952.img">
     </li>
     <li>
       You can leave all other parameter values as they are or enter values for the relevant fields and click Save. <br /><br /><table style="width: 650px;" border="0" cellspacing="0" cellpadding="0">
@@ -149,7 +149,7 @@ date: 2016-01-21 15:58:34
       Login to Kaltura MediaSpace or your KAF instance.
     </li>
     <li>
-      Select Add New. <br />Quiz should display as one of the Add New options.<br /><img src="{{site.url}}/assets/2953">
+      Select Add New. <br />Quiz should display as one of the Add New options.<br /><img src="../../assets/2953.img">
     </li>
   </ol>
   

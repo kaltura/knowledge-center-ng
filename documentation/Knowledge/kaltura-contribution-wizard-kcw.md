@@ -24,4 +24,4 @@ When you use the upload media files using the desktop Browse selection, the file
 
 ## GUI Screen shot
 
-<img src="{{site.url}}/assets/417">
+<img src="../../assets/417.img">

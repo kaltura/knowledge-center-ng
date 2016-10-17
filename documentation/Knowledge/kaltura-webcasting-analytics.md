@@ -17,7 +17,7 @@ date: 2015-11-23 17:09:08
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2615">
+    <img src="../../assets/2615.img">
   </p>
   
   <div class="table-wrap">
@@ -29,7 +29,7 @@ date: 2015-11-23 17:09:08
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2616">
+    <img src="../../assets/2616.img">
   </p>
   
   <ul>
@@ -65,9 +65,9 @@ date: 2015-11-23 17:09:08
   
   <ol>
     <li>
-      Click on the Analytics icon to return to the configuration icon.<br /><img src="{{site.url}}/assets/2621">
+      Click on the Analytics icon to return to the configuration icon.<br /><img src="../../assets/2621.img">
     </li>
     <li>
-      Click on Export.<br /><img src="{{site.url}}/assets/2622">
+      Click on Export.<br /><img src="../../assets/2622.img">
     </li>
   </ol>

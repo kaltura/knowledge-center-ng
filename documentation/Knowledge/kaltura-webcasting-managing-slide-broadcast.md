@@ -54,16 +54,16 @@ date: 2015-12-01 17:52:07
   
   <ol>
     <li>
-      Click <strong><strong>Add New Slide Deck,</strong></strong> then browse to the slide deck, select it and upload the deck.<br />When the slide deck has been uploaded, the deck will not be broadcast until you apply the slides to the Timeline tab at the bottom of the Webcasting Application.<br /><br /><img src="{{site.url}}/assets/3309">
+      Click <strong><strong>Add New Slide Deck,</strong></strong> then browse to the slide deck, select it and upload the deck.<br />When the slide deck has been uploaded, the deck will not be broadcast until you apply the slides to the Timeline tab at the bottom of the Webcasting Application.<br /><br /><img src="../../assets/3309.img">
     </li>
     <li>
-      To replace the slide deck, simply click the button <strong>Replace Slide Deck</strong>.<br /><br /><img src="{{site.url}}/assets/3313">
+      To replace the slide deck, simply click the button <strong>Replace Slide Deck</strong>.<br /><br /><img src="../../assets/3313.img">
     </li>
     <li>
-      Confirm the removal of the previous slide deck and the upload of the new deck, and then apply the slides to the Timeline tab at the bottom of the Webasting Application. <br /><br /><img src="{{site.url}}/assets/3458">
+      Confirm the removal of the previous slide deck and the upload of the new deck, and then apply the slides to the Timeline tab at the bottom of the Webasting Application. <br /><br /><img src="../../assets/3458.img">
     </li>
     <li>
-      To hide the upload section, click the show/hide button <img src="{{site.url}}/assets/3316">
+      To hide the upload section, click the show/hide button <img src="../../assets/3316.img">
     </li>
   </ol>
   
@@ -166,7 +166,7 @@ date: 2015-12-01 17:52:07
   </ul>
   
   <p style="padding-left: 30px;">
-    <img src="{{site.url}}/assets/2609">
+    <img src="../../assets/2609.img">
   </p>
   
   <p class="mce-note-graphic" style="padding-left: 90px;">
@@ -190,7 +190,7 @@ date: 2015-12-01 17:52:07
   </p>
   
   <p style="padding-left: 30px;">
-    <img src="{{site.url}}/assets/3459">
+    <img src="../../assets/3459.img">
   </p>
   
   <h3>

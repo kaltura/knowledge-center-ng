@@ -96,7 +96,7 @@ The following table lists the information that should be provided for adding a n
 
 1.  Go to the Administration tab and select the Users tab.
 2.  Click Add User, and fill in the details in the Add User window.  
-    <img src="{{site.url}}/assets/755">
+    <img src="../../assets/755.img">
 3.  Select a User Role from the drop-down menu. The choices are:  
     *   Publisher Administrator
     *   Manager

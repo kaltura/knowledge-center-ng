@@ -53,7 +53,7 @@ date: 2015-12-01 23:56:43
   </ul>
   
   <p>
-    <img src="{{site.url}}/assets/3460">
+    <img src="../../assets/3460.img">
   </p>
   
   <p>

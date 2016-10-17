@@ -16,4 +16,4 @@ For Flash Live Stream, the following encoders were tested, however there should 
 *   Viewcast Niagara 2120
 *   Orban Opticodec
 
-For HD Flash Live Stream, the qualified encoders that we recommend our customers to use are listed in the following table.  There are known issues where certain features may not work well with encoders not in the list.<img src="{{site.url}}/assets/967">
+For HD Flash Live Stream, the qualified encoders that we recommend our customers to use are listed in the following table.  There are known issues where certain features may not work well with encoders not in the list.<img src="../../assets/967.img">

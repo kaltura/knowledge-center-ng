@@ -46,10 +46,10 @@ date: 2016-02-09 13:50:42
       Login to Kaltura MediaSpace or the KAF Admin Console and go to the Configuration Management window.
     </li>
     <li>
-      Scroll down and click the REACH module in the Modules section.<br /><img src="{{site.url}}/assets/3487">
+      Scroll down and click the REACH module in the Modules section.<br /><img src="../../assets/3487.img">
     </li>
     <li>
-      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the module.<br /><img src="{{site.url}}/assets/3037">
+      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the module.<br /><img src="../../assets/3037.img">
     </li>
     <li>
       <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb"><span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">Enter values for the relevant fields and click Save. <br /><br /></span></span><div align="center">
@@ -1533,7 +1533,7 @@ date: 2016-02-09 13:50:42
       Login to Kaltura MediaSpace or your KAF instance.
     </li>
     <li>
-      Select a video and click Edit. <br />The Order Captions should appear in the Actions drop down menu.<br /><img src="{{site.url}}/assets/3031">
+      Select a video and click Edit. <br />The Order Captions should appear in the Actions drop down menu.<br /><img src="../../assets/3031.img">
     </li>
   </ol>
   

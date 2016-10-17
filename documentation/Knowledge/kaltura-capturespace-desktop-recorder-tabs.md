@@ -55,7 +55,7 @@ date: 2016-01-27 20:09:02
   </p>
   
   <p>
-    <span><img src="{{site.url}}/assets/1862">
+    <span><img src="../../assets/1862.img">
   </p>
   
   <p>
@@ -82,7 +82,7 @@ date: 2016-01-27 20:09:02
   </ul>
   
   <p>
-    <span><img src="{{site.url}}/assets/2137">
+    <span><img src="../../assets/2137.img">
   </p>
   
   <p>
@@ -106,7 +106,7 @@ date: 2016-01-27 20:09:02
   </ul>
   
   <p>
-    <span><img src="{{site.url}}/assets/2518">
+    <span><img src="../../assets/2518.img">
   </p>
   
   <p>
@@ -114,7 +114,7 @@ date: 2016-01-27 20:09:02
   </p>
   
   <p>
-    <span><img src="{{site.url}}/assets/1859">
+    <span><img src="../../assets/1859.img">
   </p>
   
   <p>

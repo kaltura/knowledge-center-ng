@@ -27,7 +27,7 @@ This article explains how developers can set up the KCW project in Flash Builder
 3.  Set a valid sessionId (ks) in ContributionWizard->html-template->index.template.html. Ensure that the sessionId matches the partnerId that you use.
 4.  Verify that the flash player version is 10.0.1:  
     Right click the ContributionWizard project and select Properties->Flex Compiler->Adobe Flash Player options.  
-    <img src="{{site.url}}/assets/437">
+    <img src="../../assets/437.img">
 5.  Compile the workspace.
 6.  The contribution wizard includes the following modules:
 <ol style="list-style-type: lower-alpha;">

@@ -41,7 +41,7 @@ The KDP plugin sends video-tracking events about the video played by the player.
 6.  Add the Omniture plugin configuration parameters under the “Additional Parameters and Plugins”  (omniture.path, omniture.plugin, etc.)
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1629">
+  <img src="../../assets/1629.img">
 </p>
 
 The following lists the parameters for the plugin:

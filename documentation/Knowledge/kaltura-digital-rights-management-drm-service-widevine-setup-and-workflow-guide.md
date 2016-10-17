@@ -130,7 +130,7 @@ date: 2013-04-03 18:48:29
 <span class="mce-heading-2">How is Widevine DRM Processing Integrated in Kaltura’s Ingestion Flows?</span>
 
 <p class="WordSection1">
-  The following <a name="ingestion_flow"></a>ingestion flow diagram illustrates the processing flow for DRM encryption and packaging of content ingested to Kaltura as part of Kaltura’s content ingestion flow:<img src="{{site.url}}/assets/1018">
+  The following <a name="ingestion_flow"></a>ingestion flow diagram illustrates the processing flow for DRM encryption and packaging of content ingested to Kaltura as part of Kaltura’s content ingestion flow:<img src="../../assets/1018.img">
 </p>
 
 <p class="WordSection1">
@@ -141,7 +141,7 @@ date: 2013-04-03 18:48:29
 
 The following <a name="playback_flow_diagram"></a>playblack flow diagram illustrates a simple browser based playback flow for DRM encrypted content in Kaltura’s Dynamic Player (KDP). DRM license requests may also be triggered outside of the playback flow, supporting different license authorization scenarios by utilizing Widevine JavaScript APIs.
 
-<img src="{{site.url}}/assets/1103">
+<img src="../../assets/1103.img">
 
 <h1 class="mce-heading-1">
   <span><span><a name="enable_drm"></a>How to Enable and Setup DRM in Your KMC Account?</span></span>
@@ -200,13 +200,13 @@ When you activate the DRM service in your KMC account, a default set of DRM enab
 
 *   **Multi-bitrate DRM Packaging**<span style="color: #000000;"> - You can create a transcoding profile dedicated for enabling adaptive bitrate playback of DRM protected content. The default Widevine-multi-bitrate flavor is set to package the six H264 flavors in Kaltura's default flavor set. Select the Widevine-multi-bitrate flavor, and the six H264 flavors to be included in your Kaltura transcoding profile.  You may choose to delete the intermediate H264 flavors after the DRM packaging is complete.  We recommend that you set the Widevine-multi-bitrate flavor as required, so that the entry will not become "ready" before the DRM processing completes. </span>
 
-<img src="{{site.url}}/assets/1041">
+<img src="../../assets/1041.img">
 
  
 
-*   **Single-bitrate DRM Packaging** <span style="color: #000000;">- You can create a transcoding profile dedicated for enabling single bitrate playback in a specific quality, which may be useful when playback is targeted to a specific device or for offline playback. The six default Widevine-single-bitrate flavors are each set to encrypt their respective H264 flavors into a DRM package that contains only one bitrate. A transcoding profile dedicated to content targeted for single bitrate playback will include one H264 flavor with the required bitrate and the respective Widevine-single-bitrate flavor. You may choose to delete the intermediate H264 flavors after the DRM packaging is complete.  We recommend that you set the Widevine-multi-bitrate flavor as required, so that the entry will not become "ready" before the DRM processing completes. <img src="{{site.url}}/assets/1042">
+*   **Single-bitrate DRM Packaging** <span style="color: #000000;">- You can create a transcoding profile dedicated for enabling single bitrate playback in a specific quality, which may be useful when playback is targeted to a specific device or for offline playback. The six default Widevine-single-bitrate flavors are each set to encrypt their respective H264 flavors into a DRM package that contains only one bitrate. A transcoding profile dedicated to content targeted for single bitrate playback will include one H264 flavor with the required bitrate and the respective Widevine-single-bitrate flavor. You may choose to delete the intermediate H264 flavors after the DRM packaging is complete.  We recommend that you set the Widevine-multi-bitrate flavor as required, so that the entry will not become "ready" before the DRM processing completes. <img src="../../assets/1042.img">
 
-<span style="color: #828a8c; font-size: 14pt; font-weight: bold;"><img src="{{site.url}}/assets/1043">
+<span style="color: #828a8c; font-size: 14pt; font-weight: bold;"><img src="../../assets/1043.img">
 
 <span style="color: #828a8c; font-size: 14pt; font-weight: bold;">Creating Custom DRM Enabled Transcoding Flavors in Your KMC Account</span>
 
@@ -254,7 +254,7 @@ Kaltura provides out-of-the-box enablement of the Widevine plugin into the Kaltu
 </p>
 
 1.  In the Studio tab, create a player.
-2.  In the Features tab, check the DRM-Widevine option under the security feature band.<img src="{{site.url}}/assets/1008">
+2.  In the Features tab, check the DRM-Widevine option under the security feature band.<img src="../../assets/1008.img">
 
 <h3 class="mce-heading-3">
   Adding the Widevine DRM Player Plugin to an existing player
@@ -288,13 +288,13 @@ The on-going management of DRM encrypted content may be managed in your KMC acco
 
 The following are recommendations and best practices related to management of DRM encrypted content in your KMC account:
 
-*   **Use a DRM Custom Data Schema** - Use a custom data schema dedicated to DRM settings and indications. Using a custom data field for indicating that the entry includes encrypted assets may be useful for convenient filtering of encrypted entries in the KMC, and/or in your application.  Additional metadata fields such as policy name, rental duration and license duration may be useful as part of your solution implementation for dynamic overriding of these settings via a specific KS syntax or for managing specific applicative logic related to license rules associated with the content.<img src="{{site.url}}/assets/1011">
+*   **Use a DRM Custom Data Schema** - Use a custom data schema dedicated to DRM settings and indications. Using a custom data field for indicating that the entry includes encrypted assets may be useful for convenient filtering of encrypted entries in the KMC, and/or in your application.  Additional metadata fields such as policy name, rental duration and license duration may be useful as part of your solution implementation for dynamic overriding of these settings via a specific KS syntax or for managing specific applicative logic related to license rules associated with the content.<img src="../../assets/1011.img">
 
-**Use a Default Metadata Template with DRM Indication** - Set the transcoding profile used for content encryption with metadata default entry that includes the custom data value indicating that the entry is encrypted.When using this type of setting, every entry processed for DRM encryption is automatically set with the appropriate DRM metadata.<img src="{{site.url}}/assets/1044">
+**Use a Default Metadata Template with DRM Indication** - Set the transcoding profile used for content encryption with metadata default entry that includes the custom data value indicating that the entry is encrypted.When using this type of setting, every entry processed for DRM encryption is automatically set with the appropriate DRM metadata.<img src="../../assets/1044.img">
 
  
 
-<img src="{{site.url}}/assets/1045">
+<img src="../../assets/1045.img">
 
  
 
@@ -302,7 +302,7 @@ The following are recommendations and best practices related to management of DR
 
 *   **DRM Processing Indication in KMC**- Entry and flavor status in the KMC during the DRM encryption/packaging is marked as Converting.
 *   **Export to CDN / Remote Storage** - When a CDN or remote storage is defined for the KMC account, flavors set to include DRM encryption will automatically be exported to the remote storage only following DRM encryption and packaging.
-*   **Preview of Encrypted Content in KMC** - Encrypted content may be previewed in the KMC only from the preview and embed window when selecting a Widevine enabled player and when using either Kaltura Auto or Progressive Download video delivery options. There are no restrictions on the selected embed type.<img src="{{site.url}}/assets/1014">
+*   **Preview of Encrypted Content in KMC** - Encrypted content may be previewed in the KMC only from the preview and embed window when selecting a Widevine enabled player and when using either Kaltura Auto or Progressive Download video delivery options. There are no restrictions on the selected embed type.<img src="../../assets/1014.img">
 *   **Grabbing Embed Codes of Entries with Encrypted Content** – Embed codes grabbed from the KMC for entries with encrypted content should be set with a selection of a Widevine enabled player, and when using either Kaltura Auto or Progressive Download video delivery options. There are no restrictions on the selected embed type.
 *   **Keep the Source Flavor in the Transcoding Profile Used for DRM Encryption **– This recommendation is to enable automated thumbnail creation for using media interactive tools available from the KMC such as Clipping / Trimming and Advertising Cue point settings and for possible future conversion to additional flavors. To secure non-encrypted flavors outside of the KMC, you may define the specific set of flavors authorized for delivery and download via the Access Control settings in the KMC.
 *   **Distribution Window and Content/License Revocation** - Use the entry scheduling option for defining the schedule window in which content is available for distribution. The entry scheduling is one of the conditions enforced by the Kaltura Widevine license proxy, thus license to view content will not be granted when outside of the defined schedule. You may set the entry scheduling information to a past time to revoke license granting and refreshing of existing licenses for a specific DRM protected content.

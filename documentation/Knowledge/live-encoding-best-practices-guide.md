@@ -63,7 +63,7 @@ date: 2015-11-11 12:17:44
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2549">
+    <img src="../../assets/2549.img">
   </p>
   
   <h2>
@@ -549,7 +549,7 @@ Cmd+Click or tap to follow the link">http://ny-publish-speedtest.kaltura.com:193
   </ul>
   
   <p style="padding-left: 30px;">
-     <img src="{{site.url}}/assets/2504">
+     <img src="../../assets/2504.img">
   </p>
   
   <p style="padding-left: 30px;">
@@ -557,7 +557,7 @@ Cmd+Click or tap to follow the link">http://ny-publish-speedtest.kaltura.com:193
   </p>
   
   <p style="padding-left: 30px;">
-    <em> <img src="{{site.url}}/assets/2505">
+    <em> <img src="../../assets/2505.img">
   </p>
   
   <p style="padding-left: 30px;">

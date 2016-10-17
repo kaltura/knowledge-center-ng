@@ -9,9 +9,9 @@ Kaltura MediaSpace 5 (KMS 5) has been redesigned and now implements a responsive
 
 
 For example, the MediaSpace header on a desktop displays as follows:  
-<img src="{{site.url}}/assets/1150">
+<img src="../../assets/1150.img">
 
 For example, the MediaSpace header on a mobile device displays as follows:  
-<img src="{{site.url}}/assets/1149">
+<img src="../../assets/1149.img">
 
  

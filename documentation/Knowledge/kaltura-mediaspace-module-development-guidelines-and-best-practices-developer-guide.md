@@ -92,7 +92,7 @@ date: 2013-12-01 15:22:30
     <a name="app_workflow"></a>Kaltura MediaSpace Application Workflow
   </h1>The following diagram describes the application flow of KMS. 
   
-  <br /><img src="{{site.url}}/assets/1252">
+  <br /><img src="../../assets/1252.img">
 </div>
 
 <div class="WordSection2">

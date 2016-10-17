@@ -74,7 +74,7 @@ After the Aspera account and its connected drop folder is activated, you can imm
 To upload content via Kaltura’s Aspera Upload Web Page
 
 *   Open Kaltura’s High-Speed Upload Web page either by clicking the High-Speed Upload button from the Upload menu that is enabled in your KMC account, or by browsing to: [https://aspera.kaltura.com][13]. (Requires Credentials)  
-    <img src="{{site.url}}/assets/892">
+    <img src="../../assets/892.img">
      
 
  [13]: https://aspera.kaltura.com/
@@ -102,21 +102,21 @@ To upload content via Kaltura’s Aspera Upload Web Page
 1.  Access Kaltura's Aspera Upload Web page at  [https://aspera.kaltura.com][13].
 2.  Enter your Aspera account credentials provided by Kaltura.  
     When accessing Kaltura’s Aspera Upload Web page for the first time, you will be prompted to enter your Aspera account credentials provided by Kaltura. These credentials will be used by all users uploading content via a specific drop folder to your KMC account.  Depending on your browser options and your organizational security needs, save your credentials so there is no need to enter them each time youwork with this page.  
-    <img src="{{site.url}}/assets/893">
+    <img src="../../assets/893.img">
 3.  Click Install Now to install the Aspera Web Browser Plugin**  
     **
 
-<img src="{{site.url}}/assets/919">
+<img src="../../assets/919.img">
 
   
 You will be redirected to Aspera’s download page for downloading Aspera’s web browser plug-in for the OS you are using.  
-<img src="{{site.url}}/assets/895">
+<img src="../../assets/895.img">
 The web browser plugin enables you to upload media in the background and allows you to continue working. The web browser plugin also enables you to monitor the progress of your file uploads to Kaltura, provides a real-time view about your network utilization for the specific uploads,  and provides the ability to pause and resume these uploads.  For additional information about configuration options of the web browser plug-in and browser version compatibility, see  the Aspera Connect 2.7.7 documentation available in  [HTML][12] format and as[ PDF][16].
 
  [16]: http://download.asperasoft.com/download/docs/connect/2.7.7/win/en/pdf/Connect_2.7.7_Windows_User_Guide.pdf
 
 1.  After the plugin is downloaded, activate its standard installation process:  
-    <img src="{{site.url}}/assets/896">
+    <img src="../../assets/896.img">
 
 After installation is completed, the plugin isinstalled on your computer. You can adjust the plugin preferences as needed, or you can immediately start uploading your content from Kaltura’s Aspera Upload web page at [https://aspera.kaltura.com][13]. The plugin is automatically activated when you upload files so there is no need to launch the plugin manually from your computer.
 
@@ -129,7 +129,7 @@ After installation is completed, the plugin isinstalled on your computer. You ca
 1.  On Kaltura’s Aspera Upload Web page click Upload File.
 
 <p style="text-align: center;">
-  <img src="{{site.url}}/assets/920">
+  <img src="../../assets/920.img">
 </p>
 
  
@@ -143,17 +143,17 @@ After installation is completed, the plugin isinstalled on your computer. You ca
     The first time you upload a file after you installed the web plugin, you will be prompted bya plugin popup to allow the transfer to the aspera.kaltura.com server.
 2.  Check the box Use my choice for all transfers to this Host and click Allow.
 
-<img src="{{site.url}}/assets/921">
+<img src="../../assets/921.img">
 
   
 Checking this box sets aspera.kaltura.com as a trusted host within the Aspera Web Plugin security configuration.
 
 1.  An authentication prompt is displayed to enter your Aspera account credentials again.
 
-<img src="{{site.url}}/assets/922">
+<img src="../../assets/922.img">
 
 <p style="text-align: left;">
-  <br /><br />If you check the <strong>Remember this password</strong> option - your Aspera account credentials will be saved into the Aspera web browser plugin preferences as well under the security>Passwords tab.<br /><img src="{{site.url}}/assets/923">
+  <br /><br />If you check the <strong>Remember this password</strong> option - your Aspera account credentials will be saved into the Aspera web browser plugin preferences as well under the security>Passwords tab.<br /><img src="../../assets/923.img">
 </p>
 
 <p style="text-align: left;">
@@ -184,7 +184,7 @@ Regardless of the type of Aspera client you are using, your Aspera account in Ka
 
 A parallel view of files being uploaded via Aspera to its connected Kaltura hosted Drop Folderis displayed from the Drop Folders Page in the KMC.  From this page, you can view more detailed information about the current state of file processing by the Drop Folder service, from the time the Aspera upload process is completed until the file is moved to Kaltura storage for transcoding.
 
-To read more about Kaltura’s Drop Folder ingestion flow please refer to article about [Kaltura Drop Folders.<img src="{{site.url}}/assets/901">
+To read more about Kaltura’s Drop Folder ingestion flow please refer to article about [Kaltura Drop Folders.<img src="../../assets/901.img">
 
 <span style="background-color: #ffff99;"> </span>
 

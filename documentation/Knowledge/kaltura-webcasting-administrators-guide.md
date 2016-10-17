@@ -49,7 +49,7 @@ date: 2015-10-25 01:00:47
       Go to the Kaltura MediaSpace Configuration Management window or the KAF Admin Console and go to the Configuration Management window.
     </li>
     <li>
-      Select the Events module in the Modules/Custom/core section.<br /><img src="{{site.url}}/assets/2897">
+      Select the Events module in the Modules/Custom/core section.<br /><img src="../../assets/2897.img">
     </li>
     <li>
       Select Yes to enable the module.<br /><table border="1" cellspacing="0" cellpadding="0">
@@ -113,10 +113,10 @@ date: 2015-10-25 01:00:47
       Login to Kaltura MediaSpace or the KAF Admin Console and go to the Configuration Management window.
     </li>
     <li>
-      Scroll down and click the <strong>Kwebcast</strong> module in the ModulesCustom/core section.<span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb"><br /><img src="{{site.url}}/assets/2983">
+      Scroll down and click the <strong>Kwebcast</strong> module in the ModulesCustom/core section.<span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb"><br /><img src="../../assets/2983.img">
     </li>
     <li>
-      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the Kwebcast module.<br /><img src="{{site.url}}/assets/2500">
+      <span class="inline-comment-marker valid" data-ref="6781e562-ffd5-40da-9f18-a3863046f3fb">In the Enabled field, select Yes to enable the Kwebcast module.<br /><img src="../../assets/2500.img">
     </li>
     <li>
       Select or enter values for the relevant fields and click Save.<br /><table style="width: 640px;" border="0" cellspacing="0" cellpadding="0">
@@ -320,7 +320,7 @@ date: 2015-10-25 01:00:47
       Login to Kaltura MediaSpace or your KAF based application.
     </li>
     <li>
-      Select Add New. <br />Webcast Event should display as one of the Add New options.<br /><img src="{{site.url}}/assets/2938">
+      Select Add New. <br />Webcast Event should display as one of the Add New options.<br /><img src="../../assets/2938.img">
     </li>
   </ol>
   

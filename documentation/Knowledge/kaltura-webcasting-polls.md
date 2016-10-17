@@ -45,13 +45,13 @@ date: 2016-09-04 10:29:41
   
   <ol>
     <li>
-      Open the Webcasting Application and in the <span>Timeline tab at the bottom of the application,</span> click the plus button <img src="{{site.url}}/assets/3461">
+      Open the Webcasting Application and in the <span>Timeline tab at the bottom of the application,</span> click the plus button <img src="../../assets/3461.img">
     </li>
     <li>
-      In the <strong>Add a New Poll Question</strong> screen, enter a poll question (up to 110 characters with spaces).<br /><br /><img src="{{site.url}}/assets/3464">
+      In the <strong>Add a New Poll Question</strong> screen, enter a poll question (up to 110 characters with spaces).<br /><br /><img src="../../assets/3464.img">
     </li>
     <li>
-      Next, click in the answers field below the question and add between two (minimum) to five (maximum) answers to the question posed. As you add answers, the application will add new optional answer lines. To add new lines, just press Tab or click in the new line.<br /><br /><img src="{{site.url}}/assets/3465">
+      Next, click in the answers field below the question and add between two (minimum) to five (maximum) answers to the question posed. As you add answers, the application will add new optional answer lines. To add new lines, just press Tab or click in the new line.<br /><br /><img src="../../assets/3465.img">
     </li>
     <li>
       When done, click <strong>Finish</strong> to save the poll. <br />Your poll is now ready for broadcasting.
@@ -72,19 +72,19 @@ date: 2016-09-04 10:29:41
   
   <ol>
     <li>
-      When you are ready to broadcast your poll to engage your audience, double click the poll to bring it up to the central positon on the Webcasting Application or click the arrow buttons to switch from the slide to the poll. <br /><br /><img src="{{site.url}}/assets/3535">
+      When you are ready to broadcast your poll to engage your audience, double click the poll to bring it up to the central positon on the Webcasting Application or click the arrow buttons to switch from the slide to the poll. <br /><br /><img src="../../assets/3535.img">
     </li>
     <li>
-      When you click <strong>Start Poll</strong>, the poll will open for attendee responses.  As attendees respond to the poll, your screen will display the results for each answer - but only on your screen, not those of the attendees:<br /><img src="{{site.url}}/assets/3536">
+      When you click <strong>Start Poll</strong>, the poll will open for attendee responses.  As attendees respond to the poll, your screen will display the results for each answer - but only on your screen, not those of the attendees:<br /><img src="../../assets/3536.img">
     </li>
     <li>
       Note that due to latency, it may take a while until attendees see the poll question and begin responding to it. You can use this time to read out the question and each possible answer, until you see responses flowing in. If attendees do not appear to be responding to the poll, you may want to encourage them by dropping hints about results or telling that that a certain, maybe unexpected result, is leading the poll.
     </li>
     <li>
-      When you have received enough responses (or decide that the poll has run its course), hover with your mouse over the bottom section of the poll to display the action buttons, and then click <strong>Stop Poll</strong>:<br /><br /><img src="{{site.url}}/assets/3537">
+      When you have received enough responses (or decide that the poll has run its course), hover with your mouse over the bottom section of the poll to display the action buttons, and then click <strong>Stop Poll</strong>:<br /><br /><img src="../../assets/3537.img">
     </li>
     <li>
-      When asked to confirm your action, click the checkmark next to the question "Are you sure?".<br /><br /><img src="{{site.url}}/assets/3543">
+      When asked to confirm your action, click the checkmark next to the question "Are you sure?".<br /><br /><img src="../../assets/3543.img">
     </li>
   </ol>
   
@@ -94,12 +94,12 @@ date: 2016-09-04 10:29:41
   
   <ol>
     <li>
-      Click <strong>Share Poll Results</strong> to display the results to your attendees.<br /><br /><img src="{{site.url}}/assets/3541">
+      Click <strong>Share Poll Results</strong> to display the results to your attendees.<br /><br /><img src="../../assets/3541.img">
         The poll results are displayed to the attendees and will appear on your screen with the top response highlighted:
       </p>
       
       <p>
-        <img src="{{site.url}}/assets/3540">
+        <img src="../../assets/3540.img">
       </p>
     </li>
     
@@ -122,7 +122,7 @@ date: 2016-09-04 10:29:41
   
   <ol>
     <li>
-      Click the Poll Results Setting icon <img src="{{site.url}}/assets/3538">
+      Click the Poll Results Setting icon <img src="../../assets/3538.img">
     </li>
     <li>
       In the Save As window, select a location where you would like to save the poll CSV file, and then click <strong>Save</strong> to save the file locally.

@@ -182,11 +182,11 @@ The following table lists some of the differences between categories and channel
 
  
 
-<img src="{{site.url}}/assets/1152">
+<img src="../../assets/1152.img">
 
 MediaSpace opens up with the Root categories displayed in the Category pane. 
 
-<img src="{{site.url}}/assets/1153">
+<img src="../../assets/1153.img">
 
 <p class="Procedure mce-procedure">
   To select a category

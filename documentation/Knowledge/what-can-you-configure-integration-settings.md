@@ -16,7 +16,7 @@ The Administrator Secret and User Secret are the API private keys used to genera
 
 For more information, please refer to the <a href="http://knowledge.kaltura.com/kaltura-api-documentation-set" target="_blank">Kaltura API Documentation Set</a>.
 
-<img src="{{site.url}}/assets/224">
+<img src="../../assets/224.img">
 
 <p class="mce-procedure">
   To view additional low-level account settings information

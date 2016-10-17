@@ -37,7 +37,7 @@ date: 2015-10-27 14:42:23
   
   <ol>
     <li>
-      Click on the link provided to you via email or calendar invitation to the event. <br />You can also click on the Webcasts page in MediaSpace to see which webcasting events are currently live. <br />The Event page will show the live event along with the Q&A panel. <br /><br /><img src="{{site.url}}/assets/2576">
+      Click on the link provided to you via email or calendar invitation to the event. <br />You can also click on the Webcasts page in MediaSpace to see which webcasting events are currently live. <br />The Event page will show the live event along with the Q&A panel. <br /><br /><img src="../../assets/2576.img">
     </li>
   </ol>
   
@@ -61,7 +61,7 @@ date: 2015-10-27 14:42:23
     </li>
     
     <li>
-      If you would like to add information to the message, click the thread below and enter the additional information in the <strong>Reply</strong> text box. <br /><img src="{{site.url}}/assets/2582">
+      If you would like to add information to the message, click the thread below and enter the additional information in the <strong>Reply</strong> text box. <br /><img src="../../assets/2582.img">
     </li>
   </ol>
   
@@ -74,7 +74,7 @@ date: 2015-10-27 14:42:23
       Once you receive a response to your message, you will see a blue dot indicating a new response is available.
     </li>
     <li>
-      Click the thread to view all unread messages.<br /><img src="{{site.url}}/assets/2909">
+      Click the thread to view all unread messages.<br /><img src="../../assets/2909.img">
     </li>
   </ol>
   

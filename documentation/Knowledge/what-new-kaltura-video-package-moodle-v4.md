@@ -57,7 +57,7 @@ The deployment process of the Kaltura Video Package for Moodle V4 is similar to 
 
 The Kaltura Video Package for Moodle V4 now also supports Moodle 2.8 through 3.0.  In particular, the the package supports the new *Atto* text editor, which is used by default in Moodle 2.8 through 3.0.
 
-<img src="{{site.url}}/assets/1646">
+<img src="../../assets/1646.img">
 
 <p class="mce-heading-2">
   My Media
@@ -73,7 +73,7 @@ The My Media page has undergone a complete look-and-feel revamp from V3. An impr
  [1]: #managing_entries
 
 <p style="padding-left: 30px;">
-  <img src="{{site.url}}/assets/1604">
+  <img src="../../assets/1604.img">
 </p>
 
 For additional information, please refer to the <a href="http://knowledge.kaltura.com/node/1168/attachment/field_media" target="_blank">Kaltura Video Plugin v4 for Moodle Version 2.8 - 3.0 User Manual</a>.
@@ -84,11 +84,11 @@ For additional information, please refer to the <a href="http://knowledge.kaltu
 
 A system administrator can now allow end users to delete owned content. In addition, it is possible to limit users from deleting (and editing) content after publishing it to others.  This way, you can prevent students from altering videos after they were used as a submission to a video assignment.
 
-<img src="{{site.url}}/assets/1605">
+<img src="../../assets/1605.img">
 
  
 
-<img src="{{site.url}}/assets/1606">
+<img src="../../assets/1606.img">
 
 <p align="center">
    
@@ -122,7 +122,7 @@ V4 offers many new ways for managing and editing entries from within the LMS, in
 
 **<a name="captions"></a><span class="mce-heading-4">Captions</span>**
 
-**<img src="{{site.url}}/assets/1607">
+**<img src="../../assets/1607.img">
 
 <p align="center">
    
@@ -130,14 +130,14 @@ V4 offers many new ways for managing and editing entries from within the LMS, in
 
 **<a name="Comments"></a><span class="mce-heading-4">Comments</span>**
 
-<img src="{{site.url}}/assets/1612">
+<img src="../../assets/1612.img">
 
 ** **
 
 **<a name="ThumbnailManagement"></a><span class="mce-heading-4">Thumbnail Management</span>**
 
 <p align="center">
-  <img src="{{site.url}}/assets/1610">
+  <img src="../../assets/1610.img">
 </p>
 
 <p align="center">
@@ -234,7 +234,7 @@ V4 offers many new ways for managing and editing entries from within the LMS, in
   </p>
   
   <p>
-    <strong><img src="{{site.url}}/assets/1611">
+    <strong><img src="../../assets/1611.img">
   </p>
   
   <p>
@@ -250,7 +250,7 @@ The Media Gallery, a new module introduced in V4, is a searchable gallery of med
 
 In V3, all content shared with a course was only accessible for use in the Kaltura Repository inside the Kaltura Resources and when embedding content inside the TinyMCE. Now, in V4, all content published to the Media Gallery is accessible, and searchable, allowing course owners to create a media syllabus or as a social media repository for the course.
 
-<img src="{{site.url}}/assets/1613">
+<img src="../../assets/1613.img">
 
 For more information please refer to the <a href="http://knowledge.kaltura.com/node/1168/attachment/field_media" target="_blank">Kaltura Video Plugin v4 for Moodle Version 2.8 - 3.0 User Manual</a>.
 
@@ -265,7 +265,7 @@ In v4, content owners can share content in several different ways:
 *   By embedding entries inside rich text items (TineMCE)
 *   By grabbing an embed code of the video to embed in an external site
 
-<img src="{{site.url}}/assets/1614">
+<img src="../../assets/1614.img">
 
 For more information please refer to the <a href="http://knowledge.kaltura.com/node/1168/attachment/field_media" target="_blank">Kaltura Video Plugin v4 for Moodle Version 2.8-3.0 User Manual</a>.
 
@@ -279,7 +279,7 @@ For more information please refer to the <a href="http://knowledge.kaltura.com/
 
 The Kaltura Course Media Reports, which was previously available under the Moodle home page, has  been moved to Media Gallery. Faculty members can gain insight in to media usage in their courses and get answers to questions like: Are students really watching the videos? Which videos are they watching most? Which students watch the videos? Are students watching the entire length of the videos? Which students contribute media to the course and do other students engage with that media?
 
-<img src="{{site.url}}/assets/1615">
+<img src="../../assets/1615.img">
 
 <p align="center">
    
@@ -295,7 +295,7 @@ V4 offers new ways to find content inside Moodle.
 
 *   **Search** - Quickly find videos based on metadata (name, description, tags, categories)
 
-*   **In-video Search** – Upload captions and then search for every spoken word. Search results allow skipping directly to the relevant part in the video. In-video search is available within an entry or across videos in the Course Gallery/My Media Gallery.<img src="{{site.url}}/assets/1617">
+*   **In-video Search** – Upload captions and then search for every spoken word. Search results allow skipping directly to the relevant part in the video. In-video search is available within an entry or across videos in the Course Gallery/My Media Gallery.<img src="../../assets/1617.img">
 
 <p align="center">
    
@@ -311,7 +311,7 @@ V4 offers new ways to find content inside Moodle.
 
 V4 introduces a brand new tool for embedding content – The Browse, Search and Embed Tool that allows users to embed content from their personal My Media repository, from Media Galleries of courses they have access to, and from the site’s Shared Repository.
 
-The Browse, Search and Embed Tool is available when embedding content inside a rich-text item (Tiny MCE), when adding media to a Kaltura Video Resource or Video Presentation and when submitting a video to a Kaltura Video Assignment.<img src="{{site.url}}/assets/1618">
+The Browse, Search and Embed Tool is available when embedding content inside a rich-text item (Tiny MCE), when adding media to a Kaltura Video Resource or Video Presentation and when submitting a video to a Kaltura Video Assignment.<img src="../../assets/1618.img">
 
 <p align="center">
    

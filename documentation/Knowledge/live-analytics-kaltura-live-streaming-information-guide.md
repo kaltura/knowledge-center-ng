@@ -96,7 +96,7 @@ You can access the Specific Entry Live Content detailed report (per entry) throu
   </p>The Live Content Dashboard Report filter is used to select how to display analytics for ‘live now’ entries only, or for all live entries in the past 36 hours. The summarized information that is shown in the report shows information based on the filter.
   
   <p>
-    <img src="{{site.url}}/assets/1952">
+    <img src="../../assets/1952.img">
   </p>
   
   <h2 class="mce-heading-4">
@@ -170,9 +170,9 @@ All information is calculated from within the past 36 hour window.
 1.  Select the Analytics tab and then select Live Real-Time Dashboard.
 2.  Filter the live entries. Select Kaltura Live Now Only or All Viewed Live Entries from the dropdown menu.
 3.  Click Details on an entry displayed on the dashboard.  
-    <img src="{{site.url}}/assets/1989">
+    <img src="../../assets/1989.img">
     The Specifc Entry for Live Content Detailed Report is displayed.  
-    <img src="{{site.url}}/assets/1992">
+    <img src="../../assets/1992.img">
 
 <h2 class="mce-heading-4">
   <span style="font-family: verdana, geneva;">Specific Entry for Live Content Detailed Report Summarized Information</span>
@@ -382,7 +382,7 @@ The following use case provides an example:
       Filter the live entries. Select All Viewed Live Entries from the dropdown menu
     </li>
     <li>
-      From the Live Content Dashboard Report, click Export to CSV.<br />The following message is displayed.<img src="{{site.url}}/assets/1982">
+      From the Live Content Dashboard Report, click Export to CSV.<br />The following message is displayed.<img src="../../assets/1982.img">
     </li>
     <li>
       Click OK.
@@ -409,7 +409,7 @@ The following use case provides an example:
       Filter the live entries. Select Kaltura Live Now Only from the dropdown menu
     </li>
     <li>
-      From the Live Content Dashboard Report, click Export to CSV.<br />The following message is displayed.<img src="{{site.url}}/assets/1982">
+      From the Live Content Dashboard Report, click Export to CSV.<br />The following message is displayed.<img src="../../assets/1982.img">
     </li>
     <li>
       Click OK.

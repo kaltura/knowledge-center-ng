@@ -30,10 +30,10 @@ date: 2016-01-27 20:15:15
   
   <ol>
     <li>
-      <span>Click on <em>Presentations & Lectures</em> in the <em>Record tab</em>.<br /><img src="{{site.url}}/assets/1869">
+      <span>Click on <em>Presentations & Lectures</em> in the <em>Record tab</em>.<br /><img src="../../assets/1869.img">
     </li>
     <li>
-      <span>Select the number of cameras you intend to use (up to three). When using the Kaltura CaptureSpace Desktop Recorder on a Mac, you are able to choose only one camera. <br /><img src="{{site.url}}/assets/1914">
+      <span>Select the number of cameras you intend to use (up to three). When using the Kaltura CaptureSpace Desktop Recorder on a Mac, you are able to choose only one camera. <br /><img src="../../assets/1914.img">
     </li>
     <li>
       <span>In addition, you can record the screen or upload a presentation. Toggle <em>Screen Capture On</em> to capture your entire screen or click <em>Browse</em> to select a presentation.</span>
@@ -42,7 +42,7 @@ date: 2016-01-27 20:15:15
       <span>Click <em>Record</em>. You are presented with a countdown for 5 seconds and then the recording begins.</span>
     </li>
     <li>
-      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="{{site.url}}/assets/1902">
+      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="../../assets/1902.img">
     </li>
     <li>
       <span>Click Done when finished recording.</span>
@@ -50,7 +50,7 @@ date: 2016-01-27 20:15:15
   </ol>
   
   <p>
-    <span><img src="{{site.url}}/assets/1874">
+    <span><img src="../../assets/1874.img">
   </p>
   
   <p>
@@ -63,7 +63,7 @@ date: 2016-01-27 20:15:15
   
   <ol>
     <li>
-      <span>Click on <em>Screen</em> in the <em>Record tab</em>.<br /><img src="{{site.url}}/assets/1865">
+      <span>Click on <em>Screen</em> in the <em>Record tab</em>.<br /><img src="../../assets/1865.img">
     </li>
     <li>
       <span>Select whether to record the entire screen or only a selected area. If you'd like to record the entire screen select <em>Full screen</em>. If you'd like to record a specific area of the screen, click on <em>Select Area</em>. To select an area – drag your mouse over the area you want to capture and release.</span><br /><span><img class="confluence-embedded-image confluence-external-resource" src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/Screencapture.png?itok=AkfelLn7" border="0" width="404" height="417" data-image-src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/Screencapture.png?itok=AkfelLn7" /></span>
@@ -72,7 +72,7 @@ date: 2016-01-27 20:15:15
       <span>When ready, click on Record to start the recording.</span>
     </li>
     <li>
-      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="{{site.url}}/assets/1902">
+      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="../../assets/1902.img">
     </li>
     <li>
       <span>Click <em>Done</em> when finished recording.[/collapsed]</span>
@@ -89,16 +89,16 @@ date: 2016-01-27 20:15:15
   
   <ol>
     <li>
-      <span>Click on <em>Screen & Webcam </em>in the <em>Record tab</em>.<br /><img src="{{site.url}}/assets/1875">
+      <span>Click on <em>Screen & Webcam </em>in the <em>Record tab</em>.<br /><img src="../../assets/1875.img">
     </li>
     <li>
-      <span>Select whether to record the entire screen or only a selected area. If you'd like to record the entire screen select <em>Full screen</em>. If you'd like to record  a specific area of the screen, click on <em>Select Area</em>. To select an area – drag your mouse over the area you want to capture and release.<br /><img src="{{site.url}}/assets/1877">
+      <span>Select whether to record the entire screen or only a selected area. If you'd like to record the entire screen select <em>Full screen</em>. If you'd like to record  a specific area of the screen, click on <em>Select Area</em>. To select an area – drag your mouse over the area you want to capture and release.<br /><img src="../../assets/1877.img">
     </li>
     <li>
-      <span>When ready, click on <em>Record</em> to start the recording.<br /><img src="{{site.url}}/assets/2138">
+      <span>When ready, click on <em>Record</em> to start the recording.<br /><img src="../../assets/2138.img">
     </li>
     <li>
-      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="{{site.url}}/assets/1902">
+      <span>Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them, or highlight important aspects. Anytime during a recording, you can click on <em>Draw</em> to use the drawing tools.<br /><img src="../../assets/1902.img">
     </li>
     <li>
       <span>Click <em>Done</em> when finished recording.[/collapsed]</span>
@@ -118,7 +118,7 @@ date: 2016-01-27 20:15:15
       <span>Click on <em>Webcam</em>  in the <em>Record tab</em>.</span>
     </li>
     <li>
-      <span>You are presented with a preview for about 5 seconds. The recording then starts.<br /><img src="{{site.url}}/assets/2139">
+      <span>You are presented with a preview for about 5 seconds. The recording then starts.<br /><img src="../../assets/2139.img">
     </li>
     <li>
       <span>Click Done when finished recording.[/collapsed]</span>
@@ -138,7 +138,7 @@ date: 2016-01-27 20:15:15
       <span>Click on <em>Voice</em>  in the <em>Record tab</em>. You will see a countdown before the recording begins.<br /><img class="confluence-embedded-image confluence-external-resource" src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/Voice_only.png?itok=Kcocr05F" border="0" width="404" height="85" data-image-src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/Voice_only.png?itok=Kcocr05F" /><br /></span>
     </li>
     <li>
-      <span>Control the recording using the recording player.<br /><img src="{{site.url}}/assets/1880">
+      <span>Control the recording using the recording player.<br /><img src="../../assets/1880.img">
     </li>
     <li>
       <span>Click <em>Done</em> when finished.[/collapsed]</span>

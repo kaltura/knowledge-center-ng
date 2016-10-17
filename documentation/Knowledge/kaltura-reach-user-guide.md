@@ -45,10 +45,10 @@ date: 2016-02-22 06:11:45
       Select the checkbox next to the entry.
     </li>
     <li>
-      In the Bulk Actions drop down on the lower left, select Add Tags<br /><img src="{{site.url}}/assets/3038">
+      In the Bulk Actions drop down on the lower left, select Add Tags<br /><img src="../../assets/3038.img">
     </li>
     <li>
-      Add your respective tag (ex: caption48) to the Tags field and Save Changes.<br /><img src="{{site.url}}/assets/3042">
+      Add your respective tag (ex: caption48) to the Tags field and Save Changes.<br /><img src="../../assets/3042.img">
     </li>
   </ol>
   
@@ -81,13 +81,13 @@ date: 2016-02-22 06:11:45
       Select the Content tab and then select the Categories tab.
     </li>
     <li>
-      Select Add Category.<br /><img src="{{site.url}}/assets/3045">
+      Select Add Category.<br /><img src="../../assets/3045.img">
     </li>
     <li>
       Select No Parent and click Next.
     </li>
     <li>
-      In the Metadata tab Name field enter the caption title (ex: ‘caption48’ or ‘caption5day’ or ’caption24’) and click Save & Close.<br /><img src="{{site.url}}/assets/3046">
+      In the Metadata tab Name field enter the caption title (ex: ‘caption48’ or ‘caption5day’ or ’caption24’) and click Save & Close.<br /><img src="../../assets/3046.img">
     </li>
   </ol>
   
@@ -104,10 +104,10 @@ date: 2016-02-22 06:11:45
       Select the Content tab and then select your entry that you assigned to a category.
     </li>
     <li>
-      In the Metadata tab, click on the pencil icon.<br />The Select Categories windows is displayed.<img src="{{site.url}}/assets/3047">
+      In the Metadata tab, click on the pencil icon.<br />The Select Categories windows is displayed.<img src="../../assets/3047.img">
     </li>
     <li>
-      Select the created category (‘caption48’ or ‘caption5day’ or ‘caption24’) and then click Save & Close’.<br /><img src="{{site.url}}/assets/3048">
+      Select the created category (‘caption48’ or ‘caption5day’ or ‘caption24’) and then click Save & Close’.<br /><img src="../../assets/3048.img">
     </li>
   </ol>
   
@@ -167,7 +167,7 @@ date: 2016-02-22 06:11:45
       Select Order Captions from the “Actions” drop down menu.
     </li>
     <li>
-      Select your desired options (Source Media Language, Translation, Accuracy, TAT) and click “Order Captions”.<br /><img src="{{site.url}}/assets/3069">
+      Select your desired options (Source Media Language, Translation, Accuracy, TAT) and click “Order Captions”.<br /><img src="../../assets/3069.img">
     </li>
   </ol>
   
@@ -469,7 +469,7 @@ date: 2016-02-22 06:11:45
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3489">
+    <img src="../../assets/3489.img">
   </p>
   
   <p>
@@ -492,7 +492,7 @@ date: 2016-02-22 06:11:45
       Premium (94 to 96% accuracy)
     </li>
     <li>
-      Mechanical (70 to 80% accuracy)<br /><img src="{{site.url}}/assets/3490">
+      Mechanical (70 to 80% accuracy)<br /><img src="../../assets/3490.img">
     </li>
   </ul>
   
@@ -530,7 +530,7 @@ date: 2016-02-22 06:11:45
   </ul>
   
   <p>
-    <img src="{{site.url}}/assets/3065">
+    <img src="../../assets/3065.img">
   </p>
   
   <p>
@@ -550,7 +550,7 @@ date: 2016-02-22 06:11:45
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3063">
+    <img src="../../assets/3063.img">
   </p>
   
   <p>
@@ -566,7 +566,7 @@ date: 2016-02-22 06:11:45
   </p>
   
   <p>
-    For example: If you requested 48 hour turnaround time for a professional fidelity job, Kaltura can return the Mechanical fidelity results within a few minutes, the Premium fidelity to you in 12-24 hours, then, finally, after 48 hours you would receive the full Professional fidelity.<br /><img src="{{site.url}}/assets/3062">
+    For example: If you requested 48 hour turnaround time for a professional fidelity job, Kaltura can return the Mechanical fidelity results within a few minutes, the Premium fidelity to you in 12-24 hours, then, finally, after 48 hours you would receive the full Professional fidelity.<br /><img src="../../assets/3062.img">
   </p>
   
   <p>
@@ -578,7 +578,7 @@ date: 2016-02-22 06:11:45
   </h3>
   
   <p>
-    To provide global caption ordering instructions as shown the in gray box, use the orderCaptionScreenText option in the REACH module.<br /><img src="{{site.url}}/assets/3043">
+    To provide global caption ordering instructions as shown the in gray box, use the orderCaptionScreenText option in the REACH module.<br /><img src="../../assets/3043.img">
   </p>
   
   <p>
@@ -619,7 +619,7 @@ date: 2016-02-22 06:11:45
       <a href="#order_thru_KMS">Order captions through the KMS</a>.
     </li>
     <li>
-      Go to My Media and select Pending Caption Requests from the Actions drop down menu.<br /><img src="{{site.url}}/assets/3057">
+      Go to My Media and select Pending Caption Requests from the Actions drop down menu.<br /><img src="../../assets/3057.img">
     </li>
     <li>
       You can moderate any pending caption requests by clicking the checkbox next to the entry title and then click Approve or Reject.<br /><ul>
@@ -631,7 +631,7 @@ date: 2016-02-22 06:11:45
         </li>
         <ul>
           <li>
-            To search, type in a term corresponding to the related field (i.e., Authorizing/In Process/Complete in the Status search bar).<br /><img src="{{site.url}}/assets/3061">
+            To search, type in a term corresponding to the related field (i.e., Authorizing/In Process/Complete in the Status search bar).<br /><img src="../../assets/3061.img">
           </li>
         </ul>
       </ul>
@@ -654,7 +654,7 @@ date: 2016-02-22 06:11:45
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/3055">
+    <img src="../../assets/3055.img">
   </p>
   
   <p>
@@ -662,7 +662,7 @@ date: 2016-02-22 06:11:45
   </p>
   
   <p>
-    If you do not see your caption requests please click “<strong>Refresh list: CLICK HERE to see all Caption Requests for this media</strong>” in View Caption Requests screen.<br /><img src="{{site.url}}/assets/3056">
+    If you do not see your caption requests please click “<strong>Refresh list: CLICK HERE to see all Caption Requests for this media</strong>” in View Caption Requests screen.<br /><img src="../../assets/3056.img">
   </p>
   
   <p>
@@ -687,7 +687,7 @@ date: 2016-02-22 06:11:45
   
   <ol>
     <li>
-      Select your video and in the Edit window select Actions > Edit Captions.<br /><img src="{{site.url}}/assets/3051">
+      Select your video and in the Edit window select Actions > Edit Captions.<br /><img src="../../assets/3051.img">
     </li>
     <li>
       Click COMPLETE  to access the Customer Edit tool.

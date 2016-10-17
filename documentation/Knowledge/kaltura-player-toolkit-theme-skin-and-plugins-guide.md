@@ -144,7 +144,7 @@ The Kaltura Player v2 Toolkit, aka Player v2, greatly simplifies the configurati
 
 The following diagram visualizes the architecture of Kaltura Player v2 Toolkit, and highlights its flexibility and robustness across platforms and devices: 
 
-<img src="{{site.url}}/assets/1642">
+<img src="../../assets/1642.img">
 
  
 
@@ -154,7 +154,7 @@ As the diagram outlines, we can leverage native components for <a href="https://
 
 Another important aspect of the player architecture is the unified handing of all player and plugin properties. These properties which can be configured in JSON, at runtime, or set dynamically. See API documentation on properties. These properties can also be combined via macros as a value for any property. For example your vast plugin property vast.adTagURL can include evaluations that reference any other plugin, player or context state. The follow diagram helps illustrate how context and content can be used in ad tag urls, the same macro mapping is used in player-serverices ( ad stitching ) product. Also see vast ad tags documentation. This can be used outside of ads and analytics, for example using content metadata to define watermark image url; accomplishing many business logic requirements as purely configuration. 
 
-<img src="{{site.url}}/assets/2240">
+<img src="../../assets/2240.img">
 
 <p class="mce-heading-2">
   Leading With HTML5
@@ -634,7 +634,7 @@ What advantages are gained by going native? Here is a feature list that will hel
 6.  Copy the respective code.
 7.  Paste the code into a page hosted on a webserver ( locally or remote ). Note you should access the page via a web server with http:// not file://  
     You should now have a page that looks like this:  
-    <img src="{{site.url}}/assets/1281">
+    <img src="../../assets/1281.img">
 8.  Create a new file called "customSkin.css" in the same folder. For starters this will just change the play button to a jack-o-lantern.
 9.  <pre class="brush: jscript;gutter: false; light: true; fontsize: 100; first-line: 1; ">/* clear out the font based icon */
 .largePlayBtn.icon-play:before {
@@ -668,7 +668,7 @@ kWidget.embed({
 
 12. Now load the page in your browser. You should get:  
       
-     <img src="{{site.url}}/assets/1282">
+     <img src="../../assets/1282.img">
       
     
 
@@ -683,7 +683,7 @@ When moving to production you should host your CSS file in an absolute URL and r
 
 After you are satisfied with your CSS adjustments and have pushed your CSS or JavaScript to a CDN location, you can use the <a href="http://knowledge.kaltura.com/universal-studio-information-guide" target="_blank" title="Universal studio">Universal Studio</a> to quickly insert your custom CSS & JS into the JSON config. Within the Universal Studio go to the "Plugins -> uiVars" section, and then use the same keys IframeCustomPluginCss1 & IframeCustomPluginJs1 to insert the values: 
 
-<img src="{{site.url}}/assets/1576">
+<img src="../../assets/1576.img">
 
 <p class="mce-heading-3">
   JSON Config vs uiConf Config

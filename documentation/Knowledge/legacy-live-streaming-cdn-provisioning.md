@@ -82,9 +82,9 @@ Then you will need to integrate your Streaming Server or CDN with your Kaltura C
 
 1.  Login into the KMC and go to the Upload tab.
 2.  Select Live Stream Entry.  
-    <img src="{{site.url}}/assets/98">
+    <img src="../../assets/98.img">
 3.  Then the Add New Stream window appears.  
-    <img src="{{site.url}}/assets/102">
+    <img src="../../assets/102.img">
 4.  Fill in the values and click Save. 
 
  
@@ -199,10 +199,10 @@ Multiple Bit Rate (MBR) encoding is designed to adjust to fluctuations in bandwi
 *   When broadcasting with MBR the player will choose the most appropriate bitrate to stream. Be certain that your client encoder is aligned with the same settings.
 *   Determining the right bit rates for your Live Stream is generally dependent on the quality of your video, the size of the player your viewers will use, the bandwidth your client encoder computer has and the bandwidth of your viewers. It is common to have widths of 240, 360, 480, 720 and 1080 with HD content streaming. If you are broadcasting a webcam, it is generally best to use the default KMC settings. To get professional assistance, please contact Kaltura’s support.
 
-<img src="{{site.url}}/assets/103">
+<img src="../../assets/103.img">
 
   
-<img src="{{site.url}}/assets/108">
+<img src="../../assets/108.img">
 
  
 
@@ -247,7 +247,7 @@ Multiple Bit Rate (MBR) encoding is designed to adjust to fluctuations in bandwi
 
 1.  Return to the KMC and select the Content tab.
 2.  In the KMC Entries Table, click the Preview & Embed link for the live stream entry.  
-    <img src="{{site.url}}/assets/107">
+    <img src="../../assets/107.img">
 3.  Select the player from the drop-down menu and copy the Embed Code.
 4.  Paste the Embed Code within an HTML page.<span class="Apple-tab-span" style="white-space: pre;"> </span>
 5.  Browse to the page where the embed code was inserted and press Play on the video player.

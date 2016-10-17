@@ -26,7 +26,7 @@ date: 2013-11-20 18:09:06
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/1239">
+    <img src="../../assets/1239.img">
   </p>
   
   <p>
@@ -568,7 +568,7 @@ Since the roles passed to the KAF application in LTI-based authentication are LI
 
 The mapping may be done in the configuration of the “hosted” module.
 
-<img src="{{site.url}}/assets/1245">
+<img src="../../assets/1245.img">
 
 For each LIS role you can configure the applicative role in KAF that the user will be assigned.
 
@@ -605,9 +605,9 @@ The Gallery Module includes the following functionality:
 *   Upload new content and publish to the gallery (according to user’s role)
 *   Moderate content in gallery (optional)
 
-The following diagram describes the user flow between the different available pages and functionality within this module:<img src="{{site.url}}/assets/1242">
+The following diagram describes the user flow between the different available pages and functionality within this module:<img src="../../assets/1242.img">
 
-<span style="font-size: 1em;"><img src="{{site.url}}/assets/1243">
+<span style="font-size: 1em;"><img src="../../assets/1243.img">
 
 <a name="My_Media_Module"></a><span class="mce-heading-4">My Media Module</span>
 
@@ -623,6 +623,6 @@ Specific functionality in this module includes:
 
 The following diagram describes the user flow between the different available pages and functionality within the My Media Module: 
 
-<img src="{{site.url}}/assets/1284">
+<img src="../../assets/1284.img">
 
-<img src="{{site.url}}/assets/1286">
+<img src="../../assets/1286.img">

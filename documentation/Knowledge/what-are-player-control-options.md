@@ -17,8 +17,8 @@ date: 2011-12-27 10:21:55
 
  
 
-<img src="{{site.url}}/assets/147">
+<img src="../../assets/147.img">
 
  
 
-<img src="{{site.url}}/assets/148">
+<img src="../../assets/148.img">

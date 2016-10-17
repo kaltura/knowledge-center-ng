@@ -21,7 +21,7 @@ date: 2016-05-03 01:28:47
   </p>
   
   <p>
-    <span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2097">
+    <span style="font-family: verdana, geneva;"><img src="../../assets/2097.img">
   </p>
   
   <p>
@@ -49,16 +49,16 @@ date: 2016-05-03 01:28:47
       <span style="font-family: verdana, geneva; color: #888888;">Login to your My Media page.</span>
     </li>
     <li>
-      <span style="font-family: verdana, geneva; color: #888888;">Click on the entry you want to edit.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="{{site.url}}/assets/2087">
+      <span style="font-family: verdana, geneva; color: #888888;">Click on the entry you want to edit.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="../../assets/2087.img">
     </li>
     <li>
       <span style="font-family: verdana, geneva; color: #808080;">In the entry page, click the Actions button and select Edit.<br /></span>
     </li>
     <li>
-      <span style="font-family: verdana, geneva; color: #808080;">Select the Timeline tab. Here you can view all the chapters and slides in the video.<br /><img src="{{site.url}}/assets/2081">
+      <span style="font-family: verdana, geneva; color: #808080;">Select the Timeline tab. Here you can view all the chapters and slides in the video.<br /><img src="../../assets/2081.img">
     </li>
     <li>
-      <span style="font-family: verdana, geneva; color: #808080;">Place the cursor on the timeline and click Create Chapter to update a new chapter, or click on the cue point for the chapter you want to edit to view its properties. </span><br /><span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2098">
+      <span style="font-family: verdana, geneva; color: #808080;">Place the cursor on the timeline and click Create Chapter to update a new chapter, or click on the cue point for the chapter you want to edit to view its properties. </span><br /><span style="font-family: verdana, geneva;"><img src="../../assets/2098.img">
     </li>
     <li>
       <span style="color: #808080; font-family: verdana, geneva;">After you create a chapter, you can:<br /></span>
@@ -106,13 +106,13 @@ date: 2016-05-03 01:28:47
         <span style="font-family: verdana, geneva; color: #808080;">Select the Timeline tab. Here you can view all the chapters and slides in the video.</span>
       </li>
       <li>
-        <span style="font-family: verdana, geneva; color: #808080;">Click on the cue point of the chapter you want to delete from the timeline of the video.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="{{site.url}}/assets/2084">
+        <span style="font-family: verdana, geneva; color: #808080;">Click on the cue point of the chapter you want to delete from the timeline of the video.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="../../assets/2084.img">
       </li>
       <li>
         <span style="font-family: verdana, geneva; color: #808080;">Click Delete Chapter.<br /></span>
       </li>
       <li>
-        <span style="font-family: verdana, geneva; color: #808080;">A confirmation box is displayed, click Delete to confirm. <br /><img src="{{site.url}}/assets/2020">
+        <span style="font-family: verdana, geneva; color: #808080;">A confirmation box is displayed, click Delete to confirm. <br /><img src="../../assets/2020.img">
       </li>
       <li>
         <span style="font-family: verdana, geneva; color: #808080;">Click View in Player to see your changes.[/collapsed]</span>
@@ -145,22 +145,22 @@ date: 2016-05-03 01:28:47
       <span style="font-family: verdana, geneva; color: #808080;">Login to your My Media page.</span>
     </li>
     <li>
-      <span style="font-family: verdana, geneva; color: #808080;">Click on the entry you would like to edit.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="{{site.url}}/assets/2087">
+      <span style="font-family: verdana, geneva; color: #808080;">Click on the entry you would like to edit.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="../../assets/2087.img">
     </li>
     <li>
       <span style="font-family: verdana, geneva; color: #808080;">In the entry page, click the Actions button and select Edit.</span>
     </li>
     <li>
       <span style="font-family: verdana, geneva; color: #808080;"><span style="color: #808080;">Select the Timeline tab. Here you can view all the chapters and slides in the video. <br /></span></span><p>
-        <span style="font-family: verdana, geneva;"><img src="{{site.url}}/assets/2082">
+        <span style="font-family: verdana, geneva;"><img src="../../assets/2082.img">
       </p>
     </li>
     
     <li>
-      <span style="font-family: verdana, geneva; color: #808080;">Place the cursor on the timeline and click the Add Slide icon to add a slide or slide deck, or click on the cue point for the slide you want to edit to view its properties.<br /><img src="{{site.url}}/assets/2099">
+      <span style="font-family: verdana, geneva; color: #808080;">Place the cursor on the timeline and click the Add Slide icon to add a slide or slide deck, or click on the cue point for the slide you want to edit to view its properties.<br /><img src="../../assets/2099.img">
     </li>
     <li>
-      <span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;"><span style="color: #808080;"><span>Use the drop down menu to choose whether to upload a single slide or a full deck of slides. The s</span></span></span></span><span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;"><span style="color: #808080;"><span></span></span></span></span>upported formats are: PPT, PPTX, and PDF.<br /><img src="{{site.url}}/assets/3113">
+      <span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;"><span style="color: #808080;"><span>Use the drop down menu to choose whether to upload a single slide or a full deck of slides. The s</span></span></span></span><span style="font-family: verdana, geneva;"><span style="font-family: verdana, geneva;"><span style="color: #808080;"><span></span></span></span></span>upported formats are: PPT, PPTX, and PDF.<br /><img src="../../assets/3113.img">
     </li>
     <li>
       <span style="color: #808080;">After you select or upload a slide, you can:</span>
@@ -208,13 +208,13 @@ date: 2016-05-03 01:28:47
         <span style="font-family: verdana, geneva; color: #808080;">Select the Timeline tab. Here you can view all the chapters and slides in the video.</span>
       </li>
       <li>
-        <span style="font-family: verdana, geneva; color: #808080;">Click on the cue point of the slide you want to delete from the timeline of the video.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="{{site.url}}/assets/2085">
+        <span style="font-family: verdana, geneva; color: #808080;">Click on the cue point of the slide you want to delete from the timeline of the video.</span><br /><span style="font-family: verdana, geneva; color: #808080;"><img src="../../assets/2085.img">
       </li>
       <li>
         <span style="font-family: verdana, geneva; color: #808080;">Click Delete Slide.</span>
       </li>
       <li>
-        <span style="font-family: verdana, geneva; color: #808080;">A confirmation box is displayed, click Delete to confirm. <br /><img src="{{site.url}}/assets/2019">
+        <span style="font-family: verdana, geneva; color: #808080;">A confirmation box is displayed, click Delete to confirm. <br /><img src="../../assets/2019.img">
       </li>
       <li>
         <span style="font-family: verdana, geneva; color: #808080;">Click View in Player to see your changes.[/collapsed]</span>

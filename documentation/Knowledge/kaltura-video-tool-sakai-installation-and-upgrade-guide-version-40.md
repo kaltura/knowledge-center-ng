@@ -367,7 +367,7 @@ kaltura.site.copy.incontext=true
       Click on 'Edit Tools'.<br />In the resulting page, you should see two new tools named 'My Media' and ‘Media Gallery’ available in the list.
     </li>
     <li>
-      Select the checkbox of the desired tool you want to add to your site and click Save.<br /><span class="mce-note-graphic">If the Sakai site had an existing Media Gallery tool/page added to it, then no steps are required to update the Media Gallery tool.<br /><img src="{{site.url}}/assets/2992">
+      Select the checkbox of the desired tool you want to add to your site and click Save.<br /><span class="mce-note-graphic">If the Sakai site had an existing Media Gallery tool/page added to it, then no steps are required to update the Media Gallery tool.<br /><img src="../../assets/2992.img">
     </li>
   </ol>
   
@@ -421,7 +421,7 @@ kaltura.site.copy.incontext=true
       Select the radio button next to Kaltura Admin Tool (kaltura admin) and click Save under Complete the Site Edit.
     </li>
     <li>
-      Go to the Administration Workspace site and on the left navigation page the Kaltura Admin Tool should be available.<br /><img src="{{site.url}}/assets/2993">
+      Go to the Administration Workspace site and on the left navigation page the Kaltura Admin Tool should be available.<br /><img src="../../assets/2993.img">
     </li>
   </ol>
   
@@ -494,19 +494,19 @@ kaltura.site.copy.incontext=true
       Login into Sakai server as an admin user.
     </li>
     <li>
-      Click 'Job Scheduler' link from admin user's My Workspace.<br /><img src="{{site.url}}/assets/2994">
+      Click 'Job Scheduler' link from admin user's My Workspace.<br /><img src="../../assets/2994.img">
     </li>
     <li>
       Click 'Jobs' button. On the next page, click 'New Job' button.
     </li>
     <li>
-      Enter the Job Name and select the Type: 'Add My Media For Existing Users Job' and click Post.<br /><img src="{{site.url}}/assets/2995">
+      Enter the Job Name and select the Type: 'Add My Media For Existing Users Job' and click Post.<br /><img src="../../assets/2995.img">
     </li>
     <li>
-      Click on 'Triggers(0)” next to Kaltura Job.<br /><img src="{{site.url}}/assets/2996">
+      Click on 'Triggers(0)” next to Kaltura Job.<br /><img src="../../assets/2996.img">
     </li>
     <li>
-      Click on Run Job Now button. Confirm by clicking again on Run Now button in this page.<br /><img src="{{site.url}}/assets/2997">
+      Click on Run Job Now button. Confirm by clicking again on Run Now button in this page.<br /><img src="../../assets/2997.img">
     </li>
   </ol>
   
@@ -553,7 +553,7 @@ kaltura.site.copy.incontext=true
         Click <strong>Edit Tools</strong> in the menu along the top of the window.
       </li>
       <li>
-        Check <strong>Media Gallery and/or My Media</strong> to include the Media Gallery and My Media on your site.<br /><img src="{{site.url}}/assets/2999">
+        Check <strong>Media Gallery and/or My Media</strong> to include the Media Gallery and My Media on your site.<br /><img src="../../assets/2999.img">
       </li>
       <li>
         Click <strong>Continue</strong> at the bottom of the screen.
@@ -633,7 +633,7 @@ kaltura.site.copy.incontext=true
         Enter the Trigger Name and Cron Expression to setup triggers for the Kaltura job and click post.
       </li>
       <li>
-        Repeat the above steps to add a job and trigger for 'Add kaltura site copy job check status' job. Set the trigger to run every 20 seconds.<br /><img src="{{site.url}}/assets/2991">
+        Repeat the above steps to add a job and trigger for 'Add kaltura site copy job check status' job. Set the trigger to run every 20 seconds.<br /><img src="../../assets/2991.img">
       </li>
     </ol>
     

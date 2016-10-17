@@ -17,7 +17,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2642">
+    <img src="../../assets/2642.img">
   </p>
   
   <p>
@@ -25,7 +25,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2643">
+    <img src="../../assets/2643.img">
   </p>
   
   <p>
@@ -33,7 +33,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2644">
+    <img src="../../assets/2644.img">
   </p>
   
   <p>
@@ -49,7 +49,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <em><img src="{{site.url}}/assets/2645">
+    <em><img src="../../assets/2645.img">
   </p>
   
   <p>
@@ -57,7 +57,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <em><img src="{{site.url}}/assets/2646">
+    <em><img src="../../assets/2646.img">
   </p>
   
   <p>
@@ -88,7 +88,7 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <em><img src="{{site.url}}/assets/2647">
+    <em><img src="../../assets/2647.img">
   </p>
   
   <p>
@@ -128,5 +128,5 @@ date: 2015-12-04 18:02:14
   </p>
   
   <p>
-    <img src="{{site.url}}/assets/2641">
+    <img src="../../assets/2641.img">
   </p>

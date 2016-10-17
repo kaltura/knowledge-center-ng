@@ -26,7 +26,7 @@ date: 2015-01-06 23:32:13
   
 
 
-<span style="color: #000000;"><img src="{{site.url}}/assets/2104">
+<span style="color: #000000;"><img src="../../assets/2104.img">
 
 <p class="mce-heading-2">
   <span style="font-family: verdana, geneva; color: #000000;">Interactive Viewing</span>
@@ -39,14 +39,14 @@ date: 2015-01-06 23:32:13
 *   <span style="font-family: verdana, geneva; color: #000000;">Single View - Enables you to view the content captured in a specific stream, either presentation or video, in a single player (<span style="color: #0000ff;"><a href="#Single"><span style="color: #0000ff;">Figure 3 Single View</span></a></span>).<br /></span>
 *   <span style="font-family: verdana, geneva; color: #000000;">Toggle Views - Enables you to toggle between the presentation and the videos (<span style="color: #0000ff;"><a href="#Toggle"><span style="color: #0000ff;">Figure 4.1 </span></a></span>and <span style="color: #0000ff;"><a href="#Tog"><span style="color: #0000ff;">Figure 4.2 Toggle Options</span></a></span>).<br /><br /></span>
 
-<span style="color: #000000; font-family: verdana, geneva;"><img src="{{site.url}}/assets/1955">
+<span style="color: #000000; font-family: verdana, geneva;"><img src="../../assets/1955.img">
 
 <p style="text-align: justify; padding-left: 180px;">
   <span style="font-family: verdana, geneva; color: #000000;"><a name="Picture"></a>Figure 1 Picture in Picture</span>
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #000000; font-family: verdana, geneva;"><img src="{{site.url}}/assets/1965">
+  <span style="color: #000000; font-family: verdana, geneva;"><img src="../../assets/1965.img">
 </p>
 
 <p style="text-align: justify; padding-left: 210px;">
@@ -54,7 +54,7 @@ date: 2015-01-06 23:32:13
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #000000; font-family: verdana, geneva;"><img src="{{site.url}}/assets/1960">
+  <span style="color: #000000; font-family: verdana, geneva;"><img src="../../assets/1960.img">
 </p>
 
 <p style="text-align: justify; padding-left: 210px;">
@@ -62,7 +62,7 @@ date: 2015-01-06 23:32:13
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #000000; font-family: verdana, geneva;"><img src="{{site.url}}/assets/1961">
+  <span style="color: #000000; font-family: verdana, geneva;"><img src="../../assets/1961.img">
 </p>
 
 <p style="text-align: justify; padding-left: 210px;">
@@ -70,7 +70,7 @@ date: 2015-01-06 23:32:13
 </p>
 
 <p style="text-align: justify;">
-  <span style="font-family: verdana, geneva; color: #000000;"> <img src="{{site.url}}/assets/2118">
+  <span style="font-family: verdana, geneva; color: #000000;"> <img src="../../assets/2118.img">
 </p>
 
 <p style="text-align: justify; padding-left: 180px;">
@@ -81,7 +81,7 @@ date: 2015-01-06 23:32:13
   <span style="font-family: verdana, geneva; color: #000000;">Navigating the Video</span>
 </p>
 
-<span style="font-family: verdana, geneva; color: #000000;">The Kaltura Player’s navigation menu opens up the chapters and displays the slides for the Kaltura CaptureSpace recording. <br /><img src="{{site.url}}/assets/2105">
+<span style="font-family: verdana, geneva; color: #000000;">The Kaltura Player’s navigation menu opens up the chapters and displays the slides for the Kaltura CaptureSpace recording. <br /><img src="../../assets/2105.img">
 
 <p class="mce-heading-3">
   <span style="font-family: verdana, geneva; color: #000000;">Slides and Chapters</span>

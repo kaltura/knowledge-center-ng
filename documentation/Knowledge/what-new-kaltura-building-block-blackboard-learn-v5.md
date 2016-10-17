@@ -79,7 +79,7 @@ date: 2015-02-02 20:23:33
 *   <span style="color: #888888; font-family: verdana, geneva;">Publishing to the Shared Repository (similar to contributing to Faculty Repository in V4)</span>
 *   <span style="color: #888888; font-family: verdana, geneva;">Advanced media management and editing capabilities, as described in <span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/1250/revisions/6729/view#managing_entries" target="_blank"><span style="color: #003366;">Managing and Editing Entries.</span></a></span></span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2088">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2088.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For additional information, please refer to the <a href="http://knowledge.kaltura.com/node/1254/attachment/field_media" target="_blank"><span style="color: #888888;"><span style="color: #003366;">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manua</span>l</span></a>.</span>
 
@@ -89,7 +89,7 @@ date: 2015-02-02 20:23:33
 
 <span style="color: #888888; font-family: verdana, geneva;">A system administrator can now allow end users to delete owned content. In addition, it is possible to limit users from deleting (and editing) content after publishing it to others.  This enhancement allows you to prevent students from altering videos after they were used as a submission to a video assignment.</span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2089">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2089.img">
 
 <span style="color: #888888; font-family: verdana, geneva;"><a href="#top">Back to top.</a></span>
 
@@ -118,7 +118,7 @@ date: 2015-02-02 20:23:33
 *   <span style="color: #888888; font-family: verdana, geneva;">Advanced media management and editing capabilities, as described in <a href="http://knowledge.kaltura.com/node/1250/revisions/6729/view#managing_entries"><span style="color: #888888;"><span style="color: #003366;">Managing and Editing Entries</span>.</span></a></span>
 *   <span style="color: #888888; font-family: verdana, geneva;">Gallery analytics – as described in video analytics</span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2090">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2090.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For more information please refer to the <span style="color: #003366;"><span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/1254/attachment/field_media" target="_blank">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manual</a>.</span></span></span>
 
@@ -136,7 +136,7 @@ date: 2015-02-02 20:23:33
 *   <span style="color: #888888; font-family: verdana, geneva;">Are students watching the entire length of the videos?</span>
 *   <span style="color: #888888; font-family: verdana, geneva;">Which students contribute media to the course and do other students engage with that media?</span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2091">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2091.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For more information please refer to the <span style="color: #888888;"><a href="http://knowledge.kaltura.com/node/1254/attachment/field_media">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manual</a>.</span></span>
 
@@ -152,7 +152,7 @@ date: 2015-02-02 20:23:33
 
 <span style="color: #888888; font-family: verdana, geneva;"> </span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2092">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2092.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For more information please refer to the <span style="color: #003366;"><span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/1254/attachment/field_media">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manual</a>.</span></span></span>
 
@@ -168,7 +168,7 @@ date: 2015-02-02 20:23:33
 
 <span style="color: #888888; font-family: verdana, geneva;">Content can be easily shared with the Faculty Repository directly from My Media or with the Browse, Search and Embed tool within the Faculty Repository.</span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2093">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2093.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For additional information, please refer to the <span style="color: #003366;"><span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/1254/attachment/field_media">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manual</a>.</span></span></span>
 
@@ -180,7 +180,7 @@ date: 2015-02-02 20:23:33
 
 <span style="color: #888888; font-family: verdana, geneva;">The Featured Media module can be added to a course homepage and display selected highlighted media from the Media Gallery.</span>
 
-<span style="color: #888888; font-family: verdana, geneva;"><img src="{{site.url}}/assets/2094">
+<span style="color: #888888; font-family: verdana, geneva;"><img src="../../assets/2094.img">
 
 <span style="color: #888888; font-family: verdana, geneva;">For additional information, please refer to the <span style="color: #003366;"><span style="color: #003366;"><a href="http://knowledge.kaltura.com/node/1254/attachment/field_media">Kaltura Video Building Block 5 for Blackboard Learn 9.x User Manual</a>.</span></span></span>
 
@@ -192,6 +192,6 @@ date: 2015-02-02 20:23:33
 
 <span style="color: #888888; font-family: verdana, geneva;">V5 offers a very granular control over roles and permissions via LTI mappings. You can easily manage access to different parts of the Kaltura Building Block.</span>
 
-<span style="font-family: verdana, geneva;"><span style="color: #888888;"><img src="{{site.url}}/assets/2095">
+<span style="font-family: verdana, geneva;"><span style="color: #888888;"><img src="../../assets/2095.img">
 
 <span style="color: #888888; font-family: verdana, geneva;"><a href="#top">Back to top.</a></span>

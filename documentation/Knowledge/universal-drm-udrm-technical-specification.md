@@ -411,7 +411,7 @@ date: 2016-03-31 20:21:06
   </p>
   
   <p class="Figure">
-     <img src="{{site.url}}/assets/3085">
+     <img src="../../assets/3085.img">
   </p>
   
   <p>
@@ -982,7 +982,7 @@ date: 2016-03-31 20:21:06
   </p>
   
   <p class="Figure">
-     <img src="{{site.url}}/assets/3086">
+     <img src="../../assets/3086.img">
   </p>
   
   <p>
@@ -1035,7 +1035,7 @@ date: 2016-03-31 20:21:06
   </p>
   
   <p class="Figure">
-     <img src="{{site.url}}/assets/3087">
+     <img src="../../assets/3087.img">
   </p>
   
   <p>

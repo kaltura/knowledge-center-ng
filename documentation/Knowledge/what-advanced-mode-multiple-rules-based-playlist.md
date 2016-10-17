@@ -8,4 +8,4 @@ Use the Advanced Mode to create playlists based on multiple rules. See c[reate/a
 
  [1]: http://knowledge.kaltura.com/faq/how-create-add-multiple-rules-playlist
 
-<span style="font-family: times new roman,times; font-size: medium;"><img src="{{site.url}}/assets/129">
+<span style="font-family: times new roman,times; font-size: medium;"><img src="../../assets/129.img">

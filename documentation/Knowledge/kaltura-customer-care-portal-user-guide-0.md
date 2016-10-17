@@ -296,7 +296,7 @@ date: 2015-12-02 13:42:03
         Go to <a href="https://kaltura2.force.com/CCPT/login" target="_blank">https://kaltura2.force.com/CCPT/login</a>.
       </li>
       <li>
-        Log in using the credentials in the “Welcome to Kaltura Customer Portal” registration email you received. The login screen appears as follows:<br /><img src="{{site.url}}/assets/2625">
+        Log in using the credentials in the “Welcome to Kaltura Customer Portal” registration email you received. The login screen appears as follows:<br /><img src="../../assets/2625.img">
       </li>
     </ol>
     
@@ -319,7 +319,7 @@ date: 2015-12-02 13:42:03
         <a href="#main">Main Cases</a> (yellow box)
       </li>
       <li>
-        <a href="#knowledge">Knowledge and Documentation</a> (orange box)<br /><img src="{{site.url}}/assets/2638">
+        <a href="#knowledge">Knowledge and Documentation</a> (orange box)<br /><img src="../../assets/2638.img">
       </li>
     </ul>
     
@@ -342,7 +342,7 @@ date: 2015-12-02 13:42:03
         Cases – presents the status of open, closed, and recent cases
       </li>
       <li>
-        Messages – provides access to product updates, announcements<br /><img src="{{site.url}}/assets/2627">
+        Messages – provides access to product updates, announcements<br /><img src="../../assets/2627.img">
       </li>
     </ul>
     
@@ -355,7 +355,7 @@ date: 2015-12-02 13:42:03
     </h3>
     
     <p>
-      The Recent Items area on the left side of the home page tracks your movement in the system and enables you to quickly return to recently viewed cases, accounts, and users.<br /><img src="{{site.url}}/assets/2628">
+      The Recent Items area on the left side of the home page tracks your movement in the system and enables you to quickly return to recently viewed cases, accounts, and users.<br /><img src="../../assets/2628.img">
     </p>
     
     <p>
@@ -371,7 +371,7 @@ date: 2015-12-02 13:42:03
     </p>
     
     <p>
-      Clicking on the “Create New Case” button opens the <a href="#new_case">New Case window</a>.<br /><img src="{{site.url}}/assets/2629">
+      Clicking on the “Create New Case” button opens the <a href="#new_case">New Case window</a>.<br /><img src="../../assets/2629.img">
     </p>
     
     <h3>
@@ -379,7 +379,7 @@ date: 2015-12-02 13:42:03
     </h3>
     
     <p>
-      The Knowledge and Documentation area on the right side of the homepage contains links to Kaltura’s Knowledge Center documentation database, product updates regarding recent releases, general announcements about availability and operations, and reminders for Kaltura users.<br /><img src="{{site.url}}/assets/2630">
+      The Knowledge and Documentation area on the right side of the homepage contains links to Kaltura’s Knowledge Center documentation database, product updates regarding recent releases, general announcements about availability and operations, and reminders for Kaltura users.<br /><img src="../../assets/2630.img">
     </p>
     
     <p>
@@ -407,7 +407,7 @@ date: 2015-12-02 13:42:03
       Choose the account you want to view from the drop-down list.
     </li>
     <li>
-      Click GO. Your account information appears.<br /><img src="{{site.url}}/assets/2633">
+      Click GO. Your account information appears.<br /><img src="../../assets/2633.img">
     </li>
   </ol>
   
@@ -470,7 +470,7 @@ date: 2015-12-02 13:42:03
     </ol>
     
     <li>
-      Select the type of cases to view, and click GO.<br /><img src="{{site.url}}/assets/2634">
+      Select the type of cases to view, and click GO.<br /><img src="../../assets/2634.img">
     </li>
   </ol>
   
@@ -497,7 +497,7 @@ date: 2015-12-02 13:42:03
         In the Account view
       </li>
       <li>
-        In the Cases view<br />The New Case screen is displayed.<br /><img src="{{site.url}}/assets/2635">
+        In the Cases view<br />The New Case screen is displayed.<br /><img src="../../assets/2635.img">
       </li>
     </ul>
   </ol>
@@ -579,7 +579,7 @@ date: 2015-12-02 13:42:03
   </h3>
   
   <p>
-    The Announcements section contains the latest Kaltura product news, general announcements regarding product availability and operational, and reminders to Kaltura users.<br /><img src="{{site.url}}/assets/2636">
+    The Announcements section contains the latest Kaltura product news, general announcements regarding product availability and operational, and reminders to Kaltura users.<br /><img src="../../assets/2636.img">
   </p>
   
   <p>

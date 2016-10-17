@@ -29,9 +29,9 @@ The parameters are passed in the following form:
 ***http://YourKalturaServer/p/{partner\_id}/thumbnail/entry\_id/{entry_id}**/paramX\_name/paramX\_value/...*
 
 1.  Replace *{partner_id}* with your partner id from the [KMC Integration Settings][1].  
-    <img src="{{site.url}}/assets/226">
+    <img src="../../assets/226.img">
 2.  Replace *{entry_id}* with the id of the desired entry thumbnail. The id can be found in the list of entries in the <a href="http://www.kaltura.com/index.php/kmc/kmc4#content|manage" target="_blank">KMC Content Tab</a>.  
-    <img src="{{site.url}}/assets/227">
+    <img src="../../assets/227.img">
 3.  Then append any of the parameters below according to the following format: /paramX\_name/paramX\_value/...
 
  [1]: http://www.kaltura.com/index.php/kmc/kmc4#account|integration

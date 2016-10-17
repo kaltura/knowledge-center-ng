@@ -21,7 +21,7 @@ date: 2016-01-27 18:36:18
       <span>Login to Kaltura MediaSpace or follow the instructions for login provided by your system administrator.</span>
     </li>
     <li>
-      <span>Click on the <em>Add New button</em> and select <em>Record a Presentation</em>.<br /><img src="{{site.url}}/assets/1891">
+      <span>Click on the <em>Add New button</em> and select <em>Record a Presentation</em>.<br /><img src="../../assets/1891.img">
     </li>
     <li>
       <span>When using the application for the first time you may be prompted by the browser to approve the application. Each browser may prompt you with a unique message.<br />The following screen shows the <em>External Protocol Request</em> window as it appears when using Chrome.<br /><br /><img class="confluence-embedded-image confluence-external-resource" src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/2014-12-10_0216_3.png?itok=uQoNtIQy" border="0" width="434" height="411" data-image-src="http://knowledge.kaltura.com/sites/default/files/styles/large/public/2014-12-10_0216_3.png?itok=uQoNtIQy" /></span>
@@ -30,7 +30,7 @@ date: 2016-01-27 18:36:18
       <span>Click Launch Application to download the CaptureSpace Desktop Recorder.</span>
     </li>
     <li>
-      <span>After the Kaltura CaptureSpace Desktop Recorder downloads, click <em>Install</em>. <br /><br />If using a Mac, drag the Kaltura CaptureSpace Desktop Recorder application to the applications folder.<br /><img src="http://knowledge.kaltura.com/sites/default/files/Screen%20Shot%202015-01-27%20at%208.50.33%20PM.png" border="0" alt="" width="411" height="292" /><br />You will receive the following message when installation completes.<br /><br /><img src="{{site.url}}/assets/1922">
+      <span>After the Kaltura CaptureSpace Desktop Recorder downloads, click <em>Install</em>. <br /><br />If using a Mac, drag the Kaltura CaptureSpace Desktop Recorder application to the applications folder.<br /><img src="http://knowledge.kaltura.com/sites/default/files/Screen%20Shot%202015-01-27%20at%208.50.33%20PM.png" border="0" alt="" width="411" height="292" /><br />You will receive the following message when installation completes.<br /><br /><img src="../../assets/1922.img">
     </li>
     <li>
       <span>Click <em>OK</em> and return to Kaltura MediaSpace.</span>
@@ -57,10 +57,10 @@ date: 2016-01-27 18:36:18
       <span>Login to Kaltura MediaSpace.</span>
     </li>
     <li>
-      <span>Go to the <em>Add Menu</em> and select <em>Record a Presentation</em>.<br /><img src="{{site.url}}/assets/1892">
+      <span>Go to the <em>Add Menu</em> and select <em>Record a Presentation</em>.<br /><img src="../../assets/1892.img">
     </li>
     <li>
-      <span>The Kaltura CaptureSpace Desktop Recorder opens.<br /><img src="{{site.url}}/assets/1856">
+      <span>The Kaltura CaptureSpace Desktop Recorder opens.<br /><img src="../../assets/1856.img">
     </li>
   </ol>
   
@@ -79,7 +79,7 @@ date: 2016-01-27 18:36:18
   </ol>
   
   <p>
-    <span><img src="{{site.url}}/assets/1868">
+    <span><img src="../../assets/1868.img">
   </p>
   
   <p class="mce-note-graphic">

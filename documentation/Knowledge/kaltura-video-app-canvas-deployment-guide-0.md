@@ -143,10 +143,10 @@ date: 2015-12-31 12:39:58
   
   <ol>
     <li>
-      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="{{site.url}}/assets/2761">
+      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="../../assets/2761.img">
     </li>
     <li>
-      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="{{site.url}}/assets/2763">
+      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="../../assets/2763.img">
     </li>
     <li>
       Click Add New App to open the Edit External Tool Dialog.
@@ -265,12 +265,12 @@ date: 2015-12-31 12:39:58
     </li>
     
     <li>
-      Click <strong>Submit</strong>. The My Media tool will be listed in the list of external tools and a new navigation menu item will be added to the course menu.<br /><img src="{{site.url}}/assets/2764">
+      Click <strong>Submit</strong>. The My Media tool will be listed in the list of external tools and a new navigation menu item will be added to the course menu.<br /><img src="../../assets/2764.img">
     </li>
   </ol>
   
   <p style="padding-left: 60px;">
-    <img src="{{site.url}}/assets/2765">
+    <img src="../../assets/2765.img">
   </p>
   
   <p align="center">
@@ -291,10 +291,10 @@ date: 2015-12-31 12:39:58
   
   <ol>
     <li>
-      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="{{site.url}}/assets/2766">
+      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="../../assets/2766.img">
     </li>
     <li>
-      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="{{site.url}}/assets/2763">
+      Click <strong>View App Configurations</strong> to open the list of external apps:<br /><img src="../../assets/2763.img">
     </li>
     <li>
       Click Add New App to open the Edit External Tool Dialog.
@@ -439,12 +439,12 @@ date: 2015-12-31 12:39:58
     </li>
     
     <li>
-      Click Submit. The Media Gallery tool will be listed in the list of external tools and a new navigation menu item will be added to the course menu.<br /><img src="{{site.url}}/assets/2768">
+      Click Submit. The Media Gallery tool will be listed in the list of external tools and a new navigation menu item will be added to the course menu.<br /><img src="../../assets/2768.img">
     </li>
   </ol>
   
   <p style="padding-left: 60px;">
-    <img src="{{site.url}}/assets/2769">
+    <img src="../../assets/2769.img">
   </p>
   
   <p>
@@ -453,10 +453,10 @@ date: 2015-12-31 12:39:58
   
   <ol>
     <li>
-      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="{{site.url}}/assets/2770">
+      In your Canvas environment, go to <strong>Settings</strong> and click <strong>Apps</strong>:<br /><img src="../../assets/2770.img">
     </li>
     <li>
-      <span style="font-size: 1em;">Search for the </span><strong style="font-size: 1em;">Kaltura</strong><span style="font-size: 1em;"> app.<br /><img src="{{site.url}}/assets/2771">
+      <span style="font-size: 1em;">Search for the </span><strong style="font-size: 1em;">Kaltura</strong><span style="font-size: 1em;"> app.<br /><img src="../../assets/2771.img">
     </li>
     <li>
       <span style="font-size: 1em;"></span>Select “Add App” and enter the following information:<br /><table border="1" cellspacing="0" cellpadding="0">

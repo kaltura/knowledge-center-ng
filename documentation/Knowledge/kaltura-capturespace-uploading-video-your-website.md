@@ -48,13 +48,13 @@ date: 2016-01-27 20:20:46
       <span>Select the recording you would like to upload and click <em>Upload now.</em></span>
     </li>
     <li>
-      <span>Enter metadata for your media and click <em>Save</em>.</span><br /><span><img src="{{site.url}}/assets/1895">
+      <span>Enter metadata for your media and click <em>Save</em>.</span><br /><span><img src="../../assets/1895.img">
     </li>
     <li>
-      <span>Click on <em>Upload</em> to begin uploading to the website.<br /><img src="{{site.url}}/assets/1897">
+      <span>Click on <em>Upload</em> to begin uploading to the website.<br /><img src="../../assets/1897.img">
     </li>
     <li>
-      <span>After the video finishes uploading, a notification with a link to the recording is displayed.<br /><img src="{{site.url}}/assets/1898">
+      <span>After the video finishes uploading, a notification with a link to the recording is displayed.<br /><img src="../../assets/1898.img">
     </li>
   </ol>
   

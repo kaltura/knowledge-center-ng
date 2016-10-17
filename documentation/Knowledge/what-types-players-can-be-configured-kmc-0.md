@@ -10,6 +10,6 @@ The Studio tab displays the list of the players defined in the system. The defau
 
 The Studio contains the following templates of players:
 
- <img src="{{site.url}}/assets/870">
+ <img src="../../assets/870.img">
 
 <span style="font-size: small;"> </span>

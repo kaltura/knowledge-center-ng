@@ -622,7 +622,7 @@ You may need to create channels in bulk, either at the initial setup or upon maj
     - Enter the category entitlement settings according to the type of channel (open/restricted/private).  
     - You can add additional information, such as channel description, tags, and any custom channel classification or topic managed by the category’s custom data. The channel owner also can manually enter this information in MediaSpace after the channel is created.  
     - Insert the Categories CSV headers for fields that are populated in your CSV.  
-    <img src="{{site.url}}/assets/791">
+    <img src="../../assets/791.img">
     *Categories CSV for creating different types of MediaSpace Channels*  
     **NOTE:** While there is no limit on the number of lines in the CSV, the processing time of each CSV is affected by the number of lines in the CSV. Therefore, we recommend splitting the CSV into manageable chunks for convenient editing, processing, and tracking. 
 3.  On the KMC Upload tab, upload the Categories CSV.  
@@ -677,13 +677,13 @@ Channel permissions should be assigned in bulk for a large number of new channel
 </p>
 
 1.  For all new channels for which you are assigning permissions, prepare an initial list of organizational user/group membership pairs with the required channel permission levels.  
-    <img src="{{site.url}}/assets/792">
+    <img src="../../assets/792.img">
     *Initial list of group memberships*  
     - When you export group memberships from your organizational information system for the list, you may need to separately query all group managers, all group members, and so on. This is to ensure that different channel permission levels are assigned according to the user’s organization role within a specific group.  
     - If you want the channel to be self-managed in MediaSpace and did not assign a channel owner when creating the channel, assign a Manager permission level to at least one user.
 2.  Edit the basic group membership list in a spreadsheet editor or programmatically to comply with [Kaltura’s End-User Entitlements CSV format][11]. Specifically, insert the CSV field headers, specify the CSV add action (action =1), and specify the numeric value of each permission level according to Kaltura’s specifications.  
     You may assign permissions for multiple channels within one CSV file.  
-    <img src="{{site.url}}/assets/793">
+    <img src="../../assets/793.img">
     *Channel memberships formatted in Kaltura's End-User Entitlements CSV*  
     **NOTE:** While there is no limit on the number of lines in the CSV, the processing time of each CSV is affected by the number of lines in the CSV. Therefore, we recommend splitting the CSV into manageable chunks for convenient editing, processing, and tracking.
 3.  On the KMC Upload tab, upload the End-User Entitlements CSV.  
@@ -754,7 +754,7 @@ Automating ongoing updates of channel permissions requires the expertise and ful
   </ol>
   
   <li>
-    Prepare the End-User Entitlements CSV.<br />Transform the initial list of channel permission actions (add, update, delete) to comply with <a href="{{site.url}}/documentation/Knowledge/end-user-entitlements-csv-usage-and-schema-description.html">Kaltura’s End-User Entitlements CSV format</a>. Insert the CSV field headers and specify the permission levels and actions.<br />To add a user permission, use the CSV add action (action = 1).<br />To update a user permission or create a new one as a fallback in case the permission you attempt to update was not yet set, use the CSV add or update action (action = 6).<br />To delete a user permission, use the CSV delete action (action = 3).<br /><img src="{{site.url}}/assets/794">
+    Prepare the End-User Entitlements CSV.<br />Transform the initial list of channel permission actions (add, update, delete) to comply with <a href="{{site.url}}/documentation/Knowledge/end-user-entitlements-csv-usage-and-schema-description.html">Kaltura’s End-User Entitlements CSV format</a>. Insert the CSV field headers and specify the permission levels and actions.<br />To add a user permission, use the CSV add action (action = 1).<br />To update a user permission or create a new one as a fallback in case the permission you attempt to update was not yet set, use the CSV add or update action (action = 6).<br />To delete a user permission, use the CSV delete action (action = 3).<br /><img src="../../assets/794.img">
   </li>
   <li>
     Submit the End-User Entitlements CSV.<br />When the End-User Entitlements CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryUser&action=addfrombulkupload">categoryUser.addfrombulkupload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.
@@ -871,9 +871,9 @@ You can do either of the following:
 *   Prepare a [Kaltura End-User Entitlements CSV][11]:
 *   To deactivate a user's channel membership, use the CSV update action (action = 2) with status = 3.
 *   To activate a user's channel membership, use the CSV update action (action = 2) with status = 1.  
-    <img src="{{site.url}}/assets/795">
+    <img src="../../assets/795.img">
     *Deactivating channel's members (status = 3)*  
-    <img src="{{site.url}}/assets/796">
+    <img src="../../assets/796.img">
     *Reactivating channel's members (status=1)*
 
 <p class="mce-heading-1">
@@ -916,7 +916,7 @@ To populate the auto-complete list with all users who potentially can use MediaS
     Use the CSV <em>add</em> or <em>update</em> action (action = 6) to update any existing user record that includes only the user ID with the user’s first and last names, or to create new records.
   </li>
   <li>
-    (Optional) Combine the first and last names into an additional field called <em>screenName</em>, which also is used in the KMC and applications.<br /><img src="{{site.url}}/assets/797">
+    (Optional) Combine the first and last names into an additional field called <em>screenName</em>, which also is used in the KMC and applications.<br /><img src="../../assets/797.img">
   </li>
 </ol>
 
@@ -964,7 +964,7 @@ To add or delete users, you can:
     List the users to add or delete in the Add Members auto-complete users list.<br />Create the list of users to be added or deleted, based on your information system audit, querying, and export capabilities.
   </li>
   <li>
-    Prepare the End-User CSV.<br />Transform your update data to comply with the <a href="{{site.url}}/documentation/Knowledge/end-users-csv-usage-and-schema-description.html">Kaltura’s end-users CSV format</a> for adding/deleting users from the user list. Insert the CSV field headers and specify the actions.<br />To add a user, use the CSV <em>add</em> or <em>update</em> action (action = 6). To delete a user, use the CSV <em>delete</em> action (action = 3). <br /><img src="{{site.url}}/assets/798">
+    Prepare the End-User CSV.<br />Transform your update data to comply with the <a href="{{site.url}}/documentation/Knowledge/end-users-csv-usage-and-schema-description.html">Kaltura’s end-users CSV format</a> for adding/deleting users from the user list. Insert the CSV field headers and specify the actions.<br />To add a user, use the CSV <em>add</em> or <em>update</em> action (action = 6). To delete a user, use the CSV <em>delete</em> action (action = 3). <br /><img src="../../assets/798.img">
   </li>
   <li>
     Submit the End-User CSV.<br />When the End-Users CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=addfrombulkupload">user.addfrombulkupload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.

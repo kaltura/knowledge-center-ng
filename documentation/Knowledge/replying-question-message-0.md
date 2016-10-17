@@ -13,7 +13,7 @@ date: 2016-01-11 17:58:18
       Click on the question.
     </li>
     <li>
-      Type your message in the text box and click <strong>Send</strong>. <br />Your response will only be shared with the attendee that asked the question.<br /><img src="{{site.url}}/assets/2921">
+      Type your message in the text box and click <strong>Send</strong>. <br />Your response will only be shared with the attendee that asked the question.<br /><img src="../../assets/2921.img">
     </li>
     <li>
       Click X to return to the questions queue. The question will automatically be moved to the Completed queue. 

@@ -27,7 +27,7 @@ date: 2015-12-06 13:16:52
   
   <ul>
     <li>
-      Click the <strong>Analytics</strong> icon.<br /><img src="{{site.url}}/assets/2604">
+      Click the <strong>Analytics</strong> icon.<br /><img src="../../assets/2604.img">
     </li>
   </ul>
   
@@ -58,5 +58,5 @@ date: 2015-12-06 13:16:52
   </ul>
   
   <p>
-    <img src="{{site.url}}/assets/2965">
+    <img src="../../assets/2965.img">
   </p>
