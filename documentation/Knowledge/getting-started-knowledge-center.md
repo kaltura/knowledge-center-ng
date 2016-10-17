@@ -10,7 +10,7 @@ Browse [Getting Started Articles][1].
 
  
 
-<img src="../../assets/196">
+<img src="../../assets/196.img">
 
 <p class="mce-heading-2">
   Quick Menu

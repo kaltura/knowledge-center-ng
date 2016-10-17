@@ -21,7 +21,7 @@ Using Kaltura’s APIs it is possible to enhance your own applications with vide
 
 The following screenshot displays potential use cases for Kaltura custom metadata:
 
-<img src="../../assets/503">
+<img src="../../assets/503.img">
 
 ###  Enriching Information Describing the Video
 

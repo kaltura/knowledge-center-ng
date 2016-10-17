@@ -46,7 +46,7 @@ For more information see <a href="{{site.url}}/documentation/Knowledge/508-supp
 3.  Add a text field named “AudioFile”.  
 4.  Select the Metadata tab.
 5.  Enter the value of the URL of the audio file.  
-    <img src="../../assets/1060">
+    <img src="../../assets/1060.img">
 6.  Click Save.
 
 <p class="mce-procedure">
@@ -59,7 +59,7 @@ For more information see <a href="{{site.url}}/documentation/Knowledge/508-supp
 4.  Click AD to On.
 5.  Press Play.
 
-The following is an example of an entry with the Audio Description turned on.<img src="../../assets/992">
+The following is an example of an entry with the Audio Description turned on.<img src="../../assets/992.img">
 
 [Here][3] you can find an example that demonstrates the functionality. You can turn the background music on/off by clicking the "AD" button on the player. Please keep in mind that background music is obviously not the typical use case, and is just used for demo purposes.
 

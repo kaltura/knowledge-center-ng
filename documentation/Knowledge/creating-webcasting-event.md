@@ -25,7 +25,7 @@ date: 2015-10-27 15:32:47
       Log in to <strong>Kaltura MediaSpace</strong> or follow the instructions for login provided by your system administrators.
     </li>
     <li>
-      Click <strong>Add New</strong> and select <strong>Webcast Event</strong>.<br /><img src="../../assets/2900">
+      Click <strong>Add New</strong> and select <strong>Webcast Event</strong>.<br /><img src="../../assets/2900.img">
     </li>
     <li>
       <span>Enter values for the following fields to describe the event.</span><ol style="list-style-type: lower-alpha;">
@@ -59,7 +59,7 @@ date: 2015-10-27 15:32:47
           <strong>Unlisted</strong> - Media page will be visible to anyone with a link to the page.
         </li>
         <li>
-          <strong>Published </strong>- Media page will be visible to individuals according to entitlements on published destinations; it will also appear in the MediaSpace Events page. Selecting this option adds the Categories and Channels selection tabs. <br /><img src="../../assets/2503">
+          <strong>Published </strong>- Media page will be visible to individuals according to entitlements on published destinations; it will also appear in the MediaSpace Events page. Selecting this option adds the Categories and Channels selection tabs. <br /><img src="../../assets/2503.img">
         </li>
       </ul>
       

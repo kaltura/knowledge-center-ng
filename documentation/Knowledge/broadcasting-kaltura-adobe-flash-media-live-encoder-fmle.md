@@ -61,7 +61,7 @@ date: 2016-08-10 21:26:47
       In the Content tab, locate your live entry and click on it to edit the entry.
     </li>
     <li>
-      Click on "Export XML to FMLE".<br /><img src="../../assets/3373">
+      Click on "Export XML to FMLE".<br /><img src="../../assets/3373.img">
     </li>
     <li>
       Save the exported XML to your computer
@@ -81,10 +81,10 @@ date: 2016-08-10 21:26:47
       Launch FMLE on your computer.
     </li>
     <li>
-      Go to File→Open Profile.<br /><img src="../../assets/3374">
+      Go to File→Open Profile.<br /><img src="../../assets/3374.img">
     </li>
     <li>
-      Navigate to where the XML was saved and select Open to automatically configure the broadcasting URLs to Kaltura SaaS.<br /><img src="../../assets/3375">
+      Navigate to where the XML was saved and select Open to automatically configure the broadcasting URLs to Kaltura SaaS.<br /><img src="../../assets/3375.img">
     </li>
   </ol>
   
@@ -242,7 +242,7 @@ date: 2016-08-10 21:26:47
       Any disconnection or failure will appear in the encoding logs.
     </li>
     <li>
-      Review the  FMLE encoding and publishing statistics tabs to make sure the stream is properly broadcasted to Kaltura servers (primary and backup). If you experience frame drops, please make sure you have sufficient bandwidth and CPU resources.<br /><img src="../../assets/3376">
+      Review the  FMLE encoding and publishing statistics tabs to make sure the stream is properly broadcasted to Kaltura servers (primary and backup). If you experience frame drops, please make sure you have sufficient bandwidth and CPU resources.<br /><img src="../../assets/3376.img">
     </li>
   </ul>
   

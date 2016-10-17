@@ -15,4 +15,4 @@ date: 2012-02-26 13:58:30
 5.  Enter a Name and Description.
 6.  Enter the System Name (optional). This field is required if you are uploading content using Bulk XML files or if you need access to the schema via the API.
 7.  Click Add Field.
-8.  Add <a href="{{site.url}}/documentation/Knowledge/how-add-fields-custom-metadata-profile.html" target="_blank">custom data fields</a>.<img src="../../assets/685">
+8.  Add <a href="{{site.url}}/documentation/Knowledge/how-add-fields-custom-metadata-profile.html" target="_blank">custom data fields</a>.<img src="../../assets/685.img">

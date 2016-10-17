@@ -14,7 +14,7 @@ date: 2011-12-25 22:41:43
 2.  <span style="font-size: small;">Select the Captions tab.</span>
 3.  <span style="font-size: small;">Click Add Another Caption.</span>
 4.  <span style="font-size: small;">Select the Type. Choose SRT or DXFP.</span>
-5.  <span style="font-size: small;">Either paste an external URL in the File Location or click Upload File and upload an SRT or DFXP file from your computer.<img src="../../assets/1049">
+5.  <span style="font-size: small;">Either paste an external URL in the File Location or click Upload File and upload an SRT or DFXP file from your computer.<img src="../../assets/1049.img">
 6.  <span style="font-size: small;">Assign a Language to the caption from the drop down menu. </span>
 7.  <span style="font-size: small;">Enter a Label that will appear in the player’s captions drop-down menu. For example: Japanese.</span>
 8.  <span style="font-size: small;">In the Actions column click Set as Default.(optional – use for multiple languages)</span>

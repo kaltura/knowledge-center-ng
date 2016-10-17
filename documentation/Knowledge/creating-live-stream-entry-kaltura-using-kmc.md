@@ -9,9 +9,9 @@ date: 2011-12-25 21:59:12
 </p>
 
 1.  Login into the KMC and click on the Upload tab, then click on "Live Stream Entry".  
-    <img src="../../assets/3370">
+    <img src="../../assets/3370.img">
     The Add New Stream window is displayed.  
-    <img src="../../assets/3371">
+    <img src="../../assets/3371.img">
 2.  Configure the live stream attributes according to your preferences.  
     <table class="relative-table confluenceTable tablesorter tablesorter-default stickyTableHeaders">
       <colgroup><col /><col /></colgroup><thead class="tableFloatingHeaderOriginal">

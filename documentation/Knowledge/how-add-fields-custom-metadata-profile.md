@@ -11,12 +11,12 @@ date: 2012-02-26 14:17:53
 1.  Select the Settings tab and then select the Custom Data menu.
 2.  Add a schema. See <a href="{{site.url}}/documentation/Knowledge/how-add-kaltura-custom-metadata-schema-profile.html" target="_blank">Adding a Schema</a>.
 3.  Click Add Field.  
-    The New Field window appears.<span style="font-size: small;"><br /><img src="../../assets/293">
+    The New Field window appears.<span style="font-size: small;"><br /><img src="../../assets/293.img">
 4.  Select the Field type. See [What fields can be configured in the Kaltura custom metadata schema][1].
 5.  Enter values for the field or list.
 6.  (Optional) Add a Description, or Full Description.
 7.  Click Save. The Custom Fields List is displayed.
-8.  Use the up and down arrows to change the order of the fields.<span style="font-size: small;"><br /></span>The following is an example of entering data as a Text Select list for the field Publish Values.<img src="../../assets/687">
+8.  Use the up and down arrows to change the order of the fields.<span style="font-size: small;"><br /></span>The following is an example of entering data as a Text Select list for the field Publish Values.<img src="../../assets/687.img">
 
  [1]: http://knowledge.kaltura.com/node/343
 
@@ -37,7 +37,7 @@ The following is an example of a Custom Metadata Schema.
 
  
 
-<span><img src="../../assets/289">
+<span><img src="../../assets/289.img">
 
  
 

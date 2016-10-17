@@ -10,7 +10,7 @@ date: 2011-12-24 20:19:28
 
 *   Select the Settings tab and then select the Account Settings menu.
 
-<img src="../../assets/87">
+<img src="../../assets/87.img">
 
 The following table describes the fields for account information:
 

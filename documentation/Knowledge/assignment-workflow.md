@@ -33,7 +33,7 @@ date: 2015-08-31 14:49:57
   </p>
   
   <p>
-    <img src="../../assets/2425">
+    <img src="../../assets/2425.img">
   </p>
   
   <p>
@@ -69,7 +69,7 @@ date: 2015-08-31 14:49:57
   </p>
   
   <p>
-    <span><img src="../../assets/2426">
+    <span><img src="../../assets/2426.img">
   </p>
   
   <p>

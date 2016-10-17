@@ -15,10 +15,10 @@ date: 2014-08-26 21:21:13
 
 3) Copy the stream settings for the live entry display: 
 
-<img src="../../assets/1599">
+<img src="../../assets/1599.img">
 
 4) Email these seettings to your self or otherwise share a note to your device with these settings, then copy and paste them into the broadcast me settings. Be sure to **update the stream name to replace \_%i with \_1**
 
-<img src="../../assets/1600">
+<img src="../../assets/1600.img">
 
 5) Save the settings and start broadcasting. Within 30 to 60 seconds the live stream should appear active and your broadcast from your iPhone should be live. 

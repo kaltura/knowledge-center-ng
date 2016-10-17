@@ -21,4 +21,4 @@ A schema is a model for describing the structure of information. Each data sch
 4.  Select what entity to apply the metadata to. The options are Entries or Categories.
 5.  Enter the System Name (optional). This field is required if you are uploading content using Bulk XML files or if you need access to the schema via the API.
 6.  Click Add Field.
-7.  <a href="{{site.url}}/documentation/Knowledge/how-add-fields-custom-metadata-profile.html" target="_blank">Add custom data fields.<img src="../../assets/715">
+7.  <a href="{{site.url}}/documentation/Knowledge/how-add-fields-custom-metadata-profile.html" target="_blank">Add custom data fields.<img src="../../assets/715.img">

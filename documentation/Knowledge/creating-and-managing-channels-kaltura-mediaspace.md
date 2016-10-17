@@ -9,11 +9,11 @@ date: 2013-09-01 15:52:12
 </p>
 
 1.  Select My Channels from the User drop down menu.  
-    <img src="../../assets/1155">
+    <img src="../../assets/1155.img">
 2.  On the My Channels page, click Create Channel.  
-    <img src="../../assets/1159">
+    <img src="../../assets/1159.img">
     The Create a New Channel page is displayed.  
-    <img src="../../assets/1160">
+    <img src="../../assets/1160.img">
 3.  On the Create New Channel page:  
     <ol style="list-style-type: lower-alpha;">
       <li>

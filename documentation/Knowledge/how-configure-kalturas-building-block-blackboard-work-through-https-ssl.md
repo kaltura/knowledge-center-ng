@@ -10,7 +10,7 @@ date: 2013-11-14 14:09:05
 
 Change partner's CDN Host ("Service Host Name") configuration in Admin Console to: *http://cdnsecakmi.kaltura.com*
 
- **<img src="../../assets/1247">
+ **<img src="../../assets/1247.img">
 
 **Note** - this should be configured with http prefix and NOT https.
 
@@ -30,7 +30,7 @@ If the OnPrem CDN host does not have a valid HTTPs certificate, the CDN host sho
 
  [1]: https://www.kaltura.com/
 
-<img src="../../assets/1248">
+<img src="../../assets/1248.img">
 
 **Step 3**
 

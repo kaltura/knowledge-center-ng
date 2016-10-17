@@ -29,10 +29,10 @@ date: 2016-02-07 13:52:42
       Log into MediaSpace or into your KAF based application.<br />A special icon on the video thumbnail, and on the entry page, is displayed for videos that have quizzes configured.
     </li>
     <li>
-      Select the video to start taking the quiz. <br /><img src="../../assets/2876">
+      Select the video to start taking the quiz. <br /><img src="../../assets/2876.img">
     </li>
     <li>
-      Click Play. The Welcome screen is displayed.<br /><img src="../../assets/3005">
+      Click Play. The Welcome screen is displayed.<br /><img src="../../assets/3005.img">
         The quiz Welcome screen appears prior to the actual video playback.
       </p>
       
@@ -40,7 +40,7 @@ date: 2016-02-07 13:52:42
         Once the quiz screen opens, you will not be able to play or move the video’s scrubber.
       </p>If the quiz creator enabled the option for the Pre-test to be available, the option to download the quiz is in the Welcome window.
       
-      <br /><img src="../../assets/3006">
+      <br /><img src="../../assets/3006.img">
     </li>
     <li>
       <p>
@@ -52,7 +52,7 @@ date: 2016-02-07 13:52:42
       </p>
       
       <p>
-        <img src="../../assets/2880">
+        <img src="../../assets/2880.img">
       </p>
       
       <p>
@@ -65,7 +65,7 @@ date: 2016-02-07 13:52:42
     </li>
     
     <li>
-      At the first location point, the first quiz question appears on the player screen.<br /><img src="../../assets/2881">
+      At the first location point, the first quiz question appears on the player screen.<br /><img src="../../assets/2881.img">
     </li>
   </ol>
   
@@ -83,7 +83,7 @@ date: 2016-02-07 13:52:42
   
   <ul>
     <li>
-      To skip any question, choose <strong>SKIP FOR NOW </strong>on the lower right corner of the quiz screen.<br /><img src="../../assets/2882">
+      To skip any question, choose <strong>SKIP FOR NOW </strong>on the lower right corner of the quiz screen.<br /><img src="../../assets/2882.img">
     </li>
   </ul>
   
@@ -101,7 +101,7 @@ date: 2016-02-07 13:52:42
   
   <ul>
     <li>
-      For each question presented, choose one answer. When you hover your cursor over a specific answer, that answer changes color.<br /><img src="../../assets/2883">
+      For each question presented, choose one answer. When you hover your cursor over a specific answer, that answer changes color.<br /><img src="../../assets/2883.img">
     </li>
   </ul>
   
@@ -123,10 +123,10 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      Click the answer you want to choose, and click <em>Continue </em>to finalize your choice.<br /><img src="../../assets/2884">
+      Click the answer you want to choose, and click <em>Continue </em>to finalize your choice.<br /><img src="../../assets/2884.img">
     </li>
     <li>
-      After you finalize your choice, the <em>Apply </em>text turns to <em>Applied</em>. This denotes that the answer has been recorded.<br /><img src="../../assets/2885">
+      After you finalize your choice, the <em>Apply </em>text turns to <em>Applied</em>. This denotes that the answer has been recorded.<br /><img src="../../assets/2885.img">
     </li>
   </ol>
   
@@ -148,7 +148,7 @@ date: 2016-02-07 13:52:42
   
   <ul>
     <li>
-      After you answer or skip a question, the quiz screen closes and the video continues until the next question. The quiz questions are tracked in the scrubber at the bottom of the player’s screen. Questions already answered appear in one color. Unanswered or skipped questions appear in a contrasting color, as pictured.<br /><img src="../../assets/2886">
+      After you answer or skip a question, the quiz screen closes and the video continues until the next question. The quiz questions are tracked in the scrubber at the bottom of the player’s screen. Questions already answered appear in one color. Unanswered or skipped questions appear in a contrasting color, as pictured.<br /><img src="../../assets/2886.img">
     </li>
   </ul>
   
@@ -170,10 +170,10 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      Sometimes a question includes a hint to help you answer it. To access the hint, click <em>Hint</em>.<br /><img src="../../assets/2887">
+      Sometimes a question includes a hint to help you answer it. To access the hint, click <em>Hint</em>.<br /><img src="../../assets/2887.img">
     </li>
     <li>
-      The <em>Hint</em> screen opens. To exit the hint, click the X at the top right of the screen.<br /><img src="../../assets/2888">
+      The <em>Hint</em> screen opens. To exit the hint, click the X at the top right of the screen.<br /><img src="../../assets/2888.img">
     </li>
   </ol>
   
@@ -195,13 +195,13 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      Once the last question has been answered or skipped the following IVQ icon will appear on the player during the video playback until its end.<br /><img src="../../assets/2889">
+      Once the last question has been answered or skipped the following IVQ icon will appear on the player during the video playback until its end.<br /><img src="../../assets/2889.img">
     </li>
     <li>
       You can always click that IVQ icon and be sent directly to the completion flow of the quiz or just watch the video to its end and get to this flow naturally.
     </li>
     <li>
-      If you answered all the questions of the quiz the <em>Completed</em> screen appears. Click Submit to submit the quiz. Click Review to review your answers with the option to change them.<br /><img src="../../assets/2890">
+      If you answered all the questions of the quiz the <em>Completed</em> screen appears. Click Submit to submit the quiz. Click Review to review your answers with the option to change them.<br /><img src="../../assets/2890.img">
     </li>
   </ol>
   
@@ -223,19 +223,19 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      To review your answers, click Review.<br /><img src="../../assets/2891">
+      To review your answers, click Review.<br /><img src="../../assets/2891.img">
     </li>
     <li>
-      The video will start playing from the beginning while the IVQ icon appears.<br /><img src="../../assets/2892">
+      The video will start playing from the beginning while the IVQ icon appears.<br /><img src="../../assets/2892.img">
     </li>
     <li>
-      You can review each question that has already been answered and has been marked. The Applied button appears on the screen and you are permitted to change your answer.<br /><img src="../../assets/2893">
+      You can review each question that has already been answered and has been marked. The Applied button appears on the screen and you are permitted to change your answer.<br /><img src="../../assets/2893.img">
     </li>
     <li>
-      Click <em>CONTINUE</em> to continue the review process.<br /><img src="../../assets/2894">
+      Click <em>CONTINUE</em> to continue the review process.<br /><img src="../../assets/2894.img">
     </li>
     <li>
-      You can always finish your review process and continue the submission process by clicking the IVQ button on the player.<br /><img src="../../assets/2895">
+      You can always finish your review process and continue the submission process by clicking the IVQ button on the player.<br /><img src="../../assets/2895.img">
     </li>
   </ol>
   
@@ -260,13 +260,13 @@ date: 2016-02-07 13:52:42
       If you skipped some questions, the <em>Almost Done </em>screen appears letting you know there are some questions you still need to answer before submission.
     </li>
     <li>
-      Once you click on the ‘OK Got It’ button, you will be sent back to the player and the un-answered questions will be highlighted (bigger and white).<br /><img src="../../assets/3007">
+      Once you click on the ‘OK Got It’ button, you will be sent back to the player and the un-answered questions will be highlighted (bigger and white).<br /><img src="../../assets/3007.img">
     </li>
     <li>
       Clicking on an un-answered question will send you that question for you to answer it now.
     </li>
     <li>
-      You can always click the IVQ icon on the player which will let you know if you are ready to submit or you still have some un-answered questions to answer.<br /><img src="../../assets/3008">
+      You can always click the IVQ icon on the player which will let you know if you are ready to submit or you still have some un-answered questions to answer.<br /><img src="../../assets/3008.img">
     </li>
   </ol>
   
@@ -288,7 +288,7 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      If you answered all the questions of the quiz the <em>Completed</em> screen appears. Click Submit to submit the quiz.<br /><img src="../../assets/3009">
+      If you answered all the questions of the quiz the <em>Completed</em> screen appears. Click Submit to submit the quiz.<br /><img src="../../assets/3009.img">
     </li>
     <li>
       <p>
@@ -314,21 +314,21 @@ date: 2016-02-07 13:52:42
   </p>
   
   <p style="padding-left: 30px;">
-    If the submission review option is configured, the following screen appears.<br /><img src="../../assets/3010">
+    If the submission review option is configured, the following screen appears.<br /><img src="../../assets/3010.img">
   </p>
   
   <ol>
     <li>
-      Click the question you want to review. The question opens with the correct answer.<br /><img src="../../assets/3011">
+      Click the question you want to review. The question opens with the correct answer.<br /><img src="../../assets/3011.img">
     </li>
     <li>
       Click <em>Got it ! </em>to return to the <em>Submitted</em> screen.
     </li>
     <li>
-      In this screen you can also understand the rationale behind the correct answer, if the quiz creator chose to add it. In the screen, click the <em>Why</em> button to view the rationale for the correct answer.<br /><img src="../../assets/3012">
+      In this screen you can also understand the rationale behind the correct answer, if the quiz creator chose to add it. In the screen, click the <em>Why</em> button to view the rationale for the correct answer.<br /><img src="../../assets/3012.img">
     </li>
     <li>
-      The Rationale screen opens. When you are finished viewing the rationale, click X to close the Rationale window and return to the question and its answer.<br /><img src="../../assets/3014">
+      The Rationale screen opens. When you are finished viewing the rationale, click X to close the Rationale window and return to the question and its answer.<br /><img src="../../assets/3014.img">
     </li>
     <li>
       Click <em>Got It!</em> In the question review screen to return to the <em>Submitted</em> screen.
@@ -353,10 +353,10 @@ date: 2016-02-07 13:52:42
   
   <ol>
     <li>
-      To finish the quiz, click Done! on the <em>Submitted</em> screen.<br /><img src="../../assets/3015">
+      To finish the quiz, click Done! on the <em>Submitted</em> screen.<br /><img src="../../assets/3015.img">
     </li>
     <li>
-      Once you have finished the quiz, a <em>Thank You </em>screen appears. Your score has been submitted to the quiz creator.<br /><span style="text-decoration: underline;"><img src="../../assets/3016">
+      Once you have finished the quiz, a <em>Thank You </em>screen appears. Your score has been submitted to the quiz creator.<br /><span style="text-decoration: underline;"><img src="../../assets/3016.img">
     </li>
   </ol>
   

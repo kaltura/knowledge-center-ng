@@ -9,7 +9,7 @@ date: 2012-03-26 19:32:54
 </p>
 
 1.  <span style="font-size: small;">Click a media thumbnail or title.</span>
-2.  <span style="font-size: small;"><strong></strong>In the Add to Playlists tab under the media player, select one or more playlists.<br />The selected playlist name is displayed in the <em>Appears in</em> field.<br />You also can add a new playlist.<br /><img src="../../assets/364">
+2.  <span style="font-size: small;"><strong></strong>In the Add to Playlists tab under the media player, select one or more playlists.<br />The selected playlist name is displayed in the <em>Appears in</em> field.<br />You also can add a new playlist.<br /><img src="../../assets/364.img">
 
 <p class="mce-procedure">
   <span style="font-size: small;">To remove media from a playlist</span>

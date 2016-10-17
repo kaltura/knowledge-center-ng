@@ -6,7 +6,7 @@ date: 2011-12-20 13:24:49
 
 <span style="font-size: small;">The Flavors tab in the Edit Entry window allows you to manage the <em>flavors</em> that are available as well as replace media files and their transcoding flavors.</span>
 
-<img src="../../assets/1058">
+<img src="../../assets/1058.img">
 
 <span style="font-size: small;">Use the flavors tab to:</span>
 

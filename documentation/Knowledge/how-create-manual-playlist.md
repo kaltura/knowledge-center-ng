@@ -12,14 +12,14 @@ date: 2011-12-23 15:43:25
 
 2.<span class="Apple-tab-span" style="white-space: pre;"> </span>Select Add Manual Playlist. 
 
- <img src="../../assets/1419">
+ <img src="../../assets/1419.img">
 
 3.<span class="Apple-tab-span" style="white-space: pre;"> </span>Enter an informative Name for your playlist.
 
 4.<span class="Apple-tab-span" style="white-space: pre;"> </span>Use the Filters to search for entries you want to include. See Locating Files – Content Search.
 
 The results are displayed in the Entries Table.  
-<img src="../../assets/760">
+<img src="../../assets/760.img">
 
 5.<span class="Apple-tab-span" style="white-space: pre;"> </span>Add entries to your playlist by moving the desired entries from the Entries Table to the Playlist Entries. Use the horizontal arrows.
 
@@ -29,4 +29,4 @@ Highlight the entry and then use the up down arrows to place the entries in thei
 
 7.<span class="Apple-tab-span" style="white-space: pre;"> </span>Click Save to complete the process.
 
-<img src="../../assets/761">
+<img src="../../assets/761.img">

@@ -16,4 +16,4 @@ In a media gallery, click the Show menu and select one of the following:
 *   Images Only
 *   Video Presentations Only
 
-<img src="../../assets/413">
+<img src="../../assets/413.img">

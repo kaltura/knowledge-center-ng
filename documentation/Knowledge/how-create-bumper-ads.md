@@ -20,7 +20,7 @@ date: 2012-01-11 14:38:53
 2.  <span style="font-size: small;">In the Ad Timeline <em>se</em>ction, click on Bumper Video.</span>
 3.  <span style="font-size: small;">Toggle on Bumper Video Enabled.</span>
 4.  <span style="font-size: small;">Paste the Kaltura Entry ID that will be used as the bumper.</span>
-5.  <span style="font-size: small;">Enter the URL in the Click URL field.</span><img src="../../assets/248">
+5.  <span style="font-size: small;">Enter the URL in the Click URL field.</span><img src="../../assets/248.img">
 
 <span style="font-size: small;"> </span>
 

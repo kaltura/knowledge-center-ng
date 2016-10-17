@@ -17,10 +17,10 @@ date: 2011-12-26 11:01:03
 
 1.  <span style="font-size: small;">Select the Studio tab. </span>
 
-2.  <span style="font-size: small;">Select the type of player to create.<br /><img src="../../assets/1057">
+2.  <span style="font-size: small;">Select the type of player to create.<br /><img src="../../assets/1057.img">
     
     <span style="font-family: David CLM Medium; font-size: medium;"><span style="font-size: small;"></span></span><span style="font-size: small;"><br />The Create New Player window is displayed.</span><span style="font-family: David CLM Medium; font-size: medium;"><span style="font-size: small;"></span><br /></span>
     
-    <span style="font-family: David CLM Medium; font-size: medium;"><img src="../../assets/134">
+    <span style="font-family: David CLM Medium; font-size: medium;"><img src="../../assets/134.img">
     
      

@@ -24,7 +24,7 @@ date: 2014-11-25 20:44:28
 2.  Select the Options tab and select the Disable comments for this media checkbox.
 
 <p style="padding-left: 30px;">
-  <img src="../../assets/1725">
+  <img src="../../assets/1725.img">
 </p>
 
 <p style="padding-left: 30px;">
@@ -40,7 +40,7 @@ date: 2014-11-25 20:44:28
 
 1.  On your My Media page click Edit next to the video you want to edit.
 2.  Open the Options tab and select the Close discussion checkbox.  
-    <img src="../../assets/1726">
+    <img src="../../assets/1726.img">
 
 <p class="FigureList">
    

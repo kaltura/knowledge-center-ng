@@ -6,7 +6,7 @@ date: 2013-02-05 14:48:42
 
 <a href="http://www.opensourcemediaframework.com/" target="_blank">Adobe OSMF</a> is the Open Source Media Framework on which Kaltura's Flash Player, aka KDP3 is based of. This article explains how to prepare native <a href="http://www.adobe.com/devnet/flash/articles/mastering-osmf-pt3.html" target="_blank">OSMF plugins</a> to be loaded by KDP3. To learn more about KDP Plugins and how to create custom KDP plugins see: <a href="{{site.url}}/documentation/Knowledge/how-create-kdp-plugins.html" target="_blank">How to Create KDP Plugins</a>.
 
-To add the OSMF plugin, use the GenericOSMFPlugin which is a KDP-plugin used to load the OSMF plugin.<img src="../../assets/980">
+To add the OSMF plugin, use the GenericOSMFPlugin which is a KDP-plugin used to load the OSMF plugin.<img src="../../assets/980.img">
 
  
 

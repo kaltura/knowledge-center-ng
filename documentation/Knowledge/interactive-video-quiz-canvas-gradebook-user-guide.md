@@ -26,16 +26,16 @@ date: 2016-02-09 00:35:24
       <strong><strong>Do not add any Kaltura content i</strong>n the text-editor. </strong>You may add text or any other attachments.
     </li>
     <li>
-      Select submission type “External Tool”.<br /><img src="../../assets/3071">
+      Select submission type “External Tool”.<br /><img src="../../assets/3071.img">
     </li>
     <li>
       Click "Find", a pop up will appear.
     </li>
     <li>
-      Select the In Video Quiz tool (or the new tool name you configured).<br /><img src="../../assets/3025">
+      Select the In Video Quiz tool (or the new tool name you configured).<br /><img src="../../assets/3025.img">
     </li>
     <li>
-      Select a quiz from My Media.<br /><img src="../../assets/3026">
+      Select a quiz from My Media.<br /><img src="../../assets/3026.img">
     </li>
     <li>
       Click Select again in the Configure External Tool Window.

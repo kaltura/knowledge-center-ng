@@ -10,19 +10,19 @@ This article explains how to add an Expand button to enlarge a custom Kaltura Dy
   <a name="Whyenlargeaplayer"></a>Why enlarge a player?
 </p>
 
-Usually a player is displayed on a web page with many other elements.  <img src="../../assets/913">
+Usually a player is displayed on a web page with many other elements.  <img src="../../assets/913.img">
 
 Full screen mode allows the user to view only the player without being able to use any other part of the web page. 
 
 Enlarging the player enables easier viewing of the player while allowing the user to continue working in your web page.  
 
-<img src="../../assets/914">
+<img src="../../assets/914.img">
 
 <p class="mce-heading-2">
   Adding an Expand button to a custom player
 </p>
 
-You can add an Expand button to a player to enable a user to enlarge the player on the web page. <img src="../../assets/910">
+You can add an Expand button to a player to enable a user to enlarge the player on the web page. <img src="../../assets/910.img">
 
 <p class="mce-note-graphic">
   <strong>Note:</strong> In Kaltura MediaSpace, a standard player includes an Expand button. A custom player does not include an Expand button by default. 
@@ -36,9 +36,9 @@ You can add an Expand button to a player to enable a user to enlarge the player
     **Note**: MediaSpace provides the *kmh.expandShrinkPlayer* JavaScript function. No additional JavaScript function is required for MediaSpace.
 2.  In the Kaltura Management Console (KMC), select the <a href="http://www.kaltura.com/index.php/kmc/kmc4#studio%7CplayersList" target="_blank">Studio</a> tab.
 3.  Highlight a player and select **Edit** from the Actions menu, or select a new player.
-4.  In the Edit Player or Create New Player window, select the Features tab and click **Additional parameters and plugins**. <span><br /></span><img src="../../assets/916">
+4.  In the Edit Player or Create New Player window, select the Features tab and click **Additional parameters and plugins**. <span><br /></span><img src="../../assets/916.img">
     The Additional parameters and plugins menu, including a plug-in field, is displayed.  
-    <img src="../../assets/915">
+    <img src="../../assets/915.img">
       
     
 5.  For MediaSpace players: Paste the [Expand button code][2] in the plug-in field and click **go**.  

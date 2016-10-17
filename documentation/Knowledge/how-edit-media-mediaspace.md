@@ -11,7 +11,7 @@ date: 2012-03-26 19:13:34
 1.  <span style="font-size: small;"><strong></strong>Do one of the following:</span><span style="font-size: small;"></span>
 <ol style="list-style-type: lower-alpha;">
   <li>
-    <span style="font-size: small;">In the My Media tab, click <strong>Edit</strong> for the media you want to edit.<br /><img src="../../assets/371">
+    <span style="font-size: small;">In the My Media tab, click <strong>Edit</strong> for the media you want to edit.<br /><img src="../../assets/371.img">
   </li>
   <li>
     <span style="font-size: small;"><span style="font-size: small;">In the My Media tab, click the thumbnail or title of the media you want to edit. In the media page's Details tab, click <strong>Edit</strong>.<br /></span></span><span style="font-size: small;"></span>
@@ -27,6 +27,6 @@ date: 2012-03-26 19:13:34
 
  [1]: http://knowledge.kaltura.com/faq/how-select-frame-thumbnail-mediaspace
 
-<img src="../../assets/372">
+<img src="../../assets/372.img">
 
 <span style="font-size: small;"><br /></span>

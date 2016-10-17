@@ -15,8 +15,8 @@ date: 2011-12-25 21:40:04
   <span class="mce-procedure">To track the upload progress from your desktop</span>
 
 1.  Click the Contents tab and select the Manage menu. The Upload Control feature, located on the upper right of the screen, indicates the number of uploads in progress.
-2.  Click **Upload Control** to display the file uploads and to view additional information. You can display completed and in-progress bulk upload jobs. (optional)** <img src="../../assets/250">
-3.  Click **Switch to Bulk Upload Log, **located on the bottom** **left corner of the screen<img src="../../assets/249">
+2.  Click **Upload Control** to display the file uploads and to view additional information. You can display completed and in-progress bulk upload jobs. (optional)** <img src="../../assets/250.img">
+3.  Click **Switch to Bulk Upload Log, **located on the bottom** **left corner of the screen<img src="../../assets/249.img">
 
 <p class="Procedure">
     <span class="mce-procedure">   To revert back to Upload Control, click Switch to your Uploads.</span>

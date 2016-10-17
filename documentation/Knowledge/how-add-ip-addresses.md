@@ -8,6 +8,6 @@ date: 2011-12-27 21:19:10
 
 > 1.  <a href="http://knowledge.kaltura.com/faq/how-create-access-profile" target="_blank">Create an Access Profile.</a>
 > 2.  Click + Add Another IP.  
->     <img src="../../assets/169">
+>     <img src="../../assets/169.img">
 > 3.  Use the notation indicated to enter IP addresses.
 > 4.  Click Save.

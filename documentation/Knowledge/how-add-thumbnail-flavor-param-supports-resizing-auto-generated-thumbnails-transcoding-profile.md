@@ -10,7 +10,7 @@ This short guide describes how to create thumbnail flavor and add it to the Kalt
 2.  Select KalturaThumbParams under thumbParams and click the Edit button next to it.
 1.  Set the thumbParams:cropType to RESIZE\_WITH\_FORCE in order to force the exact thumbnail dimensions regardless of the original media entry dimensions/aspect ratio.
 2.  Set the thumbnail width and height in thumbParams:width and thumbParams:height.  
-    <img src="../../assets/506">
+    <img src="../../assets/506.img">
 
 3.  Copy into a temporary editor (e.g. notepad) the returned flavor param id (will show in the result box in the form of: *<id>XXX</id>*). 
 4.  Visit the <a href="http://www.kaltura.com/index.php/kmc/kmc4#account|transcoding" target="_blank">Transcoding Settings panel in the KMC</a>, switch to Advanced Mode and copy the id of the Transcoding Profile you wish to add the new thumbnail profile to.
@@ -22,7 +22,7 @@ This short guide describes how to create thumbnail flavor and add it to the Kalt
 6.  Append the flavor param id that from step 3 to the end of flavorParamsIds from the previous step.  
     For example: 5,4,3,2,1,0,6,XXX 
 7.  Call the conversionProfile service and update action with the new conversion profile id as the value of conversionProfile:flavorParamsIds.  
-    <img src="../../assets/505">
+    <img src="../../assets/505.img">
 8.  The transcoding profile is now updated with the new thumbnail flavor. 
 
 <div>

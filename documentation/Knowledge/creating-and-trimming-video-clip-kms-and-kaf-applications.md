@@ -29,13 +29,13 @@ date: 2016-01-20 17:31:14
       Select My Media and then click Edit next to the entry you want to use to create a clip.
     </li>
     <li>
-      In the Edit Media window select Create Clip<br /><img src="../../assets/2962">
+      In the Edit Media window select Create Clip<br /><img src="../../assets/2962.img">
         or click on the entry and select Create Clip from the Actions drop down menu.
-      </p><img src="../../assets/2963">
+      </p><img src="../../assets/2963.img">
     </li>
     
     <li>
-      Use the trimming timeline or enter exact start and end times.<br /><img src="../../assets/2964">
+      Use the trimming timeline or enter exact start and end times.<br /><img src="../../assets/2964.img">
     </li>
     <li>
       Press Play and click Set Starting Point of the video clip or alternatively, select the Start Time.
@@ -54,7 +54,7 @@ date: 2016-01-20 17:31:14
   
   <ol start="1">
     <li>
-      To allow other users to create clips of a video entry, go to the entry Edit Page in My Media and under Options à Clipping check the “Everyone” checkbox.<br /><img src="../../assets/2960">
+      To allow other users to create clips of a video entry, go to the entry Edit Page in My Media and under Options à Clipping check the “Everyone” checkbox.<br /><img src="../../assets/2960.img">
     </li>
     <li>
       In Media Gallery click on an entry and under Actions choose Create Clip. Note: this option always appears to the owner of the media.

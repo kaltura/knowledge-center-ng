@@ -155,7 +155,7 @@ The following are the supported KMC notifications:
 </p>
 
 1.  In the KMC, select the Settings tab and then select the Integration Settings menu.  
-    <img src="../../assets/1096">
+    <img src="../../assets/1096.img">
 2.  Toggle Yes to receive server notifications.
 3.  Enter the Notification URL and Save Changes.
 

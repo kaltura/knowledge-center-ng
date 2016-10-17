@@ -47,7 +47,7 @@ Top Content reports display the following data for your most popular content:
 *   Minutes Viewed – The sum of minutes that were viewed
 *   Average View Time – The average time calculated by dividing the minutes viewed by number of views
 *   Player Impressions – The number of times the video player was loaded
-*   (Not included in the line chart) Player to Impression Ratio – The number of plays divided by the number of impressions.<img src="../../assets/925">
+*   (Not included in the line chart) Player to Impression Ratio – The number of plays divided by the number of impressions.<img src="../../assets/925.img">
 
 <p class="Procedure mce-procedure">
    To <a name="displayTopContentReports"></a>display Top Content Reports
@@ -656,7 +656,7 @@ The following system reports are available:
 ## <a name="platforms_report"></a>Platform Reports
 
 The Platforms Reports compares the different media delivery systems by the volume of video playing on each one.  
-<img src="../../assets/1254">
+<img src="../../assets/1254.img">
 
 <p class="mce-procedure">
   To display the System Reports
@@ -694,7 +694,7 @@ Each platform available displays a link to a drill down screen that opens the Op
 
 The Platform’s Drill Down Report compares the different Operating Systems by the volume of video playing on each one, for the specific platform it was directed from.
 
-<img src="../../assets/1255">
+<img src="../../assets/1255.img">
 
 <p class="mce-procedure">
   To display the Platform Drill Down Report
@@ -736,7 +736,7 @@ The Operating Systems report compares the different Operating Systems by the vol
 
 The Browsers’ Report compares the different browsers by the volume of video playing on each one.
 
-<img src="../../assets/1256">
+<img src="../../assets/1256.img">
 
 <p class="Procedure mce-procedure">
   To display the Browsers’ Report

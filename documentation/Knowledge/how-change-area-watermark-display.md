@@ -17,4 +17,4 @@ date: 2011-12-27 10:42:57
 7.  On the Your Watermark pane, click **Apply** to confirm your choice and return to the Features list.
 8.  Click **Save Changes**.
 
- <span style="font-size: small;"><img src="../../assets/152">
+ <span style="font-size: small;"><img src="../../assets/152.img">

@@ -25,14 +25,14 @@ date: 2013-08-28 17:57:03
   </li>
 </ol>
 
-6.  Click Save & Close. <img src="../../assets/1139">
+6.  Click Save & Close. <img src="../../assets/1139.img">
 
 <h3 class="mce-heading-3">
   <a name="additional"></a>Additional Category Entitlement Settings
 </h3>
 
 The following additional settings are available at the lower part of the Entitlements tab:  
-<img src="../../assets/1140">
+<img src="../../assets/1140.img">
 
 *   Category Owner – a category attribute, for setting one of the channel managers as the channel owner for any applicative need. The category owner is automatically set with a manager permission level for the category. See <a href="{{site.url}}/documentation/Knowledge/how-change-category-owner-kmc-or-kms.html" target="_blank">Change Owner</a>.[  
     ][1]

@@ -423,10 +423,10 @@ The following table includes descriptions for all end-user attributes supported 
 
 This example uses the referenceId as the category identifier.
 
-<img src="../../assets/533">
+<img src="../../assets/533.img">
 
 ### Deleting End-user Permissions from Specific Categories
 
 This example uses the referenceId as the category identifier.
 
- <img src="../../assets/535">
+ <img src="../../assets/535.img">

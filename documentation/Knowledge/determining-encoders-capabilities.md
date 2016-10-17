@@ -57,7 +57,7 @@ date: 2015-10-28 14:28:58
   </ul>
   
   <p>
-    <span> <img src="../../assets/2504">
+    <span> <img src="../../assets/2504.img">
   </p>
   
   <p>
@@ -65,7 +65,7 @@ date: 2015-10-28 14:28:58
   </p>
   
   <p>
-    <span><em> <img src="../../assets/2505">
+    <span><em> <img src="../../assets/2505.img">
   </p>
   
   <p>

@@ -77,10 +77,10 @@ date: 2016-08-18 13:56:34
       Click on a channel and navigate to the Media Gallery.
     </li>
     <li>
-      In the Media Gallery page select Edit from the Actions drop down menu.<br /><img src="../../assets/2453">
+      In the Media Gallery page select Edit from the Actions drop down menu.<br /><img src="../../assets/2453.img">
     </li>
     <li>
-      Click on the Playlists Tab to display all the channels's playlists.<br /><img src="../../assets/2454">
+      Click on the Playlists Tab to display all the channels's playlists.<br /><img src="../../assets/2454.img">
     </li>
   </ol>
   
@@ -127,7 +127,7 @@ date: 2016-08-18 13:56:34
       Login to MediaSpace, and select <strong>My Channels.</strong>
     </li>
     <li>
-      Click on a channel and navigate to the Media Gallery.<br /><img src="../../assets/2455">
+      Click on a channel and navigate to the Media Gallery.<br /><img src="../../assets/2455.img">
     </li>
     <li>
       In the Media Gallery page select Edit from the Actions drop down menu.<br />The Edit Media Gallery page is displayed.
@@ -136,7 +136,7 @@ date: 2016-08-18 13:56:34
       Click on the <strong>Playlists</strong> Tab to display all the Media Gallery’s existing playlists.
     </li>
     <li>
-      Click <strong>Create New</strong> and from the menu and click <strong>Manual Playlist</strong>.<br /><img src="../../assets/2456">
+      Click <strong>Create New</strong> and from the menu and click <strong>Manual Playlist</strong>.<br /><img src="../../assets/2456.img">
     </li>
     <li>
       Enter the following details:
@@ -154,7 +154,7 @@ date: 2016-08-18 13:56:34
     </ol>
     
     <li>
-      Click Add Media.<br /><img src="../../assets/2457">
+      Click Add Media.<br /><img src="../../assets/2457.img">
     </li>
     <li>
       In the Add Media section you can:
@@ -203,7 +203,7 @@ date: 2016-08-18 13:56:34
       Click on the <strong>Playlists</strong> Tab to display all the channel's existing playlists.
     </li>
     <li>
-      Click <strong>Edit.<img src="../../assets/2460">
+      Click <strong>Edit.<img src="../../assets/2460.img">
     </li>
     <li>
       In the Set Details section, edit the text in the fields and click <strong>Save</strong>
@@ -222,10 +222,10 @@ date: 2016-08-18 13:56:34
       Select Edit from the Actions drop down menu.<br />The Edit Page is displayed.
     </li>
     <li>
-      Click on the <strong>Playlists</strong> Tab to display all the channel's existing playlists.<br /><img src="../../assets/2461">
+      Click on the <strong>Playlists</strong> Tab to display all the channel's existing playlists.<br /><img src="../../assets/2461.img">
     </li>
     <li>
-      Click <strong>Edit</strong>.<strong><img src="../../assets/2463">
+      Click <strong>Edit</strong>.<strong><img src="../../assets/2463.img">
     </li>
     <li>
       <strong>Click Add Media.</strong>
@@ -255,7 +255,7 @@ date: 2016-08-18 13:56:34
   </p>
   
   <p class="Figure">
-    <img src="../../assets/2465">
+    <img src="../../assets/2465.img">
   </p>
   
   <p class="Figure mce-note-graphic">
@@ -280,7 +280,7 @@ date: 2016-08-18 13:56:34
       Click on the Playlists Tab to display all the channel’s existing playlists.<br />The embed feature supports the following media formats: <strong>Video</strong>, <strong>Audio, </strong><strong>Image, Live and YouTube</strong>.
     </li>
     <li>
-      Choose the playlist that you want to Embed and click <strong>Embed</strong>.<br /><br /><img src="../../assets/2467">
+      Choose the playlist that you want to Embed and click <strong>Embed</strong>.<br /><br /><img src="../../assets/2467.img">
     </li>
     <li>
       Choose the Embed Type code to be generated.
@@ -321,7 +321,7 @@ date: 2016-08-18 13:56:34
       Drag and drop to reorder the playlists.
     </li>
     <li>
-      Click <strong>Save</strong> to apply your changes.<br /><img src="../../assets/2469">
+      Click <strong>Save</strong> to apply your changes.<br /><img src="../../assets/2469.img">
     </li>
   </ol>
   
@@ -334,7 +334,7 @@ date: 2016-08-18 13:56:34
   </p>
   
   <p>
-    <img src="../../assets/2470">
+    <img src="../../assets/2470.img">
   </p>
   
   <p>
@@ -359,16 +359,16 @@ date: 2016-08-18 13:56:34
   
   <ol>
     <li>
-      Click on a channel and navigate to the Media Gallery.<br /><img src="../../assets/2471">
+      Click on a channel and navigate to the Media Gallery.<br /><img src="../../assets/2471.img">
     </li>
     <li>
-      Click on a playlist title to open the Channel Playlists Page.<br /><img src="../../assets/2472">
+      Click on a playlist title to open the Channel Playlists Page.<br /><img src="../../assets/2472.img">
     </li>
   </ol>
   
   <ul>
     <li>
-      The left pane lists the videos included in the channel playlist. The currently playing item is displayed at the top of the playlist .Use the navigation buttons to skip back and forwards between the videos:<br /><img src="../../assets/2474">
+      The left pane lists the videos included in the channel playlist. The currently playing item is displayed at the top of the playlist .Use the navigation buttons to skip back and forwards between the videos:<br /><img src="../../assets/2474.img">
     </li>
   </ul>
   
@@ -391,7 +391,7 @@ date: 2016-08-18 13:56:34
       <strong>Player</strong> - uses standard video player features.
     </li>
     <li>
-      <strong>Details</strong> - clicking on Details shows the description, the tags associated with the item and where the item appears.<br /><img src="../../assets/2475">
+      <strong>Details</strong> - clicking on Details shows the description, the tags associated with the item and where the item appears.<br /><img src="../../assets/2475.img">
     </li>
     <li>
       <strong>Share</strong> - click <strong>Share</strong> to display the different options for sharing and embedding the current media item. For more information see <a href="file:///C:/Users/debbie.zioni/Documents/KAF/Course%20Playlists.docx#_Embedding_a_Playlist">Embedding a Playlist</a>.

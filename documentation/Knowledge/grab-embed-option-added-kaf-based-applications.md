@@ -16,7 +16,7 @@ The ability to grab embed codes has been added to to the View Media page in all 
 
  
 
-<img src="../../assets/1597">
+<img src="../../assets/1597.img">
 
  
 
@@ -27,7 +27,7 @@ The ability to grab embed codes has been added to to the View Media page in all 
 *   A MediaSpace admin can enable the grab embed functionality in the *KAF Admin Console > Embed *module*.*
 *   It is possible to configure secure embed and limit the grab embed to a specific user or to specific application roles.
 
-<img src="../../assets/1598">
+<img src="../../assets/1598.img">
 
 In the past, the Embed configuraiton page was used to control the behavior of the *Browse, Search and Embed* module (used for embeding Kaltura Media entries in rich text editors in KAF applications). Also, a bug in KAF caused the *Embed* configuraiton page to always appear as disabled. This has now changed:
 

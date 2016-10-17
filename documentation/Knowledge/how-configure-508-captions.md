@@ -13,7 +13,7 @@ date: 2011-12-26 11:20:52
 1.  <span style="font-size: 10px;">Go to the Studio tab, and select Player or Create New Player.</span>
 2.  <span style="font-size: 10px;">Select a player and select Edit from the drop down menu.</span>
 3.  <span style="font-size: 10px;">In the Edit Player window, select the Features tab.</span>
-4.  <span style="font-size: 10px;">Scroll down and select Subtitles and Transcriptions.<img src="../../assets/1046">
+4.  <span style="font-size: 10px;">Scroll down and select Subtitles and Transcriptions.<img src="../../assets/1046.img">
 5.  <span style="font-size: 10px;">Check Captions for Accessibility.</span>
 6.  <span style="font-size: 10px;"></span><span style="font-size: 10px;">Click Options to modify the text style and background. </span>
 7.  <span style="font-size: 10px;"></span><span style="font-size: 10px;">Click Apply.</span>

@@ -6,7 +6,7 @@ date: 2011-12-25 21:19:47
 
 <span style="font-size: small;">You can import video, audio and photos from common online media websites and applications. The Metacafe option for importing videos, may address your needs if you are searching for specific content quickly and easily assuming you want to import videos that are hosted in Metacafe. The video’s properties (description, running time, brief summary, etc.) can be revealed my mousing over the thumbnail.</span>
 
-<span style="font-family: times new roman,times; font-size: small;"><img src="../../assets/114">
+<span style="font-family: times new roman,times; font-size: small;"><img src="../../assets/114.img">
 
 <span style="font-family: times new roman,times; font-size: small;"><br /></span>
 

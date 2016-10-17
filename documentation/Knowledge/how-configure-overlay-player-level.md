@@ -13,6 +13,6 @@ date: 2012-01-11 14:26:29
 2.  Click on Ads.
 3.  Toggle on Request Overlay Ads Enabled.
 4.  Paste the Ad Tag URL received from the ad server. See [How to Locate the Ad Tag URL][1].
-5.  Select the Display options.<img src="../../assets/246">
+5.  Select the Display options.<img src="../../assets/246.img">
 
  [1]: #_How_to_Locate

@@ -22,16 +22,16 @@ date: 2015-11-10 18:09:26
   
   <ol>
     <li>
-      Enter the Media Gallery or Channel.<br />When a Channel/Media Gallery Manager enters an empty Channel/Media Gallery, the following message is displayed:<br /><img src="../../assets/2542">
+      Enter the Media Gallery or Channel.<br />When a Channel/Media Gallery Manager enters an empty Channel/Media Gallery, the following message is displayed:<br /><img src="../../assets/2542.img">
     </li>
     <li>
-      The importing process can also be initiated from the Actions drop down menu.<br /><img src="../../assets/2543">
+      The importing process can also be initiated from the Actions drop down menu.<br /><img src="../../assets/2543.img">
     </li>
     <li>
-      Choose a Channel/Media Gallery to import content from. The list includes all Channels/Media Galleries the user manages that have content.<br /><img src="../../assets/2544">
+      Choose a Channel/Media Gallery to import content from. The list includes all Channels/Media Galleries the user manages that have content.<br /><img src="../../assets/2544.img">
     </li>
     <li>
-      Click the selected Channel/Media Gallery and select Import.<br />After the import is complete you will be required to refresh the page to view the imported content.<br /><img src="../../assets/2545">
+      Click the selected Channel/Media Gallery and select Import.<br />After the import is complete you will be required to refresh the page to view the imported content.<br /><img src="../../assets/2545.img">
     </li>
   </ol>
   
@@ -44,5 +44,5 @@ date: 2015-11-10 18:09:26
   </p>
   
   <p>
-    <img src="../../assets/2546">
+    <img src="../../assets/2546.img">
   </p>

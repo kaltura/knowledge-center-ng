@@ -21,7 +21,7 @@ date: 2012-03-26 19:22:47
 
 1.  <span style="font-size: small;"><strong></strong>In the My Media tab, click the thumbnail or title of the media you want to publish.</span>  
     <span style="font-size: small;"><span style="font-size: small;">By default, uploaded media is not published.</span></span>  
-    <span style="font-size: small;"><img src="../../assets/381">
+    <span style="font-size: small;"><img src="../../assets/381.img">
       
     
 2.  <span style="font-size: small;"><strong></strong>In the media page's Publish tab, select</span> <span style="font-size: small;"><strong>Publish</strong>.</span>

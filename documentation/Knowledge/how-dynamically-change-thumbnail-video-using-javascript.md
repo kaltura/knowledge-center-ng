@@ -14,22 +14,22 @@ If you are familiar with the process of finding the relevant embed code, go to [
 
 1.  In the Kaltura Management Console, select the Content tab and then select the entry you want to embed.  
       
-    <img src="../../assets/2339">
+    <img src="../../assets/2339.img">
       
     
 2.   Click the Preview & Embed link.  
       
-    <img src="../../assets/2340">
+    <img src="../../assets/2340.img">
       
     
 3.   Click Show Advanced Options, then change the embed type to Dynamic Embed.  
       
-    <img src="../../assets/2341">
+    <img src="../../assets/2341.img">
       
     
 4.  Click the Copy button to copy the embed code to the clipboard and add the code to the source code of the specific webpage.  
       
-    <img src="../../assets/2342">
+    <img src="../../assets/2342.img">
 
 <p id="HowtodynamicallychangethethumbnailofvideousingJavascript?-Changingthethumbnail">
   <a name="changeThumbnail"></a><span class="mce-heading-3">Changing the Thumbnail</span>
@@ -111,7 +111,7 @@ After embedding the player, the JavaScript code needs to be added to the page.
 3.  Save the file. The thumbnail is changed despite the default settings set in the Kaltura Management Console. 
 
 <p style="padding-left: 30px;">
-  <img src="../../assets/2343">
+  <img src="../../assets/2343.img">
 </p>
 
  

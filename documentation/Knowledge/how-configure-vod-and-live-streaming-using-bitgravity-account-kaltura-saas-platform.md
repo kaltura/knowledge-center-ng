@@ -181,7 +181,7 @@ You will need to supply us with the Partner’s Parameters for VOD Streaming fro
 
 The Company Id should be taken from “Network Settings” > “Network Overview” tab.
 
-<img src="../../assets/1402">
+<img src="../../assets/1402.img">
 
 <p class="mce-procedure">
   To configure the Origin Pull ONLY
@@ -253,7 +253,7 @@ Please supply the following parameters from your BitGravity remote storage accou
 
 Secured access should be configured on the ‘/s’ URL in BitGravity’s dashboard.
 
-<img src="../../assets/1416">
+<img src="../../assets/1416.img">
 
 <p class="Figure">
    

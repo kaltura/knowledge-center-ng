@@ -36,7 +36,7 @@ date: 2014-11-17 14:06:47
       <ol style="padding-left: 30px;">
         <li>
           <p>
-            <span style="line-height: 16px; background-color: initial;">Click </span><a href="#sample" target="_blank" style="font-weight: bold; line-height: 16px; background-color: initial;" rel="nofollow">here</a><span style="line-height: 16px; background-color: initial;"> to view a sample <em>o</em>f what the Bulk CSV file would look like.<br /><img src="../../assets/2479">
+            <span style="line-height: 16px; background-color: initial;">Click </span><a href="#sample" target="_blank" style="font-weight: bold; line-height: 16px; background-color: initial;" rel="nofollow">here</a><span style="line-height: 16px; background-color: initial;"> to view a sample <em>o</em>f what the Bulk CSV file would look like.<br /><img src="../../assets/2479.img">
           </p>
         </li>
         
@@ -47,7 +47,7 @@ date: 2014-11-17 14:06:47
           Add an "email" column and populate it with email addresses for the MediaSpace users. While not manatory, setting email addresses allows these new users to receive <a href="http://knowledge.kaltura.com/kaltura-mediaspace-46-release-notes#email+notifications">MediaSpace email notifications</a>.
         </li>
         <li>
-          Add a column for a MediaSpace role. The format of the column title is "metadata::KMS_USERSCHEMA1_[your_MediaSpace_instance_id]::role", where the instance id is your MediaSpace instance id, found in the Application section of your MediaSpace back office.<br /><img src="../../assets/2483">
+          Add a column for a MediaSpace role. The format of the column title is "metadata::KMS_USERSCHEMA1_[your_MediaSpace_instance_id]::role", where the instance id is your MediaSpace instance id, found in the Application section of your MediaSpace back office.<br /><img src="../../assets/2483.img">
         </li>
       </ol>The new column defines the role of the new users to be created, the options depend on the KMS instance. By default, the following roles are available:
       
@@ -75,7 +75,7 @@ date: 2014-11-17 14:06:47
     </div>
     
     <div class="innerCell" style="padding-left: 30px;">
-      <img src="../../assets/2481">
+      <img src="../../assets/2481.img">
         Uploading the CSV file to MediaSpace and Kaltura Management Console
       </h3>
       
@@ -88,11 +88,11 @@ date: 2014-11-17 14:06:47
           <span>After saving the CSV file, browse to your </span><a rel="nofollow">Kaltura Management Console </a><a rel="nofollow">(</a><a rel="nofollow">KMC)</a><span>.</span>
         </li>
         <li>
-          <span></span><span>Select </span><strong>Upload</strong><span>, then choose </span><strong>Select CSV/XML</strong><span> and choose </span><strong>End-Users CSV</strong><span>.<br /><img src="../../assets/2345">
+          <span></span><span>Select </span><strong>Upload</strong><span>, then choose </span><strong>Select CSV/XML</strong><span> and choose </span><strong>End-Users CSV</strong><span>.<br /><img src="../../assets/2345.img">
         </li>
         <li>
           <p>
-            <span></span><span>Choose the CSV from the previous step and click </span><strong>Open</strong><span>.<br /><img src="../../assets/2346">
+            <span></span><span>Choose the CSV from the previous step and click </span><strong>Open</strong><span>.<br /><img src="../../assets/2346.img">
           </p>
           
           <span></span>That's it. The CSV file containing a list of MediaSpace users is uploaded.
@@ -108,10 +108,10 @@ date: 2014-11-17 14:06:47
           Access your MediaSpace Admin Console.
         </li>
         <li>
-          Select Manage Users from top navigation bar.<br /><img src="../../assets/2347">
+          Select Manage Users from top navigation bar.<br /><img src="../../assets/2347.img">
         </li>
         <li>
-          <span>To upload the CSV, click  </span><strong>Submit CSV.<br /><strong><strong><strong><img src="../../assets/2348">
+          <span>To upload the CSV, click  </span><strong>Submit CSV.<br /><strong><strong><strong><img src="../../assets/2348.img">
         </li>
         <li>
           <span>Click the </span><strong>Choose File</strong><span> button and select the CSV from the previous step and click </span>OK<span>.</span>
@@ -119,7 +119,7 @@ date: 2014-11-17 14:06:47
       </ol>
       
       <p style="padding-left: 30px;">
-        <img src="../../assets/2349">
+        <img src="../../assets/2349.img">
       </p> That's it. Users should now be able to log in to MediaSpace.
     </div>
     

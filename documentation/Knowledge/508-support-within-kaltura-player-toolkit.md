@@ -11,7 +11,7 @@ All Kaltura players that use the <a href="{{site.url}}/documentation/Knowledge/
 
  [1]: #shortcuts
 
-<img src="../../assets/1209">
+<img src="../../assets/1209.img">
 
   
 <span class="mce-sub-heading">Features</span>
@@ -126,7 +126,7 @@ The following table lists the default keyboard mappings:
 
 A sample of the code used for the player is:
 
-<img src="../../assets/1182">
+<img src="../../assets/1182.img">
 
 <p class="mce-heading-2 mce-heading-3">
    

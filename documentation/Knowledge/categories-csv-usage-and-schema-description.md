@@ -794,12 +794,12 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
 
 ### Bulk Creation of Categories – Basic Metadata Only
 
-<img src="../../assets/531">
+<img src="../../assets/531.img">
 
 ### Updating Existing Categories with a Few Entitlement Settings
 
 This example uses the referenceId as the category identifier.
 
 <p class="TableHeading">
-  <img src="../../assets/532">
+  <img src="../../assets/532.img">
 </p>

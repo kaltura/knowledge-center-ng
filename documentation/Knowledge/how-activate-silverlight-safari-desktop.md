@@ -5,7 +5,7 @@ date: 2016-04-04 10:24:08
 ---
 
 <p>
-    Recent versions of Safari contain the Internet plug-ins option to "Stop plugins to Save Power".<br /><img src="../../assets/2185">
+    Recent versions of Safari contain the Internet plug-ins option to "Stop plugins to Save Power".<br /><img src="../../assets/2185.img">
   </p>
   
   <p class="mce-procedure">
@@ -20,7 +20,7 @@ date: 2016-04-04 10:24:08
       Select Advanced tab, then uncheck the Stop plug-ins to save power check box.
     </li>
     <li>
-      Select the Security tab.<br /><img src="../../assets/2186">
+      Select the Security tab.<br /><img src="../../assets/2186.img">
     </li>
     <li>
       Verify that the Allow Plug-ins option is checked.

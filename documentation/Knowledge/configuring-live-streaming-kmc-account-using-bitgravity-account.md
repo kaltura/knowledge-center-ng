@@ -16,11 +16,11 @@ date: 2014-03-25 22:33:59
 
 Currently, live streaming provisioning using your BitGravity account can be done upon request and with the BitGravity CDN support team’s assistance that will be provisioning live feeds. Each live feed represents a single bit rate live stream:
 
-<span style="font-size: 12px;"><img src="../../assets/1397">
+<span style="font-size: 12px;"><img src="../../assets/1397.img">
 
 After live feeds are provisioned you can manage them (edit some of the settings), playback and publish URLs:
 
-<img src="../../assets/1404">
+<img src="../../assets/1404.img">
 
 For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs will be as following:
 
@@ -100,10 +100,10 @@ For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs wi
 
 1.  Login into the KMC and go to the Upload tab.  
       
-    <img src="../../assets/1405">
+    <img src="../../assets/1405.img">
 2.  Select Live Stream Entry.  
     The Add New Stream window is displayed.  
-    <img src="../../assets/1406">
+    <img src="../../assets/1406.img">
 3.  Select Manual Live Stream URLs.  
     **Manual Live Stream URLs** - Allow you to associate custom live end user URLs with a Kaltura entry. This option is useful if you are using a 3<sup>rd</sup> party to provision and broadcast a live stream.
 4.  Enter values for the following fields:  
@@ -213,22 +213,22 @@ For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs wi
     Fill in the “partnerId”.
   </li>
   <li>
-    Click Send.<br />The result should be a Kaltura session that is automatically copied to the “KS” field.<br /><img src="../../assets/1451">
+    Click Send.<br />The result should be a Kaltura session that is automatically copied to the “KS” field.<br /><img src="../../assets/1451.img">
   </li>
 </ol>
 
 5.  Copy the newly created live stream entry ID from the KMC.  
-    <img src="../../assets/1452">
+    <img src="../../assets/1452.img">
 6.  In the <a href="http://www.kaltura.com/api_v3/testme/" target="_blank" style="font-size: 10px;">TestMe Console</a>, Select service “liveStream”, and Select action “update”.
 7.  Copy/paste the entry id to the “entryId” field.
 8.  Click on the “Edit” button near “liveStreamEntry”.
 9.  Click Send.  
-    <img src="../../assets/1453">
+    <img src="../../assets/1453.img">
 
     <span class="mce-procedure">To adjust the livestream for HDS support</span>
 
 1.  Under “liveStreamConfigurations array” click “Add” to add an item for live stream configuration (if you don’t see it then scroll down):  
-    <img src="../../assets/1454">
+    <img src="../../assets/1454.img">
 2.  Edit the item (item0)
 
 <ol style="list-style-type: lower-alpha;">
@@ -246,7 +246,7 @@ For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs wi
 2.  Enter the “streamUrl” with the base URL of the stream, taken from the BitGravity dashboard. For example: rtmp://customerid.live-s.cdn.bitgravity.com/cdn-live
 
 <p style="padding-left: 30px;">
-  <img src="../../assets/1455">
+  <img src="../../assets/1455.img">
 </p>
 
  
@@ -275,7 +275,7 @@ The Digital Video Recorder (DVR) feature provides the ability to seek within the
 4.  Set “type” to “ADMIN”
 5.  Fill in the your “partnerId”.
 6.  Click Send.  
-    <img src="../../assets/1408">
+    <img src="../../assets/1408.img">
 
 The result is a Kaltura Session that is automatically copied to the “ks” field.
 
@@ -289,10 +289,10 @@ The result is a Kaltura Session that is automatically copied to the “ks” fie
 4.  Enter a “name”.
 5.  Set “dvrStatus” to “ENABLED”.  
       
-    <img src="../../assets/1409">
+    <img src="../../assets/1409.img">
 6.  Set “dvrWindow” to the amount of minutes for the recording.
 7.  <span style="font-size: 12px;">Set “mediaType” to “LIVE_STREAM_FLASH”.</span>
-8.  <span style="font-size: 12px;"></span><span style="font-size: 12px;"><span style="font-size: 12px;">Under “liveStrConfigurations” click on “Add” twice, this adds 2 items (Scroll down if they are not visible on your screen):<img src="../../assets/1410">
+8.  <span style="font-size: 12px;"></span><span style="font-size: 12px;"><span style="font-size: 12px;">Under “liveStrConfigurations” click on “Add” twice, this adds 2 items (Scroll down if they are not visible on your screen):<img src="../../assets/1410.img">
     
     <ol style="list-style-type: lower-alpha;">
       <li>

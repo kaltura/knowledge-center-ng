@@ -30,7 +30,7 @@ where each line shows the number of times the event was received, with the excep
 
 See [Implementation][1]. The following is a screen capture of the Google Analytics Events Page.
 
-<img src="../../assets/680">
+<img src="../../assets/680.img">
 
 ## Demo Page
 
@@ -38,7 +38,7 @@ A player with the Google Analytics plugin installed is showcased on the followin
 
 You can use Fiddler or the onPage tracking tool, to track the events sent to Google.
 
-<img src="../../assets/681">
+<img src="../../assets/681.img">
 
 Contents are broken up as:
 
@@ -116,11 +116,11 @@ You can add Goodle Analytics using the FlashStudio as well as the Universal Stud
 
 The Google Analytics plugin can be selected from the player studio within the KMC. Select the Sudio tab and then slect the Flash Studio menu.  
   
-<img src="../../assets/1028">
+<img src="../../assets/1028.img">
 
 The checkbox for google analytics should be set. Then in options the <span style="color: #0000ff;">urchinCode</span> property is required.
 
- <img src="../../assets/1029">
+ <img src="../../assets/1029.img">
 
 ## Universal Studio
 
@@ -587,7 +587,7 @@ Google has added support for realtime analytics, enabling you to list the active
 4.  Locate the content page with the live stream.  
     You can now monitor real-time visitors for your live stream video.
 
-<img src="../../assets/1030">
+<img src="../../assets/1030.img">
 
 **  
 Accessing per content entry reports**
@@ -603,7 +603,7 @@ Google Analytics collects details reports on a per entry basis. This enables you
 6.  Enter the **entryId** your interested in tracking within the search field.
 7.  Here we select mediaReady, we then get the number of times the mediaReady event was called for that entry.
 
-<img src="../../assets/1031">
+<img src="../../assets/1031.img">
 
  
 

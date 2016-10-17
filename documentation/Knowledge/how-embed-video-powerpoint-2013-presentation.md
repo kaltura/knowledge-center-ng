@@ -17,16 +17,16 @@ date: 2015-07-19 10:30:25
       Access the Kaltura Management Console and navigate to <strong>Content.</strong>
     </li>
     <li>
-      Select the entry you want to embed. <br /><img src="../../assets/2382">
+      Select the entry you want to embed. <br /><img src="../../assets/2382.img">
     </li>
     <li>
-      After the entry screen is loaded, click <strong>Preview & Embed.</strong><br /><img src="../../assets/2383">
+      After the entry screen is loaded, click <strong>Preview & Embed.</strong><br /><img src="../../assets/2383.img">
     </li>
     <li>
-      Select a <strong>KDP Player</strong> (Flash player) and choose <strong>Legacy Flash Embed </strong>as the Embed Type. <br />** This adds the Legacy embed method to drop-down menu.<br /><br /><img src="../../assets/2384">
+      Select a <strong>KDP Player</strong> (Flash player) and choose <strong>Legacy Flash Embed </strong>as the Embed Type. <br />** This adds the Legacy embed method to drop-down menu.<br /><br /><img src="../../assets/2384.img">
     </li>
     <li>
-       Only a small part of the embed code is needed, search for the <strong>data</strong> attribute and copy the value.<br /><br /><img src="../../assets/2385">
+       Only a small part of the embed code is needed, search for the <strong>data</strong> attribute and copy the value.<br /><br /><img src="../../assets/2385.img">
     </li>
   </ol>
   
@@ -57,10 +57,10 @@ date: 2015-07-19 10:30:25
   
   <ol>
     <li>
-      Open <strong>PowerPoint</strong> and <strong>right click</strong> anywhere in the <strong>Ribbon </strong>and Select <strong>Customize the Ribbon.<br /><img src="../../assets/2386">
+      Open <strong>PowerPoint</strong> and <strong>right click</strong> anywhere in the <strong>Ribbon </strong>and Select <strong>Customize the Ribbon.<br /><img src="../../assets/2386.img">
     </li>
     <li>
-      In the right side list, check the <strong>Developer</strong> box and click <strong>OK.<br /><img src="../../assets/2387">
+      In the right side list, check the <strong>Developer</strong> box and click <strong>OK.<br /><img src="../../assets/2387.img">
     </li>
   </ol>
   
@@ -74,21 +74,21 @@ date: 2015-07-19 10:30:25
   
   <ol>
     <li>
-      Navigate to newly added <strong><a href="#developer_toolbar">Developer</a> </strong>toolbar and click the <strong>Tools</strong> icon.<br /><img src="../../assets/2388">
+      Navigate to newly added <strong><a href="#developer_toolbar">Developer</a> </strong>toolbar and click the <strong>Tools</strong> icon.<br /><img src="../../assets/2388.img">
     </li>
     <li>
-      Scroll through the list and select <strong>Shockwave Flash Object</strong> and click <strong>OK</strong>.<br /><img src="../../assets/2389">
+      Scroll through the list and select <strong>Shockwave Flash Object</strong> and click <strong>OK</strong>.<br /><img src="../../assets/2389.img">
     </li>
     <li>
-      Click and drag to insert the Shockwave Flash Object.<br /><img src="../../assets/2390">
+      Click and drag to insert the Shockwave Flash Object.<br /><img src="../../assets/2390.img">
     </li>
     <li>
-      <strong>Right click</strong> the <strong>Shockwave Flash Object</strong> and select<strong> Property Sheet</strong> from the menu.<br /><img src="../../assets/2391">
+      <strong>Right click</strong> the <strong>Shockwave Flash Object</strong> and select<strong> Property Sheet</strong> from the menu.<br /><img src="../../assets/2391.img">
     </li>
     <li>
-      In the Properties window, insert the embed code collected in previous steps in the Movie row.<br /><img src="../../assets/2392">
+      In the Properties window, insert the embed code collected in previous steps in the Movie row.<br /><img src="../../assets/2392.img">
     </li>
     <li>
-      Close the Properties menu, play the presentation to see changes. <br /><img src="../../assets/2393">
+      Close the Properties menu, play the presentation to see changes. <br /><img src="../../assets/2393.img">
     </li>
   </ol>
