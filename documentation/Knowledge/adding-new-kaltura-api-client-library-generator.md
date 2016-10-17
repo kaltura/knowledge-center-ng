@@ -71,7 +71,12 @@ The TemplateClientGenerator project includes the following files:
   </div>
 </div>
 
-At the end of every function un-comment the following line: {% highlight php %}$this->addFile('path to new file', 'file contents');{% endhighlight %}
+At the end of every function un-comment the following line: 
+{% highlight php %}
+<?php
+$this->addFile('path to new file', 'file contents');
+?>
+{% endhighlight %}
 
 For every file you want to create in the generator,  call the method addFile. The addFile method adds all the files you have created into an Array, which will then be saved to disk to create your client library.
 

@@ -8,7 +8,7 @@ date: 2012-03-11 00:16:13
 
 ## Terminology
 
-**UIconf **– UI configuration document, generally refers to player UIconf (see below), but also holds player features (see below).
+**UIconf** – UI configuration document, generally refers to player UIconf (see below), but also holds player features (see below).
 
 **Player UIconf** – An XML file that describes the player layout. KDP reads this file in order to know what features it should show or load.
 

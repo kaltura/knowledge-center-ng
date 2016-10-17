@@ -20,4 +20,16 @@ Each abstract class has a subset of required properties. The specific properties
 
 <p class="APEdocument APEinternal">
   To call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=syndicationfeed&action=add">syndicationFeed.add</a> API with the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaGenericXsltSyndicationFeed">KalturaGenericXsltSyndicationFeed</a> sub class:
-</p>{% highlight php %}<?php require\_once('lib/KalturaClient.php'); $config = new KalturaConfiguration($partnerId); $config->serviceUrl = 'http://www.kaltura.com/'; $client = new KalturaClient($config); $ks = '213mg23433\_q2fq'; //Add your KS here $client->setKs('$ks'); $syndicationFeed = new KalturaGenericXsltSyndicationFeed(); $syndicationFeed->type = KalturaSyndicationFeedType::KALTURA_XSLT; $results = $client-> syndicationFeed ->add($syndicationFeed);{% endhighlight %}
+</p>{% highlight php %}
+<?php 
+require_once('lib/KalturaClient.php'); 
+$config = new KalturaConfiguration($partnerId); 
+$config->serviceUrl = 'http://www.kaltura.com/'; 
+$client = new KalturaClient($config); 
+$ks = '213mg23433_q2fq'; //Add your KS here 
+$client->setKs('$ks'); 
+$syndicationFeed = new KalturaGenericXsltSyndicationFeed(); 
+$syndicationFeed->type = KalturaSyndicationFeedType::KALTURA_XSLT; 
+$results = $client-> syndicationFeed ->add($syndicationFeed);
+?>
+{% endhighlight %}
