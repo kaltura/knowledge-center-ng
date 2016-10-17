@@ -19,7 +19,8 @@ To call the <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry
   <div class="php geshifilter-php">
     {% highlight php %}
 <?php
-//define constants define("KALTURA_PARTNER_ID", ""); 
+//define constants 
+define("KALTURA_PARTNER_ID", ""); 
 define("KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET", ""); 
 {% endhighlight %}
 Using the partner credentials, generate the KS:
@@ -30,7 +31,8 @@ Using the partner credentials, generate the KS:
   <div class="php geshifilter-php">
     {% highlight php %}
 <?php
-//define session variables $partnerUserID = '31'; // this can be whatever you decide depending on your implementation //Construction of Kaltura objects for session initiation 
+//define session variables 
+$partnerUserID = '31'; // this can be whatever you decide depending on your implementation //Construction of Kaltura objects for session initiation 
 $config = new KalturaConfiguration(KALTURA_PARTNER_ID); 
 $client = new KalturaClient($config); 
 $ks = $client->session->start(KALTURA_PARTNER_WEB_SERVICE_ADMIN_SECRET, $partnerUserID,KalturaSessionType::ADMIN); //Set the generated KS as the default actions KS to use by the client library 
@@ -46,7 +48,8 @@ After the KS is  set up, perform the following steps to call the list action:
       <div class="php geshifilter-php">
         {% highlight php %}
 <?php
-$entryFilter = new KalturaBaseEntryFilter(); /** * Available types (defined within KalturaEntryType class under KalturaClient.php): 
+$entryFilter = new KalturaBaseEntryFilter(); 
+/** * Available types (defined within KalturaEntryType class under KalturaClient.php): 
 * AUTOMATIC = -1; 
 * MEDIA_CLIP = 1; 
 * MIX = 2; 
@@ -54,7 +57,8 @@ $entryFilter = new KalturaBaseEntryFilter(); /** * Available types (defined with
 * DATA = 6; 
 * DOCUMENT = 10; 
 */ 
-if (isset($_GET['entryType'])) $entryFilter->typeEqual = (int)$_GET['entryType']; 
+if (isset($_GET['entryType'])) 
+	$entryFilter->typeEqual = (int)$_GET['entryType']; 
 ?>
 {% endhighlight %}
 
