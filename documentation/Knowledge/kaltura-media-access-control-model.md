@@ -24,12 +24,12 @@ The access control API service <a href="http://www.kaltura.com/api_v3/testmeDoc/
 
  [2]: http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=update
 
-**<a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlProfile" target="_blank">KalturaAccessControlProfile </a>**
+**<a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlProfile" target="_blank">KalturaAccessControlProfile </a>**
 
-The API object <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlProfile" target="_blank">KalturaAccessControlProfile </a>is composed of an ordered set of rules of type <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaRule" target="_blank">KalturaRule</a>.
+The API object <a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlProfile" target="_blank">KalturaAccessControlProfile </a>is composed of an ordered set of rules of type <a href="https://developer.kaltura.com/api-docs/#/KalturaRule" target="_blank">KalturaRule</a>.
 
 <p class="Subheading">
-  <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaRule" target="_blank">KalturaRule</a>
+  <a href="https://developer.kaltura.com/api-docs/#/KalturaRule" target="_blank">KalturaRule</a>
 </p>
 
 The KalturaRule type contains the following attributes:
@@ -65,7 +65,7 @@ The KalturaRule type contains the following attributes:
       
       <td>
         <p style="text-align: left;">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlActionArray" target="_blank">KalturaAccessControlActionArray</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlActionArray" target="_blank">KalturaAccessControlActionArray</a>
         </p>
       </td>
       
@@ -91,7 +91,7 @@ The KalturaRule type contains the following attributes:
       
       <td>
         <p style="text-align: left;">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaConditionArray" target="_blank">KalturaConditionArray</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaConditionArray" target="_blank">KalturaConditionArray</a>
         </p>
       </td>
       
@@ -117,7 +117,7 @@ The KalturaRule type contains the following attributes:
       
       <td>
         <p>
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlContextTypeHolderArray" target="_blank">KalturaAccessControlContextTypeHolderArray</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlContextTypeHolderArray" target="_blank">KalturaAccessControlContextTypeHolderArray</a>
         </p>
       </td>
       
@@ -190,7 +190,7 @@ The KalturaRule type contains the following attributes:
 
 Rules are evaluated according to their order and evaluated only if they are configured to run in the current context, according to their contexts attribute. A KalturaRule is considered  fulfilled only if all its conditions are evaluated as true. The available context types are in the[ KalturaAccessControlContextType][3].
 
- [3]: http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlContextType
+ [3]: https://developer.kaltura.com/api-docs/#/KalturaAccessControlContextType
 
 **KalturaAccessControlContextType**
 
@@ -278,18 +278,18 @@ Rules are evaluated according to their order and evaluated only if they are conf
   </tbody>
 </table>
 
-All rules are evaluated, unless one of the rule's stop processing flag is true and the rule condition was fulfilled. Each rule that matches the conditions, adds the actions to the outcome actions and its message to the outcome messages. All of the actions are performed for rules that are evaluated and their conditions are true. Each rule is composed of a set of conditions <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaConditionArray" target="_blank">KalturaCondition</a>  and an action [KalturaAccessControlAction.][4]  The action types are described in <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlActionType" target="_blank">KalturaAccessControlActionType. </a>The logical relation between the set of conditions in a single rule uses the AND operator, meaning that all conditions must be evaluated to true in order to consider the rule as fulfilled.
+All rules are evaluated, unless one of the rule's stop processing flag is true and the rule condition was fulfilled. Each rule that matches the conditions, adds the actions to the outcome actions and its message to the outcome messages. All of the actions are performed for rules that are evaluated and their conditions are true. Each rule is composed of a set of conditions <a href="https://developer.kaltura.com/api-docs/#/KalturaConditionArray" target="_blank">KalturaCondition</a>  and an action [KalturaAccessControlAction.][4]  The action types are described in <a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlActionType" target="_blank">KalturaAccessControlActionType. </a>The logical relation between the set of conditions in a single rule uses the AND operator, meaning that all conditions must be evaluated to true in order to consider the rule as fulfilled.
 
- [4]: http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlAction
+ [4]: https://developer.kaltura.com/api-docs/#/KalturaAccessControlAction
 
 <p class="Subheading">
-  <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaConditionArray" target="_blank">KalturaCondition </a>
+  <a href="https://developer.kaltura.com/api-docs/#/KalturaConditionArray" target="_blank">KalturaCondition </a>
 </p>
 
 The condition types are:
 
 <p class="Subheading">
-  <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaConditionArray" target="_blank">KalturaConditionType</a> 
+  <a href="https://developer.kaltura.com/api-docs/#/KalturaConditionArray" target="_blank">KalturaConditionType</a> 
 </p>
 
 <table border="0" cellpadding="0">
@@ -502,17 +502,17 @@ The condition types are:
 
  The objects available that implement the condition objects are:
 
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAuthenticatedCondition" target="_blank">KalturaAuthenticatedCondition</a> **Note: **This object should be configured only on an entry level access control objects.
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaCompareMetadataCondition" target="_blank">KalturaCompareMetadataCondition</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaFieldCompareCondition" target="_blank">KalturaFieldCompareCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaAuthenticatedCondition" target="_blank">KalturaAuthenticatedCondition</a> **Note: **This object should be configured only on an entry level access control objects.
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaCompareMetadataCondition" target="_blank">KalturaCompareMetadataCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaFieldCompareCondition" target="_blank">KalturaFieldCompareCondition</a>
 *   [KalturaCountryCondition][5]
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaFieldMatchCondition" target="_blank">KalturaFieldMatchCondition</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaIpAddressCondition" target="_blank">KalturaIpAddressCondition</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaMatchMetadataCondition" target="_blank">KalturaMatchMetadataCondition</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaUserAgentCondition" target="_blank">KalturaUserAgentCondition</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaSiteCondition" target="_blank">KalturaSiteCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaFieldMatchCondition" target="_blank">KalturaFieldMatchCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaIpAddressCondition" target="_blank">KalturaIpAddressCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaMatchMetadataCondition" target="_blank">KalturaMatchMetadataCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaUserAgentCondition" target="_blank">KalturaUserAgentCondition</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/KalturaSiteCondition" target="_blank">KalturaSiteCondition</a>
 
- [5]: http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaCountryCondition
+ [5]: https://developer.kaltura.com/api-docs/#/KalturaCountryCondition
 
 For example:
 
@@ -570,9 +570,9 @@ The following set of actions are defined:
 1.  **KalturaAccessControlBlockAction - **Block access
 2.  **KalturaAccessControlPreviewAction - **Preview – play only the first X seconds of a video
 
-**<a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlScope" target="_blank">KalturaAccessControlScope</a>**
+**<a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlScope" target="_blank">KalturaAccessControlScope</a>**
 
-The **<a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlScope" target="_blank">KalturaAccessControlScope</a>**API contains a predefined list of context variables: 
+The **<a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlScope" target="_blank">KalturaAccessControlScope</a>**API contains a predefined list of context variables: 
 
 <table style="width: 892px;" border="0" cellpadding="0">
   <tbody>
@@ -611,7 +611,7 @@ The **<a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessCont
       
       <td>
         <p style="text-align: left;">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaAccessControlContextTypeHolderArray" target="_blank">KalturaAccessControlContextTypeHolderArray</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlContextTypeHolderArray" target="_blank">KalturaAccessControlContextTypeHolderArray</a>
         </p>
       </td>
       

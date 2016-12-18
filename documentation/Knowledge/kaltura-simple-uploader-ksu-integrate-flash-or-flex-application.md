@@ -27,7 +27,7 @@ date: 2012-03-27 00:22:10
 After completing the upload flow, retain the IDs of the entries that were added, and call the getentry API (using the [flash/flex client library][3]) to retrieve the new entry that was created.  
 You can also modify various parameters before upload using the KUploader APIs. See [Kaltura Simple Uploader (KSU) - Website Integration Guide][4] for a complete list of methods and parameters.
 
- [3]: http://www.kaltura.com/api_v3/testme/client-libs.php
+ [3]: https://developer.kaltura.com/api-docs/#/Client%20Libraries
  [4]: http://knowledge.kaltura.com/kaltura-simple-uploader-ksu-website-integration-guide
 
 ## Important Security Note

@@ -117,7 +117,7 @@ Since October 14, 2012 - Kaltura introduced a second version to the KS format th
       _u – user
     </li>
     <li class="li1">
-      _t – type (<a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaSessionType"><span>KalturaSessionType</span></a>)
+      _t – type (<a href="https://developer.kaltura.com/api-docs/#/KalturaSessionType"><span>KalturaSessionType</span></a>)
     </li>
     <li class="li1">
       Privileges (edit, download, sview, etc.)
@@ -149,7 +149,7 @@ Since October 14, 2012 - Kaltura introduced a second version to the KS format th
 
 To see an implementation of the KS generation algorithm, refer to the GenerateSession function in [the client library of your choice][2].
 
- [2]: http://www.kaltura.com/api_v3/testme/client-libs.php
+ [2]: https://developer.kaltura.com/api-docs/#/Client%20Libraries
 
 <p class="mce-heading-3">
   <a name="methods"></a>Methods for generating a valid Kaltura Session:

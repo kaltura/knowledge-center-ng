@@ -62,7 +62,7 @@ In KS-Based SSO, the KAF end-point (URL of a specific module) must include a sec
 
 The security token expected by KAF is a KS (Kaltura Session) that includes, in its list of privileges, relevant user information, session information and other security-oriented or functionality-related privileges.
 
-A KS can be constructed using any of the <a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank">Kaltura API Client libraries</a>, with the internal method that is called generateSession (or a similarly named function).
+A KS can be constructed using any of the <a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank">Kaltura API Client libraries</a>, with the internal method that is called generateSession (or a similarly named function).
 
 The following is an example for generating a session in PHP using the client library:
 
@@ -121,7 +121,7 @@ The following table explains the parameters expected by the generateSession meth
     <tr>
       <td valign="top" width="308">
         <p>
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaSessionType" target="_blank">Session Type</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaSessionType" target="_blank">Session Type</a>
         </p>
       </td>
       
@@ -279,7 +279,7 @@ In the example below:
 *   The contextual role of the user is “manager”.. In the loaded context, the user should be considered a manager of that gallery, and is given some capabilities that are only allowed for this role.
 
 <p class="mce-note-graphic">
-  Contextual role values are the available constants of <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
+  Contextual role values are the available constants of <a href="https://developer.kaltura.com/api-docs/#/KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
 </p>
 
 <pre class="brush: php;fontsize: 100; first-line: 1; ">$privileges= array();

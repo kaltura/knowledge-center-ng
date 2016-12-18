@@ -20,7 +20,7 @@ $client-&gt;setKS($ks);</pre>
     <pre class="brush: php;fontsize: 100; first-line: 1; ">$ks = $client-&gt;generateSession($adminSecret, $userId, $type, $partnerId);  
 $client-&gt;setKS($ks);</pre>
 
-The above examples are using the <a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank">Kaltura PHP5 Client Library</a>.
+The above examples are using the <a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank">Kaltura PHP5 Client Library</a>.
 
  
 

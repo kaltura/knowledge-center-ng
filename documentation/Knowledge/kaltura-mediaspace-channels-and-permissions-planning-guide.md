@@ -757,7 +757,7 @@ Automating ongoing updates of channel permissions requires the expertise and ful
     Prepare the End-User Entitlements CSV.<br />Transform the initial list of channel permission actions (add, update, delete) to comply with <a href="{{site.url}}/documentation/Knowledge/end-user-entitlements-csv-usage-and-schema-description.html">Kaltura’s End-User Entitlements CSV format</a>. Insert the CSV field headers and specify the permission levels and actions.<br />To add a user permission, use the CSV add action (action = 1).<br />To update a user permission or create a new one as a fallback in case the permission you attempt to update was not yet set, use the CSV add or update action (action = 6).<br />To delete a user permission, use the CSV delete action (action = 3).<br /><img src="../../assets/794.img">
   </li>
   <li>
-    Submit the End-User Entitlements CSV.<br />When the End-User Entitlements CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryUser&action=addfrombulkupload">categoryUser.addfrombulkupload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.
+    Submit the End-User Entitlements CSV.<br />When the End-User Entitlements CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="https://developer.kaltura.com/api-docs/#/categoryUser.addFromBulkUpload">categoryUser.addFromBulkUpload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.
   </li>
 </ol>
 
@@ -775,10 +775,10 @@ Develop the following:
     Create a script that implements the following Kaltura API requests when a new group membership is created for a user in your information system (a user joins an organizational group).
 <ol style="list-style-type: lower-alpha;">
   <li>
-    Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=category&action=list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
+    Call the <a href="https://developer.kaltura.com/api-docs/#/category.list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
   </li>
   <li>
-    When the category is found, call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryEntry&action=add">categoryUser.add</a> API action to create a new permission for the user in the specific channel with the proper permission level.
+    When the category is found, call the <a href="https://developer.kaltura.com/api-docs/#/categoryEntry.add">categoryUser.add</a> API action to create a new permission for the user in the specific channel with the proper permission level.
   </li>
 </ol>
 
@@ -786,10 +786,10 @@ Develop the following:
     Create a script that implements the following Kaltura API requests when an existing group membership is removed from a user in your information system (a user leaves an organizational group).
 <ol style="list-style-type: lower-alpha;">
   <li>
-    Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=category&action=list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
+    Call the <a href="https://developer.kaltura.com/api-docs/#/category.list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
   </li>
   <li>
-    When the category is found, call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryEntry&action=delete">categoryUser.delete</a> API action to delete the user's existing channel membership.
+    When the category is found, call the <a href="https://developer.kaltura.com/api-docs/#/categoryEntry.delete">categoryUser.delete</a> API action to delete the user's existing channel membership.
   </li>
 </ol>
 
@@ -797,10 +797,10 @@ Develop the following:
     Create a script that implements the following Kaltura API requests when an existing group membership type in your information system is changed in a way that impacts the relevant channel permission level (for example, a user's role within a group changes and the user should be set as a channel manager).
 <ol style="list-style-type: lower-alpha;">
   <li>
-    Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=category&action=list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
+    Call the <a href="https://developer.kaltura.com/api-docs/#/category.list">category.list</a> API action to retrieve the channel’s category object. In the list filter, include the <strong>Group ID</strong> set as the <strong>Category’s Reference ID</strong> attribute.
   </li>
   <li>
-    When the category is found, call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryUser&action=update">categoryUser.update</a> API action to adjust the user’s permission level in the group’s channel.
+    When the category is found, call the <a href="https://developer.kaltura.com/api-docs/#/categoryUser.update">categoryUser.update</a> API action to adjust the user’s permission level in the group’s channel.
   </li>
 </ol>
 
@@ -824,7 +824,7 @@ The Update Method attribute of channel permissions enables manual overrides to a
 
 Call the [categoryUser.update][14] Kaltura API action to enable a controlled override of permission levels that were set or updated manually in MediaSpace or the KMC. Use the *override* parameter to indicate whether to override a permission level that is set manually.
 
- [14]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=categoryUser&action=update
+ [14]: https://developer.kaltura.com/api-docs/#/categoryUser.update
 
 Using this API action enables you to implement a logic that prevents manually created or updated channel permission levels from being updated by automated processes or that allows the channel permission levels to be updated only in specific cases.
 
@@ -845,7 +845,7 @@ MediaSpace Channels can be deleted:
 *   With a bulk service, using [Kaltura’s Categories CSV][9]
 *   With a script that calls the [category.delete][15] Kaltura API action
 
- [15]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=category&action=delete
+ [15]: https://developer.kaltura.com/api-docs/#/category.delete
 
 When a category is deleted, the media entries in the category (including sub-category entries) are not deleted. The media entries lose the association with the deleted category, including any privacy setting defined in the deleted category.
 
@@ -967,12 +967,12 @@ To add or delete users, you can:
     Prepare the End-User CSV.<br />Transform your update data to comply with the <a href="{{site.url}}/documentation/Knowledge/end-users-csv-usage-and-schema-description.html">Kaltura’s end-users CSV format</a> for adding/deleting users from the user list. Insert the CSV field headers and specify the actions.<br />To add a user, use the CSV <em>add</em> or <em>update</em> action (action = 6). To delete a user, use the CSV <em>delete</em> action (action = 3). <br /><img src="../../assets/798.img">
   </li>
   <li>
-    Submit the End-User CSV.<br />When the End-Users CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=addfrombulkupload">user.addfrombulkupload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.
+    Submit the End-User CSV.<br />When the End-Users CSV is available, submit it to Kaltura using the Kaltura API: Call the <a href="https://developer.kaltura.com/api-docs/#/user.addFromBulkUpload">user.addFromBulkUpload</a> API action.<br />Bulk processing in Kaltura is handled in an asynchronous batch process. Track the completion status of the bulk job in the KMC on the Bulk Upload Log page or using email notifications set by Kaltura for your account.
   </li>
 </ol>
 
 <p class="mce-note-graphic">
-  NOTE: For the updating process, you can use direct Kaltura API calls (<a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=add">user.add</a>, <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=delete">user.delete</a>) instead of the CSV.
+  NOTE: For the updating process, you can use direct Kaltura API calls (<a href="https://developer.kaltura.com/api-docs/#/user.add">user.add</a>, <a href="https://developer.kaltura.com/api-docs/#/user.delete">user.delete</a>) instead of the CSV.
 </p>
 
 <p class="mce-procedure">
@@ -1002,6 +1002,6 @@ Develop the following:
     *       User ID  
     *       Updated values for: User’s first name, User’s last name, screenName (Combine the first and last names.)
 
- [21]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=add
- [22]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=delete
- [23]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=update
+ [21]: https://developer.kaltura.com/api-docs/#/user.add
+ [22]: https://developer.kaltura.com/api-docs/#/user.delete
+ [23]: https://developer.kaltura.com/api-docs/#/user.update

@@ -213,7 +213,7 @@ These release notes are intended for Kaltura SaaS customers.
       
       <td style="text-align: left;" valign="top" width="198">
         <p class="TableBodyText">
-          Access to iOS/Android SDKs and Reference applications is available from the <a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank">Kaltura API Client libraries download page</a>.
+          Access to iOS/Android SDKs and Reference applications is available from the <a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank">Kaltura API Client libraries download page</a>.
         </p>
       </td>
     </tr>

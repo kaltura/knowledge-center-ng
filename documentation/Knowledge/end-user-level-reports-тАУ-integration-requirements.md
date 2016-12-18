@@ -90,7 +90,7 @@ If you filter content by playback context on category A, the returned results ar
 For integrations with non-Kaltura applications you will need to create a KS for passing the User ID.
 
 *   For example:
-*   Install the Kaltura PHP client library: <a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank">http://www.kaltura.com/api_v3/testme/client-libs.php</a>
+*   Install the Kaltura PHP client library: <a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank">https://developer.kaltura.com/api-docs/#/Client%20Libraries</a>
 *   Implement a local session as described in option 3 using UserID in the variable $userId: <a href="http://knowledge.kaltura.com/faq/how-create-kaltura-session" target="_blank">http://knowledge.kaltura.com/faq/how-create-kaltura-session</a>
 *   Passing the parameter also depends on the application’s integration. Most integrations into an existing system usually have some kind of internal API to query for the current user ID. For an application name, a simple string needs to be added. Adding the string  as a flashvar is a matter of modifying the embed codes, which are generated in the integration, to include the additional flashvars.
 

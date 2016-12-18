@@ -13,7 +13,7 @@ To get set up with your fresh Kaltura environment, follow these steps:
   </li>
 </ol>
 
-2.  Visit the Kaltura API Client Libraries page at **<http://www.kaltura.com/api_v3/testme/client-libs.php>**
+2.  Visit the Kaltura API Client Libraries page at **<https://developer.kaltura.com/api-docs/#/Client%20Libraries>**
 3.  And **download the client library** in the programming language of your choice
 4.  In the client library folder, you will find **samples** and unit-tests that will guide your way in **creating a Kaltura API driven video app!**
 

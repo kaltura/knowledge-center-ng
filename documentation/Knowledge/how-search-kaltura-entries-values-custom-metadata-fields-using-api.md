@@ -13,7 +13,7 @@ date: 2012-01-10 16:26:10
 </p>
 
 1.  Start a Kaltura session (KS).
-2.  <span>Call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=media&action=list">media.list</a> API action.</span>
+2.  <span>Call the <a href="https://developer.kaltura.com/api-docs/#/media.list">media.list</a> API action.</span>
 3.  In the *KalturaMediaEntryFilter* parameter, set the *advancedSearch* field to type *KalturaMetadataSearchItem*.
 4.  In *KalturaMetadataSearchItem*: 
 <ol style="list-style-type: lower-alpha;">

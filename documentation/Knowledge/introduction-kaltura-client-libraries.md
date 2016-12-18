@@ -123,7 +123,7 @@ When you have a client library:
 
 Kaltura provides [downloadable client libraries][8] for the Kaltura Hosted Edition in various programming languages. These languages also are available when [generating a client library for Kaltura On-Prem and Kaltura CE][5]. You can generate a client library for an additional language. See [Generating a Client Library for a Language that Kaltura Does Not Provide][9].
 
- [8]: http://www.kaltura.com/api_v3/testme/client-libs.php
+ [8]: https://developer.kaltura.com/api-docs/#/Client%20Libraries
  [9]: #GeneratingaClientLibraryforaLanguagethat
 
 **Available Client Library Languages**
@@ -452,8 +452,8 @@ The generator class has methods that are required to be implemented so that the 
 
 The generator class includes methods such as:
 
-*   *writeEnum* –Outputs code of an enumeration class (for example, <http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaEntryStatus>)
-*   *writeClass* – Outputs code of an object that represents a Kaltura entity (for example, <http://www.kaltura.com/api_v3/testmeDoc/?object=KalturaBaseEntry>)
+*   *writeEnum* –Outputs code of an enumeration class (for example, <https://developer.kaltura.com/api-docs/#/KalturaEntryStatus>)
+*   *writeClass* – Outputs code of an object that represents a Kaltura entity (for example, <https://developer.kaltura.com/api-docs/#/KalturaBaseEntry>)
 *   *writeService* - Outputs code of an object that represents a Kaltura service.  
     The object has methods. Each method represents an action that is available in the service.
 *   *writeAction* - Outputs code of an action method within a service object.
@@ -752,7 +752,7 @@ For example:
     The result of *media.get* is an object of type [KalturaMediaEntry][22].
 2.  After performing the *media.get* call, you print the name of the entry.
 
- [22]: http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaMediaEntry
+ [22]: https://developer.kaltura.com/api-docs/#/KalturaMediaEntry
 
 <p class="mce-note-graphic">
   For more information about the Kaltura API structure, refer to <a href="http://knowledge.kaltura.com/kaltura-api-usage-guidelines">Kaltura API Usage Guidelines</a>.

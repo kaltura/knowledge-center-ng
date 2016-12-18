@@ -34,7 +34,7 @@ date: 2014-10-13 09:28:21
               <div class="layoutArea">
                 <div class="column">
                   <p>
-                    The Kaltura API is a RESTful API where each call is an action within a specified service. The service which supports the multiple user function is “user” and the action is “addFromBulkUpload”. We provide API client libraries in most, if not all, popular programming languages. The examples included at the end of this document use the PHP 5.3 client library. Client libraries can be downloaded from <a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank" title="Kaltura API SDK - Native Client Libraries">http://www.kaltura.com/api_v3/testme/client-libs.php</a>
+                    The Kaltura API is a RESTful API where each call is an action within a specified service. The service which supports the multiple user function is “user” and the action is “addFromBulkUpload”. We provide API client libraries in most, if not all, popular programming languages. The examples included at the end of this document use the PHP 5.3 client library. Client libraries can be downloaded from <a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank" title="Kaltura API SDK - Native Client Libraries">https://developer.kaltura.com/api-docs/#/Client%20Libraries</a>
                   </p>
                   
                   <div class="page" title="Page 1">

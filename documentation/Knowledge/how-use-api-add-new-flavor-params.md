@@ -12,7 +12,7 @@ date: 2012-01-03 17:44:56
 
 To add flavor params, call the [flavorParams.add][1] API action.
 
- [1]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=flavorparams&action=add
+ [1]: https://developer.kaltura.com/api-docs/#/flavorParams.add
 
 <pre class="brush: php;fontsize: 100; first-line: 1; ">&lt;?php
 require_once('lib/KalturaClient.php');

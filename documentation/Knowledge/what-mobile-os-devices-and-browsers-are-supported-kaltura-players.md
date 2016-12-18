@@ -9,7 +9,7 @@ date: 2013-01-29 17:58:58
 </p>
 
 <p class="p1">
-  <span class="s1">Native SDKs are available for <a href="http://www.apple.com/ios/" target="_blank">Apple iOS</a> and <a href="http://www.android.com/" target="_blank">Google Android</a> at: <span class="s2"><a href="http://www.kaltura.com/api_v3/testme/client-libs.php" target="_blank">http://www.kaltura.com/api_v3/testme/client-libs.php</a>.</span></span>
+  <span class="s1">Native SDKs are available for <a href="http://www.apple.com/ios/" target="_blank">Apple iOS</a> and <a href="http://www.android.com/" target="_blank">Google Android</a> at: <span class="s2"><a href="https://developer.kaltura.com/api-docs/#/Client%20Libraries" target="_blank">https://developer.kaltura.com/api-docs/#/Client%20Libraries</a>.</span></span>
 </p>
 
 <p class="p2">

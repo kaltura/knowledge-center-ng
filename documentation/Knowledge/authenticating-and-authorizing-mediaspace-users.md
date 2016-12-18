@@ -382,13 +382,13 @@ When you manage MediaSpace authorization in Kaltura, you can develop automated p
 *   You can develop a scheduled update process to periodically add or delete multiple users to the MediaSpace users list using the [Kaltura end-users CSV][16]. In your script, you can call the [user.addfrombulkupload][19] Kaltura API action to submit the CSV.
 *   Using Kaltura API actions, you can develop a trigger-based process to update the MediaSpace users list in real time when changes occur in your organizational information system. You can call the [user.add][20], [user.delete][21] and [user.update][22] Kaltura API actions to add, delete, and update specific user records. You can call the [metadata.add][23], [metadata.delete][24], and [metadata.update][25] Kaltura API actions to add, delete, and update the user's MediaSpace role. 
 
- [19]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=addfrombulkupload
- [20]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=add
- [21]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=delete
- [22]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=user&action=update
- [23]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=metadata_metadata&action=add
- [24]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=metadata_metadata&action=delete
- [25]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=metadata_metadata&action=update
+ [19]: https://developer.kaltura.com/api-docs/#/user.addFromBulkUpload
+ [20]: https://developer.kaltura.com/api-docs/#/user.add
+ [21]: https://developer.kaltura.com/api-docs/#/user.delete
+ [22]: https://developer.kaltura.com/api-docs/#/user.update
+ [23]: https://developer.kaltura.com/api-docs/#/metadata.add
+ [24]: https://developer.kaltura.com/api-docs/#/metadata.delete
+ [25]: https://developer.kaltura.com/api-docs/#/metadata.update
 
 <p class="mce-note-graphic">
   NOTE: Deleted users are also removed from all channels in which they are members. Content ownership and analytics information of the deleted user are not deleted.

@@ -171,7 +171,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaBulkUploadAction">KalturaBulkUploadAction</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaBulkUploadAction">KalturaBulkUploadAction</a>
         </p>
       </td>
     </tr>
@@ -511,7 +511,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaPrivacyType">KalturaPrivacyType</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaPrivacyType">KalturaPrivacyType</a>
         </p>
       </td>
     </tr>
@@ -559,7 +559,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaAppearInListType">KalturaAppearInListType</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaAppearInListType">KalturaAppearInListType</a>
         </p>
       </td>
     </tr>
@@ -607,7 +607,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaContributionPolicyType">KalturaContributionPolicyType</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaContributionPolicyType">KalturaContributionPolicyType</a>
         </p>
       </td>
     </tr>
@@ -655,7 +655,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaInheritanceType">KalturaInheritanceType</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaInheritanceType">KalturaInheritanceType</a>
         </p>
       </td>
     </tr>
@@ -751,7 +751,7 @@ The CSV examples included in this guide are displayed in screens from MS Excel f
       
       <td style="text-align: left;" valign="top" width="222">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
         </p>
       </td>
     </tr>

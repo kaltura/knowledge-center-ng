@@ -150,7 +150,7 @@ The following table includes descriptions for all end-user attributes supported 
       
       <td style="text-align: left;" valign="top" width="204">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaBulkUploadAction">KalturaBulkUploadAction</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaBulkUploadAction">KalturaBulkUploadAction</a>
         </p>
       </td>
     </tr>
@@ -330,7 +330,7 @@ The following table includes descriptions for all end-user attributes supported 
       
       <td style="text-align: left;" valign="top" width="204">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaCategoryUserPermissionLevel">KalturaCategoryUserPermissionLevel</a>
         </p>
       </td>
     </tr>
@@ -370,7 +370,7 @@ The following table includes descriptions for all end-user attributes supported 
       
       <td style="text-align: left;" valign="top" width="204">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaUpdateMethodType">KalturaUpdateMethodType</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaUpdateMethodType">KalturaUpdateMethodType</a>
         </p>
       </td>
     </tr>
@@ -410,7 +410,7 @@ The following table includes descriptions for all end-user attributes supported 
       
       <td style="text-align: left;" valign="top" width="204">
         <p class="TableBodyText">
-          <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaCategoryUserStatus">KalturaCategoryUserStatus</a>
+          <a href="https://developer.kaltura.com/api-docs/#/KalturaCategoryUserStatus">KalturaCategoryUserStatus</a>
         </p>
       </td>
     </tr>

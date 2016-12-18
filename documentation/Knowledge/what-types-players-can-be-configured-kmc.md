@@ -12,4 +12,4 @@ date: 2011-12-26 10:52:13
 > *   <span style="font-size: small;">Multi playlist</span>
 > *   <span style="font-size: small;">Hovering controllers players</span>
 
-<span style="font-size: small;">A studio template is a collection of features of a specific Kaltura Player configuration. The template is actually a collection of the player uiConf and another .xml file called features.xml.  For more information, see <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaUiConf" target="_blank" title="KalturaUiConf">here</a>.</span>
+<span style="font-size: small;">A studio template is a collection of features of a specific Kaltura Player configuration. The template is actually a collection of the player uiConf and another .xml file called features.xml.  For more information, see <a href="https://developer.kaltura.com/api-docs/#/KalturaUiConf" target="_blank" title="KalturaUiConf">here</a>.</span>

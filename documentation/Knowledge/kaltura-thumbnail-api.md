@@ -4,7 +4,7 @@ title: "The Kaltura Thumbnail API"
 date: 2011-12-31 02:47:22
 ---
 
-In addition to the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=thumbasset" target="_blank">thumbAsset</a> Service available as part of the Kaltura API v3, Kaltura provides a special Thumbnail API, aiming to simplify creation of thumbnails on-the-fly.
+In addition to the <a href="https://developer.kaltura.com/api-docs/#/thumbAsset" target="_blank">thumbAsset</a> Service available as part of the Kaltura API v3, Kaltura provides a special Thumbnail API, aiming to simplify creation of thumbnails on-the-fly.
 
 The Thumbnail API provides a simple web interface to dynamically generate image snapshots of Kaltura video entries on the fly.
 

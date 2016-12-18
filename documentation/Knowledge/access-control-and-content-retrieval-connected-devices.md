@@ -38,5 +38,5 @@ date: 2016-03-29 19:28:41
   </p>
   
   <p>
-    To provide a better UX than just a black screen when accessing content outside its scheduling window, for example, display a message as “This video cannot be played at this time” or “Video can only be accessed between X – Y, try again in T hours”, you should also use the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=baseEntry&action=getcontextdata">baseEntry.getContextData</a> API method. This method allows retrieving the scheduling window and presenting a message dialog to the end user when <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaEntryContextDataResult">isScheduledNow</a> is returned false.
+    To provide a better UX than just a black screen when accessing content outside its scheduling window, for example, display a message as “This video cannot be played at this time” or “Video can only be accessed between X – Y, try again in T hours”, you should also use the <a href="https://developer.kaltura.com/api-docs/#/baseEntry.getContextData">baseEntry.getContextData</a> API method. This method allows retrieving the scheduling window and presenting a message dialog to the end user when <a href="https://developer.kaltura.com/api-docs/#/KalturaEntryContextDataResult">isScheduledNow</a> is returned false.
   </p>

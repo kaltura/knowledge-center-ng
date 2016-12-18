@@ -21,7 +21,7 @@ You can create two transcoding profiles, one for each of your target audiences, 
 >     <img src="../../assets/745.img">
 > 
 > 3.  If you use custom metadata, edit the entry metadata fields. For example you can enter data that reflects the template data for your company, such as your “company name” field since your company name is unlikely to change.  
->     If you do not use custom metadata, click <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=metadata_metadata" target="_blank" title="Custom Metadata Intro Page">here</a> to learn more about it.   
+>     If you do not use custom metadata, click <a href="https://developer.kaltura.com/api-docs/#/metadata" target="_blank" title="Custom Metadata Intro Page">here</a> to learn more about it.   
 >     You next have to set the template entry on the transcoding profile.
 > 4.  Go to the Settings tab and select the Transcoding Profiles menu.
 > 5.  Select the flavors of your default transcoding profile.

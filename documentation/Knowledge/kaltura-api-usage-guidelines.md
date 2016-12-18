@@ -94,7 +94,7 @@ To save you time, Kaltura provides client libraries. A client library is a set o
 
 The Kaltura API SDK includes client library packages in different languages, including PHP, Java, C#, and JavaScript. For the latest version of all client libraries, refer to [Kaltura API SDK - Native Client Libraries][5].
 
- [5]: http://www.kaltura.com/api_v3/testme/client-libs.php
+ [5]: https://developer.kaltura.com/api-docs/#/Client%20Libraries
 
 To get the entire API in your IDE, just download the client library for the language that you use to develop your applications and include the client library in your application or project.
 

@@ -328,7 +328,7 @@ The following lists few of the conventional flavor Id's:
 </p>
 
 1.  Visiting the KMC Settings > [Transcoding Profiles][2].
-2.  OR by making an API call the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=conversionprofile&action=list" target="_blank">ConversionProfile.list</a> action.
+2.  OR by making an API call the <a href="https://developer.kaltura.com/api-docs/#/conversionProfile.list" target="_blank">ConversionProfile.list</a> action.
 
  [2]: http://knowledge.kaltura.com/faq/how-create-transcoding-profile
 

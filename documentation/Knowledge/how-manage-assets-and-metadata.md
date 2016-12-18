@@ -13,4 +13,4 @@ You can manage assets and metadata through the:
 *   Kaltura APIs – All metadata-related functionality available through the KMC can also be performed using the Kaltura APIs. The APIs also expose additional functionality not available through the KMC. For more information see [here][2].
 
  [1]: file:///C:/Users/Debbie/Documents/4ido/4ido_metadata.rtf#_The_Dashboard_Tab
- [2]: http://www.kaltura.com/api_v3/testmeDoc/index.php?service=metadata_metadata
+ [2]: https://developer.kaltura.com/api-docs/#/metadata

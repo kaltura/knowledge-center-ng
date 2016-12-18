@@ -7,7 +7,7 @@ date: 2013-08-29 16:06:07
 Draft entries are entries created without actual content, and are used as a container for adding content.
 
 <p class="mce-note-graphic">
-  <span>You can add or attach content at a later time, by using the </span><a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?service=baseentry&action=addcontent" target="_blank">BaseEntry->addContent</a><span>  action and use one of the KalturaResource </span><a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaResource">resources</a><span>. See </span><a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?object=KalturaResource" target="_blank">Kaltura API</a><span> documentation.</span>
+  <span>You can add or attach content at a later time, by using the </span><a href="https://developer.kaltura.com/api-docs/#/baseEntry.addContent" target="_blank">BaseEntry->addContent</a><span>  action and use one of the KalturaResource </span><a href="https://developer.kaltura.com/api-docs/#/KalturaResource">resources</a><span>. See </span><a href="https://developer.kaltura.com/api-docs/#/KalturaResource" target="_blank">Kaltura API</a><span> documentation.</span>
 </p>
 
 <p class="mce-procedure">
