@@ -6,7 +6,7 @@ date: 2014-11-17 15:00:43
 
 <span class="mce-procedure">To start a Kaltura Session</span>
 
-1.  Go to: <a href="http://www.kaltura.com/api_v3/testme" class="external-link" rel="nofollow">http://www.kaltura.com/api_v3/testme</a>
+1.  Go to: <a href="https://developer.kaltura.com/console/" class="external-link" rel="nofollow">https://developer.kaltura.com/console/</a>
 2.  Select **Session** from the Select Service drop down list.  
     <img src="../../assets/3365.img">
       

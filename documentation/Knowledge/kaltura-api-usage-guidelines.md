@@ -65,7 +65,7 @@ The *generatedDate* value is a UNIX timestamp.
 
 The [Kaltura API Test Console][3] web page enables you to interact with the entire Kaltura API using a simple user interface (see the figure below).
 
- [3]: http://www.kaltura.com/api_v3/testme/
+ [3]: https://developer.kaltura.com/console
 
 You use the Test Console to:
 
@@ -148,7 +148,7 @@ Each API method location is concatenated from:
 
 The format of the API method location is:
 
-<pre class="brush: plain;fontsize: 100; first-line: 1; ">http://www.kaltura.com/api_v3/?service=[SERVICENAME]&action=[ACTIONNAME]</pre>
+<pre class="brush: plain;fontsize: 100; first-line: 1; ">https://developer.kaltura.com/api-docs/#/[SERVICENAME].[ACTIONNAME]</pre>
 
 where
 
@@ -161,7 +161,7 @@ where
 
 Post a request to activate the *list* action of the *media* service to the following URL:
 
-<pre class="brush: plain;fontsize: 100; first-line: 1; ">http://www.kaltura.com/api_v3/?service=media&action=list</pre>
+<pre class="brush: plain;fontsize: 100; first-line: 1; ">https://developer.kaltura.com/api-docs/#/media.list</pre>
 
 <h3 class="mce-heading-3">
   Request Input Parameters
@@ -214,7 +214,7 @@ To receive a [JSON][10] output of a request, use following URL:
 
  [10]: http://en.wikipedia.org/wiki/JSON
 
-<pre class="brush: plain;fontsize: 100; first-line: 1; ">http://www.kaltura.com/api_v3/?service=media&action=list&format=1 </pre>
+<pre class="brush: plain;fontsize: 100; first-line: 1; ">https://developer.kaltura.com/api-docs/#/media&action.list </pre>
 
 Numeric IDs of the most commonly used formats:
 

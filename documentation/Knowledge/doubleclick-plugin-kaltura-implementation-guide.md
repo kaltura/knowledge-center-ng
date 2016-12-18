@@ -346,7 +346,7 @@ This code has the plugin setup to run the sample linear ad (provided in [Exampl
   </li>
 </ol>
 
-3.  Open another browser window and go to <a href="http://www.kaltura.com/api_v3/testme/" target="_blank">http://www.kaltura.com/api_v3/testme/</a>
+3.  Open another browser window and go to <a href="https://developer.kaltura.com/console" target="_blank">https://developer.kaltura.com/console</a>
 4.  Under the drop down box Select service, select session.
 5.  Another drop down box should appear called Select action.  Select start.  Below, some other entry boxes should appear.
 6.  Under secret (string), cut and paste the Administrator Secret found in the KMC window that was left open in [step 2b][14].

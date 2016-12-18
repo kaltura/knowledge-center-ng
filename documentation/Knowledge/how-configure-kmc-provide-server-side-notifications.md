@@ -159,7 +159,7 @@ The following are the supported KMC notifications:
 2.  Toggle Yes to receive server notifications.
 3.  Enter the Notification URL and Save Changes.
 
-For more information about the various notifications and how to implement a notification handler script on your server, refer to: <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?page=notifications" target="_blank" title="API Documentation Notifications">http://www.kaltura.com/api_v3/testmeDoc/index.php?page=notifications</a>
+For more information about the various notifications and how to implement a notification handler script on your server, refer to: <a href="https://developer.kaltura.com/api-docs/#/Integration,%20Scheduling%20and%20Hooks" target="_blank" title="API Documentation Notifications">https://developer.kaltura.com/api-docs/#/Integration,%20Scheduling%20and%20Hooks</a>
 
  
 

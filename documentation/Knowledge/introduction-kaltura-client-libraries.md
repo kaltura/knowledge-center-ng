@@ -883,8 +883,8 @@ try {
 *   To learn about specific services, actions, and objects, refer to the [API documentation][25].
 *   For examples used in this document in languages available in the [Kaltura API SDK - Native Client Libraries][8], see [Sample Code for Multiple Client Library Languages][7].
 
- [24]: http://www.kaltura.com/api_v3/testme/
- [25]: http://www.kaltura.com/api_v3/testmeDoc/index.php
+ [24]: https://developer.kaltura.com/console 
+ [25]: https://developer.kaltura.com/api-docs
 
 <h1 class="mce-heading-1">
   <a name="SampleCode"></a>Sample Code for Multiple Client Library Languages

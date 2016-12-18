@@ -5,7 +5,7 @@ date: 2011-12-31 01:03:08
 ---
 
 <p class="mce-note-graphic">
-  There are two versions to the Kaltura API, Partner Services 2 and 3, also known by the name api_v2 and api_v3.<br />Respectively, there are two versions of the TestMe Console. The <a href="http://www.kaltura.com/api/testme" class="bb-url">api_v2 TestMe</a> , which works with Version 2 of the API (api_v2), and <a href="http://www.kaltura.com/api_v3/testme/index.php" class="bb-url">api_v3 TestMe</a> that is also a part of <a href="http://www.kaltura.org/project/kalturaCE" class="bb-url">KalturaCE</a> and is the recommended version of the API to use (api_v2 will be deprecated over time).
+  There are two versions to the Kaltura API, Partner Services 2 and 3, also known by the name api_v2 and api_v3.<br />Respectively, there are two versions of the TestMe Console. The <a href="https://developer.kaltura.com/console" class="bb-url">api_v2 TestMe</a> , which works with Version 2 of the API (api_v2), and <a href="https://developer.kaltura.com/console" class="bb-url">api_v3 TestMe</a> that is also a part of <a href="http://www.kaltura.org/project/kalturaCE" class="bb-url">KalturaCE</a> and is the recommended version of the API to use (api_v2 will be deprecated over time).
 </p>
 
 <p class="mce-heading-2">

@@ -127,7 +127,7 @@ Kaltura provide two types of Notifications: 
 2.  Select the type of notifications from the displayed list. <img src="../../assets/92.img">
 
 <p class="MsoBodyText" style="margin: 6pt 0in 0pt;">
-  For more information about the various notifications and how to implement a notification handler script on your server, refer to: <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php?page=notifications"><span style="color: #0fa2bb; font-family: arial, helvetica, sans-serif;">API Notifications.</span></a>
+  For more information about the various notifications and how to implement a notification handler script on your server, refer to: <a href="https://developer.kaltura.com/api-docs/#/Integration,%20Scheduling%20and%20Hooks"><span style="color: #0fa2bb; font-family: arial, helvetica, sans-serif;">API Notifications.</span></a>
 </p>
 
  

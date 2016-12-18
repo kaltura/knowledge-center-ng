@@ -24,7 +24,7 @@ These release notes pertain to the Kaltura API changes for Gemini, released Apri
 <span>added enum value </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobOrderBy" target="_blank">KalturaBatchJobOrderBy</a><span>. ESTIMATED_EFFORT_DESC</span>  
 <span>added enum value </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobOrderBy" target="_blank">KalturaBatchJobOrderBy</a><span>. LOCK_EXPIRATION_ASC</span>  
 <span>added enum value </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobOrderBy" target="_blank">KalturaBatchJobOrderBy</a><span>. LOCK_EXPIRATION_DESC</span>  
-<span>added parameter </span><a href="http://www.kaltura.com/api_v3/testmeDoc/?service=flavorAsset&action=convert" target="_blank">flavorAsset.convert</a><span>.priority</span>  
+<span>added parameter </span><a href="https://developer.kaltura.com/api-docs/#/flavorAsset.convert" target="_blank">flavorAsset.convert</a><span>.priority</span>  
 <span>added property </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobBaseFilter" target="_blank">KalturaBatchJobBaseFilter</a><span>.createdAtGreaterThanOrEqual</span>  
 <span>added property </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobBaseFilter" target="_blank">KalturaBatchJobBaseFilter</a><span>.createdAtLessThanOrEqual</span>  
 <span>added property </span><a href="https://developer.kaltura.com/api-docs/#/KalturaBatchJobBaseFilter" target="_blank">KalturaBatchJobBaseFilter</a><span>.estimatedEffortGreaterThan</span>  
@@ -294,11 +294,11 @@ These release notes pertain to the Kaltura API changes for Gemini, released Apri
  [13]: https://developer.kaltura.com/api-docs/#/KalturaAssetType
  [14]: https://developer.kaltura.com/api-docs/#/KalturaEntryContextDataParams
  [15]: https://developer.kaltura.com/api-docs/#/KalturaEntryContextDataResult
- [16]: http://www.kaltura.com/api_v3/testmeDoc/?service=widevine_widevinedrm
+ [16]: https://developer.kaltura.com/api-docs/#/widevineDrm
  [17]: https://developer.kaltura.com/api-docs/#/KalturaAccessControlActionType
  [18]: https://developer.kaltura.com/api-docs/#/KalturaAccessControlContextType
  [19]: https://developer.kaltura.com/api-docs/#/KalturaAccessControlScope
- [20]: http://www.kaltura.com/api_v3/testmeDoc/?service=liveStream&action=isLive
+ [20]: https://developer.kaltura.com/api-docs/#/liveStream.isLive
  [21]: https://developer.kaltura.com/api-docs/#/KalturaSourceType
  [22]: https://developer.kaltura.com/api-docs/#/KalturaLiveStreamEntry
  [23]: https://developer.kaltura.com/api-docs/#/KalturaPartner
@@ -308,16 +308,16 @@ These release notes pertain to the Kaltura API changes for Gemini, released Apri
  [27]: https://developer.kaltura.com/api-docs/#/KalturaFlavorParams
  [28]: https://developer.kaltura.com/api-docs/#/KalturaEmailNotificationRecipientProvider
  [29]: https://developer.kaltura.com/api-docs/#/KalturaEmailNotificationUserRecipientProvider
- [30]: http://www.kaltura.com/api_v3/testmeDoc/?service=eventnotification_eventnotificationtemplate
- [31]: http://www.kaltura.com/api_v3/testmeDoc/?service=media&action=getMrss
+ [30]: https://developer.kaltura.com/api-docs/#/eventNotificationTemplate
+ [31]: https://developer.kaltura.com/api-docs/#/media.getMrss
  [32]: https://developer.kaltura.com/api-docs/#/KalturaEntryType
- [33]: http://www.kaltura.com/api_v3/testmeDoc/?service=externalmedia_externalmedia
- [34]: http://www.kaltura.com/api_v3/testmeDoc/?service=document&action=approveReplace
- [35]: http://www.kaltura.com/api_v3/testmeDoc/?service=document&action=cancelReplace
- [36]: http://www.kaltura.com/api_v3/testmeDoc/?service=document&action=updateContent
- [37]: http://www.kaltura.com/api_v3/testmeDoc/?service=documents&action=approveReplace
- [38]: http://www.kaltura.com/api_v3/testmeDoc/?service=documents&action=cancelReplace
- [39]: http://www.kaltura.com/api_v3/testmeDoc/?service=documents&action=updateContent
+ [33]: https://developer.kaltura.com/api-docs/#/externalMedia
+ [34]: https://developer.kaltura.com/api-docs/#/document.approveReplace
+ [35]: https://developer.kaltura.com/api-docs/#/document.cancelReplace
+ [36]: https://developer.kaltura.com/api-docs/#/document.updateContent
+ [37]: https://developer.kaltura.com/api-docs/#/documents.approveReplace
+ [38]: https://developer.kaltura.com/api-docs/#/documents.cancelReplace
+ [39]: https://developer.kaltura.com/api-docs/#/documents.updateContent
  [40]: https://developer.kaltura.com/api-docs/#/KalturaUserFilter
  [41]: https://developer.kaltura.com/api-docs/#/KalturaUserRole
  [42]: https://developer.kaltura.com/api-docs/#/KalturaUserRoleBaseFilter
@@ -331,23 +331,23 @@ These release notes pertain to the Kaltura API changes for Gemini, released Apri
  [50]: https://developer.kaltura.com/api-docs/#/KalturaReportType
  [51]: https://developer.kaltura.com/api-docs/#/KalturaReportInputBaseFilter
  [52]: http://www.kaltura.com/api_v3/testmeDoc/?service=%3Ca%20href=
- [53]: http://www.kaltura%3C/a%3E.com/api_v3/testmeDoc/?service=playlist&action=execute
- [54]: http://www.kaltura.com/api_v3/testmeDoc/?service=playlist&action=execute
+ [53]: https://developer.kaltura.com/api-docs/#/playlist.execute
+ [54]: https://developer.kaltura.com/api-docs/#/playlist.execute
  [55]: https://developer.kaltura.com/api-docs/#/KalturaAnnotation
- [56]: http://www.kaltura%3C/a%3E.com/api_v3/testmeDoc/?service=session&action=get
- [57]: http://www.kaltura.com/api_v3/testmeDoc/?service=session&action=impersonateByKs
+ [56]: https://developer.kaltura.com/api-docs/#/session.get
+ [57]: https://developer.kaltura.com/api-docs/#/session.impersonateByKs
  [58]: https://developer.kaltura.com/api-docs/#/KalturaDistributionProtocol
- [59]: http://www.kaltura.com/api_v3/testmeDoc/?service=aspera_aspera
- [60]: http://www.kaltura.com/api_v3/testmeDoc/?service=metadata&action=updateFromXSL
- [61]: http://www.kaltura.com/api_v3/testmeDoc/?service=system&action=getTime
- [62]: http://www.kaltura.com/api_v3/testmeDoc/?service=tag&action=deletePending
- [63]: http://www.kaltura.com/api_v3/testmeDoc/?service=user&action=index
+ [59]: https://developer.kaltura.com/api-docs/#/aspera
+ [60]: https://developer.kaltura.com/api-docs/#/metadata.updateFromXSL
+ [61]: https://developer.kaltura.com/api-docs/#/system.getTime
+ [62]: https://developer.kaltura.com/api-docs/#/tag.deletePending
+ [63]: https://developer.kaltura.com/api-docs/#/user.index
  [64]: https://developer.kaltura.com/api-docs/#/KalturaCaptionType
  [65]: https://developer.kaltura.com/api-docs/#/KalturaFeatureStatusType
  [66]: https://developer.kaltura.com/api-docs/#/KalturaUiConfObjType
- [67]: http://www.kaltura.com/api_v3/testmeDoc/?service=partner&action=register
- [68]: http://www.kaltura.com/api_v3/testmeDoc/?service=thumbAsset&action=getUrl
- [69]: http://www.kaltura.com/api_v3/testmeDoc/?service=thumbAsset&action=serve
+ [67]: https://developer.kaltura.com/api-docs/#/partner.register
+ [68]: https://developer.kaltura.com/api-docs/#/thumbAsset.getUrl
+ [69]: https://developer.kaltura.com/api-docs/#/thumbAsset.serve
  [70]: https://developer.kaltura.com/api-docs/#/KalturaBulkUploadCsvJobData
  [71]: https://developer.kaltura.com/api-docs/#/KalturaImportJobData
  [72]: https://developer.kaltura.com/api-docs/#/KalturaStorageProfile

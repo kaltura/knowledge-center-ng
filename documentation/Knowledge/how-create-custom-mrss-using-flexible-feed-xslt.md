@@ -29,7 +29,7 @@ For every Kaltura account, a generic feed is created outlining all the available
 The KalturaGenericSyndicationFeed is the base feed from which the Flexible Feed will perform the desired transformation (by applying the given XSLT file) and generate the custom feed format desired.
 
 <p class="mce-procedure">
-  To retrieve the Generic Kaltura Syndication Feed, open the <a href="http://www.kaltura.com/api_v3/testme/" target="_blank">Kaltura API Test Console</a> and follow these steps:
+  To retrieve the Generic Kaltura Syndication Feed, open the <a href="https://developer.kaltura.com/console/" target="_blank">Kaltura API Test Console</a> and follow these steps:
 </p>
 
 1.  Generate a valid Kaltura Session using the session.start or user.loginByLoginId actions. To learn more on how to use the API Test Console, read: <a href="{{site.url}}/documentation/Knowledge/using-kalturas-api-test-console-introduction.html" target="_blank">Using Kaltura's API Test Console</a>.

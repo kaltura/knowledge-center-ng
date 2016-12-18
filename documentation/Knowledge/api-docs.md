@@ -17,7 +17,7 @@ date: 2011-12-29 09:19:05
 *   For Interactive Code Recipes and Examples, visit <a href="https://developers.kaltura.org" target="_blank">https://developers.kaltura.org</a>.
 *   As a reference for understaning technical terms related to Online Video, Media Asset Management and Kaltura - use the [Kaltura Knowledge Center Glossary][2].
 *   For more information about using api_v3 refer to the [Introduction to the Kaltura API Architecture][3].
-*   For further information on the API calls for Partner Services 3 (api_v3), please refer to the <a href="http://www.kaltura.com/api_v3/testmeDoc/index.php" target="_blank" title="Kaltura api_v3 Documentation">api_v3 API documentation</a> (API Docs).
+*   For further information on the API calls for Partner Services 3 (api_v3), please refer to the <a href="https://developer.kaltura.com/api-docs" target="_blank" title="Kaltura api_v3 Documentation">api_v3 API documentation</a> (API Docs).
 *   Use the API Client Libraries to easily perform the API callbacks in your programming language of choice - Refer to the [Kaltura API Client Libraries Guide][4] for more.
 *   Learn about the differences between api\_v2 and api\_v3, and learn how to use the TestMe Console - read the [Kaltura API and TestMe Console Introduction][5].
 *   If you use a CMS like Drupal and WordPress or an LMS such as Moodle, Sakai or Blackboard, make sure to check the <a href="http://exchange.kaltura.com/" target="_blank">Kaltura Exchange</a> for a Kaltura integration to your CMS of choice.

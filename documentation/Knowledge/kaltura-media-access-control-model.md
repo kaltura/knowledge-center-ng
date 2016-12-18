@@ -12,17 +12,17 @@ For information on Kaltura session-based restrictions, refer to [Kaltura's API 
 
 ### <span></span>Access Control API
 
-The access control API service <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile" target="_blank">accessControlProfile</a>  provides the following actions:
+The access control API service <a href="https://developer.kaltura.com/api-docs/#/accessControlProfile" target="_blank">accessControlProfile</a>  provides the following actions:
 
-**<a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile" target="_blank">accessControlProfile</a>**
+**<a href="https://developer.kaltura.com/api-docs/#/accessControlProfile" target="_blank">accessControlProfile</a>**
 
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=add" target="_blank">addAction</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=get" target="_blank">getAction</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/accessControlProfile.add" target="_blank">addAction</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/accessControlProfile.get" target="_blank">getAction</a>
 *   [updateAction][2]
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=delete" target="_blank">deleteAction</a>
-*   <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=list" target="_blank">listAction</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/accessControlProfile.delete" target="_blank">deleteAction</a>
+*   <a href="https://developer.kaltura.com/api-docs/#/accessControlProfile.list" target="_blank">listAction</a>
 
- [2]: http://www.kaltura.com/api_v3/testmeDoc/?service=accesscontrolprofile&action=update
+ [2]: https://developer.kaltura.com/api-docs/#/accessControlProfile.update
 
 **<a href="https://developer.kaltura.com/api-docs/#/KalturaAccessControlProfile" target="_blank">KalturaAccessControlProfile </a>**
 

@@ -147,7 +147,7 @@ The search provider should return an XML formatted list of media content that an
 
 To define a tab for the custom search provider inside the KCW, you need to edit the KCW uiConf.
 
-*   Use the <a href="http://www.kaltura.com/api_v3/testme/" target="_blank">API TestMe console</a>
+*   Use the <a href="https://developer.kaltura.com/console" target="_blank">API TestMe console</a>
 *   Create a session using the session.start action, your partner id, admin secret and select a ADMIN type
 *   Use the uiConf.get action to download the uiConf xml of the KCW instance you wish to use
 

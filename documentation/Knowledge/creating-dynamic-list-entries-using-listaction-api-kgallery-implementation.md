@@ -6,14 +6,14 @@ date: 2012-03-27 16:45:56
 
 ## Introduction to the listAction API
 
-This article describes how to use the <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry&action=list" class="bb-url">list action</a> API available on the <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry" class="bb-url">baseEntry</a> object API. As an example, we will create an HTML list view with pager and entry type filter.  
-This article also describes how to use  <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry&action=list" class="bb-url">list action</a> API to create the <a href="http://knowledge.kaltura.com/kgallery-kaltura-video-gallery" class="bb-url">KGallery implementation</a>.
+This article describes how to use the <a href="https://developer.kaltura.com/api-docs/#/baseEntry.list" class="bb-url">list action</a> API available on the <a href="https://developer.kaltura.com/api-docs/#/baseEntry" class="bb-url">baseEntry</a> object API. As an example, we will create an HTML list view with pager and entry type filter.  
+This article also describes how to use  <a href="https://developer.kaltura.com/api-docs/#/baseEntry.list" class="bb-url">list action</a> API to create the <a href="http://knowledge.kaltura.com/kgallery-kaltura-video-gallery" class="bb-url">KGallery implementation</a>.
 
 <a href="http://knowledge.kaltura.com/sites/default/files/list-entries-script.zip" class="bb-url">Download the list entries script.</a>
 
 ### Using the Code
 
-To call the <a href="http://www.kaltura.com/api_v3/testmeDoc/?service=baseentry&action=list" class="bb-url">list entries action</a>, you will need to use an ADMIN type KS (<a href="http://knowledge.kaltura.com/kaltura-api-usage-guidelines" class="bb-url">Read more</a>). Before calling the list action, you will need to define the Partner id and it's ADMIN secret.
+To call the <a href="https://developer.kaltura.com/api-docs/#/baseEntry.list" class="bb-url">list entries action</a>, you will need to use an ADMIN type KS (<a href="http://knowledge.kaltura.com/kaltura-api-usage-guidelines" class="bb-url">Read more</a>). Before calling the list action, you will need to define the Partner id and it's ADMIN secret.
 
 <div class="geshifilter">
   <div class="php geshifilter-php">

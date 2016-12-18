@@ -194,7 +194,7 @@ For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs wi
 
 1.  Login into the KMC and go to the Settings tab.
 2.  Select Integration Settings to obtain the “Administrator Secret”.
-3.  Go to the TestMe Console <a href="http://www.kaltura.com/api_v3/testme/" target="_blank">http://www.kaltura.com/api_v3/testme/</a>
+3.  Go to the TestMe Console <a href="https://developer.kaltura.com/api-docs" target="_blank">https://developer.kaltura.com/api-docs</a>
 4.  Create a Kaltura Session (KS):
 <ol style="list-style-type: lower-alpha;">
   <li>
@@ -219,7 +219,7 @@ For example, for the live feed **/kaltura/live/cdg/live01** the playback URLs wi
 
 5.  Copy the newly created live stream entry ID from the KMC.  
     <img src="../../assets/1452.img">
-6.  In the <a href="http://www.kaltura.com/api_v3/testme/" target="_blank" style="font-size: 10px;">TestMe Console</a>, Select service “liveStream”, and Select action “update”.
+6.  In the <a href="https://developer.kaltura.com/api-docs" target="_blank" style="font-size: 10px;">TestMe Console</a>, Select service “liveStream”, and Select action “update”.
 7.  Copy/paste the entry id to the “entryId” field.
 8.  Click on the “Edit” button near “liveStreamEntry”.
 9.  Click Send.  
@@ -260,7 +260,7 @@ The Digital Video Recorder (DVR) feature provides the ability to seek within the
 </p>
 
 1.  Obtain an  “Administrator Secret” from the KMC > Settings > Integration Settings.
-2.  Go to the Kaltura TestMe console <http://www.kaltura.com/api_v3/testme/>
+2.  Go to the Kaltura TestMe console <https://developer.kaltura.com/api-docs>
 3.  [Create a Kaltura Session (KS)][4]:
 
  [4]: #create_ks
