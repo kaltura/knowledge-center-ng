@@ -6,7 +6,7 @@ date: 2011-12-19 09:21:35
 
 The Kaltura API Client Library Generator is an automatic method of packaging the native API client libraries from the latest API code. The Kaltura Server provides a unique way of generating an always up-to-date native API Client Libraries by using an XML based reflection of Kaltura's internal API classes (API services, actions, objects, Enums...).
 
-The updated version of the API description can be retrieved at the following URL: <a href="http://www.kaltura.com/api_v3/api_schema.php" target="_blank">http://www.kaltura.com/api_v3/api_schema.php</a>
+The updated version of the API description can be retrieved at the following URL: https://developer.kaltura.com/api-docs/.
 
 By parsing the schema.xml file,  it is possible to construct the complete structure of the objects in the system. A generic template to parse the schema file was created to ease the process of creating new parsers. The ***TemplateClientGenerator*** is a basic template for creating a custom client library generator, by providing the following:
 
@@ -29,9 +29,7 @@ Every node defines a respective part of the system (whether enum, class or servi
 *   Classes - Define name, variable type (string, int, etc.), if the property is readOnly (read) or insertOnly (write) and description of the class and it's uses.
 *   Services -Define a list of actions available, the parameters sent required by the action, the service and actions description and uses.
 
-<p class="mce-heading-2">
-  Creating a custom client library generator
-</p>
+## Creating a Custom Client Library Generator  
 
 To create your own customized Automatic Kaltura API Client Library, download the <a href="http://knowledge.kaltura.com/sites/default/files/dl_resources/client-library-generator-template.zip" target="_blank">TemplateClientGenerator project</a>. 
 
