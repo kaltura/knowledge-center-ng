@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "How to use the API to add a new conversion profile"
-date: 2012-01-03 17:41:00
+title: How to use the API to Add a New Conversion Profile
 ---
 
 To add a conversion profile, call the [conversionProfile.add][1] API action.
