@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "How to retrieve metadata of a media entry using the API?"
-date: 2011-12-18 17:35:44
+title: How to Retrieve Metadata of a Media Entry using the API?
 ---
 
-To get a specific video entry, call the <a href="https://developer.kaltura.com/api-docs/#/media.get" target="_blank">media.get</a> API providing the id of the Kaltura Entry.
+To get a specific video entry, call the API [media.get](https://developer.kaltura.com/api-docs/#/media.get), which provides the ID of the Kaltura Entry.
 
 The media.get request will return the basic metadata and information associated a Kaltura Entry.
 
