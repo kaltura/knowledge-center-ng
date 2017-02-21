@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "How to add a thumbnail flavor param that supports resizing of auto-generated thumbnails into transcoding profile using the API Test Console"
-date: 2012-06-09 20:34:13
+title: Adding a Thumbnail Flavor Paramter that Supports Resizing Auto-generated Thumbnails
 ---
 
 This short guide describes how to create thumbnail flavor and add it to the Kaltura account transcoding profile through API. This method also support auto-generation and resizing of thumbnail dimensions when a new entry is uploaded to the account. This is a useful method to automatically create specific thumbnails upon entry ingestion.
